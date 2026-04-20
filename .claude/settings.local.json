@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node extract.js)",
+      "Bash(node -e ' *)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Skill(agent-browser)",
+      "Skill(agent-browser:*)",
+      "WebSearch"
+    ]
+  }
+}

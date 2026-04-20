@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IELTS Ideas Book — All Topics</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* ── Cover-page specific styles ── */
+    .cover-hero {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+      color: white;
+      padding: 52px 40px 40px;
+    }
+    .cover-hero .eyebrow {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #8ab4f8;
+      margin-bottom: 12px;
+    }
+    .cover-hero h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      margin-bottom: 8px;
+    }
+    .cover-hero .subtitle {
+      font-size: 1rem;
+      color: #a8c4e0;
+      max-width: 560px;
+    }
+    .cover-hero .badge-row { margin-top: 18px; }
+
+    /* ── Topics grid ── */
+    .topics-grid {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 24px;
+      align-items: start;
+    }
+
+    /* ── Topic card ── */
+    .topic-card {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 2px 14px rgba(15,52,96,0.09);
+      overflow: hidden;
+    }
+    .topic-card-header {
+      padding: 22px 24px 18px;
+      border-bottom: 1px solid #eef2fb;
+    }
+    .topic-tag {
+      font-size: 0.68rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .topic-card-header h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #1a1a2e;
+      margin-bottom: 6px;
+    }
+    .topic-card-header p {
+      font-size: 0.85rem;
+      color: #666;
+      line-height: 1.5;
+      margin-bottom: 12px;
+    }
+    .topic-open-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 16px;
+      border-radius: 8px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      text-decoration: none;
+      color: white;
+      transition: opacity 0.15s;
+    }
+    .topic-open-btn:hover { opacity: 0.85; }
+    .topic-open-btn svg { flex-shrink: 0; }
+
+    /* ── Sub-categories list ── */
+    .subcat-list { padding: 8px 0; }
+    details.subcat {
+      border-bottom: 1px solid #f0f4fc;
+    }
+    details.subcat:last-child { border-bottom: none; }
+    summary.subcat-summary {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 11px 24px;
+      cursor: pointer;
+      user-select: none;
+      transition: background 0.15s;
+    }
+    summary.subcat-summary::-webkit-details-marker { display: none; }
+    summary.subcat-summary:hover { background: #f7f9ff; }
+    .subcat-num {
+      font-size: 0.62rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #aab;
+      flex-shrink: 0;
+      width: 24px;
+    }
+    .subcat-name {
+      font-size: 0.86rem;
+      font-weight: 600;
+      color: #1a1a2e;
+      flex: 1;
+    }
+    .subcat-badge {
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+    .subcat-chevron {
+      flex-shrink: 0;
+      color: #bbc;
+      transition: transform 0.2s;
+      font-size: 0.75rem;
+    }
+    details.subcat[open] .subcat-chevron { transform: rotate(90deg); }
+
+    /* ── Questions list inside sub-category ── */
+    .questions-inside {
+      padding: 4px 24px 12px 58px;
+    }
+    .questions-inside ol {
+      margin: 0;
+      padding-left: 0;
+      list-style: none;
+      counter-reset: qcounter;
+    }
+    .questions-inside ol li {
+      counter-increment: qcounter;
+      display: flex;
+      gap: 8px;
+      font-size: 0.81rem;
+      color: #444;
+      line-height: 1.5;
+      padding: 5px 0;
+      border-bottom: 1px solid #f2f4fb;
+    }
+    .questions-inside ol li:last-child { border-bottom: none; }
+    .questions-inside ol li::before {
+      content: counter(qcounter) ".";
+      flex-shrink: 0;
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #aab;
+      padding-top: 1px;
+      width: 16px;
+    }
+    .q-source {
+      font-size: 0.7rem;
+      color: #8ab4f8;
+      font-style: italic;
+      white-space: nowrap;
+      flex-shrink: 0;
+      align-self: center;
+    }
+
+    /* ── Back link on topic pages ── */
+    .back-to-home {
+      position: fixed;
+      top: 14px;
+      right: 20px;
+      z-index: 200;
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.3);
+      color: white;
+      text-decoration: none;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      backdrop-filter: blur(4px);
+      transition: background 0.15s;
+    }
+    .back-to-home:hover { background: rgba(255,255,255,0.25); }
+
+    /* ── Accent colours per topic ── */
+    .accent-edu    { color: #0f3460; }
+    .accent-tech   { color: #5c35c9; }
+    .accent-env    { color: #0a7c4e; }
+    .accent-health { color: #b03060; }
+    .bg-edu    { background: #0f3460; }
+    .bg-tech   { background: #5c35c9; }
+    .bg-env    { background: #0a7c4e; }
+    .bg-health { background: #b03060; }
+    .badge-edu    { background: #e8f0fe; color: #0f3460; border: 1px solid #c5d8f8; }
+    .badge-tech   { background: #eeebfc; color: #5c35c9; border: 1px solid #d0c8f8; }
+    .badge-env    { background: #e4f5ee; color: #0a7c4e; border: 1px solid #b8e0cd; }
+    .badge-health  { background: #fce8ef; color: #b03060; border: 1px solid #f0b8cc; }
+    .accent-society { color: #0369a1; }
+    .bg-society     { background: #0369a1; }
+    .badge-society  { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+
+    @media (max-width: 700px) {
+      .cover-hero { padding: 36px 20px 28px; }
+      .cover-hero h1 { font-size: 1.7rem; }
+      .topics-grid { padding: 24px 16px 60px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Hero -->
+<div class="cover-hero">
+  <div class="eyebrow">IELTS Writing Task 2</div>
+  <h1>Ideas Book</h1>
+  <p class="subtitle">Complete reference for arguments, ideas, and vocabulary — organised by topic, sub-category, and question.</p>
+  <div class="badge-row" id="hero-badges"></div>
+</div>
+
+<!-- Topic cards rendered here -->
+<div class="topics-grid" id="topics-grid">
+  <p style="color:#888;font-size:0.9rem;padding:20px">Loading topics…</p>
+</div>
+
+<script>
+  /* ── Data sources ── */
+  const SOURCES = [
+    { file: 'data/education.js',   page: 'education.html',   accentClass: 'edu'    },
+    { file: 'data/technology.js',  page: 'technology.html',  accentClass: 'tech'   },
+    { file: 'data/environment.js', page: 'environment.html', accentClass: 'env'    },
+    { file: 'data/health.js',      page: 'health.html',      accentClass: 'health'   },
+    { file: 'data/society.js',    page: 'society.html',    accentClass: 'society'  },
+  ];
+
+  const allTopics = [];
+
+  function loadSequential(idx) {
+    if (idx >= SOURCES.length) { render(); return; }
+    const s = SOURCES[idx];
+    // Reset TOPIC_DATA before each load
+    window.TOPIC_DATA = null;
+    const script = document.createElement('script');
+    script.src = s.file;
+    script.onload = function() {
+      allTopics.push({ data: window.TOPIC_DATA, page: s.page, accentClass: s.accentClass });
+      loadSequential(idx + 1);
+    };
+    document.head.appendChild(script);
+  }
+
+  function render() {
+    const grid = document.getElementById('topics-grid');
+    grid.innerHTML = '';
+
+    let totalQ = 0, totalTabs = 0;
+    allTopics.forEach(t => {
+      const doneTabs = t.data.tabs.filter(tab => !tab.coming);
+      totalTabs += doneTabs.length;
+      doneTabs.forEach(tab => totalQ += (tab.questions || []).length);
+    });
+
+    // Hero badges
+    document.getElementById('hero-badges').innerHTML =
+      `<span class="badge">${allTopics.length} Topics</span>` +
+      `<span class="badge">${totalTabs} Sub-categories</span>` +
+      `<span class="badge">${totalQ} Real Questions</span>`;
+
+    allTopics.forEach(({ data, page, accentClass }) => {
+      const doneTabs = data.tabs.filter(t => !t.coming);
+      const qCount = doneTabs.reduce((s, t) => s + (t.questions || []).length, 0);
+
+      // Sub-categories HTML
+      const subcatHTML = doneTabs.map(tab => {
+        const qs = (tab.questions || []);
+        const questionsHTML = qs.map(q => {
+          const src = q.source ? `<span class="q-source">${q.source.replace(/Cambridge IELTS (\d+).*/, 'CAM $1')}</span>` : '';
+          return `<li><span>${q.text}</span>${src}</li>`;
+        }).join('');
+        return `
+          <details class="subcat">
+            <summary class="subcat-summary">
+              <span class="subcat-num">${tab.num}</span>
+              <span class="subcat-name">${tab.name}</span>
+              <span class="subcat-badge badge-${accentClass}">${qs.length}Q</span>
+              <span class="subcat-chevron">▶</span>
+            </summary>
+            <div class="questions-inside"><ol>${questionsHTML}</ol></div>
+          </details>`;
+      }).join('');
+
+      const card = document.createElement('div');
+      card.className = 'topic-card';
+      card.innerHTML = `
+        <div class="topic-card-header">
+          <div class="topic-tag accent-${accentClass}">${data.topic}</div>
+          <h2>${data.topic}</h2>
+          <p>${data.subtitle.replace(/\s*—.*$/, '').trim()}</p>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px">
+            <span class="badge badge-${accentClass}">${doneTabs.length} Sub-categories</span>
+            <span class="badge badge-${accentClass}">${qCount} Questions</span>
+          </div>
+          <a class="topic-open-btn bg-${accentClass}" href="${page}">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor">
+              <path d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm7-5a.5.5 0 0 1 .5.5v3.793l1.854-1.854a.5.5 0 0 1 .707.707l-2.5 2.5a.5.5 0 0 1-.707 0l-2.5-2.5a.5.5 0 1 1 .707-.707L7.5 7.293V3.5A.5.5 0 0 1 8 3z"/>
+            </svg>
+            Open ${data.topic} →
+          </a>
+        </div>
+        <div class="subcat-list">${subcatHTML}</div>`;
+      grid.appendChild(card);
+    });
+  }
+
+  loadSequential(0);
+</script>
+</body>
+</html>

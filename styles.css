@@ -227,8 +227,12 @@ body {
   margin-bottom: 18px; padding-bottom: 12px;
   border-bottom: 2px solid; min-height: 56px;
 }
-.side-a .side-header { border-color: #2e86de; }
-.side-b .side-header { border-color: #e84393; }
+/* Side A/B pairing: brand navy + warm neutral stone — deliberately calmer
+   than the old blue/pink, and kept independent of the 13 topic accent hues
+   so it never clashes with a topic's own colour (e.g. on work.html, whose
+   accent is also warm-toned). */
+.side-a .side-header { border-color: #0f3460; }
+.side-b .side-header { border-color: #57534e; }
 
 .side-tag {
   font-size: 0.68rem; font-weight: 800; letter-spacing: 0.1em;
@@ -236,24 +240,24 @@ body {
   border-radius: 20px; color: white;
   white-space: nowrap; flex-shrink: 0;
 }
-.side-a .side-tag { background: #2e86de; }
-.side-b .side-tag { background: #e84393; }
+.side-a .side-tag { background: #0f3460; }
+.side-b .side-tag { background: #57534e; }
 .side-header h3 { font-size: 0.9rem; font-weight: 700; color: var(--text-primary); line-height: 1.3; }
 
 .idea-card {
   background: var(--surface-sunken); border-radius: 10px;
   padding: 16px; margin-bottom: 12px; border-left: 3px solid;
 }
-.side-a .idea-card { border-color: #2e86de; }
-.side-b .idea-card { border-color: #e84393; }
+.side-a .idea-card { border-color: #0f3460; }
+.side-b .idea-card { border-color: #57534e; }
 
 .idea-title { font-size: 0.95rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px; }
 .idea-num {
   display: inline-block; font-size: 0.66rem; font-weight: 800;
   padding: 1px 7px; border-radius: 10px; margin-right: 5px; color: white;
 }
-.side-a .idea-num { background: #2e86de; }
-.side-b .idea-num { background: #e84393; }
+.side-a .idea-num { background: #0f3460; }
+.side-b .idea-num { background: #57534e; }
 
 .idea-flow { font-size: 0.95rem; color: var(--text-secondary); line-height: 1.7; margin-bottom: 10px; }
 .arrow { color: #0f3460; font-weight: 700; margin: 0 2px; }

@@ -1,0 +1,7 @@
+{
+  "name": "ielts-ideas-book-v2",
+  "private": true,
+  "dependencies": {
+    "@vercel/functions": "^1.5.0"
+  }
+}

@@ -5,6 +5,24 @@
   const D = window.TOPIC_DATA;
   if (!D) { document.body.innerHTML = '<p style="padding:40px;color:red">Error: TOPIC_DATA not loaded.</p>'; return; }
 
+  /* Topic name -> theme class suffix (matches the accent/bg/badge-* utilities in styles.css) */
+  const TOPIC_THEME = {
+    'Education': 'edu',
+    'Technology': 'tech',
+    'Environment & Climate': 'env',
+    'Health & Medicine': 'health',
+    'Society & Culture': 'society',
+    'Work & Economy': 'work',
+    'Family & Relationships': 'family',
+    'Media & Communication': 'media',
+    'Crime & Law': 'crime',
+    'Urbanisation & Housing': 'urban',
+    'Sports & Leisure': 'sports',
+    'Transport': 'transport',
+    'Government & Policy': 'govt',
+  };
+  const theme = TOPIC_THEME[D.topic] || 'edu';
+
   /* ── Helpers ── */
   function esc(s) {
     return String(s || '')
@@ -27,7 +45,7 @@
   /* ── Header ── */
   function renderHeader() {
     return `
-<header class="site-header">
+<header class="site-header theme-${theme}">
   <div class="breadcrumb">IELTS Ideas Book <span>›</span> Topic: ${esc(D.topic)}</div>
   <h1>${esc(D.topic)}</h1>
   <p class="subtitle">${esc(D.subtitle)}</p>

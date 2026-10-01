@@ -227,12 +227,15 @@ body {
   margin-bottom: 18px; padding-bottom: 12px;
   border-bottom: 2px solid; min-height: 56px;
 }
-/* Side A/B pairing: brand navy + warm neutral stone — deliberately calmer
-   than the old blue/pink, and kept independent of the 13 topic accent hues
-   so it never clashes with a topic's own colour (e.g. on work.html, whose
-   accent is also warm-toned). */
+/* Side A/B pairing: deep navy (brand) vs muted terracotta — classic
+   complementary blue/orange, ~162° hue apart so the two sides stay instantly
+   distinguishable at a glance, while both are dark/muted enough to read as
+   calm and professional rather than game-y. Kept clearly apart from the 13
+   topic accent hues (closest are transport #c2410c and work #b45309, both
+   visibly brighter/lighter than this terracotta) so it never blends into a
+   topic's own colour. */
 .side-a .side-header { border-color: #0f3460; }
-.side-b .side-header { border-color: #57534e; }
+.side-b .side-header { border-color: #9a3412; }
 
 .side-tag {
   font-size: 0.68rem; font-weight: 800; letter-spacing: 0.1em;
@@ -241,7 +244,7 @@ body {
   white-space: nowrap; flex-shrink: 0;
 }
 .side-a .side-tag { background: #0f3460; }
-.side-b .side-tag { background: #57534e; }
+.side-b .side-tag { background: #9a3412; }
 .side-header h3 { font-size: 0.9rem; font-weight: 700; color: var(--text-primary); line-height: 1.3; }
 
 .idea-card {
@@ -249,7 +252,7 @@ body {
   padding: 16px; margin-bottom: 12px; border-left: 3px solid;
 }
 .side-a .idea-card { border-color: #0f3460; }
-.side-b .idea-card { border-color: #57534e; }
+.side-b .idea-card { border-color: #9a3412; }
 
 .idea-title { font-size: 0.95rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px; }
 .idea-num {
@@ -257,7 +260,7 @@ body {
   padding: 1px 7px; border-radius: 10px; margin-right: 5px; color: white;
 }
 .side-a .idea-num { background: #0f3460; }
-.side-b .idea-num { background: #57534e; }
+.side-b .idea-num { background: #9a3412; }
 
 .idea-flow { font-size: 0.95rem; color: var(--text-secondary); line-height: 1.7; margin-bottom: 10px; }
 .arrow { color: #0f3460; font-weight: 700; margin: 0 2px; }

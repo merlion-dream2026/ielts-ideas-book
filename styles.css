@@ -199,7 +199,7 @@ body {
   display: flex; align-items: center; justify-content: center;
   font-size: 0.75rem; font-weight: 700; margin-top: 3px; flex-shrink: 0;
 }
-.q-text { font-size: 0.96rem; color: var(--text-primary); font-style: italic; }
+.q-text { font-size: 0.96rem; color: var(--text-primary); font-style: normal; }
 .q-source { font-size: 0.75rem; color: var(--text-muted); font-style: normal; }
 
 /* ── Question block ── */
@@ -212,7 +212,7 @@ body {
   font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
   text-transform: uppercase; color: #8ab4f8; margin-bottom: 5px;
 }
-.question-block-header p { font-size: 0.96rem; font-style: italic; line-height: 1.6; color: #e8f0fe; }
+.question-block-header p { font-size: 0.96rem; font-style: normal; line-height: 1.6; color: #e8f0fe; }
 
 .sides-grid {
   display: grid; grid-template-columns: 1fr 1fr;

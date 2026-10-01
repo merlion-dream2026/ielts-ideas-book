@@ -1,16 +1,45 @@
 /* ── IELTS Ideas Book — Shared Styles ── */
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
+/* ── Design tokens (light default, dark override below) ── */
+:root {
+  --page-bg: #f4f6fb;
+  --surface: #ffffff;
+  --surface-sunken: #f8faff;
+  --text-primary: #1a1a2e;
+  --text-secondary: #555;
+  --text-muted: #888;
+  --border: #e0e8f5;
+  --border-soft: #eef1f8;
+  --shadow-color: rgba(15,52,96,0.09);
+  --header-gradient: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page-bg: #11141c;
+    --surface: #1a1e29;
+    --surface-sunken: #20242f;
+    --text-primary: #eef1f8;
+    --text-secondary: #b8c0d4;
+    --text-muted: #828aa0;
+    --border: #2c3142;
+    --border-soft: #262b3a;
+    --shadow-color: rgba(0,0,0,0.35);
+  }
+}
+
 body {
   font-family: 'Segoe UI', system-ui, sans-serif;
-  background: #f4f6fb;
-  color: #1a1a2e;
+  font-size: 16px;
+  background: var(--page-bg);
+  color: var(--text-primary);
   line-height: 1.7;
 }
 
 /* ── Header ── */
 .site-header {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+  background: var(--header-gradient);
   color: white;
   padding: 40px 40px 28px;
 }
@@ -22,8 +51,8 @@ body {
   margin-bottom: 10px;
 }
 .breadcrumb span { margin: 0 6px; opacity: 0.5; }
-.site-header h1 { font-size: 1.9rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 6px; }
-.site-header .subtitle { font-size: 0.95rem; color: #a8c4e0; }
+.site-header h1 { font-size: 2.1rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 6px; }
+.site-header .subtitle { font-size: 1rem; color: #a8c4e0; }
 .badge-row { margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap; }
 .badge {
   background: rgba(255,255,255,0.1);
@@ -34,14 +63,35 @@ body {
   color: #dce8ff;
 }
 
+/* ── Back-to-home link (shown on every topic page header) ── */
+.back-to-home {
+  position: fixed;
+  top: 14px;
+  right: 20px;
+  z-index: 200;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  backdrop-filter: blur(4px);
+  transition: background 0.15s;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+.back-to-home:hover { background: rgba(255,255,255,0.25); }
+
 /* ── Tab Bar ── */
 .tab-bar-wrap {
-  background: white;
-  border-bottom: 2px solid #e0e8f5;
+  background: var(--surface);
+  border-bottom: 2px solid var(--border);
   position: sticky;
   top: 0;
   z-index: 100;
-  box-shadow: 0 2px 12px rgba(15,52,96,0.08);
+  box-shadow: 0 2px 12px var(--shadow-color);
 }
 .tab-bar {
   display: flex;
@@ -65,10 +115,10 @@ body {
   white-space: nowrap;
   border-bottom: 3px solid transparent;
   transition: all 0.2s;
-  color: #888;
+  color: var(--text-muted);
   flex-shrink: 0;
 }
-.tab-btn:hover { color: #0f3460; background: #f4f6fb; }
+.tab-btn:hover { color: #0f3460; background: var(--page-bg); }
 .tab-btn.active {
   color: #0f3460;
   border-bottom-color: #0f3460;
@@ -112,8 +162,8 @@ body {
   color: #0f3460;
   margin-bottom: 6px;
 }
-.panel-header h2 { font-size: 1.5rem; font-weight: 700; color: #0f3460; margin-bottom: 6px; }
-.panel-header p { font-size: 0.92rem; color: #666; }
+.panel-header h2 { font-size: 1.6rem; font-weight: 700; color: #0f3460; margin-bottom: 6px; }
+.panel-header p { font-size: 0.98rem; color: var(--text-secondary); }
 .panel-header .badge-row { margin-top: 12px; }
 .panel-header .badge { background: #e8f0fe; color: #0f3460; border: 1px solid #c5d8f8; }
 
@@ -129,18 +179,18 @@ body {
   align-items: center;
   gap: 8px;
 }
-.section-label::after { content: ''; flex: 1; height: 1px; background: #d0daf0; }
+.section-label::after { content: ''; flex: 1; height: 1px; background: var(--border); }
 
 /* ── Questions box ── */
 .questions-box {
-  background: white;
+  background: var(--surface);
   border-radius: 14px;
   padding: 24px 28px;
-  box-shadow: 0 2px 12px rgba(15,52,96,0.07);
+  box-shadow: 0 2px 12px var(--shadow-color);
   margin-bottom: 36px;
 }
-.questions-box h3 { font-size: 0.95rem; font-weight: 700; color: #0f3460; margin-bottom: 16px; }
-.question-item { display: flex; gap: 14px; padding: 12px 0; border-bottom: 1px solid #eef1f8; }
+.questions-box h3 { font-size: 1rem; font-weight: 700; color: #0f3460; margin-bottom: 16px; }
+.question-item { display: flex; gap: 14px; padding: 12px 0; border-bottom: 1px solid var(--border-soft); }
 .question-item:last-child { border-bottom: none; }
 .q-num {
   min-width: 26px; height: 26px;
@@ -149,8 +199,8 @@ body {
   display: flex; align-items: center; justify-content: center;
   font-size: 0.75rem; font-weight: 700; margin-top: 3px; flex-shrink: 0;
 }
-.q-text { font-size: 0.9rem; color: #333; font-style: italic; }
-.q-source { font-size: 0.75rem; color: #999; font-style: normal; }
+.q-text { font-size: 0.96rem; color: var(--text-primary); font-style: italic; }
+.q-source { font-size: 0.75rem; color: var(--text-muted); font-style: normal; }
 
 /* ── Question block ── */
 .question-block { margin-bottom: 44px; }
@@ -162,15 +212,15 @@ body {
   font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
   text-transform: uppercase; color: #8ab4f8; margin-bottom: 5px;
 }
-.question-block-header p { font-size: 0.93rem; font-style: italic; line-height: 1.6; color: #e8f0fe; }
+.question-block-header p { font-size: 0.96rem; font-style: italic; line-height: 1.6; color: #e8f0fe; }
 
 .sides-grid {
   display: grid; grid-template-columns: 1fr 1fr;
-  background: white; border-radius: 0 0 12px 12px;
-  box-shadow: 0 4px 16px rgba(15,52,96,0.08); overflow: hidden;
+  background: var(--surface); border-radius: 0 0 12px 12px;
+  box-shadow: 0 4px 16px var(--shadow-color); overflow: hidden;
 }
 .side { padding: 22px; }
-.side-a { border-right: 1px solid #eef1f8; }
+.side-a { border-right: 1px solid var(--border-soft); }
 
 .side-header {
   display: flex; align-items: center; gap: 10px;
@@ -188,16 +238,16 @@ body {
 }
 .side-a .side-tag { background: #2e86de; }
 .side-b .side-tag { background: #e84393; }
-.side-header h3 { font-size: 0.85rem; font-weight: 700; color: #1a1a2e; line-height: 1.3; }
+.side-header h3 { font-size: 0.9rem; font-weight: 700; color: var(--text-primary); line-height: 1.3; }
 
 .idea-card {
-  background: #f8faff; border-radius: 10px;
-  padding: 14px; margin-bottom: 12px; border-left: 3px solid;
+  background: var(--surface-sunken); border-radius: 10px;
+  padding: 16px; margin-bottom: 12px; border-left: 3px solid;
 }
 .side-a .idea-card { border-color: #2e86de; }
 .side-b .idea-card { border-color: #e84393; }
 
-.idea-title { font-size: 0.81rem; font-weight: 700; color: #1a1a2e; margin-bottom: 7px; }
+.idea-title { font-size: 0.95rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px; }
 .idea-num {
   display: inline-block; font-size: 0.66rem; font-weight: 800;
   padding: 1px 7px; border-radius: 10px; margin-right: 5px; color: white;
@@ -205,73 +255,134 @@ body {
 .side-a .idea-num { background: #2e86de; }
 .side-b .idea-num { background: #e84393; }
 
-.idea-flow { font-size: 0.82rem; color: #444; line-height: 1.65; margin-bottom: 9px; }
+.idea-flow { font-size: 0.95rem; color: var(--text-secondary); line-height: 1.7; margin-bottom: 10px; }
 .arrow { color: #0f3460; font-weight: 700; margin: 0 2px; }
 
 .examples-wrap { display: flex; flex-direction: column; gap: 6px; }
 .ex-item {
-  background: white; border-radius: 8px; padding: 8px 11px;
-  font-size: 0.78rem; color: #555; border: 1px solid #e0e8f5;
-  line-height: 1.55; display: flex; gap: 8px; align-items: flex-start;
+  background: var(--surface); border-radius: 8px; padding: 9px 12px;
+  font-size: 0.88rem; color: var(--text-secondary); border: 1px solid var(--border);
+  line-height: 1.6; display: flex; gap: 8px; align-items: flex-start;
 }
 .ex-flag { flex-shrink: 0; font-size: 0.88rem; margin-top: 1px; }
 .ex-marker {
   flex-shrink: 0; font-weight: 800; font-size: 0.85rem;
   margin-top: 1px; font-style: normal;
 }
-.ex-marker.contrast { color: #e84393; }
-.ex-marker.support { color: #2e86de; }
-.ex-text { font-style: italic; }
+.ex-marker.contrast { color: #be185d; }
+.ex-marker.support { color: #1d4ed8; }
+.ex-text { font-style: normal; }
 
 /* ── Vocabulary ── */
 .vocab-section {
-  background: white; border-radius: 14px; padding: 28px;
-  box-shadow: 0 2px 12px rgba(15,52,96,0.07); margin-top: 44px;
+  background: var(--surface); border-radius: 14px; padding: 28px;
+  box-shadow: 0 2px 12px var(--shadow-color); margin-top: 44px;
 }
-.vocab-section h2 { font-size: 1rem; font-weight: 700; color: #0f3460; margin-bottom: 24px; }
+.vocab-section h2 { font-size: 1.05rem; font-weight: 700; color: #0f3460; margin-bottom: 24px; }
 .vocab-grid { display: flex; flex-direction: column; gap: 24px; }
 .vocab-group h3 {
   font-size: 0.7rem; font-weight: 800; letter-spacing: 0.1em;
   text-transform: uppercase; color: #0f3460;
-  margin-bottom: 10px; padding-bottom: 7px; border-bottom: 2px solid #e0e8f5;
+  margin-bottom: 10px; padding-bottom: 7px; border-bottom: 2px solid var(--border);
 }
 .vocab-item {
-  padding: 9px 0; border-bottom: 1px solid #f0f4fb;
-  display: grid; grid-template-columns: 1fr 0.85fr 0.85fr 1fr; gap: 8px; font-size: 0.8rem;
+  padding: 10px 0; border-bottom: 1px solid var(--border-soft);
+  display: grid; grid-template-columns: 1fr 0.85fr 0.85fr 1fr; gap: 8px; font-size: 0.88rem;
 }
 .vocab-item:last-child { border-bottom: none; }
-.vocab-phrase { font-weight: 700; color: #1a1a2e; }
-.vocab-vn { color: #e84393; font-style: italic; font-size: 0.76rem; }
-.vocab-meaning { color: #555; }
-.vocab-synonyms { color: #2e86de; font-style: italic; font-size: 0.76rem; }
+.vocab-phrase { font-weight: 700; color: var(--text-primary); }
+.vocab-vn { color: #be185d; font-style: normal; font-size: 0.84rem; }
+.vocab-meaning { color: var(--text-secondary); }
+.vocab-synonyms { color: #1d4ed8; font-style: normal; font-size: 0.84rem; }
 .vocab-header {
   display: grid; grid-template-columns: 1fr 0.85fr 0.85fr 1fr; gap: 8px;
   font-size: 0.66rem; font-weight: 800; letter-spacing: 0.08em;
-  text-transform: uppercase; color: #999;
-  padding-bottom: 5px; margin-bottom: 3px; border-bottom: 1px solid #e8eef8;
+  text-transform: uppercase; color: var(--text-muted);
+  padding-bottom: 5px; margin-bottom: 3px; border-bottom: 1px solid var(--border);
 }
 
 /* ── Coming Soon ── */
 .coming-soon {
   text-align: center; padding: 80px 24px;
-  background: white; border-radius: 14px;
-  box-shadow: 0 2px 12px rgba(15,52,96,0.07);
+  background: var(--surface); border-radius: 14px;
+  box-shadow: 0 2px 12px var(--shadow-color);
 }
 .coming-soon .cs-icon { font-size: 3rem; margin-bottom: 16px; }
 .coming-soon h3 { font-size: 1.2rem; font-weight: 700; color: #0f3460; margin-bottom: 8px; }
-.coming-soon p { font-size: 0.9rem; color: #888; max-width: 400px; margin: 0 auto; }
+.coming-soon p { font-size: 0.9rem; color: var(--text-muted); max-width: 400px; margin: 0 auto; }
 
 /* ── Footer ── */
 .page-footer {
   text-align: center; padding: 20px;
-  font-size: 0.75rem; color: #aaa; margin-top: 40px;
+  font-size: 0.75rem; color: var(--text-muted); margin-top: 40px;
 }
+
+/* ── Per-topic header gradient themes ──
+   Applied by renderer.js as a class on .site-header, e.g. "site-header theme-crime".
+   Dark start-colour + the topic's accent colour, same visual language as the
+   original navy gradient (dark -> brand colour). */
+.site-header.theme-edu        { --header-gradient: linear-gradient(135deg, #051221 0%, #0f3460 100%); }
+.site-header.theme-tech       { --header-gradient: linear-gradient(135deg, #201246 0%, #5c35c9 100%); }
+.site-header.theme-env        { --header-gradient: linear-gradient(135deg, #032b1b 0%, #0a7c4e 100%); }
+.site-header.theme-health     { --header-gradient: linear-gradient(135deg, #3d1021 0%, #b03060 100%); }
+.site-header.theme-society    { --header-gradient: linear-gradient(135deg, #012438 0%, #0369a1 100%); }
+.site-header.theme-work       { --header-gradient: linear-gradient(135deg, #3e1d03 0%, #b45309 100%); }
+.site-header.theme-family     { --header-gradient: linear-gradient(135deg, #36081a 0%, #9d174d 100%); }
+.site-header.theme-media      { --header-gradient: linear-gradient(135deg, #042832 0%, #0e7490 100%); }
+.site-header.theme-crime      { --header-gradient: linear-gradient(135deg, #400909 0%, #b91c1c 100%); }
+.site-header.theme-urban      { --header-gradient: linear-gradient(135deg, #0a1b4b 0%, #1d4ed8 100%); }
+.site-header.theme-sports     { --header-gradient: linear-gradient(135deg, #062b13 0%, #15803d 100%); }
+.site-header.theme-transport  { --header-gradient: linear-gradient(135deg, #431604 0%, #c2410c 100%); }
+.site-header.theme-govt       { --header-gradient: linear-gradient(135deg, #11102d 0%, #312e81 100%); }
+
+/* ── Accent colour utilities (shared by index.html cards and topic pages) ── */
+.accent-edu    { color: #0f3460; }
+.accent-tech   { color: #5c35c9; }
+.accent-env    { color: #0a7c4e; }
+.accent-health { color: #b03060; }
+.accent-society { color: #0369a1; }
+.accent-work    { color: #b45309; }
+.accent-family  { color: #9d174d; }
+.accent-media   { color: #0e7490; }
+.accent-crime   { color: #b91c1c; }
+.accent-urban   { color: #1d4ed8; }
+.accent-sports  { color: #15803d; }
+.accent-transport { color: #c2410c; }
+.accent-govt { color: #312e81; }
+
+.bg-edu    { background: #0f3460; }
+.bg-tech   { background: #5c35c9; }
+.bg-env    { background: #0a7c4e; }
+.bg-health { background: #b03060; }
+.bg-society     { background: #0369a1; }
+.bg-work        { background: #b45309; }
+.bg-family      { background: #9d174d; }
+.bg-media       { background: #0e7490; }
+.bg-crime       { background: #b91c1c; }
+.bg-urban       { background: #1d4ed8; }
+.bg-sports      { background: #15803d; }
+.bg-transport   { background: #c2410c; }
+.bg-govt        { background: #312e81; }
+
+.badge-edu    { background: #e8f0fe; color: #0f3460; border: 1px solid #c5d8f8; }
+.badge-tech   { background: #eeebfc; color: #5c35c9; border: 1px solid #d0c8f8; }
+.badge-env    { background: #e4f5ee; color: #0a7c4e; border: 1px solid #b8e0cd; }
+.badge-health  { background: #fce8ef; color: #b03060; border: 1px solid #f0b8cc; }
+.badge-society  { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
+.badge-work     { background: #fef3c7; color: #b45309; border: 1px solid #fcd34d; }
+.badge-family   { background: #fdf2f8; color: #9d174d; border: 1px solid #fbcfe8; }
+.badge-media    { background: #e0f9ff; color: #0e7490; border: 1px solid #a5f3fc; }
+.badge-crime    { background: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; }
+.badge-urban    { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+.badge-sports     { background: #f0fdf4; color: #15803d; border: 1px solid #bbf7d0; }
+.badge-transport  { background: #fff7ed; color: #c2410c; border: 1px solid #fed7aa; }
+.badge-govt  { background: #eef2ff; color: #312e81; border: 1px solid #c7d2fe; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
   .site-header { padding: 28px 20px 20px; }
   .sides-grid { grid-template-columns: 1fr; }
-  .side-a { border-right: none; border-bottom: 1px solid #eef1f8; }
+  .side-a { border-right: none; border-bottom: 1px solid var(--border-soft); }
   .vocab-grid { grid-template-columns: 1fr; }
   .vocab-item { grid-template-columns: 1fr 1fr; gap: 4px; }
   .vocab-vn { display: none; }

@@ -176,66 +176,7 @@
       align-self: center;
     }
 
-    /* ── Back link on topic pages ── */
-    .back-to-home {
-      position: fixed;
-      top: 14px;
-      right: 20px;
-      z-index: 200;
-      background: rgba(255,255,255,0.15);
-      border: 1px solid rgba(255,255,255,0.3);
-      color: white;
-      text-decoration: none;
-      padding: 6px 14px;
-      border-radius: 20px;
-      font-size: 0.78rem;
-      font-weight: 600;
-      letter-spacing: 0.02em;
-      backdrop-filter: blur(4px);
-      transition: background 0.15s;
-    }
-    .back-to-home:hover { background: rgba(255,255,255,0.25); }
-
-    /* ── Accent colours per topic ── */
-    .accent-edu    { color: #0f3460; }
-    .accent-tech   { color: #5c35c9; }
-    .accent-env    { color: #0a7c4e; }
-    .accent-health { color: #b03060; }
-    .bg-edu    { background: #0f3460; }
-    .bg-tech   { background: #5c35c9; }
-    .bg-env    { background: #0a7c4e; }
-    .bg-health { background: #b03060; }
-    .badge-edu    { background: #e8f0fe; color: #0f3460; border: 1px solid #c5d8f8; }
-    .badge-tech   { background: #eeebfc; color: #5c35c9; border: 1px solid #d0c8f8; }
-    .badge-env    { background: #e4f5ee; color: #0a7c4e; border: 1px solid #b8e0cd; }
-    .badge-health  { background: #fce8ef; color: #b03060; border: 1px solid #f0b8cc; }
-    .accent-society { color: #0369a1; }
-    .bg-society     { background: #0369a1; }
-    .badge-society  { background: #e0f2fe; color: #0369a1; border: 1px solid #bae6fd; }
-    .accent-work    { color: #b45309; }
-    .bg-work        { background: #b45309; }
-    .badge-work     { background: #fef3c7; color: #b45309; border: 1px solid #fcd34d; }
-    .accent-family  { color: #9d174d; }
-    .bg-family      { background: #9d174d; }
-    .badge-family   { background: #fdf2f8; color: #9d174d; border: 1px solid #fbcfe8; }
-    .accent-media   { color: #0e7490; }
-    .bg-media       { background: #0e7490; }
-    .badge-media    { background: #e0f9ff; color: #0e7490; border: 1px solid #a5f3fc; }
-    .accent-crime   { color: #b91c1c; }
-    .bg-crime       { background: #b91c1c; }
-    .badge-crime    { background: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; }
-    .accent-urban   { color: #1d4ed8; }
-    .bg-urban       { background: #1d4ed8; }
-    .badge-urban    { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
-    .accent-sports    { color: #16a34a; }
-    .bg-sports        { background: #16a34a; }
-    .badge-sports     { background: #f0fdf4; color: #16a34a; border: 1px solid #bbf7d0; }
-    .accent-transport { color: #c2410c; }
-    .bg-transport     { background: #c2410c; }
-    .badge-transport  { background: #fff7ed; color: #c2410c; border: 1px solid #fed7aa; }
-    .accent-govt { color: #312e81; }
-    .bg-govt     { background: #312e81; }
-    .badge-govt  { background: #eef2ff; color: #312e81; border: 1px solid #c7d2fe; }
+    /* Per-topic accent/bg/badge-* utilities, and .back-to-home, now live in styles.css (shared with topic pages). */
 
     @media (max-width: 700px) {
       .cover-hero { padding: 36px 20px 28px; }

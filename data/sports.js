@@ -45,11 +45,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's national football team — reaching the AFF Championship final and performing strongly in regional competitions — generated an extraordinary wave of national solidarity that transcended regional, political, and socioeconomic divisions, demonstrating sport's unique power as a social glue when national pride is engaged."
+                    "text": "Vietnam's national football team has often brought large crowds together during major regional tournaments, showing how shared sporting success can create a strong sense of national unity."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on sports event spectatorship consistently shows elevated social trust and civic pride following successful national sporting performances — shared emotional experiences building bridges across social divisions that ordinary daily life rarely creates."
+                    "text": "+ Successful national sporting performances can strengthen civic pride and give people from different backgrounds a shared experience."
                   }
                 ]
               },
@@ -63,7 +63,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on youth sport participation finds those who play team sports through adolescence demonstrate higher rates of civic engagement, better conflict resolution skills, and stronger work ethic in employment — sport's character-building function generating measurable social returns beyond health."
+                    "text": "+ Team sport can help young people practise cooperation, discipline, and conflict management, although these benefits depend on the quality of the sporting environment."
                   }
                 ]
               },
@@ -77,7 +77,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Sociologists of sport document the 'demonstration effect' — elite sporting success measurably increasing grassroots participation in the relevant sport — demonstrating that the inspirational function of high-performance sport has real and quantifiable social consequences."
+                    "text": "+ Elite sporting success can inspire some people to try the same sport, but the size and duration of this effect vary widely."
                   }
                 ]
               }
@@ -106,11 +106,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The intense regional rivalry between northern and southern Vietnamese football fans — HCMC versus Hanoi clubs — illustrates how sport can amplify regional identities and divisions as easily as it unites at the national level, demonstrating that sport's social effects depend heavily on context and outcome."
+                    "text": "Rivalries between football clubs in Hanoi and Ho Chi Minh City show that sport can strengthen regional identity as well as national unity, so its social effects depend heavily on context."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on violent incidents at sporting events documents thousands of incidents annually in which sport generates rather than prevents social conflict — the same passion that unites fans of a winning national team fragmenting into hostility between rival clubs or nations."
+                    "text": "+ Sporting rivalries sometimes lead to hostility or violence between supporters, showing that the same passion that unites one group can divide another."
                   }
                 ]
               },
@@ -124,7 +124,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UK research shows average football ticket prices increased 700% in real terms between 1990 and 2020 — the commercial transformation of professional sport pricing out the working-class communities that historically formed its social base and built the community-building function its advocates now celebrate."
+                    "text": "+ Ticket prices in top-level football have risen sharply over time, creating concerns that commercialisation can price out some of the working-class supporters who traditionally formed clubs' social base."
                   }
                 ]
               }
@@ -146,7 +146,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on sport's diplomatic effects finds the 'Olympic Truce' tradition has measurably reduced bilateral military tensions during major international sporting events — sport functioning as a genuine diplomatic channel even between historically hostile nations."
+                    "text": "+ International sport can sometimes create symbolic diplomatic openings and informal contact between countries, although it cannot by itself resolve serious political conflicts."
                   }
                 ]
               },
@@ -160,7 +160,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on social capital formation finds that voluntary sports clubs generate bridging social capital — connections across social divides — more effectively than most other voluntary associations, because shared physical activity creates bonds that transcend the backgrounds participants bring to the court or field."
+                    "text": "+ Voluntary sports clubs can build social connections between people from different backgrounds because participants cooperate around a shared activity."
                   }
                 ]
               },
@@ -170,7 +170,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The martial arts traditions central to Vietnamese cultural life — from traditional wrestling (đấu vật) at village festivals to modern combat sports — reflect a deep cultural understanding of sport as a socially beneficial channel for competitive and physical impulses that would be destructive without structured, rule-governed expression."
+                    "text": "Vietnamese traditions such as village wrestling and martial arts show how physical competition can be channelled into rule-governed activities with social and cultural value."
                   },
                   {
                     "type": "support",
@@ -193,7 +193,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ FIFA's anti-racism programme data documents thousands of racist incidents at football matches annually — sport not merely failing to transcend ethnic divisions but actively providing an arena in which those divisions are expressed, intensified, and sometimes acted upon violently."
+                    "text": "+ Racist abuse has been repeatedly documented at football matches, showing that sport can sometimes become a setting where existing ethnic prejudice is expressed rather than overcome."
                   }
                 ]
               },
@@ -203,11 +203,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "While serious hooliganism is relatively rare in Vietnam, aggressive online conflicts between rival club fan groups — and occasional physical confrontations between supporter communities — demonstrate that even in a relatively peaceful sporting culture, tribalism generates real social conflict."
+                    "text": "Although serious hooliganism is relatively uncommon in Vietnam, hostile online exchanges and occasional confrontations between rival supporters show that sporting tribalism can still create social conflict."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research estimates football-related violence costs European governments hundreds of millions of euros annually in policing, healthcare, and criminal justice — a significant social cost that sport's advocates consistently undercount when assessing the net social value of spectator sport."
+                    "text": "+ Football-related disorder creates real costs for policing, healthcare, and public safety, even if the exact financial burden varies between countries."
                   }
                 ]
               },
@@ -221,7 +221,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on school sports culture documents systematic bullying and exclusion of children who are less athletic — the community-building narrative of youth sport masking a culture in which physical prowess confers social status at the direct expense of those who lack it."
+                    "text": "+ School sport can build belonging, but highly competitive sporting cultures can also exclude or embarrass children who are less athletic."
                   }
                 ]
               }
@@ -243,7 +243,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO estimates physical inactivity costs global healthcare systems over $54 billion annually in direct treatment costs — a figure that would be substantially reduced if populations reached recommended activity levels, making sport participation a cost-effective public health investment."
+                    "text": "+ Physical inactivity creates major healthcare costs worldwide, so policies that help more people become active can reduce both health and economic burdens."
                   }
                 ]
               },
@@ -257,7 +257,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on community sport programmes consistently finds participation in organised sport increases social trust, reduces loneliness, and strengthens civic engagement — sport functioning as social infrastructure as well as physical health infrastructure."
+                    "text": "+ Organised community sport can strengthen social contact, reduce loneliness, and give people more opportunities to participate in local life."
                   }
                 ]
               },
@@ -267,7 +267,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Workplace wellness programmes in Vietnam's multinational sector — measuring the productivity and absenteeism impact of employee fitness participation — document significant returns on investment in physical activity programmes, confirming that sport participation generates economic as well as health benefits."
+                    "text": "Workplace fitness programmes can improve employee wellbeing and may reduce absenteeism, giving employers a practical reason to support physical activity."
                   },
                   {
                     "type": "support",
@@ -290,7 +290,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO physical activity guidelines recommend 150 minutes of moderate activity weekly but do not require this to be sport — walking, gardening, cycling, and domestic activity all qualify, suggesting sport is one useful form of activity but not the uniquely essential form that 'essential' language implies."
+                    "text": "+ WHO guidelines recommend regular weekly physical activity for adults, but this does not have to be formal sport; walking, cycling, gardening, and household activity can also count."
                   }
                 ]
               },
@@ -300,7 +300,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's improvements in life expectancy and social wellbeing over recent decades have been driven primarily by economic development, healthcare investment, and improved nutrition — not by changes in sport participation rates — demonstrating that sport is one of many contributors to social health rather than an essential driver."
+                    "text": "Vietnam's gains in life expectancy and wellbeing have resulted from many factors, including economic development, healthcare, nutrition, sanitation, and safer living conditions, so sport is only one possible contributor."
                   },
                   {
                     "type": "contrast",
@@ -318,7 +318,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on adolescent sport participation finds that compulsory PE with performance grading reduces voluntary physical activity in later life for students who experienced it negatively — the 'essential sport' mandate backfiring when delivered in ways that create shame and exclusion rather than enjoyment."
+                    "text": "+ Poorly delivered compulsory PE can create embarrassment or negative attitudes toward exercise, which may discourage some students from staying active later in life."
                   }
                 ]
               }
@@ -340,7 +340,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Comprehensive health reviews find that regular sport participation reduces cardiovascular disease risk by 35%, type 2 diabetes by 50%, and depression rates by 30% — no other lifestyle intervention or medication achieving comparable multi-domain health benefits at equivalent cost."
+                    "text": "+ Regular physical activity can lower the risk of cardiovascular disease, type 2 diabetes, and depression, although the size of the benefit varies and sport is not the only way to obtain it."
                   }
                 ]
               },
@@ -350,11 +350,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese adults who participate in organised sports — running clubs, badminton leagues, football teams — demonstrate significantly higher exercise adherence than those with individual fitness intentions, the social accountability of a team or club being a powerful motivator that solitary exercise cannot provide."
+                    "text": "Vietnamese adults who join running clubs, badminton groups, or football teams may find it easier to exercise regularly because social commitments make participation more enjoyable and harder to skip."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on exercise adherence shows socially structured sport participation has a 70% one-year continuation rate compared with 50% for gym memberships and 30% for unstructured individual exercise — sport's social dimension being a decisive health advantage."
+                    "text": "+ Socially organised exercise can improve adherence for some people because regular partners, teams, or clubs provide motivation and accountability."
                   }
                 ]
               },
@@ -387,7 +387,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO's burden of disease research identifies poor diet as responsible for more healthy life years lost than physical inactivity — implying nutritional improvements would deliver larger health gains per dollar than sport promotion, even if sport is genuinely beneficial."
+                    "text": "+ Poor diet and physical inactivity are both major health risks, so improving nutrition may sometimes deliver greater health gains than focusing on sport alone."
                   }
                 ]
               },
@@ -401,7 +401,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research estimates 3.5 million sports injuries to children under 14 annually in the US alone — with contact sports particularly associated with concussion whose long-term neurological consequences may exceed the cardiovascular benefits of participation for some athletes."
+                    "text": "+ Sport can cause injuries, especially in contact activities, and repeated concussion is a genuine long-term concern for some athletes."
                   }
                 ]
               },
@@ -411,11 +411,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's longest-lived rural communities — notable for diet, social connection, and purposeful agricultural work — are not characterised by sport participation, demonstrating that excellent health is achievable through multiple pathways that sport advocates consistently underweight."
+                    "text": "Many healthy Vietnamese people remain active through walking, farming, cycling, and daily physical work rather than formal sport, showing that good health can be supported in several ways."
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Japan's high life expectancy and low obesity rates are achieved without high sport participation rates — attributed instead to diet culture, walkable infrastructure, and social connection — demonstrating that sport is one of many valid health maintenance pathways, not uniquely the best."
+                    "text": "✗ Japan's high life expectancy shows that population health depends on a combination of diet, healthcare, daily movement, social conditions, and other factors rather than formal sport participation alone."
                   }
                 ]
               }
@@ -564,7 +564,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The American Journal of Preventive Medicine estimated that the proportion of US jobs requiring moderate physical activity fell from 50% to 20% between 1960 and 2011 — the occupational shift away from physical labour being the single largest structural driver of population-wide physical inactivity."
+                    "text": "+ Many modern jobs require much less physical effort than work did in the past, making occupational change an important contributor to lower everyday activity."
                   }
                 ]
               },
@@ -578,7 +578,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on 'walkability' finds it is among the strongest predictors of population physical activity levels — residents of walkable neighbourhoods achieving 30–40 minutes more physical activity per week than those in car-dependent areas, without consciously choosing to exercise."
+                    "text": "+ People living in walkable neighbourhoods tend to be more physically active because daily trips can be made on foot or by bicycle without requiring separate exercise time."
                   }
                 ]
               },
@@ -592,7 +592,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO reports that more than 80% of adolescents globally fail to meet physical activity guidelines — with multiple studies identifying increased screen time as the primary cause, hours spent on devices directly displacing the hours that would otherwise have been spent in physical play."
+                    "text": "+ Most adolescents worldwide do not meet recommended activity levels, while high screen use is one of several factors that can displace active play."
                   }
                 ]
               }
@@ -607,11 +607,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Da Nang's investment in riverside cycling paths and pedestrian zones has demonstrably shifted daily physical activity patterns — cycling commuting increasing measurably following the development of safe, convenient routes, demonstrating that infrastructure reform can genuinely change population behaviour."
+                    "text": "Da Nang's investment in pedestrian and cycling infrastructure illustrates how safer and more convenient routes can make active travel easier and potentially increase daily physical activity."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research in cities that have implemented comprehensive cycling infrastructure — Amsterdam, Copenhagen, Bogotá — finds cycling participation increases 30–200% following investment, with associated reductions in obesity and cardiovascular disease rates demonstrating the health returns on urban design reform."
+                    "text": "+ Cities that invest seriously in safe cycling infrastructure often see more people cycle, which can bring both transport and public-health benefits."
                   }
                 ]
               },
@@ -621,11 +621,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on Vietnamese schools that have introduced daily 20-minute physical activity breaks shows significant improvements in student concentration, academic performance, and physical activity levels — the school setting being the most powerful and equitable lever for establishing lifetime activity habits."
+                    "text": "School programmes that include short activity breaks can improve students' movement levels and may also support concentration and classroom behaviour."
                   },
                   {
                     "type": "support",
-                    "text": "+ Systematic reviews of school-based physical activity programmes find well-designed interventions increase children's daily activity by an average of 40 minutes and have sustained effects on adult participation — making school sport investment the highest-return public health intervention for physical activity."
+                    "text": "+ Well-designed school activity programmes can increase children's daily movement, although evidence is much weaker for claims that they automatically create lasting adult habits."
                   }
                 ]
               },
@@ -635,11 +635,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Corporate wellness programmes in Vietnam's multinational sector document significant reductions in sick days and improvements in reported wellbeing from structured workplace physical activity programmes — providing a model that domestic companies and government policy could incentivise more broadly."
+                    "text": "Workplace physical-activity programmes can improve employee wellbeing and may reduce sick leave, providing a model that more Vietnamese employers could consider."
                   },
                   {
                     "type": "support",
-                    "text": "+ Lancet research estimates that if 25% of physically inactive adults became minimally active, 1.3 million premature deaths could be prevented annually — a public health dividend so large that financial incentives for activity would pay for themselves many times over in reduced healthcare costs."
+                    "text": "+ Even modest increases in physical activity across a large population could prevent many premature deaths, giving governments a strong public-health reason to encourage movement."
                   }
                 ]
               }
@@ -671,11 +671,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's health ministry estimates inactivity-related non-communicable diseases will cost the healthcare system trillions of dong annually by 2030 — a trajectory making sport promotion investment not a luxury expenditure but a fiscally prudent preventive strategy."
+                    "text": "Vietnam faces growing healthcare costs from non-communicable diseases, so investment that helps people become more active can be a sensible form of prevention."
                   },
                   {
                     "type": "support",
-                    "text": "+ The Lancet estimates inactivity costs global healthcare systems $67.5 billion annually — and that achieving recommended activity levels globally would generate net present value healthcare savings of over $300 billion, a return ratio that makes physical activity promotion among the most cost-effective public health interventions known."
+                    "text": "+ Physical inactivity creates large direct and indirect economic costs worldwide, making effective activity-promotion policies potentially valuable investments."
                   }
                 ]
               },
@@ -689,7 +689,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research consistently finds physical inactivity rates are highest among low-income populations — demonstrating that inactivity is partly a structural inequality issue requiring government intervention rather than primarily an individual lifestyle choice."
+                    "text": "+ Physical inactivity is often more common in lower-income groups because safe spaces, time, transport, and affordable facilities are not equally available."
                   }
                 ]
               }
@@ -708,7 +708,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on health promotion campaigns finds that behaviour change interventions without accompanying structural reforms achieve modest and short-term effects — governments promoting sport while failing to reform urban design, working hour regulations, and food environments achieving only a fraction of potential health gains."
+                    "text": "+ Awareness campaigns tend to have limited effects when the surrounding environment still makes inactivity the easiest option, so structural changes can strengthen behaviour-change efforts."
                   }
                 ]
               },
@@ -758,7 +758,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The Lancet Physical Activity Series estimates physical inactivity is responsible for 9% of premature deaths globally — killing more people annually than smoking in many countries — and for 10–16% of the global burden of breast cancer, colon cancer, diabetes, and heart disease."
+                    "text": "+ Physical inactivity contributes substantially to premature death and to diseases such as heart disease, diabetes, and some cancers."
                   }
                 ]
               },
@@ -768,11 +768,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese public health researchers document that the country's shift from agricultural to industrial and service employment within a single generation has produced a rate of physical activity decline unprecedented in Vietnamese history — non-communicable disease rates now rising faster than any previous generation experienced."
+                    "text": "Vietnam's shift from agricultural work toward more sedentary industrial and service jobs has reduced everyday movement for many people while non-communicable diseases have become more common."
                   },
                   {
                     "type": "support",
-                    "text": "+ The 'mismatch hypothesis' in evolutionary medicine documents that human physiology developed for high activity levels and performs poorly under sedentary modern conditions — the resulting health burden being structurally embedded in modern lifestyles in ways that require deliberate countermeasures to address."
+                    "text": "+ Human bodies are adapted for regular movement, so very sedentary modern lifestyles can create health problems that require deliberate efforts to stay active."
                   }
                 ]
               },
@@ -782,11 +782,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese mental health researchers note a strong inverse correlation between physical activity and depression rates in urban populations — sedentary office work, commuting, and screen-based leisure identified as contributing to rapidly rising anxiety and depression rates now documented in Vietnam's major cities."
+                    "text": "Vietnamese urban lifestyles increasingly combine sedentary work, long commutes, and screen-based leisure, all of which can reduce activity and may contribute to poorer mental wellbeing."
                   },
                   {
                     "type": "support",
-                    "text": "+ Meta-analysis of 49 randomised controlled trials found regular exercise reduces depressive symptoms as effectively as antidepressant medication — demonstrating that the mental health burden attributable to sedentary modern lifestyles is both real and large, and that physical activity is a proven remedy."
+                    "text": "+ Regular exercise can reduce depressive symptoms and is widely recommended as part of mental-health care, although it should not be treated as a universal substitute for medication or therapy."
                   }
                 ]
               }
@@ -805,7 +805,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research in the American Journal of Medicine found increases in food caloric content and sugar availability explain 80% of the rise in obesity rates in the US over recent decades — significantly more than declining physical activity, implying nutrition is the primary driver of modern health problems."
+                    "text": "+ Excess calorie intake and poor diet are major drivers of obesity, so physical activity alone cannot solve modern weight-related health problems."
                   }
                 ]
               },
@@ -819,7 +819,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO research identifies air pollution as responsible for 7 million premature deaths annually — more than physical inactivity — and stress and sleep deprivation as contributing significantly to the same disease categories attributed to inactivity, challenging the claim that inactivity is uniquely or primarily responsible."
+                    "text": "+ Air pollution, stress, poor sleep, diet, and inactivity can all damage health, so no single lifestyle factor explains the whole burden of modern chronic disease."
                   }
                 ]
               },
@@ -833,7 +833,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Global life expectancy has continued rising even as physical inactivity has increased — demonstrating that medical technology, improved safety standards, and better living conditions can partially compensate for declining activity in sustaining population health outcomes."
+                    "text": "+ Global life expectancy has risen despite many modern lifestyle risks, showing that healthcare, sanitation, safety, and living standards can partly offset some negative trends."
                   }
                 ]
               }
@@ -855,7 +855,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on digital entertainment design documents that game developers deliberately engineer reward schedules that activate dopamine pathways more intensely and immediately than physical activity — the neurological competition between digital rewards and exercise being deliberately weighted toward the screen."
+                    "text": "+ Digital games and social platforms are often designed around rapid and repeated rewards, which can make screen-based leisure more immediately attractive than slower forms of physical activity."
                   }
                 ]
               },
@@ -869,7 +869,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on children's independent mobility finds that parental restrictions on outdoor play due to traffic and safety concerns have reduced outdoor physical activity by 80% in one generation in many cities — environmental barriers being a structural cause of indoor preference that individual behaviour change cannot address."
+                    "text": "+ Traffic danger and parental safety concerns can greatly reduce children's freedom to play outdoors, making the local environment an important influence on activity."
                   }
                 ]
               },
@@ -883,7 +883,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ South Korean research on student physical inactivity found academic pressure — time demands of after-school tutoring and homework — was the single most cited barrier to physical activity, outranking screen time, facility access, and lack of motivation combined."
+                    "text": "+ In highly competitive education systems such as South Korea's, long hours of study and private tutoring can leave students with less time and energy for exercise."
                   }
                 ]
               }
@@ -898,11 +898,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese schools that have introduced daily 20-minute physical activity breaks — alongside curriculum PE — show significant improvements in student concentration, academic performance, and physical activity levels, demonstrating that school-integrated activity addresses both health and academic goals simultaneously."
+                    "text": "Short activity breaks during the school day can raise Vietnamese students' movement levels and may also improve concentration and classroom behaviour."
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO recommendations for 60 minutes of daily activity for children are achievable only when schools incorporate activity into the academic day — voluntary after-school sport being insufficient to reach the majority of children with home and tutoring demands on their time."
+                    "text": "+ Children need regular daily physical activity, and schools can help them reach this target, especially when home routines leave little time for active play."
                   }
                 ]
               },
@@ -916,7 +916,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research consistently shows the strongest predictor of physical activity facility use is proximity — facilities within 500 metres of home generating participation rates 3–5 times higher than facilities requiring even a short trip, making neighbourhood-level investment far more effective per dollar than large sports complexes."
+                    "text": "+ People are generally more likely to use parks, courts, and exercise spaces when these facilities are safe, attractive, and close to home."
                   }
                 ]
               },
@@ -930,7 +930,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on Pokémon GO found it increased players' daily step counts by an average of 26% during active engagement — a demonstration that technology-integrated physical activity can harness digital engagement mechanics to motivate movement that users would not achieve through traditional sport promotion."
+                    "text": "+ Pokémon GO temporarily increased walking among many active players, showing that digital design can sometimes be used to encourage movement rather than sedentary behaviour."
                   }
                 ]
               }
@@ -1079,7 +1079,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research comparing physical activity across socioeconomic groups finds that school PE is the primary equaliser — children from low-income families achieving similar total weekly physical activity to affluent peers through school PE, whereas without it, the activity gap between income groups would be far larger and more persistent."
+                    "text": "+ School PE can help reduce activity gaps between children because it reaches students who may not have access to private clubs or sports facilities outside school."
                   }
                 ]
               },
@@ -1089,11 +1089,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Longitudinal research on Vietnamese adults finds those who participated regularly in school sport are significantly more likely to maintain physical activity in adulthood — the habit-forming function of compulsory school PE generating returns decades after the student leaves the school system."
+                    "text": "Vietnamese students who enjoy and regularly participate in school sport may be more likely to remain active as adults, although many other factors also shape lifelong habits."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research tracking activity levels from childhood to adulthood finds that active children are 3.5 times more likely to be active adults — making school PE the highest-leverage public health intervention available, with each year of PE potentially adding years of healthy adult life."
+                    "text": "+ Active children are more likely than inactive children to remain active later in life, but this relationship does not prove that compulsory PE alone determines adult behaviour."
                   }
                 ]
               },
@@ -1107,7 +1107,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on adult non-participation in sport finds that perceived incompetence — 'I'm not sporty' — is one of the most commonly cited barriers, and that it originates in insufficient skill development in childhood, suggesting compulsory PE developing fundamental competencies is essential preparation for adult participation."
+                    "text": "+ Adults who feel unskilled or uncomfortable in sport often participate less, so giving children basic movement skills and positive experiences can make later activity easier."
                   }
                 ]
               }
@@ -1126,7 +1126,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research tracking PE experiences through to adult activity finds that negative school PE experiences — particularly public failure, ridicule, and coercive participation — are the single strongest predictor of adult sport non-participation, with compulsory poorly-delivered PE actively reducing lifetime physical activity rates."
+                    "text": "+ Negative PE experiences such as ridicule, public failure, or coercion can discourage some people from sport long after they leave school."
                   }
                 ]
               },
@@ -1140,7 +1140,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Academic research shows school time allocation is one of the strongest predictors of subject learning outcomes — the opportunity cost of PE time being real for students in systems where examination results determine life trajectories, and where PE replaces rather than complements academic instruction."
+                    "text": "+ School time is limited, so adding more PE can create a genuine trade-off when it replaces rather than complements academic instruction."
                   }
                 ]
               },
@@ -1150,11 +1150,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research suggests Vietnamese students who walk or cycle to school maintain equivalent daily physical activity to those in schools with extensive PE programmes — challenging the assumption that formal curriculum PE is the necessary mechanism for achieving the activity that benefits children's health."
+                    "text": "Active commuting such as walking or cycling to school can make a substantial contribution to Vietnamese students' daily movement, meaning formal PE is not the only route to adequate activity."
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO physical activity guidelines for children emphasise duration and intensity of activity without specifying it must occur in structured PE — suggesting school PE is one of several valid delivery mechanisms rather than the uniquely necessary approach that 'compulsory' framing implies."
+                    "text": "+ WHO guidelines focus on how much children move, not on whether the activity occurs in formal PE, so school sport is one of several possible ways to meet the recommendation."
                   }
                 ]
               }
@@ -1176,7 +1176,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on the earnings returns to education shows academic qualifications generate lifetime earnings premiums of 30–100% — far higher than any documented returns to sport participation — making prioritising academic subjects a rational life-investment decision for students and families in competitive education systems."
+                    "text": "+ Academic qualifications often improve lifetime earnings and employment opportunities, giving students and families a rational reason to protect time for core academic subjects."
                   }
                 ]
               },
@@ -1190,7 +1190,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ PISA research finds that countries with the highest academic achievement — Singapore, Finland, Japan — do not have the most extensive school sport programmes, and that academic time allocation is among the strongest predictors of academic performance, suggesting the trade-off between academic focus and sport is real."
+                    "text": "+ High-performing education systems organise school time in different ways, so strong academic results do not depend on either very high or very low amounts of school sport."
                   }
                 ]
               },
@@ -1204,7 +1204,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Comparative education research finds that extra-curricular and community sport produces comparable physical fitness outcomes to curriculum PE in systems where community facilities are accessible — suggesting mandatory curriculum sport is not always necessary to achieve physical activity goals."
+                    "text": "+ Where community facilities and extracurricular programmes are accessible, children can obtain meaningful physical activity outside curriculum PE."
                   }
                 ]
               }
@@ -1219,11 +1219,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on Vietnamese primary school students finds those with regular physical activity breaks show improved concentration, better behaviour, and stronger academic performance than those with fully sedentary school days — demonstrating that school sport supports rather than competes with academic outcomes."
+                    "text": "Regular physical activity during the school day can support concentration and behaviour and may improve learning, so academic and physical goals do not always compete."
                   },
                   {
                     "type": "support",
-                    "text": "+ Meta-analysis of 26 studies found that school physical activity programmes improve academic performance by an average of 7% even as they reduce academic instruction time — the cognitive and concentration benefits of physical activity more than compensating for the curriculum time devoted to sport."
+                    "text": "+ Reviews of school-based activity programmes generally find small positive or neutral effects on academic performance rather than evidence that PE harms learning."
                   }
                 ]
               },
@@ -1237,7 +1237,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research tracking university graduates' career success finds participation in team sport in school and university is among the strongest predictors of leadership effectiveness — more predictive than academic grades for many managerial roles, demonstrating sport's contribution is highly valued where it matters most."
+                    "text": "+ Team sport can help young people practise leadership, communication, and cooperation, but it is not a stronger predictor of career success than academic achievement in every context."
                   }
                 ]
               },
@@ -1251,7 +1251,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on lifetime physical activity patterns consistently finds that sport participation in school is one of the top three predictors of adult activity level — the habits, skills, and social networks formed through school sport being more durable than activity adopted in adulthood."
+                    "text": "+ People who participate in sport when young are often more active later in life, partly because they develop skills, confidence, and social networks around activity."
                   }
                 ]
               }
@@ -1287,7 +1287,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on children who participate in organised sport from early ages shows higher rates of social competence, emotional regulation, and academic engagement than non-participants — the character development effects being most pronounced when sport participation begins before age 10."
+                    "text": "+ Organised sport can support children's social skills, confidence, and engagement when it is enjoyable and age-appropriate, although these benefits are not guaranteed."
                   }
                 ]
               },
@@ -1297,11 +1297,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Longitudinal Vietnamese research finds adults who report 'loving sport as a child' are significantly more likely to maintain physical activity in middle age than those who were active as children for external reasons — intrinsic motivation established early being the key to lifelong participation that health campaigns cannot replicate."
+                    "text": "Positive childhood experiences with sport can make Vietnamese adults more willing to remain active later in life, especially when participation was enjoyable rather than forced."
                   },
                   {
                     "type": "support",
-                    "text": "+ Self-determination theory research finds intrinsic motivation for physical activity — developed through positive early experiences — predicts adult participation far more reliably than health knowledge, gym membership, or social pressure, making the quality of early sport experiences the most important factor in lifetime activity outcomes."
+                    "text": "+ Intrinsic motivation is an important predictor of sustained physical activity, so enjoyable early experiences can matter more than simply telling people that exercise is healthy."
                   }
                 ]
               }
@@ -1316,11 +1316,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's elite youth sport academies — selecting children as young as 5 for intensive training — produce some elite athletes but a much larger number of burned-out former athletes who abandon physical activity entirely in adolescence, demonstrating the cost of prioritising performance over enjoyment in early sport experiences."
+                    "text": "Intensive youth training can produce elite athletes, but beginning too early or placing too much emphasis on performance can also lead to burnout and dropout."
                   },
                   {
                     "type": "support",
-                    "text": "+ Sports medicine research documents that early sport specialisation before age 12 triples the risk of overuse injury and significantly increases the probability of sport abandonment in adolescence — pressure to perform in early childhood being counterproductive to the lifetime participation outcomes sport advocates claim to prioritise."
+                    "text": "+ Early specialisation in a single sport is associated with greater overuse-injury risk and can contribute to burnout, particularly when training is intensive and highly competitive."
                   }
                 ]
               },
@@ -1330,11 +1330,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Early childhood development research in Vietnam finds children with access to unstructured outdoor play develop superior motor skills, social competence, and self-regulation compared with those in structured sport programmes — the free play environment allowing children to set their own challenges and develop intrinsic activity motivation."
+                    "text": "Unstructured outdoor play gives young children opportunities to develop movement, social skills, and independence in ways that highly organised sport may not always provide."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on early childhood development consistently finds that free play — child-directed, unstructured outdoor activity — develops more comprehensive motor, cognitive, and social skills than adult-directed sport instruction for children under 8, with reduction of free play in favour of organised activities associated with deficits in self-regulation."
+                    "text": "+ Child-directed free play supports motor, social, and self-regulation skills, so very young children do not need all physical activity to take the form of organised sport."
                   }
                 ]
               },
@@ -1348,7 +1348,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on physical activity motivation in children finds that perceived autonomy over activity choice is one of the strongest predictors of sustained participation — children encouraged into preferred forms of physical activity achieving better long-term activity outcomes than those directed toward sports they find unrewarding."
+                    "text": "+ Children are more likely to keep participating in physical activity when they have some choice over what they do and enjoy the activity itself."
                   }
                 ]
               }
@@ -1366,11 +1366,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese coaches and educators consistently cite resilience as the most valuable gift of competitive sport — students who have experienced defeat in competition, trained through it, and improved demonstrating a capacity to handle academic pressure and career setbacks that non-competitive peers frequently lack."
+                    "text": "Vietnamese coaches often value competitive sport for teaching children how to cope with setbacks, although resilience can also be developed through many other demanding activities."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on resilience development finds sport is one of very few environments providing regular, safe exposure to failure with immediate feedback and recovery opportunity — the repeated failure-recovery cycle of sport training being uniquely effective at building the psychological resilience identified as the most important predictor of life success."
+                    "text": "+ Sport can provide repeated, manageable experiences of failure and recovery that help some participants build resilience, but it is not uniquely capable of doing so."
                   }
                 ]
               },
@@ -1384,7 +1384,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on team sport participation and leadership finds team sport experience is the single strongest predictor of peer-identified leadership potential among young adults — outperforming academic achievement, extracurricular activities, and community service in predicting the leadership capabilities that employers and researchers measure."
+                    "text": "+ Team sport gives young people repeated practice in communication, cooperation, and leadership, although these skills can also be developed through other group activities."
                   }
                 ]
               },
@@ -1398,7 +1398,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on sport participation and ethical decision-making finds athletes who compete under consistent fair play norms develop stronger ethical reasoning and lower rates of dishonest behaviour in other contexts — the ethical demands of sport competition building moral character that transfers to the workplace and civic life."
+                    "text": "+ Sport can reinforce fair play and respect for rules when coaches and organisations consistently reward those values."
                   }
                 ]
               }
@@ -1417,7 +1417,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on sports culture and moral development finds children in highly competitive sport environments with win-at-all-costs coaching philosophies develop lower sportsmanship, higher aggression scores, and more permissive attitudes toward rule-breaking than non-athletes — competitive sport teaching whatever values the culture instils, positive or negative."
+                    "text": "+ Highly competitive sporting environments can also encourage aggression or rule-bending when winning is treated as more important than fairness."
                   }
                 ]
               },
@@ -1427,11 +1427,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese performing arts programmes — traditional music ensembles, dance troupes, theatrical groups — develop discipline, collaboration, resilience, and performance under pressure without the competitive framework that suits some children but alienates those who find competition stressful rather than motivating."
+                    "text": "Vietnamese music, dance, and theatre programmes can develop discipline, teamwork, resilience, and performance under pressure without relying on sporting competition."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research comparing life-skill outcomes between competitive sport participants and participants in other structured youth activities — music, drama, community service — finds no significant difference in resilience, leadership, or teamwork outcomes, suggesting competitive sport is one of several equally effective contexts rather than uniquely superior."
+                    "text": "+ Music, drama, community service, and sport can all develop useful life skills, so competitive sport is one of several valuable settings rather than a uniquely superior one."
                   }
                 ]
               },
@@ -1445,7 +1445,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on school sport participation and exclusion finds competitive selection creates a self-reinforcing cycle in which less athletic children disengage entirely — the competitive framework that motivates gifted athletes alienating the majority and widening rather than reducing the participation gap over time."
+                    "text": "+ Competitive selection can discourage less athletic children if they repeatedly feel excluded or unsuccessful, widening participation gaps instead of reducing them."
                   }
                 ]
               }
@@ -1590,11 +1590,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's V.League clubs earn far less than top European clubs partly because they lack elite stars who attract international broadcast deals — demonstrating the direct causal link between athlete quality and commercial revenue generation."
+                    "text": "Vietnamese football clubs operate in a much smaller commercial market than Europe's richest leagues, where star players, broadcasting, sponsorship, and international audiences all contribute to revenue."
                   },
                   {
                     "type": "support",
-                    "text": "+ The English Premier League collectively earned over £3 billion in broadcast rights in 2022–23; star players are the primary product being sold, making large salaries a rational business investment."
+                    "text": "+ The Premier League earns billions of pounds from broadcasting, and elite players are a central part of the product that attracts those audiences, helping explain very high salaries."
                   }
                 ]
               },
@@ -1637,11 +1637,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese teachers earn an average monthly salary of around 6–8 million VND, working for decades to shape the nation's intellectual capacity — while a top V.League bonus can exceed a teacher's annual earnings, sending a damaging signal about what society values."
+                    "text": "Teachers in Vietnam generally earn far less than top professional footballers, illustrating the wider debate over whether market pay reflects social importance."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research consistently shows that pay signals affect career choices: professions that pay poorly struggle to attract talent despite high social importance, suggesting that extreme athlete pay has real societal opportunity costs."
+                    "text": "+ Pay affects career choices and recruitment, so very low salaries in socially important professions can make it harder to attract and retain talented workers."
                   }
                 ]
               },
@@ -1665,11 +1665,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's best young footballers are consistently recruited by richer clubs and leagues as soon as they prove themselves, illustrating how salary-driven concentration drains talent from developing football economies and perpetuates inequality."
+                    "text": "Richer clubs and leagues can attract talented Vietnamese players with better salaries and facilities, which can concentrate talent in organisations with greater financial resources."
                   },
                   {
                     "type": "support",
-                    "text": "+ UEFA research found that European leagues with the highest salary concentration also have the lowest competitive balance — fewer different title winners over time — confirming that pay inequality directly degrades sporting quality."
+                    "text": "+ Wealthier football clubs generally have a competitive advantage because they can spend more on players, coaching, and facilities, although salary inequality is not the only factor determining results."
                   }
                 ]
               }
@@ -1705,7 +1705,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Studies of English Premier League fan engagement show that supporter satisfaction has declined as perceived mercenary behaviour increased — salary-driven movement damages sport's relationship with its audience."
+                    "text": "+ Frequent player movement for financial reasons can weaken some supporters' sense of loyalty and identification with a club, although fan reactions vary."
                   }
                 ]
               },
@@ -1715,11 +1715,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research among Vietnamese secondary school students consistently shows professional footballer among the most aspirational careers — but Vietnam produces only a handful of genuinely professional players annually, meaning the vast majority of those with that aspiration will face disappointment."
+                    "text": "Professional football is highly visible and attractive to many young people, but only a small minority of aspiring players eventually make a stable living from the sport."
                   },
                   {
                     "type": "support",
-                    "text": "+ Sports economists estimate that fewer than 0.01% of young players attempting professional football will ever earn a professional wage — making athlete wealth a particularly distorting cultural signal for impressionable young people."
+                    "text": "+ Only a very small proportion of young footballers reach the professional level, so the wealth of famous players can create unrealistic expectations about the likelihood of success."
                   }
                 ]
               }
@@ -1788,7 +1788,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Neymar's world-record transfer to PSG was widely analysed as a commercial investment as much as a sporting one — club officials explicitly cited global marketing reach, not purely footballing fit, when justifying the price."
+                    "text": "+ Neymar's move to Paris Saint-Germain was widely discussed in both sporting and commercial terms, illustrating how elite transfers can be shaped by marketing value as well as footballing ability."
                   }
                 ]
               },
@@ -1816,7 +1816,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UEFA research shows that clubs finishing in the top four of Europe's major leagues have become increasingly predictable over two decades — precisely the period of media revenue explosion — demonstrating that financial disparity is now the dominant variable in competitive outcomes."
+                    "text": "+ Financial inequality has made elite football less evenly balanced in some leagues because wealthy clubs can repeatedly acquire stronger players and staff."
                   }
                 ]
               }
@@ -1835,7 +1835,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Athletic performance data across all major sports shows consistent improvement over the past 30 years — precisely the period of greatest commercialisation — suggesting money has enhanced rather than degraded the quality of sporting competition."
+                    "text": "+ Elite athletic performance has improved in many sports during an era of greater commercial investment, although this does not prove commercialisation is the main cause."
                   }
                 ]
               },
@@ -1859,7 +1859,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The PVF Academy — one of Vietnam's most professional development programmes — is commercially funded, demonstrating that commercial investment and long-term sporting development can be directly and productively linked."
+                    "text": "The PVF football academy shows that private investment can support long-term athlete development and youth training in Vietnam."
                   },
                   {
                     "type": "support",
@@ -1909,11 +1909,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese sporting events sponsored by nutrition brands and sportswear companies have been accompanied by community fitness initiatives — demonstrating that commercial sponsorship and health promotion objectives can be productively aligned when brands are chosen carefully."
+                    "text": "Some Vietnamese sporting events combine commercial sponsorship with community fitness activities, showing that business partnerships and health promotion can sometimes align."
                   },
                   {
                     "type": "support",
-                    "text": "+ Brand research consistently finds that Nike's association with athletic achievement motivates sport participation among young people — a commercial relationship that incidentally serves public health objectives at no cost to taxpayers."
+                    "text": "+ Sports brands can encourage identification with exercise and athletic achievement, although their main purpose remains commercial rather than public health."
                   }
                 ]
               }
@@ -1928,11 +1928,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese football broadcasts carry prominent advertising for beer brands including Heineken and Tiger — products directly linked to health risks — creating a conspicuous contradiction between sport's message of physical excellence and the commercial content surrounding it."
+                    "text": "Beer advertising around Vietnamese football highlights a real tension between the health image of sport and sponsorship by products that can harm health when consumed excessively."
                   },
                   {
                     "type": "support",
-                    "text": "+ UK research found that children watching football are exposed to an average of 95 gambling advertisements per televised match — a volume linked to normalisation of gambling behaviour among adolescents who are still forming consumption habits."
+                    "text": "+ Children watching sport can be exposed to large amounts of gambling advertising, raising concerns that repeated exposure may normalise betting before they are old enough to assess its risks."
                   }
                 ]
               },
@@ -1960,7 +1960,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Studies of Premier League fan satisfaction consistently find that supporters who feel least connected to their clubs are at the most commercially transformed clubs — where commercial development has most thoroughly displaced traditional fan culture."
+                    "text": "+ Some long-term supporters feel less connected to clubs as commercial priorities expand, especially when ticketing, scheduling, or branding seems to favour global revenue over local fans."
                   }
                 ]
               }
@@ -2112,7 +2112,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Nielsen research consistently finds that live sports are among the highest-rated television events globally — suggesting that the spectator experience of elite sport generates genuine, widespread enjoyment at a scale recreational participation cannot match."
+                    "text": "+ Live sport attracts very large television and streaming audiences, showing that watching elite competition provides genuine entertainment for millions of people."
                   }
                 ]
               },
@@ -2136,7 +2136,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Older Vietnamese generations who can no longer play football are among the most passionate sports viewers — demonstrating that spectating extends the enjoyment of sport across decades beyond the physical limits of active participation."
+                    "text": "Many older Vietnamese people continue to enjoy football after they can no longer play it, showing that spectatorship can extend sporting enjoyment beyond the years of active participation."
                   },
                   {
                     "type": "contrast",
@@ -2159,7 +2159,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Exercise psychology research consistently finds that the 'runner's high' and post-sport mood elevation from participation significantly outperform the mood effects of passive entertainment — the neurological reward from doing exceeds that from watching."
+                    "text": "+ Physical exercise can produce immediate mood benefits and a sense of achievement that passive entertainment does not provide in the same way."
                   }
                 ]
               },
@@ -2187,7 +2187,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Positive psychology research finds that enjoyment rooted in personal agency and skill development — what Csikszentmihalyi termed 'flow' — is more sustainable and fulfilling than enjoyment derived from passive observation of others' achievements."
+                    "text": "+ Activities that involve personal skill, challenge, and a sense of control can produce deep satisfaction, which helps explain why participation may feel more fulfilling than passive viewing for some people."
                   }
                 ]
               }
@@ -2209,7 +2209,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO identifies sedentary behaviour as one of the top four risk factors for non-communicable diseases globally; hours spent watching televised sport contribute directly to the sedentary time budgets that drive this risk."
+                    "text": "+ Long periods of sitting are associated with poorer health, so spending many hours watching sport can add to sedentary time even if sport itself promotes active values."
                   }
                 ]
               },
@@ -2233,11 +2233,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Online hostility between Vietnamese football fans — particularly around rivalries between regional clubs — demonstrates that sports spectatorship can generate tribalism and aggression as readily as it generates community solidarity."
+                    "text": "Hostile exchanges between rival Vietnamese football supporters show that spectatorship can create tribalism and aggression as well as community."
                   },
                   {
                     "type": "support",
-                    "text": "+ Sociology of sport research documents that major sporting losses are associated with measurable spikes in domestic violence and public disorder — effects that are clearly negative social externalities of sports spectatorship at a population level."
+                    "text": "+ Some studies have found increases in disorder or domestic violence around particular major sporting events, although the size and consistency of the effect vary."
                   }
                 ]
               }
@@ -2252,11 +2252,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's AFF Championship victories generated extraordinary national unity — people in streets, cafés, and homes across all regions celebrating together — demonstrating that sports spectatorship can create genuine social cohesion at a national scale."
+                    "text": "Vietnamese football victories have repeatedly brought large crowds together in streets, cafés, and homes, showing how shared spectatorship can create temporary national solidarity."
                   },
                   {
                     "type": "support",
-                    "text": "+ Social capital research finds that communities with high sports engagement report stronger neighbourhood connections and higher civic participation — spectatorship creates social infrastructure that extends beyond match day."
+                    "text": "+ Sport can give neighbours and communities a shared topic, routine, and meeting point, which may strengthen social connections beyond the match itself."
                   }
                 ]
               },
@@ -2270,7 +2270,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research following the 2012 London Olympics found a significant and sustained increase in sport participation across Britain in the years immediately following — the 'inspiration effect' of elite spectatorship driving measurable participation growth."
+                    "text": "+ Participation in sport rose around the London 2012 period, but it is difficult to separate any inspiration effect from broader investment and policy changes."
                   }
                 ]
               },
@@ -2280,7 +2280,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on leisure habits of Vietnamese urban workers finds that sports viewing — particularly evening football — is among the most commonly reported stress relief activities, valued precisely for its ability to provide complete mental absorption and temporary relief from work pressures."
+                    "text": "For many Vietnamese urban workers, watching football is an enjoyable form of evening relaxation that provides a temporary break from work pressure."
                   },
                   {
                     "type": "contrast",
@@ -2316,7 +2316,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese public health data shows that young urban males — the demographic most likely to watch multiple football matches per week — also show the largest declines in recreational sport participation and the highest rates of sedentary leisure behaviour."
+                    "text": "Some young urban Vietnamese men combine heavy screen-based leisure with relatively low recreational activity, but this does not show that watching football itself is the cause."
                   },
                   {
                     "type": "contrast",
@@ -2334,7 +2334,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Time-use surveys consistently show that in countries where sports viewing has increased most, recreational physical activity has declined proportionally — the zero-sum nature of leisure time budgets makes displacement a structural reality."
+                    "text": "+ Watching sport can compete with active leisure for limited free time, but time-use patterns do not show a simple one-for-one replacement."
                   }
                 ]
               }
@@ -2353,7 +2353,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The UK's Sport England found that participation in football, cycling, and athletics all increased significantly in the months following major events — the 2012 Olympics, the 2018 World Cup — demonstrating a consistent, measurable inspiration effect from spectatorship."
+                    "text": "+ Major sporting events can produce short-term increases in interest and participation in some sports, although these effects are not always large or lasting."
                   }
                 ]
               },
@@ -2363,7 +2363,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Many Vietnamese sports fans who watch football on television also play badminton or table tennis regularly with friends and colleagues — demonstrating that watching professional sport and participating in recreational sport are frequently concurrent rather than competing activities."
+                    "text": "Many Vietnamese sports fans both watch professional football and play recreational sports such as badminton or table tennis, so spectatorship and participation often coexist."
                   },
                   {
                     "type": "contrast",
@@ -2381,7 +2381,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Public health researchers consistently find that reducing screen time specifically devoted to sport makes minimal difference to overall physical activity levels — the structural barriers to activity (work demands, urban design, cost) are far more powerful determinants."
+                    "text": "+ Overall physical activity is shaped by work, transport, urban design, cost, and personal habits, so reducing sports viewing alone is unlikely to solve inactivity."
                   }
                 ]
               }
@@ -2403,7 +2403,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UNESCO data shows that access to diverse cultural content has expanded dramatically in developing countries through mobile technology — populations previously excluded from global culture by geography and cost now participate as full consumers."
+                    "text": "+ Mobile technology has greatly expanded access to international cultural and entertainment content, especially for people previously limited by geography or cost."
                   }
                 ]
               },
@@ -2446,7 +2446,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese smartphone usage data shows average daily screen time exceeding four hours, with a significant portion devoted to short-video platforms like TikTok — consumption patterns that algorithmic design actively engineers through continuous recommendation and zero friction to continued viewing."
+                    "text": "Vietnamese people now spend substantial time on smartphones and short-video platforms, whose continuous recommendation systems are designed to keep users watching."
                   },
                   {
                     "type": "support",
@@ -2464,7 +2464,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Meta-analyses of screen time research consistently find negative associations between high digital leisure time and physical health, sleep quality, and mental wellbeing — particularly among children and adolescents whose development is most sensitive to these effects."
+                    "text": "+ High levels of recreational screen time are associated with less physical activity, poorer sleep, and some mental-health problems, especially among children and adolescents."
                   }
                 ]
               },
@@ -2496,11 +2496,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese time-use surveys show that average recreational screen time has more than doubled in a decade while participation in traditional leisure activities — communal sports, neighbourhood social events, craft-based hobbies — has declined across the same period, particularly in urban areas."
+                    "text": "Recreational screen use has grown quickly in Vietnam while some traditional social and physical leisure activities have become less common, particularly in urban areas."
                   },
                   {
                     "type": "support",
-                    "text": "+ OECD time-use data across member countries consistently shows that hours devoted to digital entertainment have increased while hours devoted to physical recreation, voluntary activity, and in-person social leisure have declined proportionally."
+                    "text": "+ Across many countries, digital entertainment occupies a growing share of leisure time, although the decline of physical or social activities is not always proportional."
                   }
                 ]
               },
@@ -2528,7 +2528,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UNESCO's research on intangible cultural heritage identifies the displacement of traditional leisure practices by mass digital entertainment as a significant threat to cultural diversity — practices that communities stop doing are not preserved by being watched online."
+                    "text": "+ Traditional games, crafts, and community activities can weaken when fewer people practise them regularly, even if recordings of those traditions remain available online."
                   }
                 ]
               }
@@ -2561,7 +2561,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The global surge in interest in baking, pottery, gardening, and traditional crafts during and after the COVID-19 period was substantially driven by video tutorial content — demonstrating that screens can catalyse rather than displace traditional physical leisure."
+                    "text": "+ Online videos helped many people discover or return to baking, gardening, crafts, and similar hobbies, showing that digital media can sometimes stimulate physical leisure rather than replace it."
                   }
                 ]
               },
@@ -2724,7 +2724,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Cost-benefit analyses of sports investment consistently find that grassroots facility spending generates higher health returns per dollar than elite sport infrastructure — because mass participation, not elite spectatorship, drives population-level health outcomes."
+                    "text": "+ Investment in grassroots facilities can reach far more participants than spending on elite venues, so it often offers stronger population-health benefits."
                   }
                 ]
               },
@@ -2734,11 +2734,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Ministry of Health projects that non-communicable disease costs will account for an increasing share of healthcare expenditure — a trajectory that investment in accessible public exercise infrastructure could directly mitigate by enabling mass physical activity."
+                    "text": "Vietnam's growing burden of non-communicable disease strengthens the case for affordable public spaces that make regular physical activity easier."
                   },
                   {
                     "type": "support",
-                    "text": "+ UK government analysis found that every £1 invested in public sports and physical activity infrastructure saves approximately £3.50 in future healthcare costs — a return ratio that substantially exceeds the economic return from most professional sport infrastructure investment."
+                    "text": "+ Public investment in physical activity can produce healthcare savings, but exact return-on-investment figures vary greatly by programme and should not be treated as universal."
                   }
                 ]
               },
@@ -2771,7 +2771,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ England's Sports Council documented a sustained 'golden generation' effect — periods of elite success in cycling, athletics, and swimming produced measurable increases in public participation lasting several years beyond the original event."
+                    "text": "+ Elite sporting success can sometimes encourage public interest and participation, but evidence for a lasting 'golden generation' effect is mixed."
                   }
                 ]
               },
@@ -2781,7 +2781,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Several Vietnamese professional club facilities host youth academies and community sports programmes — the PVF Academy being a notable example — demonstrating that professionally-focused infrastructure can generate genuine grassroots development benefits."
+                    "text": "Several professional sports facilities in Vietnam also support youth academies or community programmes, showing that elite infrastructure can sometimes serve grassroots development."
                   },
                   {
                     "type": "contrast",
@@ -2795,11 +2795,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's hosting of the SEA Games in 2003 and Southeast Asian sporting competitions generates international visibility, tourism revenue, and diplomatic engagement that extends well beyond the sporting sphere — providing an economic and diplomatic rationale for elite infrastructure investment."
+                    "text": "Hosting regional sporting events can bring Vietnam international attention, visitors, and diplomatic contact, although the scale of these benefits varies."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on major international sporting events consistently documents significant short-term tourism and media exposure benefits — though economists caution that these returns are often overstated and rarely justify the full cost of purpose-built elite infrastructure."
+                    "text": "+ Major sporting events often generate short-term media exposure and tourism, but economists frequently warn that these gains may not cover the full public cost of hosting."
                   }
                 ]
               }
@@ -2821,7 +2821,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Public health research consistently finds that free or subsidised public sports facilities are among the most effective interventions for reducing socioeconomic health inequality — they remove the financial barrier that is the primary obstacle to regular activity for low-income populations."
+                    "text": "+ Free or subsidised sports facilities can reduce financial barriers for low-income users, although access alone does not guarantee participation."
                   }
                 ]
               },
@@ -2831,11 +2831,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese districts with well-maintained public exercise spaces — outdoor gym equipment in parks, accessible swimming pools, and community sports courts — consistently show higher physical activity rates than comparable districts lacking such infrastructure, demonstrating the direct environmental influence on behaviour."
+                    "text": "Vietnamese neighbourhoods with safe parks, courts, and exercise spaces can make physical activity easier, though higher participation may also reflect other local differences."
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO's Global Action Plan on Physical Activity identifies accessible built environment as one of four core enablers of population-level activity — public facilities are not peripheral but central to the evidence-based strategy for improving population health."
+                    "text": "+ WHO's physical-activity strategy treats supportive built environments and accessible places to be active as important parts of increasing population activity."
                   }
                 ]
               },
@@ -2845,7 +2845,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese research on youth physical activity shows that children with access to quality school sports facilities and community recreational spaces are significantly more likely to remain physically active into their twenties — confirming the long-term health returns from accessible public infrastructure."
+                    "text": "Children with good access to school and community sports spaces have more opportunities to be active, which can help them build lasting habits."
                   },
                   {
                     "type": "contrast",
@@ -2868,7 +2868,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Evaluation studies of public facility investment in the UK and Australia consistently find that the relationship between facility availability and participation rates is weaker than proponents claim — behaviour change requires social support, programming, and cultural normalisation, not just infrastructure."
+                    "text": "+ Facility availability matters, but participation also depends on programming, safety, social support, time, and local culture."
                   }
                 ]
               },
@@ -2918,7 +2918,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO analysis estimates that physical inactivity costs global healthcare systems over US$54 billion annually in direct healthcare and US$14 billion in lost productivity — making investment that meaningfully increases activity levels one of the most economically rational public health interventions available."
+                    "text": "+ Physical inactivity creates major healthcare and productivity costs worldwide, supporting investment in policies that genuinely increase activity."
                   }
                 ]
               },
@@ -2942,7 +2942,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Studies of Vietnamese school-based sports facility investment show that students at schools with quality physical education infrastructure have measurably higher adult physical activity rates — confirming that early facility access creates health habits with returns that compound over decades."
+                    "text": "Quality PE facilities can give Vietnamese students more chances to practise sport and develop confidence, but claims about measurable effects decades later are too strong without long-term evidence."
                   },
                   {
                     "type": "contrast",
@@ -2975,7 +2975,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's rapidly growing private fitness industry — including gym chains, swimming schools, and sports clubs — demonstrates that significant sports facility provision can be commercially sustainable, reducing the necessity for government to be the primary funder of all sports infrastructure."
+                    "text": "Vietnam's growing private fitness sector — including gyms, swimming schools, and sports clubs — shows that some sports facilities can be provided commercially rather than entirely through public funding."
                   },
                   {
                     "type": "contrast",
@@ -3011,11 +3011,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on Vietnamese physical activity patterns shows that cost is consistently cited as the primary barrier to gym and sports facility use among lower-income households — suggesting that free access would meaningfully increase participation in precisely the populations where the health dividend is largest."
+                    "text": "Cost can discourage lower-income Vietnamese households from using gyms and paid sports facilities, so free or subsidised options can improve access."
                   },
                   {
                     "type": "support",
-                    "text": "+ Natural experiments following the removal of charges at public swimming pools and sports centres in several European cities found consistent participation increases of 30–50% — driven largely by lower-income groups who had previously self-excluded on cost grounds."
+                    "text": "+ Removing or reducing user fees can increase participation at some public sports facilities, especially among people for whom price is a genuine barrier."
                   }
                 ]
               },
@@ -3029,7 +3029,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The economics of preventive health investment consistently show positive return ratios; the UK's NHS calculates that every pound spent on exercise referral and accessible sports saves approximately three pounds in treatment costs — supporting the case for subsidy."
+                    "text": "+ Preventive health programmes that increase physical activity can save future treatment costs, although the exact financial return depends on the programme and population."
                   }
                 ]
               },
@@ -3058,11 +3058,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese public parks with free outdoor exercise equipment often show significant maintenance deficits — equipment falls into disrepair and is slow to be replaced — illustrating that free provision without a funding mechanism for upkeep creates long-term quality problems that reduce the benefit to users."
+                    "text": "Free outdoor exercise equipment in Vietnamese parks can fall into disrepair when maintenance budgets are weak, showing that access must be matched by sustainable upkeep."
                   },
                   {
                     "type": "support",
-                    "text": "+ Public economics research finds that free provision of excludable goods consistently leads to overcrowding and underinvestment — the 'tragedy of the commons' dynamic that a modest user fee, ring-fenced for facility maintenance, can efficiently prevent."
+                    "text": "+ Completely free facilities can face overcrowding or maintenance problems if there is no reliable funding mechanism, so modest fees can sometimes help sustain quality."
                   }
                 ]
               },
@@ -3076,7 +3076,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Policy analysis of free vs. subsidised access programmes consistently finds that means-tested models deliver comparable participation increases among low-income groups at substantially lower total public cost than universal free provision."
+                    "text": "+ Targeted subsidies can improve access for low-income users at lower public cost than universal free provision, although they may add administrative complexity."
                   }
                 ]
               },
@@ -3239,7 +3239,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ OECD research finds that countries with shorter working hours and more protected leisure time — particularly Nordic countries — achieve comparable or higher productivity per hour than countries with longer working hours and less leisure, confirming that leisure and productivity are complementary."
+                    "text": "+ Countries with shorter average working hours can still achieve high productivity per hour, suggesting that adequate leisure does not necessarily reduce economic performance."
                   }
                 ]
               },
@@ -3253,7 +3253,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on creativity consistently finds that important insights happen during leisure rather than during focused work — suggesting society-wide benefits from increased leisure extend beyond individual wellbeing to broader creative and economic innovation."
+                    "text": "+ Breaks, walks, and periods away from focused work can support creativity by giving the mind time to process ideas and make new connections."
                   }
                 ]
               },
@@ -3263,7 +3263,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on Vietnamese family life identifies time poverty — especially among dual-income urban parents — as a major threat to parent-child relationships, with mothers and fathers in major cities often spending fewer than one quality hour daily with their children."
+                    "text": "Time pressure among dual-income urban Vietnamese families can reduce opportunities for relaxed parent-child interaction, making work-life balance an important family issue."
                   },
                   {
                     "type": "contrast",
@@ -3282,11 +3282,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese retirees frequently report a difficult adjustment to increased leisure time — the loss of work's structure, social connections, and sense of purpose proves more challenging than expected, illustrating that more free time only advantages those equipped with interests and social resources to use it well."
+                    "text": "Some Vietnamese retirees find the transition to more free time difficult because work previously provided routine, social contact, and a sense of purpose."
                   },
                   {
                     "type": "support",
-                    "text": "+ Positive psychology research finds that the relationship between leisure time and happiness is strongly moderated by whether activities match individuals' interests and resources — for many people, more leisure without more meaning simply produces more boredom."
+                    "text": "+ Leisure tends to improve wellbeing most when people have meaningful activities, interests, and social connections rather than simply more unstructured free time."
                   }
                 ]
               },
@@ -3300,7 +3300,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Average global screen time increased dramatically during pandemic lockdowns — periods of increased leisure — but mental health, physical activity, and social connection indicators simultaneously worsened, confirming that more passive leisure does not deliver the benefits leisure advocates anticipate."
+                    "text": "+ Pandemic lockdowns showed that having more time at home does not automatically improve wellbeing when leisure becomes highly sedentary and social contact is restricted."
                   }
                 ]
               },
@@ -3332,11 +3332,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "A Vietnamese person interested in astrophotography, vintage audio, or Korean literature can now find active online communities, specialist content, and international suppliers — interests that in a previous era would have been pursued in near-total isolation are now supported by connected global communities."
+                    "text": "A Vietnamese person with a specialised interest can now find online communities, tutorials, and suppliers that would have been difficult to access locally in the past."
                   },
                   {
                     "type": "support",
-                    "text": "+ Leisure studies researchers document that 'serious leisure' — the dedicated, skilled pursuit of complex amateur interests — has expanded dramatically in the digital era, with millions engaging in photography, gaming, and crafts at depths previously possible only for professional practitioners."
+                    "text": "+ Digital platforms have made it easier for people to pursue specialised hobbies seriously and to learn from communities beyond their local area."
                   }
                 ]
               },
@@ -3346,7 +3346,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese young people who stream Korean dramas, Japanese anime, and international documentaries are gaining cultural exposure and language contact through leisure that generates genuine intercultural understanding and, for many, direct language learning outcomes."
+                    "text": "Streaming international films, dramas, and documentaries gives Vietnamese young people more contact with other cultures and can support informal language learning."
                   },
                   {
                     "type": "contrast",
@@ -3364,7 +3364,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The World Economic Forum notes the 'creator economy' now encompasses over 50 million people globally monetising creative leisure — a transformation of leisure from passive consumption to active cultural production at scale."
+                    "text": "+ The creator economy allows millions of people to turn hobbies and creative interests into public content or income, blurring the line between leisure and work."
                   }
                 ]
               }
@@ -3379,11 +3379,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese public health data shows declining physical activity rates among urban young people alongside rising screen time — a direct substitution of sedentary digital leisure for the physical activities that characterised previous generations and sustained better health outcomes."
+                    "text": "Rising screen time among Vietnamese urban youth has occurred alongside concerns about declining physical activity, although this does not prove a simple one-way substitution."
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO estimates physical inactivity costs global healthcare systems over US$50 billion annually — and the most significant driver of inactivity is the expansion of sedentary screen-based leisure that has occurred over the past two decades."
+                    "text": "+ Sedentary leisure can contribute to physical inactivity, but screen-based entertainment is only one of many causes, alongside work patterns, transport, and the built environment."
                   }
                 ]
               },
@@ -3433,7 +3433,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Neuroscience research on the 'default mode network' shows that the brain's resting state actively processes experience, consolidates memory, and generates creative insight — genuine relaxation is not wasted time but a biologically essential cognitive function that productive leisure interrupts."
+                    "text": "+ Resting and mind-wandering are active mental processes that can support memory, reflection, and creativity, so genuine downtime is not simply wasted time."
                   }
                 ]
               },
@@ -3443,7 +3443,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese social critics have noted the emergence of 'self-improvement pressure' among young urban professionals — driven by social media — where leisure is documented and judged by productive value, transforming rest into performance and creating new anxiety around how free time is spent."
+                    "text": "Some young Vietnamese professionals feel pressure to make every part of their free time productive or socially presentable, which can turn leisure into another source of stress."
                   },
                   {
                     "type": "contrast",
@@ -3461,7 +3461,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research at MIT and Stanford finds that insights and creative connections peak during low-arousal states — walks, genuine rest — rather than during deliberate productive activity, providing neuroscientific support for leisure as relaxation rather than managed self-development."
+                    "text": "+ Creative ideas often emerge during relaxed activities such as walking or resting, suggesting that constant deliberate productivity is not the only route to useful thinking."
                   }
                 ]
               }
@@ -3480,7 +3480,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Csikszentmihalyi's research on 'flow' finds that people report their most satisfying leisure experiences during skill-based activities that optimally challenge their abilities, not during passive relaxation."
+                    "text": "+ Research on 'flow' suggests that challenging, skill-based activities can be deeply satisfying when people choose them freely and the difficulty matches their abilities."
                   }
                 ]
               },
@@ -3490,7 +3490,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Many Vietnamese professionals have transitioned into better-paid careers or established businesses by developing skills — coding, English, digital marketing — during leisure time, demonstrating that productive leisure can generate transformative economic opportunities that passive relaxation cannot."
+                    "text": "Some Vietnamese professionals use leisure time to improve skills such as English, coding, or digital marketing, and these efforts can open new career or business opportunities."
                   },
                   {
                     "type": "support",
@@ -3508,7 +3508,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ The premise that productive and relaxing leisure are opposed assumes only economically unproductive activity can restore — but the psychology of intrinsic motivation shows that freely chosen productive activity can restore just as effectively as passive rest."
+                    "text": "✗ Productive and relaxing leisure are not always opposites; a freely chosen activity such as gardening, music, or learning a skill can be both restorative and personally useful."
                   }
                 ]
               }
@@ -3530,7 +3530,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Self-determination theory research consistently finds that intrinsically motivated activities generate deeper psychological wellbeing and longer sustained engagement than extrinsically motivated equivalents — a robust psychological case for interest-led over skill-led leisure."
+                    "text": "+ Activities driven by genuine interest tend to support longer engagement and wellbeing better than activities pursued mainly because of external pressure."
                   }
                 ]
               },
@@ -3554,11 +3554,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's vibrant networks of running clubs, traditional martial arts schools, photography associations, and folk music groups demonstrate how personal interest communities generate lasting friendships and social infrastructure that extends well beyond the activity itself."
+                    "text": "Vietnam's running clubs, martial arts schools, photography groups, and folk-music communities show how shared interests can create lasting friendships and social networks."
                   },
                   {
                     "type": "support",
-                    "text": "+ Robert Putnam's research on social capital finds that voluntary associations built around shared interests — sports clubs, hobby groups, cultural organisations — are among the most effective generators of community trust and social cohesion in modern societies."
+                    "text": "+ Sports clubs, hobby groups, and cultural associations can strengthen community ties by bringing people together around repeated voluntary activities."
                   }
                 ]
               }
@@ -3577,7 +3577,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The McKinsey Global Institute estimates up to 30% of current jobs will be significantly disrupted by automation by 2030 — a pace of change making continuous skill development in leisure time not a lifestyle choice but an economic necessity for many workers."
+                    "text": "+ Automation and technological change are altering many jobs, so some workers will need to keep learning new skills throughout their careers."
                   }
                 ]
               },
@@ -3601,11 +3601,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese elderly adults who continue learning new activities — calligraphy, chess, foreign languages, musical instruments — show measurably slower cognitive decline than age-matched peers who limit leisure to passive activities, consistent with extensive international research on the neuroprotective effects of learning-based leisure."
+                    "text": "Older Vietnamese adults who learn new activities such as music, languages, or chess may gain cognitive and social benefits, although these activities cannot be said to prevent dementia on their own."
                   },
                   {
                     "type": "support",
-                    "text": "+ Longitudinal ageing research consistently finds engagement in cognitively challenging leisure — learning languages, playing instruments, acquiring new skills — is one of the strongest protective factors against dementia and age-related cognitive decline."
+                    "text": "+ Mentally challenging leisure is associated with better cognitive health in later life, but the evidence is mainly observational and does not prove that any single hobby prevents dementia."
                   }
                 ]
               }
@@ -3747,11 +3747,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's hosting of the SEA Games in 2003 accelerated infrastructure development in Hanoi — including transport upgrades and venue construction — that served the city's development well beyond the event itself, illustrating how hosting can be used strategically to advance urban development agendas."
+                    "text": "Vietnam's 2003 SEA Games involved new venues and infrastructure in Hanoi, some of which continued to serve the city after the event."
                   },
                   {
                     "type": "support",
-                    "text": "+ Barcelona's hosting of the 1992 Olympics is frequently cited as the most successful example of event-driven urban transformation — infrastructure investments made for the Games catalysed decades of urban renewal and economic growth in the city's waterfront and transportation network."
+                    "text": "+ Barcelona's 1992 Olympics are widely cited as an example of a major event being integrated with broader urban redevelopment, particularly around transport and the waterfront."
                   }
                 ]
               },
@@ -3765,7 +3765,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on post-Olympics tourism consistently finds elevated visitor numbers in host countries for several years following the Games — the sustained global attention generated by hosting creates a tourism marketing impact that advertising budgets alone could not replicate."
+                    "text": "+ Hosting a major sporting event can increase international visibility and attract visitors, but long-term tourism gains are inconsistent across host cities."
                   }
                 ]
               },
@@ -3775,7 +3775,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's most enthusiastically unified national experiences — including the SEA Games and international football competitions — demonstrate that hosting and participating in major events generates a sense of collective achievement and national solidarity that few other public projects can match."
+                    "text": "Major sporting events in Vietnam can create a temporary sense of collective pride and shared national experience."
                   },
                   {
                     "type": "contrast",
@@ -3794,11 +3794,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's experience with major event hosting has revealed the gap between initial cost estimates and final expenditure — a pattern consistent with international evidence that event budgets are systematically underestimated during bidding processes to make proposals appear more affordable than they prove to be."
+                    "text": "Vietnamese and international experience shows that major-event budgets can be difficult to control, especially when infrastructure requirements grow after a bid is approved."
                   },
                   {
                     "type": "support",
-                    "text": "+ Oxford University researchers found that every Summer Olympics since 1960 has exceeded its budget, with an average cost overrun of 172% — making major event hosting among the most reliably expensive public investments governments can make."
+                    "text": "+ Research on Olympic budgets has found repeated cost overruns, showing that hosting carries substantial financial risk even before wider infrastructure spending is counted."
                   }
                 ]
               },
@@ -3808,11 +3808,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Several venues constructed for the 2003 SEA Games in Hanoi have seen declining utilisation in subsequent years — a modest-scale illustration of the broader problem of purpose-built event infrastructure that outlives its primary use."
+                    "text": "Some venues built for large sporting events can be underused later if they were designed mainly for a short period of competition rather than long-term local demand."
                   },
                   {
                     "type": "support",
-                    "text": "+ Brazil's 2014 World Cup venues include several stadiums in cities with no viable professional football club, built at a cost of billions — now deteriorating with minimal use while Brazilian cities face acute shortages of schools and hospitals."
+                    "text": "+ Some stadiums built for Brazil's 2014 World Cup later faced low utilisation, illustrating the risk of expensive 'white elephant' infrastructure."
                   }
                 ]
               },
@@ -3826,7 +3826,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Human rights organisations documented over 77,000 forced evictions in connection with Beijing's 2008 Olympics preparations — an extreme case of a pattern in which event-driven development systematically disadvantages the urban poor who are least able to advocate for their own protection."
+                    "text": "+ Major-event redevelopment has sometimes displaced low-income residents, making housing rights and compensation an important part of evaluating hosting plans."
                   }
                 ]
               }
@@ -3848,7 +3848,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Independent economic analysis of Olympic spending consistently finds that equivalent funds invested in education and healthcare generate significantly higher long-term returns in human development metrics — providing a strong case that event spending is not the highest-return use of public resources."
+                    "text": "+ Public money spent on major sporting events has an opportunity cost because the same funds could otherwise support health, education, transport, or other long-term services."
                   }
                 ]
               },
@@ -3862,7 +3862,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ The economists commissioned to produce the business case for hosting are typically selected by parties who have already decided to bid — an inherent conflict of interest that produces systematically optimistic projections that the subsequent economic record rarely validates."
+                    "text": "✗ Economic forecasts produced during event bids can be overly optimistic, especially when organisations promoting the bid also influence the assumptions used."
                   }
                 ]
               },
@@ -3872,11 +3872,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Tourism economists studying major events in developing Asian destinations have found that the genuine tourism gain from event-specific visitors is frequently offset by displacement of regular tourists who avoid destinations during event periods — a pattern Vietnam's tourism planners must account for when evaluating hosting proposals."
+                    "text": "Major events can attract special visitors while also discouraging ordinary tourists who wish to avoid crowds, high prices, or disruption."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on the 2012 London Olympics found that total visitor numbers to the UK were actually lower during the Olympics than in the equivalent period in prior years — regular tourists stayed away in sufficient numbers to offset the event-specific visitor surge."
+                    "text": "+ Visitor numbers during the London 2012 Olympics did not rise as much as simple event-tourism forecasts might suggest, partly because some regular visitors stayed away."
                   }
                 ]
               }
@@ -3895,7 +3895,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Japan's hosting of the 2019 Rugby World Cup is credited with generating a genuine and sustained expansion of rugby participation in a country where the sport was previously a minority activity — a lasting cultural legacy with measurable social and health benefits."
+                    "text": "+ Hosting a major event can increase interest in a sport, but sustained participation growth depends on follow-up investment, facilities, and local programmes."
                   }
                 ]
               },
@@ -3905,11 +3905,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's hosting of the 2003 SEA Games contributed to strengthening its position within ASEAN and signalling its readiness for regional leadership — diplomatic capital that has supported the country's growing regional influence in the decades since."
+                    "text": "Vietnam's hosting of regional sporting events has provided opportunities for diplomatic contact and national visibility, although the long-term political effect is difficult to isolate."
                   },
                   {
                     "type": "support",
-                    "text": "+ China's hosting of the 2008 Olympics was widely analysed as a transformational moment in the country's international positioning — generating global diplomatic engagement and international legitimacy at a scale that conventional diplomacy could not have achieved in the same timeframe."
+                    "text": "+ China's 2008 Olympics gave the country an unusually large global platform and became an important moment in its international public diplomacy."
                   }
                 ]
               },
@@ -3919,11 +3919,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's track record of successfully hosting major regional sporting and diplomatic events has contributed to its reputation as a reliable and capable emerging economy — a reputation that Vietnamese trade and investment analysts credit with facilitating the country's strong growth in foreign direct investment."
+                    "text": "Successfully hosting major regional events can strengthen perceptions that Vietnam has the organisational capacity to manage complex international projects, though any effect on investment is difficult to measure separately."
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ For a developing country attempting to attract international business, a successful major event communicates institutional competence more powerfully and credibly than any marketing campaign — the reputational value of demonstrated delivery is uniquely difficult to replicate through other means."
+                    "text": "✗ A well-run international event can signal organisational capacity, but its reputational value should not be assumed to exceed every other form of diplomacy or investment promotion."
                   }
                 ]
               }
@@ -3945,7 +3945,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on Olympic athletes' cross-cultural attitudes consistently finds that participation in the Games significantly increases positive sentiment toward other nations — the personal contact hypothesis holds in sport more reliably than in many other cross-cultural contexts."
+                    "text": "+ Athletes who train and compete internationally can form personal relationships across national boundaries, creating opportunities for cross-cultural understanding."
                   }
                 ]
               },
@@ -3969,11 +3969,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese football fans frequently express genuine admiration for the skill of opponents — including countries with which Vietnam has complex historical relationships — demonstrating that shared sporting passion can generate cross-cultural appreciation that political narratives suppress."
+                    "text": "Vietnamese football supporters can admire talented opponents even during intense national rivalry, showing that sport can sometimes encourage respect across borders."
                   },
                   {
                     "type": "support",
-                    "text": "+ The 'ping pong diplomacy' between the United States and China in 1971 — where table tennis matches between players opened the door to diplomatic normalisation — remains the most celebrated historical example of sport genuinely advancing international understanding between adversarial states."
+                    "text": "+ The US-China table-tennis exchanges of 1971 are a well-known example of sport helping create a more favourable atmosphere for later diplomatic contact."
                   }
                 ]
               }
@@ -3988,11 +3988,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Coverage of Vietnam's football matches against historical rivals — particularly regional neighbours — is consistently framed in nationalist terms that emphasise competition and victory rather than shared humanity, demonstrating how the media apparatus surrounding international sport amplifies rather than dissolves competitive national identity."
+                    "text": "Vietnamese coverage of international football can sometimes use strongly nationalistic language, showing that sport may reinforce national rivalry as well as mutual understanding."
                   },
                   {
                     "type": "support",
-                    "text": "+ Political scientists analysing international sport find that rather than reducing nationalist sentiment, major sporting events frequently intensify it — periods around international competitions show elevated nationalist rhetoric and, in some cases, increased intergroup hostility."
+                    "text": "+ Major international sporting events can strengthen national pride and, in some contexts, intensify rivalry rather than reduce it."
                   }
                 ]
               },
@@ -4006,7 +4006,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ If international sport truly built understanding, political boycotts and geopolitical exclusions would be unnecessary — the fact that nations routinely weaponise sport for political purposes reveals that sporting idealism about international understanding is easily overwhelmed by political reality."
+                    "text": "✗ Political boycotts and exclusions show that sport does not stand outside international conflict; governments can use sporting events as political tools as well as opportunities for cooperation."
                   }
                 ]
               },
@@ -4020,7 +4020,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Cross-cultural psychology research finds that brief positive contact — the kind sport spectators have with foreign athletes — reduces prejudice only marginally; durable intercultural understanding requires sustained, equal-status interaction that international sport spectating cannot provide."
+                    "text": "+ Brief exposure to foreign athletes or fans may improve attitudes slightly, but lasting intercultural understanding usually requires deeper and more sustained contact."
                   }
                 ]
               }
@@ -4166,7 +4166,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economics research on doping consistently finds that the primary driver is the reward structure — sports with the largest prize money and commercial rewards show the highest rates of detected doping, confirming that financial incentives, not character, are the root cause."
+                    "text": "+ Large financial and career rewards can increase the temptation to dope, but doping also depends on enforcement, team culture, access to substances, and personal choices."
                   }
                 ]
               },
@@ -4194,7 +4194,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Framing doping as an individual moral failing misidentifies the cause — most documented doping cases involve systematic practices within teams, national programmes, or sports cultures where young athletes had little power to refuse."
+                    "text": "✗ Some major doping scandals have involved coaches, teams, or state-supported systems, showing that cheating can be organisational as well as individual."
                   }
                 ]
               }
@@ -4213,7 +4213,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Comparative analysis of anti-doping regimes finds that sports and jurisdictions where doping carries criminal consequences show lower rates of detected violations than those where doping is treated as a regulatory rather than criminal matter."
+                    "text": "+ Stronger penalties may deter some doping, but the certainty of detection and quality of enforcement are also crucial, so criminalisation alone is not a proven solution."
                   }
                 ]
               },
@@ -4223,11 +4223,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's anti-doping programme is developing longitudinal monitoring capacity in partnership with WADA-accredited international agencies — an investment in the technical infrastructure that modern anti-doping science demonstrates is more effective than traditional substance testing alone."
+                    "text": "Vietnam's anti-doping system can benefit from stronger long-term athlete monitoring and cooperation with internationally accredited testing organisations."
                   },
                   {
                     "type": "support",
-                    "text": "+ WADA data shows that the athlete biological passport programme has delivered more anti-doping violations per testing dollar than traditional substance testing — confirming that indirect physiological evidence is an effective supplement to direct substance detection."
+                    "text": "+ The athlete biological passport can reveal suspicious long-term changes in an athlete's biological markers and therefore complements direct testing for banned substances."
                   }
                 ]
               },
@@ -4291,7 +4291,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Content analysis of sports journalism across major markets finds that coverage emphasising conduct, sportsmanship, and fair play represents less than 5% of total sport reporting — confirming that media reinforces a cultural environment in which results, not fair play, are the measure of sporting value."
+                    "text": "+ Sports media usually gives far more attention to results, stars, and controversy than to sportsmanship, which can reinforce the idea that winning matters most."
                   }
                 ]
               }
@@ -4310,7 +4310,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ FIFA's expanded use of VAR, WADA's biological passport, and cricket's Decision Review System all demonstrate that governing bodies are investing seriously in fair play enforcement rather than accepting winning-at-any-cost as inevitable."
+                    "text": "+ Technologies such as VAR, the athlete biological passport, and cricket's review system show that governing bodies are using technology to improve rule enforcement and competitive fairness."
                   }
                 ]
               },
@@ -4320,7 +4320,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The Vietnamese football community's celebrations of sportsmanlike conduct — including players and coaches who prioritise dignity in defeat — receive significant positive attention precisely because they are valued; the celebration of fair play confirms its continued moral authority in Vietnamese sporting culture."
+                    "text": "Vietnamese football fans often praise players and coaches who behave respectfully in victory or defeat, showing that fair play still has moral value within sporting culture."
                   },
                   {
                     "type": "contrast",
@@ -4338,7 +4338,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Sports sociologists find that the ethos of fair play is far more robust at grassroots level than elite coverage suggests — the characterisation of modern sport as uniformly winning-obsessed overgeneralises from the extreme commercial fringe to a sporting world that is mostly played by ordinary people for enjoyment."
+                    "text": "+ Grassroots sport is often played mainly for enjoyment, health, and community, so the win-at-all-costs culture of elite professional sport should not be generalised to all participants."
                   }
                 ]
               }
@@ -4360,7 +4360,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on VAR's impact in European football found that the accuracy of match-changing decisions increased from approximately 82% to 95% after introduction — a substantial improvement in competitive fairness whose value to athletes and the sporting process is difficult to overstate."
+                    "text": "+ VAR has improved the accuracy of many important refereeing decisions, although it has also created debate about delays, interpretation, and the flow of matches."
                   }
                 ]
               },
@@ -4374,7 +4374,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Professional football clubs using GPS tracking and load management technology report injury rate reductions of 20–30% compared to traditional training approaches — a direct demonstration that performance technology improves athlete welfare as well as competitive results."
+                    "text": "+ GPS tracking and workload monitoring can help professional teams manage training and identify injury risk, but exact reductions in injuries vary by sport and programme."
                   }
                 ]
               },
@@ -4407,7 +4407,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Spectator research in football consistently finds that VAR delays significantly reduce enjoyment of match-attending, with fans reporting that the suspension of emotional response pending review undermines the live sporting experience that television coverage cannot replicate."
+                    "text": "+ Many football supporters dislike long VAR delays because uncertainty can interrupt the spontaneous emotional experience of watching a match live."
                   }
                 ]
               },
@@ -4421,7 +4421,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Sports economists document a growing correlation between sports science investment and competitive performance — a trend that risks converting sporting competition into a technological arms race where financial resources determine outcomes as much as athletic merit."
+                    "text": "+ Wealthy clubs and national programmes can spend more on sports science and technology, creating another potential competitive advantage that poorer teams may struggle to match."
                   }
                 ]
               },

@@ -43,7 +43,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Large-scale collective action problems — climate change, pandemic control, financial stability — routinely require state-level coordination that individual action cannot provide, as Elinor Ostrom's commons governance research confirms."
+                    "text": "+ Problems such as climate change, pandemics, and financial crises often require coordination at government level because individual action alone cannot solve them."
                   }
                 ]
               },
@@ -57,7 +57,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The World Bank's Equality of Opportunity index shows that the strongest predictor of a person's income is their parents' income."
+                    "text": "+ In many countries, a person's future income is strongly influenced by family background, showing that people do not all begin with the same opportunities."
                   }
                 ]
               },
@@ -71,7 +71,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Failed states in sub-Saharan Africa demonstrate that without effective institutions, individuals cannot achieve development outcomes no matter how industrious — the absence of government exposes people to violence and poverty that markets alone cannot prevent."
+                    "text": "✗ Where state institutions are very weak or collapse, violence, insecurity, and failing public services can make it extremely difficult for individuals and businesses to prosper."
                   }
                 ]
               }
@@ -90,7 +90,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Hayek's knowledge problem shows that no central authority can access the dispersed, tacit knowledge individuals hold about their own circumstances — confirmed empirically by the failure of command economies to allocate resources as effectively as decentralised markets."
+                    "text": "+ Hayek argued that central planners can never possess all the local information held by individuals and firms, which is one reason decentralised markets can allocate many goods more flexibly."
                   }
                 ]
               },
@@ -104,7 +104,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Nordic countries — which have the world's most generous welfare systems — show no reduction in labour participation or civic engagement, suggesting the dependency critique applies to poorly designed programmes rather than to state responsibility as a category."
+                    "text": "✗ Nordic countries show that generous welfare systems can coexist with high employment and strong civic institutions, so welfare does not automatically create dependency."
                   }
                 ]
               },
@@ -136,11 +136,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's National Target Programme on Sustainable Poverty Reduction uses five-year cycles because infrastructure, schooling, and livelihood support in remote highland provinces take years to produce measurable results."
+                    "text": "Vietnam's poverty-reduction programmes are organised in multi-year planning cycles because improvements in infrastructure, schooling, and livelihoods often take years to become visible."
                   },
                   {
                     "type": "support",
-                    "text": "+ OECD long-run growth accounting finds that public investment in education, research, and infrastructure generates returns over 10–30 year horizons — systematically destroyed when treated as short-term budget items cut during downturns."
+                    "text": "+ Public investment in education, research, and infrastructure often produces benefits over many years, so cutting these areas for short-term budget savings can weaken long-term growth."
                   }
                 ]
               },
@@ -150,11 +150,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's political system reduces electoral short-termism: infrastructure investment and industrial policy can be sustained across decades without electoral interruption, supporting the long-horizon development strategy behind 6–7% average GDP growth since 1990."
+                    "text": "Vietnam's five-year socio-economic plans allow infrastructure and industrial policies to be pursued over several years, supporting continuity in long-term development priorities."
                   },
                   {
                     "type": "support",
-                    "text": "+ Acemoglu and Robinson find that democracies with weak institutional constraints on executive short-termism are prone to populist fiscal cycles — running deficits before elections and cutting investment after — a pattern that independent fiscal rules were designed to break."
+                    "text": "+ Election cycles can encourage governments to favour visible short-term measures, which is why some countries use budget rules and independent watchdogs to protect longer-term investment."
                   }
                 ]
               },
@@ -164,11 +164,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's sustained primary education investment is credited by the World Bank as a key driver of exceptional PISA scores relative to income — compound returns to early literacy accumulating across an entire workforce generation."
+                    "text": "Vietnam's strong investment in basic education has helped it achieve high student performance relative to its income level, with early literacy providing benefits that accumulate over time."
                   },
                   {
                     "type": "support",
-                    "text": "+ Heckman's research on early childhood intervention shows returns of 7–12% per year over 30–40 years through reduced crime, higher employment, and better health — among the clearest demonstrations that prevention outperforms remediation."
+                    "text": "+ Long-term studies of early childhood programmes show that investing in disadvantaged children can produce later benefits through better education, employment, health, and lower crime."
                   }
                 ]
               }
@@ -183,7 +183,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's COVID-19 support measures — cash transfers, loan deferrals, and tax relief deployed within weeks of the 2020 outbreak — provided immediate relief that waiting for structural reform could not have offered."
+                    "text": "Vietnam introduced emergency cash support, tax relief, and loan assistance during the 2020 COVID-19 shock, providing short-term help while longer-term recovery policies were developed."
                   },
                   {
                     "type": "support",
@@ -197,7 +197,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's five-year plan revisions allow short-term adjustments within longer strategic directions — a flexibility that proved valuable when the 2008 global financial crisis required rapid modification of investment priorities."
+                    "text": "Vietnam's five-year planning system can be adjusted when major shocks occur, as governments often need to revise investment and policy priorities during crises such as the 2008 global downturn."
                   },
                   {
                     "type": "contrast",
@@ -215,7 +215,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Pierson's research on welfare state development finds that the most durable long-term policies build immediate constituencies through short-term benefits who then defend the programme against future retrenchment."
+                    "text": "+ Long-term social programmes tend to become more politically durable when people receive clear benefits early and develop a reason to support their continuation."
                   }
                 ]
               }
@@ -357,11 +357,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's sustained investment in education — maintained at roughly 5% of GDP through periods of fiscal constraint — is credited by the World Bank as a foundational driver of the country's exceptional human development outcomes relative to income level, and underpins the skilled-labour supply that attracts foreign manufacturing investment."
+                    "text": "Vietnam has invested heavily in education for many years, helping to build a skilled workforce and strong human-development outcomes relative to its income level."
                   },
                   {
                     "type": "support",
-                    "text": "+ Landmark research by economists Mankiw, Romer, and Weil demonstrates that human capital accumulation — driven by investment in education and health — explains a large share of cross-country differences in long-run growth rates, confirming that public service spending is better understood as productive investment than redistributive consumption."
+                    "text": "+ Economic research has long treated education and skills as important drivers of productivity and long-term growth, so spending on these areas can function as investment rather than simple consumption."
                   }
                 ]
               },
@@ -385,7 +385,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's universal primary education system — despite significant quality gaps between urban and rural schools — has achieved near-100% primary enrolment and literacy rates that far exceed what comparable-income countries with more privatised education systems achieve, illustrating how public provision can deliver broad access that private markets do not."
+                    "text": "Vietnam has achieved very high primary-school enrolment and broad literacy through a largely public education system, showing how state provision can expand access across income groups."
                   },
                   {
                     "type": "support",
@@ -408,7 +408,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Failed states such as Somalia and Yemen — where security has collapsed — demonstrate that healthcare and education infrastructure becomes unusable when the security precondition is absent."
+                    "text": "✗ In countries affected by severe conflict and state breakdown, schools and hospitals often struggle to operate safely, showing that basic security is an important condition for public services."
                   }
                 ]
               },
@@ -422,7 +422,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The World Bank's infrastructure investment literature consistently finds benefit-cost ratios of 1. 5–2."
+                    "text": "+ Well-chosen infrastructure projects can generate large economic benefits by reducing transport, energy, and communication costs."
                   }
                 ]
               },
@@ -432,11 +432,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's public debt — which approached 65% of GDP in the late 2010s — prompted fiscal consolidation that constrained public spending including on social services."
+                    "text": "Vietnam's public debt rose close to its legal ceiling in the mid-2010s, contributing to tighter budget management and more cautious public spending."
                   },
                   {
                     "type": "support",
-                    "text": "+ The European debt crisis demonstrated that countries which expanded social spending without sustainable revenue bases — Greece, Portugal — faced forced cuts to public services far deeper than would have been needed under more cautious fiscal management."
+                    "text": "+ The European debt crisis showed that when public spending commitments are not matched by sustainable revenues, governments may later be forced into painful spending cuts."
                   }
                 ]
               }
@@ -454,11 +454,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's dramatic expansion of social protection — from near-zero coverage in 1990 to a social insurance system covering millions of workers — was funded by the fiscal space created by three decades of 6–7% annual GDP growth."
+                    "text": "Vietnam's rapid economic growth has expanded the tax and contribution base that helps finance a much larger social-insurance and social-protection system than the country had several decades ago."
                   },
                   {
                     "type": "support",
-                    "text": "+ IMF data shows that countries that prioritised structural reforms and investment-led growth before expanding welfare — South Korea, Taiwan, Singapore — now run more generous and sustainable social programmes than countries that attempted welfare expansion without the growth base to fund it."
+                    "text": "+ Several East Asian economies expanded social programmes as their economies and tax bases grew, illustrating how sustained growth can make wider welfare provision easier to finance."
                   }
                 ]
               },
@@ -468,11 +468,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam reduced its poverty rate from over 70% in 1990 to under 5% by 2020 — one of the fastest poverty declines in history — primarily through economic growth that created employment and raised wages, not through redistribution from a pre-existing wealthy class."
+                    "text": "Vietnam's rapid economic growth and job creation have played a major role in the country's dramatic fall in poverty since the early 1990s."
                   },
                   {
                     "type": "support",
-                    "text": "+ World Bank research finds that a 1% increase in per-capita GDP in developing countries is associated with a 1.7% reduction in the poverty headcount on average."
+                    "text": "+ In developing economies, sustained growth in income per person is generally associated with substantial reductions in extreme poverty, especially when growth creates broad employment opportunities."
                   }
                 ]
               },
@@ -486,7 +486,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ The evidence on welfare and labour supply is nuanced: OECD studies find that well-designed welfare states with active labour market policies — Denmark, Austria — achieve both high employment rates and generous benefits."
+                    "text": "✗ Countries such as Denmark show that generous welfare benefits can coexist with high employment when benefits are combined with strong job-search support and active labour-market policies."
                   }
                 ]
               }
@@ -555,7 +555,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research in social psychology consistently finds that shared rituals — including national celebrations — increase in-group trust, cooperation, and willingness to contribute to public goods."
+                    "text": "+ Shared public rituals and celebrations can strengthen a sense of belonging and cooperation, although their effects depend on whether different groups feel included."
                   }
                 ]
               },
@@ -565,11 +565,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's hosting of major international events — including the 2003 and 2021 SEA Games and high-profile diplomatic summits such as the 2019 Trump-Kim meeting in Hanoi — generated significant tourism revenue and international media coverage that raised the country's profile as a travel and investment destination."
+                    "text": "Vietnam has hosted major events such as the 2003 SEA Games, the 2021 SEA Games held in 2022, and the 2019 US–North Korea summit, all of which brought extensive international attention to the country."
                   },
                   {
                     "type": "support",
-                    "text": "+ The Barcelona Olympics (1992) is the most-cited example of event spending generating positive long-term returns: public investment in venues and infrastructure transformed the city's tourism profile and attracted sustained investment, with visitors and economic benefits measurably exceeding pre-event levels for decades afterwards."
+                    "text": "+ The 1992 Barcelona Olympics are often cited as a case where event-related investment was combined with wider urban redevelopment that strengthened the city's international profile for years afterwards."
                   }
                 ]
               },
@@ -579,11 +579,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's government funding of traditional performing arts — Quan họ folk singing, Cải lương theatre, court music — has preserved these UNESCO-recognised forms against the commercial pressure of pop entertainment."
+                    "text": "Vietnam funds traditional arts such as Quan họ folk singing, royal court music, and Cải lương, helping preserve cultural forms that may struggle to survive on commercial demand alone."
                   },
                   {
                     "type": "support",
-                    "text": "+ The UNESCO Convention on Cultural Diversity explicitly recognises that cultural goods and services 'carry identities, values, and meanings' that cannot be fully captured by commercial markets."
+                    "text": "+ UNESCO's Convention on cultural diversity recognises that cultural goods carry social meanings and values that go beyond their commercial price."
                   }
                 ]
               }
@@ -598,11 +598,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's experience hosting the 2003 SEA Games required substantial public investment in venues and infrastructure."
+                    "text": "Vietnam invested substantially in venues, transport, and other facilities when it hosted the 2003 SEA Games."
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ The 2004 Athens Olympics — where venue construction costs reached $11 billion, more than double the original estimate — left Greece with a legacy of abandoned facilities costing millions per year in maintenance."
+                    "text": "✗ The 2004 Athens Olympics became a warning about the risks of expensive mega-events because several costly venues were left underused after the Games."
                   }
                 ]
               },
@@ -616,7 +616,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Sociologist Rogers Brubaker's work on nationalism finds that official national celebrations can 'make ethnicity and nationality more salient' as social categories, sometimes sharpening rather than softening inter-group divisions."
+                    "text": "+ National celebrations can strengthen unity, but they can also make ethnic or national identities more prominent and deepen division when some groups feel excluded."
                   }
                 ]
               },
@@ -630,7 +630,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Brazil's 2014 World Cup and 2016 Olympics triggered mass protests — 'não vai ter copa' (there will be no Cup) — in a country with severe inequality, inadequate public transport, and underfunded hospitals."
+                    "text": "+ Brazil saw large public protests around the 2014 World Cup and 2016 Olympics, with many demonstrators questioning major event spending while public services still faced serious problems."
                   }
                 ]
               }
@@ -773,7 +773,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Comparative data from the OECD shows a near-perfect rank correlation between government revenue as a share of GDP and composite measures of public service quality — healthcare outcomes, educational attainment, infrastructure — across developed countries."
+                    "text": "+ Countries that collect more public revenue generally have greater capacity to fund healthcare, education, and infrastructure, although high revenue alone does not guarantee service quality."
                   }
                 ]
               },
@@ -787,7 +787,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The economic theory of public goods — developed by Paul Samuelson and widely confirmed empirically — demonstrates that non-excludable, non-rival goods will be under-provided by markets at any voluntary contribution level."
+                    "text": "+ Public goods such as national defence, street lighting, and disease control can be underprovided by voluntary markets because people can benefit without paying directly."
                   }
                 ]
               },
@@ -797,11 +797,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's social transfer system — funded by taxes and social insurance contributions — has reduced the poverty rate from over 70% in 1990 to under 5% today."
+                    "text": "Vietnam's taxes and social-insurance contributions fund transfers that help protect poor and vulnerable households, although the country's long-term fall in poverty also reflects rapid economic growth."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research by Piketty, Saez, and Zucman finds that pre-tax income inequality has risen sharply in most developed countries since the 1980s, and that the primary policy instrument for compressing the post-tax distribution — progressive taxation with redistribution — has weakened in tandem."
+                    "text": "+ Progressive taxes and transfers can reduce the gap between people's incomes before and after government support, making them an important tool for limiting inequality."
                   }
                 ]
               }
@@ -820,7 +820,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The Laffer curve — the theoretical proposition that tax revenue is zero at both 0% and 100% rates, implying a revenue-maximising rate below 100% — has empirical support in specific contexts: studies of top marginal rate reductions in the UK (1979) and the US (1986) found evidence of taxable income responses that partially offset the direct revenue cost of the cuts."
+                    "text": "+ Very high tax rates can reduce incentives to earn or report taxable income, creating a trade-off between raising revenue and how people respond to taxation."
                   }
                 ]
               },
@@ -834,7 +834,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The World Bank's Public Expenditure and Financial Accountability assessments consistently find that developing countries lose 10–30% of public spending to waste, leakage, and inefficiency."
+                    "text": "+ Weak budgeting, procurement, and oversight can cause governments to lose substantial resources through waste, leakage, and inefficient spending."
                   }
                 ]
               },
@@ -866,7 +866,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's personal income tax system uses a seven-bracket progressive structure, with rates ranging from 5% on the lowest incomes to 35% on the highest."
+                    "text": "Vietnam's personal income tax system now uses a five-bracket progressive structure for resident employment income, with rates ranging from 5% to 35%."
                   },
                   {
                     "type": "support",
@@ -884,7 +884,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Thomas Piketty's 'Capital in the Twenty-First Century' demonstrates that in the absence of progressive taxation, the rate of return on capital systematically exceeds the rate of economic growth, producing self-reinforcing wealth concentration."
+                    "text": "+ Piketty argues that when returns on wealth grow faster than the wider economy for long periods, wealth can become increasingly concentrated unless other forces or policies offset the trend."
                   }
                 ]
               },
@@ -913,11 +913,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's corporate income tax applies a standard rate of 20% to most businesses — a relatively flat structure compared to highly progressive corporate regimes elsewhere — with the aim of maintaining investment incentives while ensuring all firms contribute proportionally to public revenues."
+                    "text": "Vietnam applies a standard corporate income-tax rate of 20% to most businesses, using a broadly uniform rate while offering some sector- and project-specific incentives."
                   },
                   {
                     "type": "support",
-                    "text": "+ Estonia's introduction of a flat personal income tax in 1994 was followed by strong economic growth and high tax compliance."
+                    "text": "+ Estonia introduced a flat personal income tax in the 1990s and subsequently experienced strong economic growth, although this does not prove that the tax structure alone caused that growth."
                   }
                 ]
               },
@@ -931,7 +931,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ A comprehensive study of tax compliance across 100 countries by the Tax Foundation found a strong negative correlation between tax code complexity and compliance rates."
+                    "text": "+ Simpler tax systems can make compliance easier and reduce opportunities for avoidance, although enforcement quality also matters greatly."
                   }
                 ]
               },
@@ -1116,7 +1116,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Behavioural economist Richard Thaler's work on 'libertarian paternalism' demonstrates that choice architecture — how options are presented — powerfully shapes decisions even among people who consider themselves rational."
+                    "text": "+ Research in psychology and economics shows that the way choices are presented can influence what people decide, even when all options remain available."
                   }
                 ]
               }
@@ -1135,7 +1135,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Mill's 'On Liberty' (1859) established the foundational liberal argument: 'Over himself, over his own body and mind, the individual is sovereign.' This principle has been invoked in constitutional courts across democracies to strike down regulations that restrict self-regarding behaviour — reflecting deep societal consensus that personal autonomy is a foundational value that majoritarian government cannot legitimately override."
+                    "text": "+ In 'On Liberty', John Stuart Mill argued that adults should have broad freedom over choices that mainly affect themselves, a principle that remains influential in debates about paternalistic regulation."
                   }
                 ]
               },
@@ -1163,7 +1163,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Portugal's 2001 decriminalisation of personal drug possession — replacing criminal penalties with mandatory treatment referrals — was followed by reductions in drug-related HIV infection, drug-related deaths, and prison overcrowding while drug use rates did not increase."
+                    "text": "✗ Portugal decriminalised possession of small amounts of drugs for personal use in 2001 and shifted many cases towards health assessment and treatment support; drug-related deaths and HIV infections later fell substantially."
                   }
                 ]
               }
@@ -1185,7 +1185,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ A systematic review of 51 studies in Pediatrics found that food advertising exposure is causally associated with increased caloric intake and obesity risk in children."
+                    "text": "+ Research shows that advertising unhealthy food to children can increase immediate consumption and influence food preferences, which is one reason many experts support limits on child-targeted marketing."
                   }
                 ]
               },
@@ -1195,7 +1195,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The Vietnamese Ministry of Health has estimated that tobacco-related illnesses cost the public healthcare system hundreds of millions of dollars annually in treatment costs — a fiscal burden that dwarfs the tax revenue from tobacco sales."
+                    "text": "Tobacco-related illness creates major healthcare and productivity costs in Vietnam, giving the government a financial as well as a public-health reason to reduce smoking."
                   },
                   {
                     "type": "support",
@@ -1209,11 +1209,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's WHO-aligned tobacco control measures — advertising bans, smoke-free workplace laws, and graphic warnings — contributed to reductions in male smoking prevalence from over 50% in the early 2000s toward 40% by the mid-2010s."
+                    "text": "Vietnam has combined advertising restrictions, smoke-free rules, and graphic warnings with other tobacco-control measures, while male smoking rates have fallen over time."
                   },
                   {
                     "type": "support",
-                    "text": "+ A Lancet meta-analysis of tobacco control policies across 50 countries found that advertising bans were among the most cost-effective single interventions for reducing tobacco consumption — more effective per dollar than tax increases alone and dramatically cheaper than treating smoking-related disease."
+                    "text": "+ Comprehensive advertising bans can reduce tobacco consumption and are relatively inexpensive compared with treating smoking-related disease."
                   }
                 ]
               }
@@ -1246,7 +1246,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economics research consistently finds that advertising bans in professional services — where they were historically common — reduced price competition and consumer choice without producing health benefits."
+                    "text": "+ In some professional services, allowing advertising has increased price competition and made it easier for consumers to compare providers, showing that advertising restrictions can also have costs."
                   }
                 ]
               },
@@ -1256,11 +1256,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on Vietnamese youth smoking finds that peer influence and availability — not advertising exposure — are the dominant drivers of smoking initiation among adolescents."
-                  },
-                  {
-                    "type": "contrast",
-                    "text": "✗ Tobacco industry internal documents — released through US litigation — show that companies themselves identified advertising primarily as a brand-switching tool among existing smokers rather than a recruitment tool for new smokers."
+                    "text": "Peer influence, easy access to cigarettes, family behaviour, and advertising can all affect whether Vietnamese teenagers begin smoking; no single factor explains initiation on its own."
                   }
                 ]
               }
@@ -1399,11 +1395,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "During the COVID-19 economic shock of 2020, Vietnam's emergency cash transfer programme for informal workers — though limited in scale — provided an important demand floor in communities where factory closures had eliminated the primary income source."
+                    "text": "During the 2020 COVID-19 shock, Vietnam introduced emergency cash support for some informal and affected workers, helping households cope with sudden income loss."
                   },
                   {
                     "type": "support",
-                    "text": "+ A 2020 IMF study of OECD countries during the Global Financial Crisis found that countries with more generous automatic stabilisers — including unemployment benefits — experienced shallower recessions and faster recoveries."
+                    "text": "+ Unemployment benefits can soften recessions by supporting household income when jobs disappear, helping to prevent a fall in demand from becoming even more severe."
                   }
                 ]
               },
@@ -1413,11 +1409,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's export-oriented manufacturing sector is highly exposed to global demand fluctuations: the 2020 pandemic caused hundreds of thousands of factory workers in apparel and electronics to lose jobs simultaneously through no personal fault — precisely the correlated, systemic job loss that private insurance cannot address and that public social insurance exists to absorb."
+                    "text": "Vietnam's export-manufacturing sector is vulnerable to global shocks, and the COVID-19 pandemic caused large numbers of factory workers to lose hours or jobs through no fault of their own."
                   },
                   {
                     "type": "support",
-                    "text": "+ Economists Atkinson and Micklewright's analysis of unemployment insurance systems demonstrates that unemployment benefits are most justifiable for workers displaced by structural change — trade shocks, automation, sectoral decline — because these workers face the longest re-employment periods and the greatest need for income support during skill transition, not for those experiencing brief frictional unemployment between jobs."
+                    "text": "+ Workers displaced by major economic changes such as automation, trade shocks, or industrial decline may need longer income support and retraining because finding a suitable new job can take time."
                   }
                 ]
               },
@@ -1427,11 +1423,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Employment Service Centres — which provide both job matching services and access to unemployment insurance — have been expanded precisely because evidence showed that workers who used job placement services found better-matched positions that paid higher wages than those who accepted the first available position out of immediate financial necessity."
+                    "text": "Vietnam's Employment Service Centres combine job-search support with access to unemployment insurance, helping unemployed workers look for suitable positions rather than relying only on cash assistance."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research by Chetty (2008) using US data found that a 10% increase in unemployment benefit generosity increased job match quality (measured by wages in the next job) by 1.4% — a return that partially offsets the fiscal cost of benefits."
+                    "text": "+ More generous unemployment support can give jobseekers extra time to search for a better match, although it can also lengthen the period before they return to work."
                   }
                 ]
               }
@@ -1450,7 +1446,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economist Lawrence Katz and colleagues have documented that unemployment spell durations cluster around benefit expiry dates — workers disproportionately find employment just as benefits run out."
+                    "text": "+ Studies of unemployment insurance often find that job-finding increases as benefit expiry approaches, suggesting that benefit design can affect the urgency of job search."
                   }
                 ]
               },
@@ -1460,11 +1456,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's ageing demographic profile — with the working-age population share projected to decline from 2035 onward — raises long-run sustainability questions about social insurance commitments designed when the population was young and rapidly growing."
+                    "text": "Vietnam's population is ageing rapidly, so a smaller share of working-age people will eventually have to finance growing pension, healthcare, and social-protection needs."
                   },
                   {
                     "type": "support",
-                    "text": "+ The European Commission's 2018 Ageing Report projects that social protection spending — including unemployment insurance — will rise by 1–4% of GDP across EU members by 2070 due to demographic change alone, before any increase in generosity."
+                    "text": "+ Ageing populations are expected to increase public spending on pensions, healthcare, and long-term care in many European countries, creating pressure on future government budgets."
                   }
                 ]
               },
@@ -1478,7 +1474,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ A cross-country OECD evaluation of active versus passive labour market spending finds that spending on job search assistance, training, and subsidised employment produces significantly better long-term employment outcomes than equivalent spending on passive benefits."
+                    "text": "+ Job-search assistance, retraining, and hiring support can help unemployed people return to work more directly than cash benefits alone."
                   }
                 ]
               }
@@ -1514,7 +1510,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The concept of the 'working poor' — documented extensively in OECD research — demonstrates that labour market participation does not guarantee minimum living standards."
+                    "text": "+ The existence of the 'working poor' shows that having a job does not always guarantee an income high enough to meet basic living costs."
                   }
                 ]
               },
@@ -1524,11 +1520,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Longitudinal research on Vietnam's poverty reduction programmes finds that children from households that escaped extreme poverty show significantly better school attendance, nutritional status, and cognitive development than matched control households that did not receive support."
+                    "text": "Vietnam's poverty-reduction programmes have improved access to schooling, nutrition, healthcare, and basic services for many disadvantaged households and children."
                   },
                   {
                     "type": "support",
-                    "text": "+ The Heckman equation — established through decades of research by Nobel economist James Heckman — demonstrates that early investment in disadvantaged children produces returns of 7–13% per year through reduced crime, improved health, and higher lifetime earnings."
+                    "text": "+ Long-term research on disadvantaged children shows that good early support can produce later benefits in education, earnings, health, and crime reduction."
                   }
                 ]
               }
@@ -1561,7 +1557,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The UK's experience with its minimum income standard — calculated annually by the Joseph Rowntree Foundation — illustrates the definitional problem: the social consensus about what constitutes an adequate minimum varies across income groups, regions, and generations, and consistently exceeds what governments are prepared to commit to funding."
+                    "text": "+ Debates over a minimum income standard show that societies can disagree about what counts as an acceptable living standard and how much government should guarantee."
                   }
                 ]
               },
@@ -1571,11 +1567,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's targeted approach to social protection — concentrating transfers on the officially poor and near-poor rather than providing universal guarantees — has achieved significant poverty reduction at a fraction of the fiscal cost of a universal basic income programme."
+                    "text": "Vietnam mainly targets cash and social assistance at poor and vulnerable groups rather than paying the same benefit to everyone, which keeps the immediate budget cost lower than a universal payment would be."
                   },
                   {
                     "type": "support",
-                    "text": "+ Cross-country analysis by Ravallion and others finds that the poverty-reduction impact per dollar of social spending is substantially higher for means-tested targeted programmes than for universal transfers."
+                    "text": "+ Targeted benefits can direct more money to poor households for a given budget, although they may also miss eligible people or create administrative costs."
                   }
                 ]
               }
@@ -1717,11 +1713,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's universal primary education policy — making state schooling free and compulsory — is credited with achieving near-100% literacy and primary enrolment rates that far exceed what comparable-income countries with fee-based systems achieve."
+                    "text": "Vietnam's public primary-education system has achieved very high enrolment and broad literacy, showing how free or low-cost state schooling can widen access."
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO's Universal Health Coverage framework argues that out-of-pocket health costs are among the leading causes of catastrophic poverty — where a health event pushes a household into destitution."
+                    "text": "+ High out-of-pocket medical costs can push families into financial hardship or poverty, which is a central concern of universal health coverage."
                   }
                 ]
               },
@@ -1735,7 +1731,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Education economists estimate that the social return to schooling — including spillovers to employers, communities, and democratic participation — exceeds the private return to the individual by 30–50%."
+                    "text": "+ Education benefits not only individual students but also employers and communities, so its social value can be greater than the private financial return received by the learner."
                   }
                 ]
               },
@@ -1749,7 +1745,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Political scientist Jacob Hacker's research on 'risk privatisation' shows that as higher-income groups exit public services, their political support for public funding diminishes, creating a negative spiral of under-investment and further exit."
+                    "text": "+ When wealthier households stop using public services, they may become less willing to support taxes for those services, which can weaken the political base for maintaining quality."
                   }
                 ]
               }
@@ -1768,7 +1764,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Health economist Jonathan Gruber's analysis of free healthcare access in the US Medicaid expansion found a significant increase in emergency department utilisation by newly covered patients, much of which was for conditions manageable in primary care."
+                    "text": "+ Expanding health coverage can increase the use of emergency and other medical services because people face fewer financial barriers to seeking care."
                   }
                 ]
               },
@@ -1782,7 +1778,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The RAND Health Insurance Experiment — the largest randomised trial in health economics — found that participants with free healthcare consumed significantly more services than those with cost-sharing, but without measurable improvements in health outcomes for the majority."
+                    "text": "+ The RAND Health Insurance Experiment found that people used more healthcare when it was free at the point of use, while average health outcomes did not improve clearly for most participants."
                   }
                 ]
               },
@@ -1792,7 +1788,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's tiered healthcare system — with free or subsidised access for the poor and fee-for-service options for those who can pay — has been evaluated by the World Bank as more fiscally sustainable than a fully universal free system would be at Vietnam's current income level."
+                    "text": "Vietnam combines subsidised coverage for vulnerable groups with insurance contributions and user payments, reflecting the need to balance broad access with limited public resources."
                   },
                   {
                     "type": "support",
@@ -1832,7 +1828,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The G20's Global Infrastructure Hub estimates a $15 trillion infrastructure financing gap between projected needs and available public funding."
+                    "text": "+ Governments face a very large gap between future infrastructure needs and the public money available to finance them, which is one reason private capital is often considered."
                   }
                 ]
               },
@@ -1865,7 +1861,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The privatisation of water services in Cochabamba, Bolivia in 1999 — which led to price increases of up to 300% and the disconnection of poor households — became a global symbol of the conflict between private profit and public need in essential services."
+                    "text": "+ The privatisation of water services in Cochabamba, Bolivia, led to sharp price increases and major public protests, becoming a widely cited warning about private control of essential services."
                   }
                 ]
               },
@@ -1875,11 +1871,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's experience with build-operate-transfer infrastructure projects has included cases where contract renegotiations, cost overruns, and revenue guarantee disputes absorbed a large share of the fiscal benefit that private financing was meant to deliver."
+                    "text": "Vietnam's build-operate-transfer projects have faced disputes over tolls, contract terms, costs, and risk-sharing, showing that private finance can create complex monitoring and renegotiation problems."
                   },
                   {
                     "type": "support",
-                    "text": "+ A National Audit Office review of UK Private Finance Initiative contracts found that government paid an average premium of 2–4% annually over equivalent public borrowing costs, reflecting the higher cost of private capital and contract management."
+                    "text": "+ UK Private Finance Initiative projects often borrowed at higher costs than the government could, illustrating one financial disadvantage of using private capital for public infrastructure."
                   }
                 ]
               },
@@ -1893,7 +1889,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The re-municipalisation of water services across 235 cities in 37 countries between 2000 and 2015 — documented by the Transnational Institute — reflects growing policy consensus that water supply combines natural monopoly characteristics with essential need in a way that private market provision cannot adequately govern."
+                    "text": "+ Many cities around the world have returned water services to public control after dissatisfaction with private provision, showing the difficulty of creating genuine competition in a natural-monopoly service."
                   }
                 ]
               }
@@ -1911,11 +1907,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's public hospital system has faced chronic under-investment in equipment and facility maintenance, producing overcrowded wards, aged medical technology, and staff-to-patient ratios well below WHO recommendations."
+                    "text": "Vietnam's public hospitals have faced persistent overcrowding, staffing pressure, and uneven equipment quality, especially in major urban and referral hospitals."
                   },
                   {
                     "type": "support",
-                    "text": "+ The King's Fund's analysis of the UK NHS found that the period 2010–2019 saw the lowest sustained real-terms funding growth in the NHS's 70-year history, directly correlated with increases in waiting times, cancelled operations, and staff vacancies."
+                    "text": "+ The NHS experienced unusually slow funding growth during much of the 2010s, while waiting times and staffing pressures increased, illustrating the risks of demand growing faster than resources."
                   }
                 ]
               },
@@ -1925,11 +1921,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's rapidly ageing population — with the over-60 share projected to rise from 12% to 25% by 2050 — is already creating demand pressure on healthcare and social care systems that were designed for a younger demographic."
+                    "text": "Vietnam's share of people aged 60 and over is rising rapidly and is projected to exceed one quarter of the population by around 2050, increasing demand for healthcare and social care."
                   },
                   {
                     "type": "support",
-                    "text": "+ OECD health data shows that average healthcare costs per person rise sharply after age 65, and that population ageing will increase health system demand by 1–2% of GDP in most developed countries over the next two decades even without any increase in unit costs."
+                    "text": "+ Older populations generally use more healthcare and long-term care, so population ageing is expected to place additional pressure on health budgets in many developed countries."
                   }
                 ]
               },
@@ -1939,11 +1935,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's anti-corruption campaigns in the health sector — which uncovered procurement fraud, inflated drug prices, and falsified medical records — demonstrate that governance failures, not only resource constraints, contribute to service quality decline."
+                    "text": "Major corruption cases in Vietnam's health sector have involved procurement and pricing abuses, showing that governance failures can damage public services as well as waste money."
                   },
                   {
                     "type": "support",
-                    "text": "+ The World Bank's Worldwide Governance Indicators consistently find that government effectiveness — the quality of public service delivery, the competence of civil servants, and the credibility of government commitments — varies enormously across countries with similar income levels, confirming that institutional quality, not budget size alone, is a primary determinant of public service quality."
+                    "text": "+ Countries with similar income levels can still differ greatly in the quality and reliability of public services, showing that government capability matters as well as the size of the budget."
                   }
                 ]
               }
@@ -1958,7 +1954,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Programme 30a — targeted investment in the poorest communes — combined increased funding with transparent outcome monitoring, linking resource allocation to measurable improvements in poverty rates, school enrolment, and healthcare access."
+                    "text": "Vietnam's Programme 30a targeted some of the country's poorest districts with infrastructure and social-development support, aiming to improve livelihoods and access to basic services."
                   },
                   {
                     "type": "support",
@@ -1986,11 +1982,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Family Health Team model — integrating primary healthcare, maternal and child health, and health promotion at commune level — represents the kind of structural integration that reduces duplication and improves preventive care."
+                    "text": "Vietnam has been strengthening commune-level primary healthcare, where local services can combine prevention, maternal and child health, vaccination, and basic treatment close to where people live."
                   },
                   {
                     "type": "support",
-                    "text": "+ Estonia's transformation into one of Europe's most digitally advanced public service systems — with electronic health records, digital prescriptions, and online government services accessible to all citizens — demonstrated that digital infrastructure investment can dramatically improve service responsiveness and reduce administrative cost simultaneously."
+                    "text": "+ Estonia has moved many public services online, including health records and prescriptions, showing how digital government can make routine services faster and more convenient."
                   }
                 ]
               }
@@ -2136,7 +2132,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research by Raj Chetty and colleagues on intergenerational mobility in the United States demonstrates that children born in the bottom income quintile have less than a 10% chance of reaching the top quintile — a degree of rigidity that directly contradicts meritocratic claims."
+                    "text": "+ US research on social mobility shows that children born into the poorest families have only a small chance of reaching the highest income group as adults."
                   }
                 ]
               },
@@ -2146,7 +2142,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Gini coefficient has risen with rapid economic growth, and surveys document increasing public concern about inequality between urban elites and rural populations."
+                    "text": "Vietnam's rapid growth has raised living standards but has also left visible income and regional gaps, so inequality remains an important public concern."
                   },
                   {
                     "type": "support",
@@ -2164,7 +2160,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Thomas Piketty's historical analysis in 'Capital in the Twenty-First Century' demonstrates that the rate of return on capital has exceeded economic growth in most periods, automatically concentrating wealth."
+                    "text": "+ Piketty argues that when returns on wealth remain higher than overall economic growth for long periods, wealth can become increasingly concentrated."
                   }
                 ]
               }
@@ -2183,7 +2179,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The IMF's research finds that fiscal redistribution — through taxes and transfers — reduces market inequality in developed countries by around one-third, but that the reduction comes with efficiency costs."
+                    "text": "+ Taxes and transfers substantially reduce income inequality in many developed countries, although the economic effects depend on how particular taxes and benefits are designed."
                   }
                 ]
               },
@@ -2211,7 +2207,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Heckman's research on early childhood investment demonstrates that equalising developmental opportunities for disadvantaged children produces lasting improvements in earnings, health, and social outcomes — with market wage returns that persist without ongoing transfers."
+                    "text": "+ Early support for disadvantaged children can improve later education, earnings, health, and social outcomes, helping reduce inequality of opportunity without relying only on income transfers in adulthood."
                   }
                 ]
               }
@@ -2247,7 +2243,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economic historian Deirdre McCloskey's analysis of 'The Great Enrichment' documents that real incomes per capita in market economies rose roughly 3,000% between 1800 and 2000 — an improvement in material living standards unmatched in all of prior human history."
+                    "text": "+ Living standards in market economies rose enormously after industrialisation, especially over the nineteenth and twentieth centuries, although the gains were uneven across countries and groups."
                   }
                 ]
               },
@@ -2261,7 +2257,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The World Bank's 'East Asian Miracle' report documents that successful East Asian economies — South Korea, Taiwan, Singapore, later Vietnam and China — achieved sustained growth by combining market mechanisms for resource allocation with targeted government intervention to correct specific market failures."
+                    "text": "+ Several successful East Asian economies combined market competition with active government policies in areas such as education, infrastructure, exports, and industrial development."
                   }
                 ]
               }
@@ -2280,7 +2276,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The global financial crisis of 2008 — triggered by unregulated mortgage markets and the proliferation of opaque financial instruments — produced the deepest global recession since the 1930s."
+                    "text": "+ The 2008 financial crisis grew out of serious failures in mortgage lending, financial regulation, and complex financial products, and it caused a deep global recession."
                   }
                 ]
               },
@@ -2290,7 +2286,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Competition Law and the Competition Commission were established precisely because market opening had begun producing concentrated market positions in key sectors — food processing, retail, telecommunications — where the dominant player was using its position to suppress competition rather than improve service."
+                    "text": "Vietnam's competition laws and competition authority exist to prevent abuses of market power and protect competition as the economy becomes larger and more complex."
                   },
                   {
                     "type": "support",
@@ -2330,7 +2326,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ OECD data consistently shows that SMEs account for over 60% of employment and around 55% of GDP value-added across member countries."
+                    "text": "+ Small and medium-sized firms provide a large share of jobs and economic activity across OECD economies, even though their exact contribution varies greatly by country."
                   }
                 ]
               },
@@ -2340,11 +2336,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's provincial town economies — where locally-owned businesses dominate food, retail, and services — show stronger local income multipliers than factory towns dominated by large export manufacturers."
+                    "text": "Locally owned small businesses can keep more spending circulating within a community because owners, workers, and suppliers are often based nearby."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research by the New Economics Foundation on local economic multipliers finds that money spent with locally-owned small businesses circulates within the local economy 2–3 times before leaving, compared to large chain stores and corporations where the multiplier is much lower."
+                    "text": "+ Money spent at locally owned businesses can circulate through local wages and suppliers before leaving the area, creating a stronger local multiplier in some communities."
                   }
                 ]
               },
@@ -2377,7 +2373,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The pharmaceutical industry illustrates the scale-R&D link most clearly: the average cost of developing a new approved drug exceeds $2 billion and takes 10–15 years."
+                    "text": "+ Developing a new medicine can take many years and cost very large sums, so large pharmaceutical firms can benefit from the scale needed to finance risky research."
                   }
                 ]
               },
@@ -2391,7 +2387,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ US Bureau of Labor Statistics data consistently shows that large firms — those employing over 500 workers — offer wage premiums averaging 15–20% over small-firm wages for comparable jobs, alongside substantially higher rates of employer-provided health insurance and pension coverage."
+                    "text": "+ Large firms often pay higher wages and provide benefits such as health insurance or pensions more frequently than very small firms, although this varies by industry and occupation."
                   }
                 ]
               },
@@ -2405,7 +2401,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economic research on industrial policy effectiveness — surveyed by economists Dani Rodrik and Ricardo Hausmann — finds that the most successful government support programmes are those targeted at correcting specific market failures (information externalities, coordination failures, missing insurance markets) rather than those that favour particular size categories."
+                    "text": "+ A common argument for government business support is that it should address a clear problem the market is not solving, rather than simply favour firms because they are large or small."
                   }
                 ]
               }
@@ -2551,7 +2547,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Michael Lipsky's seminal work on 'street-level bureaucracy' demonstrates that frontline public servants — not senior policymakers — make the decisions that constitute policy as citizens actually experience it."
+                    "text": "+ Frontline public servants have considerable influence over how policies work in practice because they make day-to-day decisions when dealing with citizens."
                   }
                 ]
               },
@@ -2561,7 +2557,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's experience with rural poverty demonstrates the complexity: infrastructure investment alone did not reduce poverty where human capital was insufficient."
+                    "text": "Vietnam's rural-poverty experience shows that building roads and infrastructure alone is not enough when communities also lack education, skills, healthcare, or access to markets."
                   },
                   {
                     "type": "support",
@@ -2579,7 +2575,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Political scientist Alasdair Roberts's research on 'the logic of discipline' finds that governments in most democracies systematically overpromise and underdeliver on policy — not from incompetence but because the incentive to win elections by making commitments is stronger than the incentive to deliver on them."
+                    "text": "+ Governments can be tempted to promise visible short-term results even when complex problems require slower, less popular reforms."
                   }
                 ]
               }
@@ -2594,11 +2590,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's motorcycle helmet law — introduced in 2007 and comprehensively enforced — is one of the most successful behaviour-change policy interventions in any developing country: helmet wearing rates increased from under 30% to over 90% within a year, and head injury fatalities fell by thousands annually."
+                    "text": "Vietnam's 2007 motorcycle-helmet law raised helmet use from roughly 30% to above 90% and was associated with thousands of lives and serious head injuries being prevented."
                   },
                   {
                     "type": "support",
-                    "text": "+ The global reduction in extreme poverty — from 36% of world population in 1990 to under 10% by 2015 — is the most dramatic improvement in human welfare in history."
+                    "text": "+ The global extreme-poverty rate fell dramatically between 1990 and the mid-2010s, representing a major improvement in material living conditions for hundreds of millions of people."
                   }
                 ]
               },
@@ -2608,7 +2604,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Mexico's Oportunidades conditional cash transfer programme — which Vietnam's social protection designers studied — consistently showed large positive effects on school attendance, nutrition, and health in rigorous evaluations."
+                    "text": "Mexico's Oportunidades conditional cash-transfer programme increased school attendance and improved several health and nutrition outcomes among poor households in major evaluations."
                   },
                   {
                     "type": "support",
@@ -2626,7 +2622,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Daron Acemoglu and James Robinson's 'Why Nations Fail' demonstrates through extensive historical evidence that the quality of political and economic institutions — property rights, rule of law, inclusive governance — is the primary determinant of long-run prosperity."
+                    "text": "+ Acemoglu and Robinson argue that inclusive political and economic institutions are central to long-term prosperity, although this is an influential interpretation rather than an uncontested single-cause explanation."
                   }
                 ]
               }
@@ -2644,7 +2640,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's dramatically increased penalties for drunk driving — introduced alongside mandatory roadside testing in 2019 — produced a measurable reduction in drink-driving offences and road fatalities in the following year."
+                    "text": "Vietnam introduced much stricter drink-driving penalties and enforcement from 2020, after which reported alcohol-related traffic violations fell sharply."
                   },
                   {
                     "type": "support",
@@ -2658,7 +2654,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's increasingly strict enforcement of domestic violence laws — backed by the 2022 revised Law on Domestic Violence Prevention — reflects recognition that weak legal responses had previously signalled social tolerance of abuse."
+                    "text": "Vietnam's revised 2022 Law on Domestic Violence Prevention strengthened prevention, protection, support, and enforcement measures for domestic abuse."
                   },
                   {
                     "type": "support",
@@ -2676,7 +2672,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economic research on the rule of law consistently finds that countries with more predictable and strictly enforced legal systems attract more investment, grow faster, and deliver better public services."
+                    "text": "+ Countries with more predictable legal systems and stronger rule of law often attract more investment because firms face less uncertainty over contracts, property, and enforcement."
                   }
                 ]
               }
@@ -2691,11 +2687,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Research on traffic enforcement in Vietnam finds that the perceived probability of being stopped and fined is a stronger predictor of helmet wearing and speed compliance than knowledge of the penalty."
+                    "text": "People are generally more likely to follow traffic rules when they believe enforcement is real and they may actually be stopped or fined, not simply because penalties are severe on paper."
                   },
                   {
                     "type": "support",
-                    "text": "+ A meta-analysis by criminologist Lawrence Sherman of 500+ studies on crime prevention finds that the certainty of sanctions is consistently a stronger deterrent than severity."
+                    "text": "+ Research on deterrence generally finds that the likelihood of being caught matters more than making punishments increasingly severe."
                   }
                 ]
               },
@@ -2723,7 +2719,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Portugal's 2001 decriminalisation of personal drug possession — replacing criminal penalties with mandatory health assessments and treatment referrals — was followed by reductions in drug-related HIV infections, overdose deaths, and drug-related incarceration, while drug use rates did not increase to levels feared by critics."
+                    "text": "✗ Portugal decriminalised possession of small amounts of drugs for personal use in 2001 and shifted many cases towards health assessment and support; drug-related deaths, HIV infections, and incarceration later fell substantially."
                   }
                 ]
               }
@@ -2741,11 +2737,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's investment in universal basic education has produced long-run reductions in poverty and social problems that preventive logic predicts: the cohorts that benefited from post-Đổi Mới education expansion show lower rates of extreme poverty, higher economic participation, and better health outcomes than preceding generations denied equivalent opportunities — a decades-long demonstration of prevention's power."
+                    "text": "Vietnam's expansion of basic education since Đổi Mới has contributed to better literacy, employment opportunities, and living standards across younger generations."
                   },
                   {
                     "type": "support",
-                    "text": "+ The Perry Preschool Study — a randomised experiment that tracked participants for 40 years — found that high-quality early childhood education for disadvantaged children produced a return of $7–12 per dollar invested through reduced crime, higher employment, and better health."
+                    "text": "+ The Perry Preschool study followed disadvantaged children for decades and found that high-quality early education produced substantial long-term social and economic benefits."
                   }
                 ]
               },
@@ -2755,11 +2751,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's public health research on traffic accidents finds that a significant proportion of serious collisions involve alcohol impairment, fatigue, or distraction — states in which the deterrence calculation that strict law relies on is largely absent."
+                    "text": "Many serious road crashes in Vietnam involve factors such as alcohol, fatigue, or distraction, which can reduce a driver's ability to make careful decisions in the moment."
                   },
                   {
                     "type": "support",
-                    "text": "+ A Lancet commission on public health prevention found that for non-communicable diseases — including alcohol-related harm, tobacco-related cancer, and obesity — preventive interventions return an average of $14 for every $1 invested through reduced treatment costs and increased productivity."
+                    "text": "+ Preventive public-health measures can save governments large treatment costs later by reducing diseases linked to smoking, alcohol misuse, poor diet, and inactivity."
                   }
                 ]
               },
@@ -2769,11 +2765,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's tradition of community-level governance through neighbourhood associations (tổ dân phố) and village councils provides exactly the social capital infrastructure that prevention research identifies as central to community wellbeing."
+                    "text": "Vietnam's neighbourhood groups and village-level organisations provide local networks through which residents can share information, solve problems, and support community wellbeing."
                   },
                   {
                     "type": "support",
-                    "text": "+ Robert Putnam's research on social capital across Italian regions demonstrates that areas with denser civic associations consistently outperform others on economic development, public health, educational attainment, and crime — differences that persist across decades and cannot be explained by wealth or formal institutions."
+                    "text": "+ Putnam's research on Italian regions argued that places with stronger traditions of civic participation tended to have more effective institutions and better development outcomes."
                   }
                 ]
               }
@@ -2792,7 +2788,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Even the most prevention-oriented criminologists — including Farrington and Welsh, whose systematic reviews consistently show prevention's superiority on cost-effectiveness — conclude that society needs a balanced approach."
+                    "text": "+ Crime prevention can reduce offending before harm occurs, but prevention programmes do not remove the need for policing and other measures to protect people from immediate threats."
                   }
                 ]
               },
@@ -2820,7 +2816,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The 'public health approach to violence prevention' — advocated by the WHO and the US Centers for Disease Control — explicitly combines primary prevention (addressing root causes), secondary prevention (early intervention with at-risk individuals), and tertiary prevention (reducing harm from violence that has occurred) alongside law enforcement."
+                    "text": "+ Public-health approaches to violence combine prevention, early intervention for people at risk, and support after violence has occurred, often alongside criminal-justice responses."
                   }
                 ]
               }
@@ -2976,11 +2972,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's own development has been substantially supported by international cooperation — UNDP, World Bank, bilateral aid from Japan, South Korea, and ASEAN partners — that accelerated poverty reduction and infrastructure development."
+                    "text": "Vietnam's development has received major support from international partners such as the World Bank, UN agencies, Japan, and other bilateral donors, particularly in infrastructure and poverty reduction."
                   },
                   {
                     "type": "support",
-                    "text": "+ The COVID-19 COVAX facility — the multilateral mechanism for equitable vaccine distribution — demonstrated that global health security depends on collective action: vaccine nationalism that left low-income countries unprotected allowed new variants to emerge that ultimately threatened vaccinated populations worldwide."
+                    "text": "+ COVAX was created to improve access to COVID-19 vaccines across countries, illustrating why global health threats often require international cooperation rather than purely national action."
                   }
                 ]
               },
@@ -3013,7 +3009,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ The US withdrawal from the Paris Agreement under the Trump administration — the world's second-largest emitter abandoning its climate commitments — demonstrated that even the most comprehensive multilateral climate framework is only as strong as the national political will to honour it."
+                    "text": "✗ The United States' withdrawal from the Paris Agreement in 2020 showed that international agreements still depend heavily on national governments choosing to maintain and implement their commitments."
                   }
                 ]
               },
@@ -3041,7 +3037,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Political economist Susan Strange's 'Strange Power' analysis documents how the US leverages control of the dollar, the IMF, and WTO agenda-setting to maintain structural advantages in the international economic system."
+                    "text": "+ Susan Strange argued that control over finance, markets, and international organisations gives powerful states lasting advantages in the global economy."
                   }
                 ]
               }
@@ -3063,7 +3059,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Political philosopher David Miller's theory of national responsibility argues that states have special obligations to their own citizens that they do not have to non-citizens — not because foreigners matter less morally, but because the institutional relationship of citizenship creates specific duties of care."
+                    "text": "+ Political theorist David Miller argues that governments have special responsibilities to their own citizens because citizenship creates particular duties of care."
                   }
                 ]
               },
@@ -3073,11 +3069,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's rapid domestic development since Đổi Mới has transformed the country from a recipient of international development assistance into a contributor — to ASEAN stability, to regional pandemic response, and increasingly to international peacekeeping through UN missions."
+                    "text": "Vietnam's economic development since Đổi Mới has increased its regional and international role, including participation in ASEAN cooperation and United Nations peacekeeping."
                   },
                   {
                     "type": "support",
-                    "text": "+ The concept of 'anchoring' in international relations — where stable, prosperous states provide regional public goods through their stability alone — confirms that domestic investment is not opposed to international contribution."
+                    "text": "+ Stable and prosperous countries can support their regions through trade, investment, diplomacy, and crisis cooperation even when their first priority is domestic development."
                   }
                 ]
               },
@@ -3110,7 +3106,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The 2008 global financial crisis — which originated in the US mortgage market but produced recessions across the world — illustrated how tightly domestic welfare is coupled to international financial stability."
+                    "text": "+ The 2008 financial crisis began in the United States but quickly caused recessions and financial stress across many other countries, showing how closely national economies are connected."
                   }
                 ]
               },
@@ -3124,7 +3120,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The Copenhagen Consensus — a project that uses cost-benefit analysis to rank global policy priorities — consistently finds that spending on global health, nutrition, and conflict prevention generates among the highest returns on investment available, often exceeding domestic policy alternatives."
+                    "text": "+ Cost-benefit analyses such as those produced by the Copenhagen Consensus have argued that some global health and nutrition programmes can generate very large benefits relative to their cost."
                   }
                 ]
               },
@@ -3174,7 +3170,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The post-2008 strengthening of the Basel Committee's banking supervision standards — agreed internationally and implemented across member jurisdictions — improved global financial system resilience by setting minimum capital and liquidity requirements that individual countries could not credibly commit to without international coordination."
+                    "text": "+ After the 2008 crisis, international banking rules were strengthened through Basel III, including tougher capital and liquidity requirements intended to make banks more resilient."
                   }
                 ]
               },
@@ -3188,7 +3184,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ International legal scholar Anne-Marie Slaughter's research on international institutions finds that binding multilateral frameworks — precisely by constraining powerful states — have been the primary mechanism through which smaller states have secured their interests in areas from maritime law to intellectual property."
+                    "text": "+ International rules can sometimes help smaller states by giving them legal procedures and common standards when dealing with more powerful countries."
                   }
                 ]
               }
@@ -3221,7 +3217,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economist Joseph Stiglitz's critique of IMF structural adjustment programmes — based on his experience as World Bank Chief Economist — documented how conditionality requirements reflecting Washington Consensus economics produced harmful outcomes in East Asia and Latin America."
+                    "text": "+ Joseph Stiglitz has criticised some IMF reform conditions for applying overly rigid market-oriented policies and argued that these policies caused serious problems in several developing economies."
                   }
                 ]
               },
@@ -3235,7 +3231,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Ha-Joon Chang's 'Kicking Away the Ladder' documents how today's wealthy countries developed using industrial policy, protectionism, and state intervention that current international rules — WTO, IMF, trade agreements — largely prohibit for developing countries."
+                    "text": "+ Ha-Joon Chang argues that many wealthy countries used protection and industrial policy during their own development and that some modern international rules reduce the policy space available to developing countries."
                   }
                 ]
               }
@@ -3391,11 +3387,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's expansion of electronic public procurement — requiring online publication of all government tender documents and contract awards — has been credited by the World Bank with reducing the opportunities for bid rigging and price inflation that characterised opaque paper-based procurement."
+                    "text": "Vietnam's expansion of electronic public procurement has made tender information and contract awards more accessible online, improving transparency and competition in government purchasing."
                   },
                   {
                     "type": "support",
-                    "text": "+ Analysis of the Open Government Partnership — a multilateral initiative where governments commit to transparency reforms — finds that countries that implemented procurement transparency reforms saw significant reductions in procurement unit prices, with savings in some countries exceeding 10% of procurement budgets."
+                    "text": "+ Publishing procurement information and using electronic tender systems can lower prices by increasing competition and making contracts easier to scrutinise."
                   }
                 ]
               },
@@ -3428,7 +3424,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The experience of open-meeting laws in US state legislatures — which require all deliberations to be public — has been associated with reduced candour in formal meetings and a shift of real deliberation to informal settings outside the public record."
+                    "text": "+ Open-meeting rules can improve transparency, but they may also encourage some sensitive discussion to move into informal settings where officials feel able to speak more freely."
                   }
                 ]
               },
@@ -3438,7 +3434,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Policy practitioners in Vietnam's government reform process note that the expansion of public consultation requirements has in some cases led to more carefully managed consultations designed to demonstrate broad input rather than genuine deliberation."
+                    "text": "Public consultation can become a box-ticking exercise if officials focus on showing that consultation occurred rather than seriously considering the views received."
                   },
                   {
                     "type": "support",
@@ -3456,7 +3452,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The UK government's assessment of its Freedom of Information Act found that compliance costs exceeded £35 million per year for central government departments alone, with a disproportionate burden on smaller agencies."
+                    "text": "+ Freedom-of-information systems require staff time and administrative resources to process requests, so transparency rules can impose noticeable costs on public agencies."
                   }
                 ]
               }
@@ -3474,11 +3470,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's National Assembly surveys consistently find that public concerns about corruption and official misconduct are among the top drivers of reduced trust in local governance."
+                    "text": "Vietnam's PAPI surveys show that corruption remains one of the public's major concerns about governance and public administration."
                   },
                   {
                     "type": "support",
-                    "text": "+ Edelman's Trust Barometer — which surveys public trust in institutions across 28 countries annually — shows sustained declines in government trust correlating with identified government failures: the 2008 financial crisis drove trust declines in financial regulators, the COVID-19 pandemic's mixed government responses drove trust volatility, and corruption scandals consistently produce sharp, lasting drops in trust in affected institutions."
+                    "text": "+ International trust surveys show that public confidence in government can fall after corruption scandals, major policy failures, or crises handled poorly."
                   }
                 ]
               },
@@ -3492,7 +3488,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Political scientist Larry Bartels's 'Unequal Democracy' demonstrates that US government policy on taxes, minimum wages, and social spending consistently favours the preferences of the wealthy over the majority."
+                    "text": "+ Larry Bartels's research on the United States argues that policymakers are more responsive to the preferences of affluent citizens than to those of lower-income groups."
                   }
                 ]
               },
@@ -3521,11 +3517,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's high public trust in central government — compared to the lower trust in local officials — correlates with the central government's more visible track record on economic growth and poverty reduction."
+                    "text": "Surveys in Vietnam show that trust and satisfaction can differ across levels of government, and citizens' views are influenced by how well they think authorities solve practical problems."
                   },
                   {
                     "type": "support",
-                    "text": "+ Pippa Norris's extensive cross-country research on institutional trust finds that the strongest predictor of trust across contexts is perceived government competence and responsiveness — whether the government actually solves problems — rather than formal transparency measures or communication strategies."
+                    "text": "+ Cross-country research on political trust often finds that perceived government competence and responsiveness are important influences on whether citizens trust institutions."
                   }
                 ]
               },
@@ -3535,7 +3531,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The establishment of the Central Steering Committee for Anti-Corruption — with direct oversight by the Party General Secretary — and the prosecution of over 130,000 officials since 2016 represents precisely the structural reform that trust-rebuilding theory predicts is most effective."
+                    "text": "Vietnam's anti-corruption campaign has involved a central steering body and disciplinary or criminal action against many officials, making enforcement highly visible to the public."
                   },
                   {
                     "type": "support",
@@ -3553,7 +3549,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Participatory budgeting — pioneered in Porto Alegre, Brazil and since adopted in thousands of cities worldwide — consistently shows improved public satisfaction with local government, better service allocation outcomes, and increased voter participation in communities where it has been implemented."
+                    "text": "+ Participatory budgeting, first developed prominently in Porto Alegre, has been adopted in many places and can give residents a direct role in deciding how some public money is spent."
                   }
                 ]
               }
@@ -3575,7 +3571,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Ireland's Citizens' Assembly — which made recommendations on abortion law and same-sex marriage that were then put to referendum — demonstrates that structured citizen participation on divisive issues can produce legitimate, durable resolutions that electoral and parliamentary politics could not achieve."
+                    "text": "+ Ireland's Citizens' Assembly played an important role in public debate before the referendum on abortion, while an earlier deliberative convention contributed to the process that led to the same-sex-marriage referendum."
                   }
                 ]
               },
@@ -3585,11 +3581,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Community consultations in Vietnam's urban development planning — particularly for infrastructure projects affecting local residents — have in documented cases surfaced implementation concerns and alternative designs that planners had not considered."
+                    "text": "Public consultation on urban projects in Vietnam can reveal local concerns about access, relocation, safety, and design that technical planners may otherwise overlook."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research by political scientists Fishkin and Luskin on deliberative polls — where random samples of citizens are informed and deliberate before expressing views — consistently finds that deliberation changes opinions in ways that increase policy sophistication and reduce polarisation."
+                    "text": "+ Deliberative polling research shows that when citizens receive balanced information and discuss an issue carefully, their opinions often change and become more informed."
                   }
                 ]
               },
@@ -3599,7 +3595,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's ward-level People's Council elections — which involve local candidates and direct community voting — build civic engagement at the most local level of government."
+                    "text": "Vietnam holds direct elections for local People's Councils, giving citizens a formal role in choosing representatives at local levels of government."
                   },
                   {
                     "type": "support",
@@ -3618,11 +3614,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's rapid and effective COVID-19 response in 2020 — which required swift government action on lockdowns, quarantine, and resource deployment — would have been impossible under an extensive public consultation requirement."
+                    "text": "Vietnam's initial COVID-19 response in 2020 relied on rapid government decisions on quarantine, movement restrictions, and public-health resources, illustrating why emergencies can leave less time for lengthy consultation."
                   },
                   {
                     "type": "support",
-                    "text": "+ Constitutional law scholar Bruce Ackerman's theory of 'constitutional moments' distinguishes between normal politics — where representative institutions are appropriate — and exceptional moments where direct citizen engagement is most valuable."
+                    "text": "+ Some political theories distinguish routine policymaking from rare constitutional moments when broader public participation may be especially valuable."
                   }
                 ]
               },
@@ -3636,7 +3632,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on US notice-and-comment regulatory processes — one of the most extensive participation systems in the world — finds that industry comments systematically outnumber public interest comments by ratios of 50:1 or more, and that regulations are measurably more favourable to industries that comment extensively."
+                    "text": "+ Formal public-comment systems can be dominated by well-organised industries and interest groups because they have more resources to submit detailed responses than ordinary citizens."
                   }
                 ]
               },

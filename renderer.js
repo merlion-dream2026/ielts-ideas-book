@@ -46,7 +46,7 @@
   function renderHeader() {
     return `
 <header class="site-header theme-${theme}">
-  <div class="breadcrumb">IELTS Ideas Book <span>›</span> Topic: ${esc(D.topic)}</div>
+  <div class="breadcrumb">Ideas Book for IELTS Essay <span>›</span> Topic: ${esc(D.topic)}</div>
   <h1>${esc(D.topic)}</h1>
   <p class="subtitle">${esc(D.subtitle)}</p>
   <div class="badge-row">${badges(D.badges)}</div>

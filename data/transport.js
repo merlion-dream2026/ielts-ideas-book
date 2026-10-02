@@ -46,7 +46,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UN data shows that the world's urban population is expected to increase by 2.5 billion by 2050, almost entirely in developing-country cities where infrastructure investment lags population growth — making urbanisation-driven congestion a worsening global trend."
+                    "text": "UN projections show that the world's urban population will grow by about 2.5 billion by 2050, with most of the increase in Asia and Africa, putting growing pressure on transport systems in rapidly expanding cities."
                   }
                 ]
               },
@@ -60,7 +60,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The International Transport Forum finds a strong positive correlation between GDP per capita and private vehicle ownership across developing countries — confirming that economic growth, absent strong public transport alternatives, reliably translates into more vehicles and worse congestion."
+                    "text": "Economic development often brings higher private vehicle ownership. Without attractive public transport and careful urban planning, this can add to congestion as household incomes rise."
                   }
                 ]
               },
@@ -93,7 +93,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ London's congestion charge — introduced in 2003 — reduced traffic volumes in the charging zone by around 30% in its first year and has sustained significantly lower congestion levels than equivalent European city centres without similar schemes."
+                    "text": "London's congestion charge, introduced in 2003, reduced traffic entering the charging zone and cut congestion substantially in its first year, showing that charging can discourage some peak urban driving."
                   }
                 ]
               },
@@ -103,7 +103,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Hanoi's Metro Line 3 opened its first completed section in late 2021 and immediately attracted strong passenger numbers — demonstrating that Vietnamese commuters will choose mass transit over motorcycles and cars when the service is genuinely fast and reliable."
+                    "text": "Hanoi Metro Line 3 opened its first elevated section in 2024 and quickly attracted passengers, showing that many commuters are willing to use rail when it offers a practical alternative to road travel."
                   },
                   {
                     "type": "support",
@@ -121,7 +121,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on compact mixed-use urban districts consistently shows vehicle trip generation rates 40–60% lower than equivalent populations in single-use suburban developments — confirming that land use is a more powerful determinant of travel demand than any transport intervention alone."
+                    "text": "Compact, mixed-use neighbourhoods generally generate fewer car trips because homes, jobs, shops, and services are closer together, so land-use planning can reduce transport demand as well as manage it."
                   }
                 ]
               }
@@ -139,11 +139,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's expressway programme — expanding the national highway network to connect major cities — has measurably reduced inter-city freight journey times and opened economic corridors that were previously constrained by single congested routes, demonstrating road investment's direct economic impact."
+                    "text": "Vietnam's expanding expressway network has improved connections between major cities and industrial areas, reducing travel times on some routes and supporting freight movement and regional development."
                   },
                   {
                     "type": "support",
-                    "text": "+ For freight movement and inter-urban travel, road investment generates clear economic returns — World Bank infrastructure assessments consistently find high benefit-cost ratios for highway investment in developing countries where the existing network is most constrained."
+                    "text": "In developing countries with serious road bottlenecks, well-chosen highway projects can improve freight movement and access to markets, especially where the existing network is incomplete."
                   }
                 ]
               },
@@ -171,7 +171,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Survey data on transport mode choice consistently shows that the most important factor deterring public transport use is the inability to reach multiple destinations on a single journey — a structural limitation of fixed-route systems that road networks do not share."
+                    "text": "People often avoid public transport when it cannot easily serve the different destinations they need to reach in one journey, giving private vehicles an important flexibility advantage."
                   }
                 ]
               }
@@ -190,7 +190,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Decades of transport economics research on induced demand finds that road capacity expansion increases vehicle-kilometres travelled by 50–100% of the new capacity within 10 years — a finding so consistent that it is now considered a near-universal law of urban transport planning."
+                    "text": "Transport research shows that adding road capacity often encourages additional driving over time, so new roads may relieve congestion temporarily without solving it permanently."
                   }
                 ]
               },
@@ -200,7 +200,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Hanoi's BRT corridor on Giang Vo–Le Van Luong, despite its implementation challenges, demonstrated that dedicated transit lanes can move substantially more people per hour than the equivalent road space allocated to private vehicles — validating the space-efficiency argument for public transport investment."
+                    "text": "Hanoi's BRT system has faced operational problems, but dedicated bus lanes illustrate a key advantage of mass transit: one lane can move far more people by bus than by private car."
                   },
                   {
                     "type": "support",
@@ -214,7 +214,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Ho Chi Minh City's air quality — already a significant public health concern — would benefit substantially from a shift of even 10–15% of private vehicle trips to a completed metro network, a co-benefit of PT investment that road expansion could never deliver."
+                    "text": "Shifting some trips from private vehicles to a well-used metro system could reduce traffic pollution in Ho Chi Minh City as well as congestion, especially on busy urban corridors."
                   },
                   {
                     "type": "contrast",
@@ -240,7 +240,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO estimates that outdoor air pollution causes over 4 million premature deaths annually worldwide, with transport being a dominant source in most developing-country cities — an externality of private car use that market prices fail to reflect and that only government intervention can address."
+                    "text": "Outdoor air pollution causes millions of premature deaths worldwide, and road traffic is an important urban source of harmful pollutants, particularly in many large cities."
                   }
                 ]
               },
@@ -287,7 +287,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Surveys of urban transport preferences consistently find that given adequate income, most people prefer private car travel for its flexibility, comfort, and privacy — preferences that governments should respond to rather than override unless the case for intervention is overwhelming."
+                    "text": "Many people prefer private cars because they offer privacy, comfort, and flexible door-to-door travel, so policies that discourage driving work best when realistic alternatives are available."
                   }
                 ]
               },
@@ -461,7 +461,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Luxembourg became the first country to make all public transport free nationally in 2020 — with explicit equity rationale; surveys of low-income users showed significant improvement in economic mobility and financial stress reduction, validating the equity case for free PT."
+                    "text": "Luxembourg made public transport free nationwide in 2020. The policy improved affordability and access, although free fares alone do not necessarily persuade large numbers of drivers to abandon cars."
                   }
                 ]
               },
@@ -471,11 +471,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Hanoi's partially subsidised bus network already attracts price-sensitive riders; surveys suggest that full fare elimination would significantly increase bus use among motorcycle commuters who currently find bus journeys marginally more expensive when fuel costs are factored in."
+                    "text": "Hanoi already subsidises bus fares for many users. Lower or zero fares could make buses more attractive to price-sensitive passengers, although service quality and journey time would still matter."
                   },
                   {
                     "type": "support",
-                    "text": "+ Tallinn, Estonia introduced free public transport for residents in 2013 and recorded a 14% increase in trips — primarily from former car drivers — producing measurable reductions in central city congestion during peak periods."
+                    "text": "After Tallinn introduced free public transport for registered residents in 2013, public transport use increased and car trips fell somewhat, but a substantial share of the shift also came from walking."
                   }
                 ]
               },
@@ -489,7 +489,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Critics focus on fare revenue lost but rarely account for the full operational cost of fare collection — ticketing infrastructure, staffing, enforcement, and evasion costs that in some systems represent 15–25% of total fare revenue collected."
+                    "text": "Fare-free public transport also saves some ticketing, enforcement, and collection costs, although the size of these savings varies greatly between transport systems."
                   }
                 ]
               }
@@ -508,7 +508,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport economists consistently find that means-tested discounts for low-income passengers deliver comparable equity outcomes at 20–30% of the cost of universal free access — redirecting the remaining 70–80% toward service improvement that benefits all passengers including the poorest."
+                    "text": "Targeted fare discounts can support low-income passengers at a lower public cost than universal free travel, leaving more funding available for frequency, reliability, and network improvements."
                   }
                 ]
               },
@@ -522,7 +522,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Kansas City, which introduced free transit in 2020, found that most new riders were existing bus users shifting from paid to free trips rather than new modal converts from cars — suggesting that fare removal alone, without service improvement, has limited impact on overall transport behaviour."
+                    "text": "Kansas City's fare-free policy illustrates a broader lesson: removing fares can help existing riders, but without better service it may have only a limited effect on car use."
                   }
                 ]
               },
@@ -554,11 +554,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Ho Chi Minh City's metro network, when complete, is designed to carry millions of passengers daily through corridors where equivalent road expansion would require demolishing vast areas of dense urban fabric — demonstrating that PT is the only physically viable solution at the scale the city's growth demands."
+                    "text": "In dense cities such as Ho Chi Minh City, high-capacity rail can move very large numbers of people through corridors where equivalent road expansion would require much more urban land."
                   },
                   {
                     "type": "support",
-                    "text": "+ Tokyo's rail network carries over 40 million passengers daily — a figure physically impossible for any road network of comparable land footprint — confirming that high-quality PT is the only technology capable of serving very large cities without catastrophic land consumption."
+                    "text": "Tokyo's rail system carries enormous passenger volumes each day, illustrating why high-capacity public transport is essential in very large, dense cities where road space is limited."
                   }
                 ]
               },
@@ -586,7 +586,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ ADB cost-benefit analyses of urban transport investment in Asian cities consistently find that metro and BRT systems generate higher economic returns per dollar invested than urban road expansion in the same corridors, primarily because of superior land efficiency."
+                    "text": "In dense Asian cities, metro and BRT investment can offer strong economic benefits because high-capacity public transport uses scarce urban land more efficiently than road expansion."
                   }
                 ]
               }
@@ -619,7 +619,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Cities that have invested heavily in PT without controlling sprawl — many American cities with light rail lines — find that low-density development patterns generate car trips that PT cannot efficiently serve regardless of network quality."
+                    "text": "Some low-density cities have invested in rail without greatly reducing car use because scattered housing and jobs remain difficult to serve efficiently by fixed-route public transport."
                   }
                 ]
               },
@@ -629,11 +629,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's rapidly growing electric motorcycle fleet — now among the largest in Southeast Asia — is addressing the pollution dimension of the dominant transport mode without requiring PT infrastructure, demonstrating that technology can solve environmental transport problems independently of PT investment."
+                    "text": "Vietnam's growing electric-motorcycle market shows that cleaner vehicle technology can reduce tailpipe pollution from a common transport mode, although it does not solve congestion or road-space problems."
                   },
                   {
                     "type": "support",
-                    "text": "+ McKinsey analysis of urban transport decarbonisation finds that the optimal pathway combines PT investment, EV transition, smart traffic management, and active travel infrastructure — no single solution achieves the necessary reductions that a well-designed combination can deliver."
+                    "text": "Cutting transport emissions usually requires a mix of public transport, electric vehicles, smarter traffic management, walking, and cycling rather than relying on one solution alone."
                   }
                 ]
               }
@@ -665,7 +665,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's NDC commitments under the Paris Agreement include significant transport emission reductions; prioritising rail investment — particularly urban metro networks and the north-south high-speed rail corridor — is one of the few transport sector decisions that simultaneously improves capacity, reduces emissions, and demonstrates policy coherence."
+                    "text": "Vietnam's climate commitments include reducing transport emissions, so urban rail and the North-South high-speed railway can form part of a broader strategy to increase capacity while lowering emissions."
                   },
                   {
                     "type": "support",
@@ -702,7 +702,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ World Bank infrastructure assessments for lower-income countries consistently recommend road network completion as a higher development priority than rail investment — roads serve broader populations and generate more widespread economic activity per unit of investment at early development stages."
+                    "text": "For lower-income countries with large gaps in basic connectivity, improving road access can remain a high development priority because roads reach many destinations that fixed rail lines cannot."
                   }
                 ]
               },
@@ -730,7 +730,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Bloomberg NEF projects that EVs will represent over 60% of new vehicle sales globally by 2040 — a trajectory that is rapidly closing the emissions gap between road and rail transport and weakening the environmental case for prioritising rail infrastructure investment over roads."
+                    "text": "Electric vehicles are taking a growing share of new-car sales worldwide, reducing the emissions advantage of petrol cars, but rail can still be much more space- and energy-efficient on busy corridors."
                   }
                 ]
               }
@@ -872,11 +872,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Health Environment Management Agency estimated in 2019 that air pollution causes over 70,000 premature deaths annually in Vietnam, with vehicle emissions identified as the dominant urban source — a figure that places the health cost of private vehicle growth among the country's most serious public health challenges."
+                    "text": "Air pollution causes a large health burden in Vietnam, and road traffic is an important source of pollution in major cities, although industry, construction, power generation, and other sources also contribute."
                   },
                   {
                     "type": "support",
-                    "text": "+ The EEA calculates that road transport is responsible for roughly 40% of NOx and 30% of PM2.5 emissions in European cities, causing over 400,000 premature deaths annually across the EU — confirming transport emissions as one of the most serious preventable public health harms in urbanised societies."
+                    "text": "Road transport is a major source of nitrogen oxides and particulate pollution in Europe, but the original claim overstates both its share and the number of deaths attributable specifically to transport."
                   }
                 ]
               },
@@ -919,11 +919,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese families making complex multi-stop journeys — combining school drop-off, elderly relative care, workplace commute, and shopping — find that the inflexibility of bus timetables and routes makes private vehicles genuinely necessary rather than merely convenient."
+                    "text": "For families making several stops for school, work, shopping, or caring responsibilities, private vehicles can be genuinely useful when public transport routes do not match the journey."
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport surveys in countries with excellent public transport consistently show that significant minorities — including families with children, shift workers, and people with disabilities — report that their primary trips cannot realistically be made by any available PT service."
+                    "text": "Even cities with strong public transport still have groups such as shift workers, families with complex trips, and some disabled travellers whose journeys can be difficult to make without a private vehicle."
                   }
                 ]
               },
@@ -937,7 +937,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Bloomberg NEF's EV outlook projects that the average lifecycle carbon footprint of a new electric car will be 70% lower than a petrol equivalent within five years — a trajectory that eliminates the main environmental argument against private car use faster and more completely than any ownership restriction could."
+                    "text": "Electric cars generally produce much lower greenhouse-gas emissions over their full lifetime than comparable petrol cars, especially on cleaner electricity grids, but they do not remove congestion or all pollution."
                   }
                 ]
               },
@@ -951,7 +951,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ World Bank economic analysis consistently finds that personal mobility — including private vehicle ownership — is among the strongest predictors of individual economic advancement in developing countries, where access to jobs and markets is the binding constraint on income growth."
+                    "text": "Better personal mobility can improve access to jobs and markets, but private vehicle ownership is only one way to provide that access and is not itself a universal cause of economic advancement."
                   }
                 ]
               }
@@ -969,11 +969,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese residents of new residential developments on city peripheries — built without integrated PT connections, local employment, or accessible services — find car or motorcycle ownership genuinely necessary to access the jobs, healthcare, and education that urban life requires."
+                    "text": "Residents of peripheral developments with weak public transport often become dependent on cars or motorcycles simply to reach jobs, schools, healthcare, and other basic services."
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on transport disadvantage consistently finds that households without private vehicles in car-dependent built environments suffer significantly lower rates of employment, healthcare access, and social participation — confirming that car ownership is necessary where the built environment mandates it."
+                    "text": "In car-dependent areas, households without access to a vehicle can face worse access to employment, healthcare, and social activities, showing how urban design can create transport disadvantage."
                   }
                 ]
               },
@@ -1016,11 +1016,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The majority of Hanoi's population currently travels primarily by motorcycle or public transport — demonstrating that car ownership is not necessary even in a growing Asian megacity; the question is whether future infrastructure investment continues to make this viable or creates car dependency through urban design choices."
+                    "text": "Most journeys in Hanoi are still made by motorcycles and other non-car modes, showing that widespread car ownership is not inevitable if cities continue to provide practical alternatives."
                   },
                   {
                     "type": "support",
-                    "text": "+ Singapore maintains one of the world's lowest car ownership rates — around 110 per 1,000 people versus 600+ in the US — through a combination of excellent PT, congestion pricing, and vehicle ownership taxes, demonstrating that car-light urban living is compatible with very high standards of economic development."
+                    "text": "Singapore combines high-quality public transport with strict vehicle-ownership policies and road pricing, allowing a wealthy city to maintain relatively low levels of private car ownership."
                   }
                 ]
               },
@@ -1034,7 +1034,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Urban economics research finds that shared mobility services have reduced private car ownership among urban millennials by 10–20% in cities where they are well-established — a structural shift away from ownership that will accelerate as autonomous and electric shared vehicles reduce costs further."
+                    "text": "Ride-hailing and car-sharing can reduce the need for some urban residents to own a car, although the size of the effect varies by city and these services can also generate extra traffic."
                   }
                 ]
               },
@@ -1048,7 +1048,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ The financial burden of car ownership falls hardest on lower-middle-income families who can afford a car but find it consumes a disproportionate share of income — if adequate alternatives existed, these households would benefit most from being able to redirect car ownership costs toward other needs."
+                    "text": "For lower- and middle-income households, car ownership can absorb a large share of income, so good alternatives may allow families to spend more on housing, education, or other needs."
                   }
                 ]
               }
@@ -1084,7 +1084,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Stockholm's congestion tax, introduced in 2006, was made permanent after a referendum following evidence that revenues invested in public transport had improved the PT system sufficiently to make the tax politically acceptable to the majority of residents."
+                    "text": "Stockholm made its congestion tax permanent after a public vote, and revenue has supported transport investment, showing that road pricing can gain acceptance when people see clear benefits."
                   }
                 ]
               },
@@ -1117,7 +1117,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Analysis of fuel and vehicle taxes consistently finds regressive distributional effects in cities with limited PT — lower-income car owners spend higher proportions of income on driving costs than wealthy car owners, meaning uniform tax increases widen rather than reduce transport inequality."
+                    "text": "Fuel and vehicle taxes can be regressive where lower-income drivers have few alternatives, because transport costs take a larger share of their income than they do for wealthier households."
                   }
                 ]
               },
@@ -1145,7 +1145,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Behavioural economics research on transport finds that mode shift requires both a push (making driving more costly) and a pull (making alternatives genuinely attractive); the evidence for taxes-only approaches without PT investment producing meaningful congestion reduction is weak."
+                    "text": "Policies that discourage driving tend to work better when they are paired with attractive alternatives such as reliable public transport, walking, and cycling rather than using higher costs alone."
                   }
                 ]
               }
@@ -1291,7 +1291,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ IEA data shows that transport CO₂ emissions reached 7.7 Gt in 2022 — higher than pre-pandemic levels — and are projected to keep rising in developing regions, confirming that without active policy intervention, transport will increasingly dominate global emissions trajectories."
+                    "text": "Transport produces a large share of global carbon emissions, and emissions remain especially difficult to reduce in fast-growing road and aviation markets without stronger policy and cleaner technology."
                   }
                 ]
               },
@@ -1301,11 +1301,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Hanoi's annual PM2.5 concentrations regularly exceed the WHO safe limit by a factor of three to four, with vehicles — particularly motorcycles without catalytic converters — identified as the dominant urban source; the health burden is concentrated in densely populated inner-city districts where lower-income residents are least able to protect themselves."
+                    "text": "Hanoi often records PM2.5 levels well above WHO guidelines, but pollution comes from several sources, including traffic, construction, industry, and regional pollution rather than motorcycles alone."
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO estimates that 99% of the world's urban population breathes air that exceeds safe pollution guidelines, with vehicle emissions the primary contributor in most cities — a global public health emergency that primarily harms the urban populations of developing countries."
+                    "text": "WHO reports that almost all of the world's population breathes air above its recommended pollution limits. Cleaner transport can help, but traffic is only one of several important pollution sources."
                   }
                 ]
               },
@@ -1319,7 +1319,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ A Vietnamese factory reducing its emissions by 10% through energy efficiency is counted toward national targets; a Vietnamese airline growing its fleet by 10% is largely excluded — an accounting inconsistency that systematically understates transport's true climate impact."
+                    "text": "International aviation emissions are treated differently from many domestic emissions in climate accounting, which can make responsibility harder to assign and requires international as well as national policy."
                   }
                 ]
               }
@@ -1338,7 +1338,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The UK's 2030 ban on new petrol and diesel car sales has already prompted major manufacturers to bring forward EV investment plans by years — demonstrating that regulatory phase-out dates change manufacturer strategy far more rapidly than consumer incentives alone."
+                    "text": "The UK currently plans to end sales of new purely petrol and diesel cars by 2030, with all new cars and vans required to be zero-emission by 2035, giving manufacturers a clear transition signal."
                   }
                 ]
               },
@@ -1352,7 +1352,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The IEA's transport decarbonisation pathway finds that 'avoid and shift' measures — reducing trips and shifting to PT and active travel — must contribute at least 40% of the emissions reductions required to meet global climate targets, alongside vehicle efficiency improvements."
+                    "text": "Climate strategies for transport generally combine cleaner vehicles with measures that reduce unnecessary trips and shift travel toward public transport, walking, and cycling."
                   }
                 ]
               },
@@ -1366,7 +1366,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ IMF analysis finds that a global carbon price of $75 per tonne of CO₂ applied to transport fuels would reduce global transport emissions by approximately 20% by 2030 — a scale of reduction that no other single policy instrument can achieve as cost-efficiently."
+                    "text": "Carbon pricing can make the climate cost of fossil-fuel transport more visible and encourage cleaner choices, but its impact depends on the price level and the alternatives available to users."
                   }
                 ]
               }
@@ -1388,7 +1388,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ During COVID-19 lockdowns, cities worldwide recorded dramatic and almost instantaneous air quality improvements as vehicle numbers fell — natural experiments confirming that vehicle restriction is the fastest and most direct mechanism for improving urban air quality."
+                    "text": "COVID-19 lockdowns produced rapid improvements in some urban air pollutants as road traffic fell sharply, showing that traffic volumes can have an immediate effect on city air quality."
                   }
                 ]
               },
@@ -1402,7 +1402,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UK government research found that non-exhaust emissions from vehicle tyres and brakes already account for 60% of roadside PM2.5 in London — a finding that fundamentally changes the case for EV transition as a complete air quality solution and strengthens the argument for managing total vehicle numbers."
+                    "text": "Even as exhaust emissions fall, tyre, brake, and road-wear particles remain important. In London, most road-transport PM2.5 now comes from non-exhaust sources, so electrification alone cannot remove all particulate pollution."
                   }
                 ]
               },
@@ -1431,11 +1431,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "VinFast's domestic EV production and Vietnam's growing electric motorcycle fleet demonstrate that vehicle electrification can proceed rapidly in a developing economy — offering a pathway to cleaner transport that does not require restricting the mobility that is driving Vietnam's economic development."
+                    "text": "Vietnam's growing electric-vehicle industry, including electric motorcycles and cars, shows that transport electrification can expand in a developing economy while preserving personal mobility."
                   },
                   {
                     "type": "support",
-                    "text": "+ The IEA projects that a fully electrified global vehicle fleet running on decarbonised electricity would eliminate approximately 75% of road transport's current lifecycle carbon emissions — a reduction achievable without any restriction on how far or how often people drive."
+                    "text": "Electric vehicles powered by low-carbon electricity can greatly reduce road-transport emissions, but they still require clean electricity, charging infrastructure, and measures to address congestion and non-exhaust pollution."
                   }
                 ]
               },
@@ -1449,7 +1449,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO air quality studies in Asian cities find that vehicle emissions typically account for 30–50% of PM2.5, leaving 50–70% attributable to other sources that vehicle restriction cannot address — confirming that it is a necessary but far from sufficient component of an effective air quality strategy."
+                    "text": "Vehicle emissions are only one part of urban air pollution in Asian cities, so effective clean-air policy also needs to address industry, power generation, construction, waste burning, and other sources."
                   }
                 ]
               },
@@ -1481,11 +1481,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's electric motorcycle fleet — already among the largest in Asia — demonstrates that EV technology is commercially viable and achievable in a developing country context; the expansion of this fleet is already producing measurable air quality benefits in cities where electric motorcycles have displaced two-stroke petrol engines."
+                    "text": "Vietnam has a rapidly growing electric two-wheeler market, which can reduce local tailpipe emissions where electric motorcycles replace petrol models, although citywide air-quality effects are harder to isolate."
                   },
                   {
                     "type": "support",
-                    "text": "+ Bloomberg NEF calculates that an EV charged on the average European electricity grid already produces 70% fewer lifecycle CO₂ emissions than a petrol equivalent — a gap that will widen as grids continue decarbonising, making the climate case for EV adoption progressively stronger over time."
+                    "text": "Studies generally find that electric cars produce substantially less greenhouse-gas emissions over their full lifetime than petrol cars on typical European grids, with larger benefits as electricity becomes cleaner."
                   }
                 ]
               },
@@ -1495,11 +1495,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese consumers who have adopted electric motorcycles have done so primarily for cost reasons — lower running costs and government incentives — rather than environmental motivation, demonstrating that technology solutions that align with self-interest are adopted far more rapidly than those requiring environmental sacrifice."
+                    "text": "Lower running costs are one reason consumers may choose electric motorcycles, showing how environmental technology can spread faster when it also offers clear financial or practical benefits."
                   },
                   {
                     "type": "support",
-                    "text": "+ Consumer surveys consistently show that willingness to change travel behaviour for environmental reasons is much lower than willingness to adopt cleaner technology that maintains equivalent convenience — confirming that green vehicle technology is more politically and practically scalable than behaviour-change approaches."
+                    "text": "Consumers are often more willing to adopt cleaner technology when it preserves convenience than to make large voluntary reductions in travel, although both approaches can be important."
                   }
                 ]
               },
@@ -1546,7 +1546,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport and Environment analysis found that an EV charged on Poland's predominantly coal-fired grid produces only 30% fewer lifecycle emissions than a petrol car — significant but far below the 70%+ reduction achievable on the grid mixes of France or Norway, illustrating how the green vehicle benefit depends critically on simultaneous grid transformation."
+                    "text": "An electric vehicle can still produce less carbon over its full lifetime than a petrol car on a coal-heavy grid, but the benefit becomes much larger as the electricity supply gets cleaner."
                   }
                 ]
               },
@@ -1560,7 +1560,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The IPCC's transport decarbonisation analysis concludes that meeting 1.5°C targets requires a combination of vehicle electrification (40%), fuel efficiency (20%), and demand reduction through urban form and behaviour change (40%) — confirming that green vehicles, however important, can deliver only part of the necessary emissions reductions."
+                    "text": "IPCC assessments show that cutting transport emissions requires both cleaner vehicles and changes in travel demand, urban form, public transport, walking, and cycling; there is no single fixed percentage split that applies everywhere."
                   }
                 ]
               }
@@ -1706,7 +1706,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Global EV sales exceeded 14 million vehicles in 2023, representing 18% of all new car sales — a pace of adoption that exceeds most projections from just five years earlier, confirming that EV technology is transitioning from policy-supported niche to commercially self-sustaining mainstream at a rate that supports optimism about transport's environmental future."
+                    "text": "Global electric-car sales rose rapidly in 2023, showing that EVs have moved far beyond a niche market, although policy support still plays an important role in many countries."
                   }
                 ]
               },
@@ -1720,7 +1720,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ US National Highway Traffic Safety Administration data attributes 94% of serious crashes to human choice or error — a figure that highlights the transformative safety potential of autonomous vehicles if and when they achieve reliable deployment at scale."
+                    "text": "NHTSA's often-cited 94% figure referred to the factor identified immediately before a crash, not proof that drivers caused 94% of crashes; road, vehicle, and system factors also matter."
                   }
                 ]
               },
@@ -1734,7 +1734,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Political science research on environmental policy consistently finds that technology standards and incentives face less organised political opposition than behaviour-change mandates — making technology pathways not just theoretically viable but practically more implementable in democratic political systems."
+                    "text": "Technology standards and incentives can sometimes face less public resistance than restrictions on people's behaviour, which may make them politically easier to implement in some transport policies."
                   }
                 ]
               }
@@ -1781,7 +1781,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ McKinsey analysis of autonomous vehicle commercialisation timelines has been revised significantly longer with each successive assessment — what was projected as 2020 is now projected as 2030+ for limited deployment and 2040+ for mass market, confirming that technology timelines consistently exceed initial optimism."
+                    "text": "Autonomous-vehicle forecasts have repeatedly been pushed back as technical and regulatory challenges proved harder than expected, illustrating how uncertain transport-technology timelines can be."
                   }
                 ]
               }
@@ -1803,7 +1803,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Pittsburgh's smart traffic signal system, developed by Carnegie Mellon University, reduced journey times by 25% and idling time by over 40% across the pilot area — demonstrating that intelligent signal management can deliver congestion reductions comparable to new road construction at a fraction of the cost and disruption."
+                    "text": "Pittsburgh's adaptive traffic-signal pilot reduced travel and waiting times, showing that smarter signal control can improve traffic flow without building new roads."
                   }
                 ]
               },
@@ -1831,7 +1831,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UK Highways England data shows that motorway incident management technology — including detection, response coordination, and traffic management — has reduced the average incident clearance time by 40%, proportionally reducing the secondary congestion and accident risk that incident queues create."
+                    "text": "Modern incident-detection and traffic-management systems can shorten the time needed to respond to motorway crashes and breakdowns, reducing the secondary congestion they create."
                   }
                 ]
               }
@@ -1850,7 +1850,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Privacy advocates and legal scholars consistently identify smart city mobility data as among the most privacy-invasive data categories — its combination of identifiability, completeness of movement records, and government access creates surveillance risks that traffic efficiency benefits cannot unambiguously justify."
+                    "text": "Smart transport systems collect detailed movement data, which can improve traffic management but also create privacy risks if location records are identifiable or accessible for wider surveillance."
                   }
                 ]
               },
@@ -1864,7 +1864,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The 2021 ransomware attack on the Colonial Pipeline in the US — which disabled fuel distribution across the eastern seaboard — demonstrated how attacking networked infrastructure produces cascading transport system failures; smart urban mobility systems that create equivalent dependency represent equivalent vulnerability."
+                    "text": "The 2021 Colonial Pipeline cyberattack disrupted fuel supplies in parts of the eastern United States, illustrating how dependence on connected infrastructure can create serious cybersecurity risks."
                   }
                 ]
               },
@@ -1900,7 +1900,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Global Workplace Analytics estimates that widespread remote working in office-based industries could reduce peak-hour commute traffic by 10–20% in major cities — a congestion reduction equivalent to adding multiple lane-kilometres of new road without any construction cost or land acquisition."
+                    "text": "Remote work can reduce peak-hour commuting among office workers, although the effect depends on how many people can work from home and whether they make additional trips at other times."
                   }
                 ]
               },
@@ -1914,7 +1914,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ MIT research on e-commerce logistics found that home delivery generates 30% fewer vehicle-kilometres per item than the equivalent in-store purchase in suburban areas where shoppers travel by car — a finding that supports the transport efficiency case for e-commerce in car-dependent retail environments."
+                    "text": "In car-dependent suburbs, consolidated home delivery can sometimes require fewer vehicle kilometres than many separate shopping trips, although the result depends on delivery density, failed deliveries, and consumer travel behaviour."
                   }
                 ]
               },
@@ -1924,11 +1924,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese employers who have adopted flexible working hours report that employees who travel at 7am rather than 8am experience dramatically shorter commute times — demonstrating that even modest peak-spreading through flexible work produces significant journey time improvements from existing infrastructure."
+                    "text": "Flexible working hours can spread commuting demand across a longer period, reducing pressure at the busiest times without requiring major new infrastructure."
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport for London analysis found that a 10% reduction in peak-hour underground demand — achievable through flexible working — would eliminate the overcrowding that defines the morning rush, significantly improving service quality for all remaining peak travellers at zero infrastructure cost."
+                    "text": "Reducing peak-hour demand can relieve overcrowding on busy public transport networks, making flexible working a useful demand-management tool even when the total number of trips changes little."
                   }
                 ]
               }
@@ -1961,7 +1961,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research in European cities found that e-commerce growth has increased urban freight vehicle-kilometres by 20–30% over the past decade — a growth rate that exceeds the reductions in shopper car trips attributable to online retail, producing a net increase in urban transport activity."
+                    "text": "E-commerce can increase last-mile delivery traffic in cities, so its overall transport effect depends on whether consolidated deliveries replace more private shopping trips than they create."
                   }
                 ]
               },
@@ -1975,7 +1975,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Post-pandemic transport data from multiple cities shows that while city centre peak congestion fell with remote working adoption, suburban road congestion increased disproportionately — confirming that remote work shifts transport problems rather than eliminating them from the overall system."
+                    "text": "Remote work can reduce central-city commuting while increasing some local or off-peak trips, so it often changes the pattern of travel rather than eliminating transport demand completely."
                   }
                 ]
               }
@@ -2124,7 +2124,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research comparing mixed-use urban districts with single-use suburban developments consistently finds that residents of walkable mixed-use areas make 40–60% fewer motorised trips — confirming that urban design is the most powerful determinant of travel demand, more influential than any transport infrastructure investment."
+                    "text": "Walkable mixed-use neighbourhoods generally generate fewer motorised trips because everyday destinations are closer together, making urban form a major influence on transport demand."
                   }
                 ]
               },
@@ -2138,7 +2138,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ World Bank urban economics research finds that compact cities save 10–25% in infrastructure costs per capita compared with sprawling equivalents — savings that compound over decades as maintenance, utility extension, and service delivery costs are also lower in denser urban forms."
+                    "text": "Compact development can reduce the cost of extending and maintaining roads, utilities, and public services per resident compared with dispersed urban sprawl."
                   }
                 ]
               },
@@ -2171,7 +2171,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Urban economists consistently find that housing markets reflect genuine preferences for space, privacy, and environmental quality that dense mixed-use development cannot satisfy — preferences that planning restrictions on low-density development override at significant cost to household welfare."
+                    "text": "Some households genuinely prefer larger homes, privacy, or quieter low-density neighbourhoods, so compact-city planning should balance transport efficiency with different housing preferences."
                   }
                 ]
               },
@@ -2185,7 +2185,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Economic geography research finds that doubling urban density increases productivity by approximately 5% through agglomeration effects — gains that require workers to converge on concentrated clusters and therefore generate travel that is economically productive and should not be designed away."
+                    "text": "Higher urban density can raise productivity by bringing workers and firms closer together, but successful dense cities still need efficient transport to connect people with concentrated jobs and services."
                   }
                 ]
               },
@@ -2221,7 +2221,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ World Bank infrastructure assessments consistently find benefit-cost ratios above 3:1 for transport investments in developing countries with large infrastructure deficits, reflecting the large productivity gains that improved connectivity delivers in economies where isolation currently constrains economic activity."
+                    "text": "Well-chosen transport projects can generate large economic benefits in developing regions where poor connectivity limits access to markets, jobs, and essential services."
                   }
                 ]
               },
@@ -2231,11 +2231,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese manufacturers report that logistics costs represent 20–25% of total product cost — among the highest in Southeast Asia — partly due to road infrastructure quality and congestion; this logistics disadvantage directly reduces Vietnam's competitiveness relative to regional neighbours with better transport infrastructure."
+                    "text": "Vietnamese businesses face relatively high logistics costs compared with some regional competitors, with congestion, infrastructure gaps, administrative processes, and logistics efficiency all contributing."
                   },
                   {
                     "type": "support",
-                    "text": "+ McKinsey Global Institute estimates that inadequate infrastructure costs developing countries 1–2% of GDP annually in lost productivity — a recurring economic drag that compounds over decades and substantially exceeds the annualised cost of the investment required to resolve it."
+                    "text": "Poor infrastructure can reduce productivity and raise business costs in developing economies, although the size of the economic loss varies widely between countries and sectors."
                   }
                 ]
               },
@@ -2249,7 +2249,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ ADB research on transport investment in Southeast Asian economies finds that road connectivity improvements in remote areas generate income gains for rural households 2–3 times larger than those generated by equivalent investments in already-well-connected areas — confirming that the development return on infrastructure is highest where connectivity is most lacking."
+                    "text": "Improved roads in remote areas can raise rural incomes by connecting households to markets, jobs, schools, and services, with benefits often greatest where isolation is most severe."
                   }
                 ]
               }
@@ -2268,7 +2268,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Development economics research comparing infrastructure and human capital investment returns finds that the relative advantage shifts toward human capital once countries achieve basic connectivity — a threshold that many middle-income countries including Vietnam have crossed, making education investment the more essential priority."
+                    "text": "Once basic transport connectivity is in place, additional education and health investment may generate greater development benefits than building ever more infrastructure, depending on local needs."
                   }
                 ]
               },
@@ -2296,7 +2296,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ World Economic Forum competitiveness research consistently finds that institutional quality — property rights, judicial efficiency, contract enforcement — explains more variance in economic performance across countries than infrastructure quality, confirming that governance is the more binding constraint for many developing economies."
+                    "text": "Strong institutions, predictable rules, and reliable infrastructure all matter for investment and growth; it is misleading to claim that one category universally explains more economic performance than the others."
                   }
                 ]
               }
@@ -2318,7 +2318,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport for London journey time data shows that cycling is the fastest door-to-door mode for trips under 8km in inner London, faster than car, bus, and tube when all waiting, parking, and access times are included — a finding replicated in studies of other dense cities worldwide."
+                    "text": "In dense urban areas, cycling can be one of the fastest door-to-door options for short journeys because it avoids congestion, parking delays, and waiting time."
                   }
                 ]
               },
@@ -2332,7 +2332,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ A landmark Danish study following 30,000 adults over 14 years found that cycle commuters had a 39% lower mortality rate than non-cyclists, even after controlling for recreational exercise — one of the largest health effect sizes ever measured for a transport mode choice."
+                    "text": "A well-known Danish cohort study found lower mortality among people who cycled to work, supporting the health benefits of active commuting, although observational research cannot prove that cycling alone caused the difference."
                   }
                 ]
               },
@@ -2365,7 +2365,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport surveys in tropical and subtropical cities consistently show climate discomfort as the primary barrier to cycling adoption, regardless of infrastructure provision — confirming that the cycling model championed by northern European cities faces physical barriers in most of the world's rapidly urbanising regions."
+                    "text": "Heat, humidity, rain, and other climate conditions can discourage cycling in some cities, but safety, infrastructure, distance, culture, and convenience also strongly affect participation."
                   }
                 ]
               },
@@ -2375,7 +2375,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's road fatality statistics show cyclists and pedestrians at disproportionate risk in shared traffic conditions — a safety environment that rationally deters cycling adoption regardless of journey time comparisons, and that requires substantial infrastructure investment before cycling can viably serve a significantly larger share of urban trips."
+                    "text": "Pedestrians and cyclists are vulnerable in mixed traffic in Vietnam, so safer crossings, protected lanes, lower speeds, and better street design are important if active travel is to grow."
                   },
                   {
                     "type": "contrast",
@@ -2393,7 +2393,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Even in Amsterdam — arguably the world's most cycling-friendly city — private vehicles account for approximately 23% of trips, confirming that even in optimal conditions a significant minority of urban journeys genuinely require motorised transport that cycling cannot substitute."
+                    "text": "Even very cycling-friendly cities still use cars, public transport, and other motorised modes for many journeys, showing that cycling is a major option rather than a complete substitute for all urban travel."
                   }
                 ]
               }
@@ -2429,7 +2429,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research on cycling participation rates finds that perceived safety, not health awareness or environmental values, is the dominant determinant of cycling adoption — confirming that infrastructure that addresses safety concerns is the critical variable that government investment can most effectively provide."
+                    "text": "Perceived safety is one of the strongest influences on whether people choose to cycle, making protected infrastructure and safer streets central to increasing participation."
                   }
                 ]
               },
@@ -2462,7 +2462,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport economists evaluating cycling infrastructure in subtropical and hot developing-country cities consistently find lower benefit-cost ratios than equivalent investments in northern European contexts — confirming that the compelling case for cycling investment in Amsterdam or Copenhagen does not transfer uniformly to all urban environments."
+                    "text": "Cycling infrastructure can deliver weaker returns in cities where climate, trip distance, road danger, or local travel patterns strongly discourage cycling, so investment should reflect local conditions rather than copy one model everywhere."
                   }
                 ]
               },
@@ -2490,7 +2490,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Systematic reviews of cycling promotion interventions find that infrastructure alone produces smaller and less durable mode shifts than combined programmes that address infrastructure, workplace facilities, cultural messaging, and urban design simultaneously — confirming that investment must be part of a comprehensive package to deliver its promised benefits."
+                    "text": "Building cycle lanes helps most when it is combined with safer intersections, secure parking, workplace facilities, good urban design, and policies that make cycling convenient for everyday trips."
                   }
                 ]
               }
@@ -2635,11 +2635,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's 2020 Law on Road Traffic Safety — which significantly increased penalties for drink-driving, helmet non-compliance, and speeding — produced measurable reductions in violations in the months following implementation, demonstrating that strict and publicised penalties change road behaviour at the population level."
+                    "text": "Vietnam did not introduce a '2020 Law on Road Traffic Safety.' Stricter drink-driving penalties took effect under Decree 100/2019 in 2020, and later road-safety rules continued the zero-alcohol approach."
                   },
                   {
                     "type": "support",
-                    "text": "+ Random breath testing programmes that increased both detection probability and penalties reduced drink-driving fatalities by 20–40% in multiple countries within two years of implementation — one of the strongest evidence bases in road safety research for the deterrent effect of strict enforcement."
+                    "text": "Random breath testing and visible enforcement have reduced drink-driving and related crashes in many countries, mainly by increasing drivers' perceived chance of being caught."
                   }
                 ]
               },
@@ -2653,7 +2653,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Road safety research consistently finds that voluntary compliance-based approaches — public awareness campaigns without enforcement — produce short-term attitude changes but minimal sustained behaviour change; legal enforcement with real consequences is the mechanism that translates awareness into changed behaviour."
+                    "text": "Road-safety campaigns tend to have stronger and more lasting effects when public education is backed by enforcement, because awareness alone may not be enough to change risky behaviour."
                   }
                 ]
               },
@@ -2667,7 +2667,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Sweden's Vision Zero programme — which combined strict speed limits, automated enforcement, and severe penalties — reduced road fatalities by 50% over 20 years while vehicle-kilometres continued to grow, demonstrating that legal framework improvement can achieve large safety gains even as exposure increases."
+                    "text": "Sweden's Vision Zero approach combines safer road design, lower speeds, vehicle safety, enforcement, and shared responsibility, and road deaths have fallen substantially since the strategy began."
                   }
                 ]
               }
@@ -2682,11 +2682,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's helmet law — which achieved near-universal compliance not through continuous enforcement but through sustained public health communication and social normalisation — demonstrates that behaviour change achieved through cultural embedding is more durable than enforcement-only approaches that require permanent policing presence."
+                    "text": "Vietnam's helmet-use gains followed both a strong legal requirement and extensive public communication; the success cannot be attributed to social normalisation rather than enforcement alone."
                   },
                   {
                     "type": "support",
-                    "text": "+ Road safety psychology research finds that the strongest predictor of safe driving behaviour is not penalty severity but personal risk perception and social norms — suggesting that education and culture-building produce more reliable safety outcomes than punitive law where internalisation has not yet occurred."
+                    "text": "Safe driving is influenced by perceived risk, social norms, enforcement, road design, and penalty severity, with evidence generally showing that the chance of detection matters more than simply making penalties harsher."
                   }
                 ]
               },
@@ -2696,7 +2696,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Many of Vietnam's fatal rural road accidents occur on poorly maintained mountain roads with inadequate guardrails, signage, and lighting — conditions where better enforcement of speed limits cannot substitute for the physical infrastructure improvements that would prevent drivers from encountering the dangerous conditions in the first place."
+                    "text": "Poor road design, weak lighting, missing guardrails, and dangerous geometry can contribute to severe crashes, so enforcement cannot replace basic infrastructure improvements."
                   },
                   {
                     "type": "contrast",
@@ -2714,7 +2714,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Criminological research consistently finds that detection certainty is a stronger deterrent than penalty severity — doubling the probability of being caught reduces violations more than doubling the penalty for those who are caught, making enforcement investment more effective than law-writing."
+                    "text": "People planning a traffic offence are generally more influenced by the chance of being caught than by adding further severity to an already substantial penalty."
                   }
                 ]
               }
@@ -2732,11 +2732,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's vehicle fleet has grown from under 10 million registered vehicles in 2005 to over 65 million today — a rate of motorisation that has far outpaced improvements in road infrastructure, driver training quality, enforcement capacity, and emergency medical response, explaining why absolute accident numbers have remained stubbornly high despite regulatory improvements."
+                    "text": "Vietnam has experienced extremely rapid motorisation, increasing pressure on roads, driver training, enforcement, and emergency response, although exact vehicle totals change quickly as registration data are updated."
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO's Global Status Report on Road Safety finds the highest accident rates in countries in the middle phase of motorisation — where vehicle ownership has grown rapidly but safety systems have not kept pace — confirming that the speed of motorisation relative to institutional response is the dominant structural cause."
+                    "text": "Road deaths are especially high in many low- and middle-income countries where motorisation has expanded faster than road-safety systems, vehicle standards, and enforcement capacity."
                   }
                 ]
               },
@@ -2750,7 +2750,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ UK road safety research found that reaction times for drivers using mobile phones are 50% slower than for sober drivers and worse than for those at the drink-drive limit — a quantified risk that explains why mobile phone distraction has become one of the leading causes of accidents in countries where enforcement of drink-driving has otherwise improved safety."
+                    "text": "Using a mobile phone while driving slows reaction and greatly increases crash risk, which is why many countries treat distracted driving as a major road-safety problem."
                   }
                 ]
               },
@@ -2779,11 +2779,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's expansion of automated speed cameras on national highways has produced documented reductions in speeding violations and accident rates on monitored sections — evidence that technological enforcement addresses the certainty gap that makes reliance on police patrol insufficient."
+                    "text": "Vietnam has expanded automated traffic enforcement, and speed and red-light cameras can improve compliance where drivers believe violations are likely to be detected consistently."
                   },
                   {
                     "type": "support",
-                    "text": "+ Meta-analysis of speed camera deployment across 28 countries found average reductions in fatal accidents of 20% in camera zones, with benefits extending beyond the immediate zone as driver behaviour generalised across networks — among the most consistently effective single road safety interventions in the evidence base."
+                    "text": "Systematic reviews generally find speed cameras reduce crashes and serious injuries around monitored locations, although the size of the effect varies by road type and enforcement design."
                   }
                 ]
               },
@@ -2797,7 +2797,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ WHO road safety guidelines identify road engineering as the highest-impact intervention category for reducing pedestrian and cyclist fatalities — the populations most at risk in developing countries — because engineering prevents the unsafe interactions that cause the majority of vulnerable road user deaths."
+                    "text": "Safer road engineering — such as protected crossings, medians, lower design speeds, and separation from fast traffic — is especially important for pedestrians, cyclists, and motorcyclists."
                   }
                 ]
               },
@@ -2811,7 +2811,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Countries with graduated driver licensing — which restricts new drivers to lower-risk conditions until experience accumulates — consistently record 20–30% fewer crashes among 17–24 year olds compared with countries using traditional full-licence systems, confirming training and licensing quality as among the most effective interventions for the highest-risk driver group."
+                    "text": "Graduated driver-licensing systems have reduced crashes among young novice drivers in several countries by limiting high-risk driving while experience is being gained."
                   }
                 ]
               }
@@ -2829,11 +2829,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese public opinion surveys consistently show strong support for severe penalties for drink-driving and speeding — reflecting a social judgement that consequences in the current system are inadequate relative to the harm that violations can cause, and that harsher deterrents are morally appropriate for behaviour that kills thousands annually."
+                    "text": "Vietnamese authorities have introduced severe penalties for dangerous behaviours such as drink-driving and speeding, reflecting the serious harm these offences can cause, although public support levels vary by survey."
                   },
                   {
                     "type": "support",
-                    "text": "+ Countries that have significantly increased penalties for drink-driving — reducing the legal limit and increasing criminal consequences — have recorded sustained reductions in drink-drive fatalities, confirming that penalty increases, when publicised and enforced, produce the deterrent effect that justifies the approach."
+                    "text": "Stricter drink-driving laws can reduce crashes when they are well publicised and consistently enforced, especially when drivers believe there is a real chance of detection."
                   }
                 ]
               },
@@ -2847,7 +2847,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Traffic safety research consistently finds that drivers with prior violation records have accident rates 3–5 times higher than clean-record drivers — confirming that licence suspension targeting this population has a safety impact far greater than its proportional application to the driver population would suggest."
+                    "text": "Drivers with previous serious violations tend to have higher future crash risk, so licence suspension or targeted monitoring can help remove or manage the highest-risk drivers."
                   }
                 ]
               },
@@ -2876,7 +2876,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's experience with traffic enforcement shows that periods of intensified police presence produce dramatic short-term compliance improvements that fade when enforcement returns to normal levels — confirming that perceived detection probability drives compliance more powerfully than the penalty levels that remain constant throughout."
+                    "text": "Traffic compliance often improves during periods of visible enforcement and weakens when drivers believe detection is unlikely, showing why consistent enforcement matters more than occasional crackdowns."
                   },
                   {
                     "type": "support",
@@ -2890,11 +2890,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's accident analysis shows that a significant proportion of fatalities occur on mountain roads at night — conditions where inadequate infrastructure and driver fatigue interact, not deliberate violation; increasing penalties for speeding does not address the guardrail absence, road geometry, or fatigue management that causes these specific accidents."
+                    "text": "Some serious crashes in Vietnam involve difficult road conditions, fatigue, or infrastructure problems, so harsher penalties alone cannot address every important cause of road deaths."
                   },
                   {
                     "type": "support",
-                    "text": "+ Road safety research attributes 30–40% of accidents to infrastructure and vehicle factors beyond driver behaviour — a proportion that represents deaths that no amount of penalty increase could prevent, and that only engineering and vehicle safety standards can address."
+                    "text": "Crash risk comes from a combination of driver behaviour, road design, vehicles, and the wider transport system; it is misleading to assign a fixed 30–40% share to non-driver factors across all settings."
                   }
                 ]
               },
@@ -2930,7 +2930,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Epidemiological studies of driving and ageing consistently find that accident risk increases significantly from around age 75 as vision, reaction time, and cognitive processing decline — a risk trajectory that one-time licensing never assesses and that regular testing could systematically identify and manage."
+                    "text": "Crash risk rises for some older drivers as vision, reaction time, and cognitive processing decline, suggesting that fitness-to-drive checks may be useful when based on individual ability rather than age alone."
                   }
                 ]
               },
@@ -2944,7 +2944,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Driver behaviour research finds that knowledge of current road rules is significantly lower among drivers who licensed over 10 years ago compared with recent licensees — a gap that regular testing would close and that contributes to rule violations that experienced drivers may not even recognise as violations."
+                    "text": "Drivers can become less familiar with newer road rules over time, so refresher education may help, although there is limited evidence that routine retesting of every experienced driver would improve safety enough to justify its cost."
                   }
                 ]
               },
@@ -2991,7 +2991,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ Periodic testing conflates test performance with driving safety — the correlation between test scores and accident risk is moderate, while the correlation between driving record and accident risk is strong; evidence-based licence management should use the more predictive indicator."
+                    "text": "Past driving history is often useful for identifying high-risk drivers, while one-off test performance does not perfectly predict future crash risk, so licensing policy can combine several indicators rather than rely on a single test."
                   }
                 ]
               },
@@ -3005,7 +3005,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Transport equity research finds that licence loss for older drivers in areas without PT alternatives produces measurable increases in social isolation, depression, and healthcare non-attendance — social costs that must be weighed against the road safety benefits of removing drivers whose fitness has declined marginally."
+                    "text": "For older people in car-dependent areas, losing a licence can increase isolation and make healthcare or daily activities harder to access, so safety policies should consider mobility alternatives as well as crash risk."
                   }
                 ]
               }
@@ -3151,7 +3151,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The International Air Transport Association estimates that aviation supports $3.5 trillion in global economic activity and connects 65 million jobs worldwide — figures that underscore how tightly international trade and prosperity are coupled with air connectivity."
+                    "text": "Aviation supports millions of jobs and a large amount of global economic activity, showing how strongly modern trade, tourism, and business depend on air connectivity."
                   }
                 ]
               },
@@ -3161,11 +3161,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "International tourist arrivals in Vietnam exceeded 18 million in 2019, generating foreign exchange earnings and creating direct contact between Vietnamese people and visitors from over 100 countries — an exchange that the country's travel-promotion strategy explicitly links to soft-power and cultural diplomacy goals."
+                    "text": "Vietnam received more than 18 million international visitors in 2019, bringing tourism income and extensive contact between Vietnamese communities and people from many countries."
                   },
                   {
                     "type": "support",
-                    "text": "+ UNESCO and academic research consistently find that international mobility — study abroad, tourism, professional exchange — is one of the strongest predictors of intercultural competence and reduced xenophobia, effects that low-cost aviation has made accessible far beyond the wealthy elite."
+                    "text": "International travel, study, and professional exchange can improve intercultural understanding through direct contact, although tourism alone does not automatically reduce prejudice or build deep cultural competence."
                   }
                 ]
               },
@@ -3179,7 +3179,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ A McKinsey analysis of domestic aviation markets finds that cities connected by frequent direct flights attract significantly more business investment, corporate relocations, and skilled workers than comparable cities with poor air access — confirming that flight speed and frequency translate directly into economic opportunity."
+                    "text": "Frequent air connections can make a city more attractive for business and skilled workers, but investment decisions also depend on many other factors such as market size, institutions, costs, and infrastructure."
                   }
                 ]
               }
@@ -3194,7 +3194,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's aviation market has been among the fastest-growing in Asia, with domestic passenger numbers tripling in a decade — growth that dramatically increases the sector's contribution to national emissions at a time when Vietnam has committed to net-zero by 2050 under the Paris Agreement."
+                    "text": "Vietnam's aviation sector grew rapidly before the pandemic and is expected to remain an important emissions challenge as the country pursues its net-zero 2050 commitment."
                   },
                   {
                     "type": "contrast",
@@ -3212,7 +3212,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The WHO's Environmental Noise Guidelines identify aircraft noise as a leading cause of sleep disturbance and cardiovascular stress, estimating that 900,000 Europeans suffer serious sleep disruption from aviation noise alone — a public health cost that airport expansion systematically externalises onto local populations."
+                    "text": "Aircraft noise can disturb sleep and is associated with cardiovascular health risks for people living near busy airports, giving airport expansion clear local public-health costs."
                   }
                 ]
               },
@@ -3222,7 +3222,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Hội An's ancient town has experienced severe overtourism as low-cost routes brought mass visitors; UNESCO-listed streets became crowded with souvenir shops, accommodation prices displaced long-term residents, and the living community character that makes the site valuable has been steadily eroded by the volume of tourism the town was not designed to absorb."
+                    "text": "Hội An has faced heavy tourism pressure, including crowding and commercialisation in its historic centre, illustrating how rapid visitor growth can threaten the character and liveability of heritage destinations."
                   },
                   {
                     "type": "support",
@@ -3262,7 +3262,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Research by the Grantham Institute finds that the wealthiest 1% of the global population produce more than twice the aviation emissions of the bottom 50% combined — a concentration that makes aviation one of the few sectors where consumption-based limits would achieve significant emission reductions while directly targeting the highest emitters."
+                    "text": "A small share of frequent flyers accounts for a disproportionately large share of aviation emissions, so policies aimed at very frequent flying can target high emitters more directly than uniform restrictions."
                   }
                 ]
               },
@@ -3276,7 +3276,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ Sweden's flygskam ('flight shame') movement and the associated decline in domestic aviation demand was followed by increased rail investment and frequency — demonstrating that even social pressure, not just regulation, can redirect demand in ways that make sustainable alternatives commercially viable."
+                    "text": "Sweden's 'flight shame' movement coincided with falling domestic air travel and greater public interest in rail, although it is difficult to separate social pressure from taxes, economic conditions, and other influences."
                   }
                 ]
               }
@@ -3309,7 +3309,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The International Energy Agency's net-zero scenario projects that aviation can achieve net-zero emissions by 2050 primarily through sustainable aviation fuels and efficiency improvements, without requiring significant demand reduction — suggesting that technology policy, not travel limits, is the more proportionate instrument."
+                    "text": "Even the IEA's net-zero pathway for aviation relies on major growth in sustainable aviation fuels, efficiency improvements, new technology, and some limits on demand growth; technology alone is not assumed to remove the problem."
                   }
                 ]
               },
@@ -3345,7 +3345,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The European Environment Agency's transport emissions comparison finds that a passenger on a high-speed train in France produces around 2g CO₂e per km compared to 255g on a comparable flight — a ratio of more than 100:1 that makes the climate case for rail on electrified networks essentially unambiguous."
+                    "text": "On electrified high-speed rail, emissions per passenger can be far lower than flying, especially in countries with low-carbon electricity, making rail a strong climate alternative on suitable routes."
                   }
                 ]
               },
@@ -3359,7 +3359,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ The French TGV's introduction between Paris and Lyon reduced the Paris–Lyon air route to near-zero market share within years of opening — demonstrating empirically that when HSR offers competitive journey times to city centres, passengers consistently prefer it over the airport experience."
+                    "text": "High-speed rail took a large share of the Paris–Lyon travel market after the TGV opened, showing that rail can compete effectively with short-haul flights when city-centre journey times are attractive."
                   }
                 ]
               },
@@ -3373,7 +3373,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "support",
-                    "text": "+ A UK Department for Transport study found that rail passengers value travel time at roughly 70% of wage rates — meaning they consider train time partially productive — whereas airline security and boarding processes are rated as 100% unproductive dead time; this difference in productive time use makes the effective cost comparison between HSR and air travel more favourable to rail than raw ticket prices suggest."
+                    "text": "Train travel can allow passengers to work or relax during much of the journey, while airport access, security, and boarding add less productive time to flying, improving rail's appeal on medium-distance routes."
                   }
                 ]
               }
@@ -3402,11 +3402,11 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's North-South HSR project has an estimated capital cost of over $60 billion — equivalent to roughly 15% of national GDP — and a construction timeline extending to 2045; critics argue that the same capital invested in existing rail rehabilitation, urban metros, and road safety would deliver better returns across more of the population at lower fiscal risk."
+                    "text": "Vietnam's approved North–South high-speed railway is estimated at about US$67.6 billion, with the government targeting completion by 2035, making cost control and realistic demand forecasts crucial."
                   },
                   {
                     "type": "support",
-                    "text": "+ Independent cost–benefit analyses of several cancelled or delayed HSR projects — including the California High-Speed Rail — found that optimism bias systematically understated construction costs and overstated ridership, resulting in benefit-cost ratios well below one; the lesson is that HSR delivers on its promise only in specific high-density corridors where demand is rigorously established ex ante."
+                    "text": "High-speed rail can deliver major benefits on dense corridors, but international projects also show risks of cost overruns and optimistic ridership forecasts, so each proposal requires careful corridor-specific analysis."
                   }
                 ]
               },
@@ -3420,7 +3420,7 @@ window.TOPIC_DATA = {
                   },
                   {
                     "type": "contrast",
-                    "text": "✗ During the COVID-19 pandemic, air freight networks transported vaccines and medical equipment globally within days — a logistics achievement that no rail network could have replicated at the necessary speed and scale; the episode demonstrated that aviation's flexibility and speed for urgent cargo constitute a genuine societal asset that would be lost if aviation were substantially replaced rather than reformed."
+                    "text": "During the COVID-19 pandemic, aviation moved vaccines, medicines, and urgent equipment rapidly across long distances, showing that air transport has important roles that rail cannot fully replace."
                   }
                 ]
               }

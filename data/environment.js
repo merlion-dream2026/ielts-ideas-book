@@ -38,7 +38,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Sea level rise threatens coastal populations and food systems",
-                "flow": "Polar ice melts as temperatures rise → sea levels increase → coastal flooding more frequent → agricultural land lost to saltwater intrusion → millions displaced.",
+                "flow": "Polar ice melts as temperatures rise → sea levels increase → coastal flooding becomes more frequent → agricultural land is damaged as seawater enters the soil → millions are displaced.",
                 "examples": [
                   {
                     "type": "vn",
@@ -65,8 +65,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Ecosystems collapse, threatening biodiversity and human survival",
-                "flow": "Rising temperatures and ocean acidification exceed species' adaptive capacity → mass extinction accelerates → ecosystem services collapse → food chains disrupted → human agriculture and medicine dependent on biodiversity undermined.",
+                "title": "Ecosystem collapse threatens biodiversity and human survival",
+                "flow": "Rising temperatures and ocean acidification outpace species' ability to adapt → mass extinction accelerates → ecosystems lose vital natural functions → food chains are disrupted → human agriculture and medicine, which depend on biodiversity, are undermined.",
                 "examples": [
                   {
                     "type": "vn",
@@ -84,8 +84,8 @@ window.TOPIC_DATA = {
             "label": "Solutions to climate change",
             "ideas": [
               {
-                "title": "Rapid transition to renewable energy removes the primary emissions source",
-                "flow": "Fossil fuels dominate energy-sector CO₂ → replacing with solar and wind → emissions fall at source → technology now cost-competitive → structural fix rather than behavioural adjustment.",
+                "title": "A rapid shift to renewable energy cuts emissions at their main source",
+                "flow": "Fossil fuels dominate energy-sector CO₂ emissions → replacing them with solar and wind → emissions fall at source → these technologies are now cost-competitive → the energy system itself changes rather than relying on individual behaviour.",
                 "examples": [
                   {
                     "type": "vn",
@@ -236,8 +236,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — systemic change matters far more",
             "ideas": [
               {
-                "title": "Industrial emissions dwarf what individuals can control",
-                "flow": "100 companies produce 71% of global emissions → individual lifestyle changes affect a tiny fraction of total → system-level transformation of energy, transport, and industry is required → individual framing distracts from structural solutions.",
+                "title": "System-level infrastructure limits how much individuals can reduce emissions",
+                "flow": "Most people rely on existing electricity, transport, and production systems → when those systems are carbon-intensive, low-emission choices are limited → personal lifestyle changes can reduce only part of an individual's footprint → large-scale changes to energy, transport, and industry are therefore necessary.",
                 "examples": [
                   {
                     "type": "vn",
@@ -407,7 +407,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Consumer culture equates newness with identity and status",
-                "flow": "Advertising associates new products with status and self-worth → existing goods feel outdated quickly → emotional obsolescence as powerful as physical → conspicuous consumption normalised → keeping rather than replacing becomes stigmatised.",
+                "flow": "Advertising associates new products with status and self-worth → existing goods quickly feel outdated → people replace items for emotional rather than practical reasons → frequent buying becomes normal → keeping older goods can become socially undesirable.",
                 "examples": [
                   {
                     "type": "vn",
@@ -439,8 +439,8 @@ window.TOPIC_DATA = {
             "label": "Solutions to throwaway culture",
             "ideas": [
               {
-                "title": "Extended producer responsibility makes manufacturers accountable",
-                "flow": "Laws require producers to manage end-of-life products → companies redesign for durability and recyclability → planned obsolescence becomes expensive → product lifespans extend → waste reduced at source.",
+                "title": "Making producers responsible for discarded products holds manufacturers accountable",
+                "flow": "Laws require producers to manage products after consumers discard them → companies redesign products to last longer and be easier to recycle → deliberately short product lifespans become expensive → products last longer → waste is reduced at source.",
                 "examples": [
                   {
                     "type": "vn",
@@ -454,7 +454,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Economic incentives reshape consumer behaviour faster than persuasion",
-                "flow": "Waste levies increase disposal cost → deposit return schemes incentivise container return → repair subsidies make fixing cost-competitive with replacement → price signals change behaviour without moral pressure.",
+                "flow": "Fees on waste disposal increase the cost of throwing things away → deposit-return schemes reward people for returning containers → repair subsidies make fixing as affordable as replacement → price changes shift behaviour without relying on moral persuasion.",
                 "examples": [
                   {
                     "type": "vn",
@@ -536,8 +536,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Banning single-use plastic eliminates the problem at source",
-                "flow": "Most ocean plastic comes from single-use packaging → banning or taxing single-use items → companies redesign with reusable or biodegradable alternatives → plastic production volume falls → less enters the waste stream.",
+                "title": "Restricting single-use plastic cuts a major source of ocean waste",
+                "flow": "Single-use packaging creates a large volume of plastic waste → bans or taxes reduce its use → companies shift toward reusable or lower-waste alternatives → less plastic enters waste systems → less reaches waterways and oceans.",
                 "examples": [
                   {
                     "type": "vn",
@@ -573,7 +573,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Pollution taxes make industries pay the true cost of their environmental damage",
-                "flow": "Unregulated industries externalise pollution costs onto society → taxes internalise these costs → industries innovate to reduce emissions and waste → polluter-pays principle restores economic justice → public revenue funds environmental remediation.",
+                "flow": "Unregulated industries shift the cost of pollution onto society → taxes make polluters bear more of that cost → industries innovate to reduce emissions and waste → those responsible for pollution pay for the damage they cause → public revenue funds environmental cleanup.",
                 "examples": [
                   {
                     "type": "vn",
@@ -587,7 +587,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Revenue from pollution taxes funds clean energy transition and public health",
-                "flow": "Tax revenue collected from polluters → invested in renewable energy and clean infrastructure → technology deployment accelerates → public health costs from pollution reduced → virtuous cycle where pollution funds its own replacement.",
+                "flow": "Tax revenue collected from polluters → invested in renewable energy and clean infrastructure → clean technology spreads faster → public health costs from pollution fall → pollution taxes help fund the shift away from polluting activity.",
                 "examples": [
                   {
                     "type": "vn",
@@ -606,7 +606,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Industrial taxes are passed to consumers and hit the poorest hardest",
-                "flow": "Industries facing higher taxes raise prices → essential goods — fuel, heating, food — become more expensive → lower-income households spend a larger share of income on these → regressive burden → working people pay for pollution they did not choose.",
+                "flow": "Industries facing higher taxes raise prices → essential goods — fuel, heating, food — become more expensive → lower-income households spend a larger share of their income on these → the burden falls disproportionately on poorer households → working people pay for pollution they did not choose.",
                 "examples": [
                   {
                     "type": "vn",
@@ -620,7 +620,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Heavy taxes in one country push polluting industries to less regulated nations",
-                "flow": "High pollution taxes → industries relocate to lower-regulation jurisdictions → global emissions unchanged or rise → carbon leakage undermines environmental benefit → competitive disadvantage for taxing nations without global gain.",
+                "flow": "High pollution taxes → industries relocate to countries with weaker environmental rules → global emissions stay the same or rise → pollution is shifted elsewhere rather than reduced → taxing countries lose competitiveness without producing a global environmental gain.",
                 "examples": [
                   {
                     "type": "vn",
@@ -782,7 +782,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Continued fossil fuel use locks in irreversible climate damage",
-                "flow": "Each year of delay → more CO₂ locked in the atmosphere → warming trajectory worsens → adaptation costs multiply → urgency of transition outweighs short-term transition costs.",
+                "flow": "Each year of delay → more CO₂ accumulates in the atmosphere → future warming becomes worse → adaptation costs multiply → the urgency of transition outweighs short-term transition costs.",
                 "examples": [
                   {
                     "type": "vn",
@@ -850,8 +850,8 @@ window.TOPIC_DATA = {
             "label": "Advantages outweigh — nuclear is a necessary low-carbon energy source",
             "ideas": [
               {
-                "title": "Nuclear provides reliable baseload power that intermittent renewables cannot",
-                "flow": "Solar and wind generate only when conditions allow → grid stability requires consistent baseload power → nuclear delivers reliable 24/7 low-carbon electricity → complements renewables → stable grid achievable without fossil fuel backup.",
+                "title": "Nuclear power provides reliable round-the-clock electricity when solar and wind cannot",
+                "flow": "Solar and wind generate only when weather conditions allow → electricity grids need a steady supply at all times → nuclear delivers reliable 24/7 low-carbon electricity → complements renewables → a stable grid becomes possible without fossil-fuel backup.",
                 "examples": [
                   {
                     "type": "vn",
@@ -865,7 +865,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Nuclear waste volumes are small and technically manageable",
-                "flow": "All US nuclear waste ever produced would fit on a football field to 10 metres depth → compact compared to fossil fuel waste → vitrification and deep geological storage proven → waste is a technical problem with known solutions, not an ongoing environmental emergency.",
+                "flow": "All US nuclear waste ever produced would fit on a football field to 10 metres depth → the volume is small compared with fossil-fuel waste → waste can be sealed in a stable solid form and stored deep underground → it is a technical problem with known solutions, not an ongoing environmental emergency.",
                 "examples": [
                   {
                     "type": "vn",
@@ -911,8 +911,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Nuclear proliferation creates strategic security risks alongside energy production",
-                "flow": "Nuclear energy technology is related to nuclear weapons capability → energy programmes can provide cover for weapons development → proliferation risk rises with each new reactor nation → security risk is an externality not reflected in energy economics.",
+                "title": "Nuclear power can create additional weapons-security risks",
+                "flow": "Civilian nuclear technology is closely related to some capabilities needed for nuclear weapons → energy programmes can provide cover for weapons development → the risk of weapons spreading rises as more countries develop nuclear programmes → this security cost is not reflected in the price of nuclear energy.",
                 "examples": [
                   {
                     "type": "vn",
@@ -948,7 +948,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Overconsumption drives ecosystem destruction and species extinction",
-                "flow": "Resource extraction requires habitat clearing → mining, logging, and agriculture destroy natural ecosystems → biodiversity lost irreversibly → ecosystem services collapse → the natural systems human society depends on are permanently degraded.",
+                "flow": "Resource extraction requires habitat clearing → mining, logging, and agriculture destroy natural ecosystems → biodiversity is lost irreversibly → ecosystems lose vital functions that people depend on → the natural systems supporting human society are permanently degraded.",
                 "examples": [
                   {
                     "type": "vn",
@@ -966,8 +966,8 @@ window.TOPIC_DATA = {
             "label": "What should be done about resource overconsumption",
             "ideas": [
               {
-                "title": "Circular economy models eliminate waste by keeping resources in use",
-                "flow": "Linear 'take-make-dispose' economy exhausts resources → circular design reuses, repairs, and recycles → material flows closed → resource demand per unit of output falls → economic activity decoupled from resource extraction.",
+                "title": "A circular economy reduces waste by keeping resources in use",
+                "flow": "A linear 'take-make-dispose' economy exhausts resources → circular design reuses, repairs, and recycles → materials stay in circulation → fewer new resources are needed for each unit of output → economic activity becomes less dependent on new resource extraction.",
                 "examples": [
                   {
                     "type": "vn",
@@ -995,7 +995,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "International frameworks must prevent competitive overconsumption",
-                "flow": "Nations competing for finite global resources → race-to-the-bottom in extraction rates → no nation benefits from unilateral restraint → international agreements to manage shared resources → sustainable extraction standards enforced globally.",
+                "flow": "Nations competing for finite global resources → each has an incentive to extract as much as possible → one country's restraint achieves little if others keep extracting → international agreements manage shared resources → common standards keep extraction sustainable.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1127,8 +1127,8 @@ window.TOPIC_DATA = {
             "label": "Species loss is the most serious environmental problem",
             "ideas": [
               {
-                "title": "Extinction is the only truly irreversible environmental problem",
-                "flow": "Climate change can potentially be reversed → pollution can be cleaned up → extinct species cannot be restored → biodiversity loss is structurally different → irreversibility justifies treating species extinction as uniquely serious.",
+                "title": "Species extinction deserves special priority because lost species cannot be recovered",
+                "flow": "Many environmental harms can be reduced or partly repaired → extinction permanently removes a species → lost genetic diversity and ecological roles cannot be fully restored → the damage therefore cannot be reversed → this irreversibility makes species extinction uniquely serious.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1141,8 +1141,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Ecosystem services from biodiversity underpin all human survival",
-                "flow": "Pollination, water purification, and climate regulation depend on biodiversity → species disappear → these services degrade → food production, clean water, and climate stability all threatened → species loss is a human survival issue, not merely a wildlife concern.",
+                "title": "Biodiversity provides natural systems essential to human survival",
+                "flow": "Pollination, water purification, and climate regulation depend on biodiversity → species disappear → these natural functions weaken → food production, clean water, and climate stability are all threatened → species loss becomes a human survival issue, not merely a wildlife concern.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1174,8 +1174,8 @@ window.TOPIC_DATA = {
             "label": "Other environmental problems are more important",
             "ideas": [
               {
-                "title": "Climate change causes biodiversity loss — addressing the cause is more important",
-                "flow": "Rising temperatures and ocean acidification are the primary driver of accelerating species extinction → treating extinction as separate misunderstands causation → systemic climate action addresses biodiversity loss at its source → solving the cause is more important than treating the symptom.",
+                "title": "Climate action protects biodiversity by reducing a major and growing source of ecological stress",
+                "flow": "Rising temperatures and changing ocean conditions place growing pressure on species → this climate stress adds to habitat loss and pollution → cutting emissions reduces one major source of biodiversity decline → climate policy therefore supports conservation at a broad scale.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1225,7 +1225,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Zoos fund field conservation and build public support for wildlife",
-                "flow": "Zoos generate visitor revenue → significant share invested in in-situ field conservation → public exposed to wildlife develops conservation values → support for conservation policy grows → urban populations' interest translated into funding for wild animal protection.",
+                "flow": "Zoos generate visitor revenue → a significant share is invested in conservation work in animals' natural habitats → public exposure to wildlife builds conservation values → support for conservation policy grows → urban populations' interest is translated into funding for wild animal protection.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1244,7 +1244,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Zoos cannot replicate the conditions animals need to thrive",
-                "flow": "Zoo enclosures restrict natural range, behaviour, and social structures → animals exhibit stereotypic behaviours indicating psychological distress → welfare compromised → captive animals may be biologically alive but behaviourally impoverished → conservation justification does not offset welfare cost.",
+                "flow": "Zoo enclosures restrict animals' natural range, behaviour, and social structures → animals may develop repetitive abnormal behaviours that indicate psychological distress → welfare is compromised → captive animals may survive physically but be unable to live naturally → conservation benefits do not remove this welfare cost.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1258,7 +1258,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Protecting wild habitat saves more species at far lower cost",
-                "flow": "A single protected ecosystem preserves thousands of species simultaneously → captive breeding saves one species at enormous cost → habitat protection is vastly more efficient per species preserved → resources invested in zoos would save more biodiversity spent on habitat protection.",
+                "flow": "A single protected ecosystem preserves thousands of species simultaneously → captive breeding saves one species at enormous cost → habitat protection is far more efficient for each species preserved → spending conservation resources on habitat protection could protect more biodiversity than spending them on zoos.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1391,8 +1391,8 @@ window.TOPIC_DATA = {
             "label": "Agree — only governments and large companies can make a real difference",
             "ideas": [
               {
-                "title": "Industrial emissions dwarf what individuals can control",
-                "flow": "100 companies produce 71% of global emissions → individual lifestyle changes affect only a tiny fraction → system-level transformation of energy, transport, and industry is required → individual framing distracts from structural solutions.",
+                "title": "System-level infrastructure limits how much individuals can reduce emissions",
+                "flow": "Most people rely on existing electricity, transport, and production systems → when those systems are carbon-intensive, low-emission choices are limited → personal lifestyle changes can reduce only part of an individual's footprint → large-scale changes to energy, transport, and industry are therefore necessary.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1405,8 +1405,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Only governments can change the structural conditions that shape individual behaviour",
-                "flow": "Individuals respond to price, infrastructure, and social norms → all three are shaped by government policy → without infrastructure for low-carbon living, sustainable choices are unavailable → regulation and investment must precede behaviour change.",
+                "title": "Government action can make sustainable individual choices practical at scale",
+                "flow": "Individuals make choices within the transport, energy, and pricing systems available to them → government policy can reshape these systems across the whole population → better infrastructure and incentives make low-carbon choices practical for far more people → large-scale behaviour change becomes easier and more affordable.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1420,7 +1420,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Corporate supply chains determine the environmental impact of all consumption",
-                "flow": "Consumers choose from what companies produce → if products are fossil-fuel-intensive, sustainable options are unavailable → companies must be regulated to offer sustainable alternatives → individual choice cannot substitute for supply-side transformation.",
+                "flow": "Consumers choose from what companies produce → if products depend heavily on fossil fuels, sustainable options are unavailable → companies must be regulated to offer sustainable alternatives → individual choice cannot replace changes in what businesses produce and supply.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1474,8 +1474,8 @@ window.TOPIC_DATA = {
             "label": "Why people believe businesses are the main cause",
             "ideas": [
               {
-                "title": "Businesses operate at a scale that makes their environmental impact structurally dominant",
-                "flow": "Industrial production, transport, and energy generation account for the majority of global emissions and pollution → scale of corporate activity dwarfs individual behaviour → it is logical to identify the largest emitter as the primary cause.",
+                "title": "Large-scale production gives businesses major responsibility for environmental damage",
+                "flow": "Factories, freight networks, and energy-intensive supply chains generate pollution on a very large scale → individual consumers do not control how these systems are designed or powered → businesses therefore bear major responsibility for reducing the environmental damage created by production.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1488,8 +1488,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Businesses create the commercial environments that make unsustainable living normal",
-                "flow": "Companies design cities around cars and wrap goods in plastic → individuals are shaped by commercial environments they did not design → businesses set the conditions of individual choice → corporate cause precedes individual effect.",
+                "title": "Businesses shape many of the choices that make unsustainable consumption normal",
+                "flow": "Companies decide product design, packaging, and marketing → consumers choose within the options that are produced and promoted → unsustainable products can become the easiest or cheapest choices → business decisions therefore shape individual behaviour as well as respond to it.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1508,7 +1508,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Businesses respond to market signals from consumers — responsibility is shared",
-                "flow": "Businesses produce what consumers buy → falling demand for unsustainable products → companies lose revenue → shift production toward sustainable alternatives → consumer choice and corporate decision-making are mutually determining.",
+                "flow": "Businesses produce what consumers buy → falling demand for unsustainable products → companies lose revenue → shift production toward sustainable alternatives → consumer choices and business decisions influence each other.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1522,7 +1522,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Government regulation determines environmental outcomes more than corporate will",
-                "flow": "Competitive markets penalise companies that internalise costs competitors ignore → without regulation requiring all businesses to act → responsible companies disadvantaged → governments must set rules that apply equally → regulatory frameworks are a prerequisite for corporate environmental responsibility.",
+                "flow": "Competitive markets penalise companies that voluntarily bear environmental costs their competitors ignore → without regulation requiring all businesses to act → responsible companies are put at a disadvantage → governments must set rules that apply equally → regulation is necessary for consistent corporate environmental responsibility.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1536,7 +1536,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Individual consumption patterns collectively determine what businesses produce",
-                "flow": "Mass demand for cheap, disposable goods → businesses scale production to meet it → profit motive follows demand → reducing demand requires changing the individual behaviours that constitute the market businesses serve.",
+                "flow": "Mass demand for cheap, disposable goods → businesses scale production to meet it → the profit motive follows demand → reducing demand therefore requires changes in the individual behaviours of the consumers businesses serve.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1557,8 +1557,8 @@ window.TOPIC_DATA = {
             "label": "Agree — compulsory measures are necessary and effective",
             "ideas": [
               {
-                "title": "Voluntary action has consistently failed to achieve the scale of change required",
-                "flow": "Voluntary environmental campaigns have run for decades → emissions continue rising → individual voluntary action is structurally insufficient → compulsory measures achieve the universal participation that voluntary approaches cannot.",
+                "title": "Voluntary action cannot guarantee participation at the scale environmental targets require",
+                "flow": "Environmental gains depend on large numbers of people changing behaviour → voluntary campaigns leave participation uneven → non-participants can offset much of the progress made by others → mandatory standards can create more consistent participation across the population.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1590,8 +1590,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — compulsion is unjust and counterproductive",
             "ideas": [
               {
-                "title": "Compulsion is unjust when individuals have unequal means to comply",
-                "flow": "Low-income households cannot afford electric vehicles, premium organic food, or energy-efficient appliances → mandatory carbon reduction applied equally → regressive burden → poor compelled to meet standards designed for the wealthy → environmental justice demands equity before compulsion.",
+                "title": "Compulsory environmental rules are unfair when people have unequal means to comply",
+                "flow": "Low-income households cannot afford electric vehicles, premium organic food, or energy-efficient appliances → mandatory carbon reduction is applied equally → poorer households face a heavier burden → they are forced to meet standards designed around what wealthier people can afford → fairness requires greater equality before compulsion.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1618,8 +1618,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Structural interventions deliver greater environmental impact with less coercion",
-                "flow": "Redesigning transport infrastructure, energy grids, and urban form changes behaviour for everyone automatically → no surveillance or enforcement required → greater environmental impact than monitoring millions of individual choices → nudge design achieves voluntary compliance at scale.",
+                "title": "Changing infrastructure can deliver greater environmental impact with less coercion",
+                "flow": "Redesigning transport infrastructure, energy grids, and cities changes the options available to everyone → no monitoring of private choices is required → this can have greater environmental impact than enforcing millions of individual decisions → well-designed systems make greener behaviour the easier voluntary choice.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1766,7 +1766,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Fuel taxation revenue funds the clean energy transition and public health",
-                "flow": "Tax collected from fuel use → invested in renewable energy and clean infrastructure → technology deployment accelerates → public health costs from pollution reduced → virtuous cycle where fuel costs fund their own replacement.",
+                "flow": "Tax collected from fuel use → invested in renewable energy and clean infrastructure → clean technology spreads faster → public health costs from pollution fall → fuel taxes help finance the transition away from fossil fuels.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1785,7 +1785,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Higher fuel costs harm low-income populations and developing nations most",
-                "flow": "Fuel is essential for heating, cooking, and transport → price increases take a larger share of low-income budgets → regressive impact → those who contributed least to emissions bear the most cost → development compromised in nations that have done the least harm.",
+                "flow": "Fuel is essential for heating, cooking, and transport → price increases take a larger share of low-income budgets → the burden falls more heavily on poorer households → those who contributed least to emissions bear the greatest cost → development is harmed in nations that have done the least environmental damage.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1834,8 +1834,8 @@ window.TOPIC_DATA = {
             "label": "Economic development and environmental protection are incompatible",
             "ideas": [
               {
-                "title": "Industrial development inherently involves environmental destruction",
-                "flow": "Manufacturing, agriculture, and infrastructure require land, energy, and materials → extraction and pollution inevitable → decoupling growth from environmental impact remains largely theoretical → every wealthy nation became wealthy through environmental destruction.",
+                "title": "Rapid industrial growth creates strong environmental pressure when it remains resource-intensive",
+                "flow": "Manufacturing, agriculture, and infrastructure require large amounts of land, energy, and materials → rapid growth increases extraction and pollution unless cleaner technology keeps pace → developing economies often face pressure to prioritise jobs and output → economic expansion can therefore conflict with environmental protection in the short term.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1849,7 +1849,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Environmental regulations reduce competitiveness and risk industrial relocation",
-                "flow": "Compliance with environmental standards increases production costs → manufacturers in regulated nations compete against less-regulated rivals → jobs and investment migrate → environmental benefit negated by industrial migration → the race to the bottom is structurally difficult to avoid.",
+                "flow": "Compliance with environmental standards increases production costs → manufacturers in regulated nations compete against rivals facing weaker rules → jobs and investment move elsewhere → environmental gains are cancelled out as industry relocates → countries face pressure to weaken standards in order to remain competitive.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1882,7 +1882,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Environmental degradation has severe long-term economic costs that green growth avoids",
-                "flow": "Pollution causes healthcare costs and productivity losses → resource depletion raises input costs → climate damage destroys infrastructure → the economic cost of environmental damage eventually exceeds the cost of preventing it → green growth is economically rational when full lifecycle costs are calculated.",
+                "flow": "Pollution causes healthcare costs and productivity losses → resource depletion raises input costs → climate damage destroys infrastructure → the economic cost of environmental damage eventually exceeds the cost of preventing it → green growth is economically rational when all long-term costs are included.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1895,8 +1895,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Regulatory innovation drives green growth without sacrificing competitiveness",
-                "flow": "Strict environmental standards create pressure to innovate → companies develop cleaner products and processes → technological leadership in clean sectors established → domestic innovation becomes exportable → regulation creates comparative advantage rather than disadvantage.",
+                "title": "Strict environmental rules can drive green growth without reducing competitiveness",
+                "flow": "Strict environmental standards create pressure to innovate → companies develop cleaner products and processes → they become leaders in clean technologies → these innovations can be exported → regulation can create a competitive advantage rather than only a cost.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2026,8 +2026,8 @@ window.TOPIC_DATA = {
             "label": "Agree — developed nations bear greater responsibility",
             "ideas": [
               {
-                "title": "Historical emissions created the problem — responsibility is proportional to contribution",
-                "flow": "Cumulative CO₂ in the atmosphere determines warming → wealthy nations industrialised first → responsible for the majority of historical emissions → current warming reflects their past choices → moral responsibility is proportional to causal contribution.",
+                "title": "Countries that caused more historical emissions bear more responsibility",
+                "flow": "The total CO₂ accumulated in the atmosphere drives warming → wealthy nations industrialised first → they produced a large share of historical emissions → today's warming reflects much of that past pollution → countries that contributed more have greater moral responsibility.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2110,7 +2110,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Environmental problems cross borders and require coordinated global responses",
-                "flow": "Air pollution, ocean plastic, and climate change do not respect national boundaries → unilateral national action is insufficient → the free rider problem undermines individual action → binding international frameworks prevent free riding → coordination failures impossible to resolve without global agreement.",
+                "flow": "Air pollution, ocean plastic, and climate change do not respect national boundaries → action by one country alone is insufficient → countries may benefit from others' efforts without taking equivalent action themselves → binding international agreements make all participants contribute → some cross-border problems cannot be solved without global coordination.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2302,7 +2302,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Urbanisation relieves pressure on rural ecosystems and allows natural recovery",
-                "flow": "Rural-to-urban migration → agricultural land abandoned in depopulating areas → natural vegetation and forest recovers → carbon sequestration improves → cities absorbing population relieve pressure on ecologically sensitive rural land.",
+                "flow": "Rural-to-urban migration → agricultural land is abandoned in depopulating areas → natural vegetation and forests recover → more carbon is absorbed and stored → cities absorbing population relieve pressure on ecologically sensitive rural land.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2320,8 +2320,8 @@ window.TOPIC_DATA = {
             "label": "Negative environmental effects of urbanisation",
             "ideas": [
               {
-                "title": "Urban expansion destroys peri-urban ecosystems and agricultural land",
-                "flow": "Growing cities consume surrounding land → forests, wetlands, and farmland cleared → habitat fragmentation and urban heat islands form → groundwater disrupted → environmental damage concentrated at the expanding urban fringe.",
+                "title": "Urban expansion destroys ecosystems and agricultural land around cities",
+                "flow": "Growing cities consume surrounding land → forests, wetlands, and farmland are cleared → habitats are broken into smaller areas and urban heat increases → groundwater systems are disrupted → environmental damage is concentrated at the expanding urban edge.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2335,7 +2335,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Urban populations generate concentrated pollution that degrades local environments",
-                "flow": "Concentrated population generates concentrated waste, sewage, and air pollution → scale of urban pollution exceeds what local ecosystems can absorb → industrial activity co-locates with population → rivers, air, and soil contaminated at scale.",
+                "flow": "Concentrated populations generate concentrated waste, sewage, and air pollution → the scale of urban pollution exceeds what local ecosystems can absorb → industrial activity is often concentrated in the same areas → rivers, air, and soil become polluted on a large scale.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2384,8 +2384,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Green infrastructure provides essential environmental services in an era of climate change",
-                "flow": "Parks, trees, and wetlands absorb rainfall → reduce flood risk and filter air pollutants → lower urban temperatures by 2–8°C → sequester carbon → these services are structurally necessary as climate change intensifies urban heat and flooding.",
+                "title": "Urban green spaces provide essential environmental protection as climate change worsens",
+                "flow": "Parks, trees, and wetlands absorb rainfall → reduce flood risk and filter air pollutants → lower urban temperatures by 2–8°C → absorb and store carbon → these functions become increasingly important as climate change intensifies urban heat and flooding.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2418,7 +2418,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Green spaces are not the most cost-effective environmental intervention",
-                "flow": "Urban parks cool a small local area → carbon sequestration is modest → rewilding rural land or investing in renewables delivers larger environmental returns per unit of investment → limited budgets should target highest-impact interventions.",
+                "flow": "Urban parks cool a small local area → their carbon absorption is modest → restoring rural ecosystems or investing in renewables delivers larger environmental returns for the same investment → limited budgets should target the interventions with the greatest impact.",
                 "examples": [
                   {
                     "type": "vn",

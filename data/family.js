@@ -65,8 +65,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Extended family support systems make early marriage viable",
-                "flow": "Young couples in collectivist cultures receive housing, childcare, and financial support from parents → economic barriers to early marriage reduced → stability compensated for by family network",
+                "title": "Extended family support makes early marriage more viable",
+                "flow": "Young couples in cultures with strong extended-family support receive housing, childcare, and financial support from parents → economic barriers to early marriage reduced → family network provides stability despite limited resources",
                 "examples": [
                   {
                     "type": "vn",
@@ -98,7 +98,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Financial independence reduces the leading cause of marital conflict",
+                "title": "Financial independence reduces a major source of marital conflict",
                 "flow": "Established career before marriage → financial security → fewer disputes over money → both partners contribute equally → less power imbalance → lower rates of resentment and separation",
                 "examples": [
                   {
@@ -148,8 +148,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Declining marriage reflects women's expanded economic agency",
-                "flow": "Women's education and employment → financial independence → marriage no longer required for economic survival → women choose partners on the basis of compatibility → higher quality unions when they occur",
+                "title": "Declining marriage reflects women's greater financial independence",
+                "flow": "Women's education and employment → financial independence → marriage no longer required for economic survival → women choose partners based on compatibility → higher-quality unions when they occur",
                 "examples": [
                   {
                     "type": "vn",
@@ -162,7 +162,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Reduced social pressure to marry filters out low-quality unions",
+                "title": "Reduced social pressure to marry filters out unsuitable marriages",
                 "flow": "People no longer feel compelled to marry by social expectation → only genuinely committed couples marry → average quality of marriages rises → fewer people tolerating relationships that fail to meet basic needs",
                 "examples": [
                   {
@@ -209,8 +209,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Declining marriage is associated with rising social isolation",
-                "flow": "Marriage creates kinship bonds between families → extended networks of social support → declining marriage → more individuals living alone → higher rates of loneliness → documented public health consequences",
+                "title": "Marriage can expand social support networks for some adults",
+                "flow": "marriage connects partners and often their extended families → regular support and shared obligations can reduce isolation → people without comparable networks may face greater loneliness → declining marriage can therefore matter where alternative social ties are weak",
                 "examples": [
                   {
                     "type": "vn",
@@ -246,7 +246,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Practical alignment before marriage reduces post-marriage conflicts",
-                "flow": "Living together → establishing financial management, domestic roles, and daily routines → systems agreed before legal commitment → fewer unexpected conflicts after the wedding",
+                "flow": "Living together → establishing financial management, domestic roles, and daily routines → expectations agreed before legal commitment → fewer unexpected conflicts after the wedding",
                 "examples": [
                   {
                     "type": "vn",
@@ -259,7 +259,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Reduces pressure to marry for the wrong reasons",
+                "title": "Cohabitation reduces pressure to marry for the wrong reasons",
                 "flow": "Cohabitation provides companionship without legal commitment → individuals less likely to marry out of loneliness or social pressure → those who do marry make a more deliberate and autonomous choice",
                 "examples": [
                   {
@@ -279,7 +279,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Absence of formal commitment reduces investment in the relationship",
-                "flow": "No legal commitment → lower psychological investment → easier to leave at any point → 'sliding' into marriage without a decisive choice → weaker foundation than a deliberate commitment",
+                "flow": "No legal commitment → lower psychological investment → easier to leave at any point → drifting into marriage without a decisive choice → weaker foundation than a deliberate commitment",
                 "examples": [
                   {
                     "type": "vn",
@@ -292,8 +292,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cohabitation frequently disadvantages women disproportionately",
-                "flow": "Women invest more in domestic labour during cohabitation → no legal protections if relationship ends → higher risk of financial and emotional costs falling on the woman → male partner can exit without legal consequence",
+                "title": "Cohabitation can disadvantage the financially weaker partner when legal protections are limited",
+                "flow": "one partner reduces paid work or contributes more unpaid care → the relationship ends without clear property or support rights → that partner may bear disproportionate financial costs → formal agreements and legal protections can reduce the risk",
                 "examples": [
                   {
                     "type": "vn",
@@ -306,8 +306,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Normalisation of cohabitation can erode the commitment culture around marriage",
-                "flow": "Marriage increasingly seen as optional rather than aspirational → commitment deferred indefinitely → more children born outside stable long-term unions → reduced social emphasis on deliberate, lasting partnership",
+                "title": "Normalising cohabitation may delay explicit decisions about long-term commitment for some couples",
+                "flow": "cohabitation can begin without clear long-term plans → partners may postpone discussion of marriage, finances, or children → uncertainty can persist when expectations differ → deliberate conversations about commitment become more important",
                 "examples": [
                   {
                     "type": "vn",
@@ -467,7 +467,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Overprotection creates anxious, dependent adults",
-                "flow": "Parental control over all decisions → children never experience failure → enter adulthood without coping mechanisms → higher rates of anxiety and inability to navigate ambiguity",
+                "flow": "Parental control over all decisions → children never experience failure → enter adulthood without coping strategies → higher rates of anxiety and difficulty handling uncertainty",
                 "examples": [
                   {
                     "type": "vn",
@@ -499,8 +499,8 @@ window.TOPIC_DATA = {
             "label": "Parental control is necessary and beneficial",
             "ideas": [
               {
-                "title": "Children lack the cognitive capacity for important decisions",
-                "flow": "Developing prefrontal cortex → inability to properly evaluate long-term consequences → poor risk assessment → decisions made with incomplete information → adult guidance prevents preventable harm",
+                "title": "Children are not yet equipped to make important decisions independently",
+                "flow": "Brain systems for planning and impulse control are still developing → children struggle to evaluate long-term consequences fully → risk assessment is weaker → decisions are made with incomplete judgment → adult guidance prevents avoidable harm",
                 "examples": [
                   {
                     "type": "vn",
@@ -528,7 +528,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Structure and guidance provide the security children need to flourish",
-                "flow": "Consistent parental structure → predictability and emotional safety → secure attachment → foundation for confident exploration → children need roots before they develop wings",
+                "flow": "Consistent parental structure → predictability and emotional safety → secure attachment → foundation for confident exploration → a secure base supports growing independence",
                 "examples": [
                   {
                     "type": "vn",
@@ -549,7 +549,7 @@ window.TOPIC_DATA = {
             "label": "Parenting quality is the most important factor",
             "ideas": [
               {
-                "title": "Parents are a child's first and most enduring developmental model",
+                "title": "Parents are a child's first and most lasting role models",
                 "flow": "Parents' language, emotional regulation, and values observed first → patterns internalised in early childhood → foundation shapes all subsequent cognitive and social development",
                 "examples": [
                   {
@@ -564,7 +564,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Strong parental bonds help children navigate all other influences",
-                "flow": "Secure parental attachment → children develop filtering capacity → ability to critically engage with peer and media influences → parental relationship acts as anchor against negative external pressure",
+                "flow": "Secure parental attachment → children develop a stronger ability to judge outside influences → engage more critically with peer and media pressure → parental relationship acts as an anchor against harmful external influence",
                 "examples": [
                   {
                     "type": "vn",
@@ -597,7 +597,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "School quality has a profound and lasting effect on outcomes",
-                "flow": "Quality teachers → high expectations and deep engagement → students reach higher academic and social potential → school effect is measurable and independent of parenting quality",
+                "flow": "Quality teachers → high expectations and deep engagement → students reach higher academic and social potential → school quality influences outcomes independently of parenting",
                 "examples": [
                   {
                     "type": "vn",
@@ -624,7 +624,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Socioeconomic environment creates constraints that parenting alone cannot overcome",
+                "title": "Economic and social conditions create constraints that parenting alone cannot overcome",
                 "flow": "Poverty → poor nutrition, housing instability, limited resources → cognitive and emotional strain on children → parenting quality, however high, cannot fully compensate for structural disadvantage",
                 "examples": [
                   {
@@ -646,8 +646,8 @@ window.TOPIC_DATA = {
             "label": "Parents should be held legally responsible for their children's crimes",
             "ideas": [
               {
-                "title": "Parental neglect is frequently the root cause of juvenile crime",
-                "flow": "Absent or negligent parenting → lack of supervision, moral guidance, and emotional support → children more susceptible to antisocial peer influence → higher risk of criminal behaviour",
+                "title": "Parental neglect can increase the risk of juvenile crime",
+                "flow": "weak supervision and limited emotional support leave young people more exposed to harmful peer influence → antisocial behaviour can go unchallenged → the risk of offending rises → stronger parental engagement can therefore form part of prevention",
                 "examples": [
                   {
                     "type": "vn",
@@ -661,7 +661,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Legal accountability creates incentives for more engaged parenting",
-                "flow": "Parents facing potential penalties → greater motivation to monitor, engage with, and guide children's behaviour → deterrent effect on negligence → social norms around parental responsibility strengthened",
+                "flow": "Parents facing potential penalties → greater motivation to monitor, engage with, and guide children's behaviour → neglect is discouraged → social norms around parental responsibility strengthened",
                 "examples": [
                   {
                     "type": "vn",
@@ -674,8 +674,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Victims of juvenile crime deserve meaningful accountability",
-                "flow": "Juvenile crime causes real harm → offenders too young for full legal sanction → parents are the responsible adults in a minor's life → holding parents accountable ensures victims receive recognition",
+                "title": "Parents should be accountable when their own negligence materially contributes to a child's offending",
+                "flow": "serious lack of supervision or knowingly enabling harmful behaviour can increase risk → where clear parental negligence contributed to an offence, some responsibility is shared → targeted consequences address adult failure without treating all parents as liable for autonomous acts",
                 "examples": [
                   {
                     "type": "vn",
@@ -693,7 +693,7 @@ window.TOPIC_DATA = {
             "label": "Parents should not be penalised for their children's crimes",
             "ideas": [
               {
-                "title": "Teenagers are autonomous agents whose choices parents cannot fully control",
+                "title": "Teenagers make independent choices that parents cannot fully control",
                 "flow": "Adolescents have independent social worlds — peers, online spaces, unsupervised hours → even attentive parents cannot monitor all behaviour → holding parents responsible for autonomous choices is unjust",
                 "examples": [
                   {
@@ -722,7 +722,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Parental penalties divert attention from more effective interventions",
-                "flow": "Focus on punishing parents → blame assigned, root causes unaddressed → more effective solutions — youth services, school counselling, community programmes — remain underfunded and deprioritised",
+                "flow": "Focus on punishing parents → blame assigned, root causes unaddressed → more effective solutions — youth services, school counselling, community programmes — remain underfunded and neglected",
                 "examples": [
                   {
                     "type": "vn",
@@ -895,8 +895,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Declining social norms around commitment may create intergenerational instability",
-                "flow": "Normalisation of family breakdown → reduced social investment in maintaining relationships → children of unstable families more likely to experience instability in their own adult relationships → cyclical social effect",
+                "title": "Repeated exposure to unstable relationships can affect children's expectations of commitment",
+                "flow": "frequent relationship breakdown may normalise short-term partnerships → children may form less secure expectations about long-term commitment → these expectations can influence later relationships → instability can therefore repeat across generations in some families",
                 "examples": [
                   {
                     "type": "vn",
@@ -978,7 +978,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Economic resource-pooling produces greater household stability",
+                "title": "Sharing household resources produces greater stability",
                 "flow": "Multiple adults sharing housing and expenses → costs reduced → financial pressure relieved → resources directed toward children's education and health → greater resilience against economic shocks",
                 "examples": [
                   {
@@ -1026,7 +1026,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Children thrive with clearly defined primary attachment relationships",
-                "flow": "Nuclear family → children bond primarily with parents → clear attachment hierarchy → secure foundation for development → extended family supplements without complicating the primary bond",
+                "flow": "Nuclear family → children bond primarily with parents → clear primary caregiving relationships → secure foundation for development → extended family provides support without confusing the primary bond",
                 "examples": [
                   {
                     "type": "vn",
@@ -1123,7 +1123,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Two parents share the cognitive and emotional demands of child-rearing",
-                "flow": "Parenting involves continuous decision-making, emotional labour, and supervision → single parent carries this load alone → burnout risk → parent's wellbeing directly affects children's emotional security",
+                "flow": "Parenting involves continuous decision-making, emotional labour, and supervision → single parent carries this load alone → risk of burnout rises → parent's wellbeing directly affects children's emotional security",
                 "examples": [
                   {
                     "type": "vn",
@@ -1332,7 +1332,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Escaping a conflicted marriage benefits children",
-                "flow": "Conflict in intact marriage → chronic stress for children → behavioural difficulties and anxiety → separation removes the primary stressor → calmer household → improved wellbeing post-divorce",
+                "flow": "High-conflict marriage → chronic stress for children → behavioural difficulties and anxiety → separation removes the primary stressor → calmer household → improved wellbeing post-divorce",
                 "examples": [
                   {
                     "type": "vn",
@@ -1368,7 +1368,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Women are no longer trapped in harmful or unhappy marriages",
-                "flow": "Greater economic independence → women can leave abusive or deeply unfulfilling marriages → physical and psychological safety → more fulfilled individual lives → children benefit from a happier, safer primary carer",
+                "flow": "Greater economic independence → women can leave abusive or deeply unfulfilling marriages → physical and psychological safety → more fulfilled individual lives → children benefit from a happier, safer primary caregiver",
                 "examples": [
                   {
                     "type": "vn",
@@ -1381,7 +1381,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Higher expectations reflect a qualitative improvement in how marriage is understood",
+                "title": "Higher expectations reflect a healthier understanding of marriage",
                 "flow": "People expect marriages to be genuine partnerships of equals → unwilling to accept chronically unhappy or unfulfilling unions → higher standards → exit from relationships that fail to meet basic human needs",
                 "examples": [
                   {
@@ -1396,7 +1396,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Divorce can lead to better outcomes for all parties, including children",
-                "flow": "Ending an unhappy marriage → both partners freer and more fulfilled → reduced household conflict → children in calmer environment → possibility of forming healthier relationships → demonstration of healthy relational boundaries",
+                "flow": "Ending an unhappy marriage → both partners freer and more fulfilled → reduced household conflict → children in calmer environment → possibility of forming healthier relationships → demonstration of healthy boundaries in relationships",
                 "examples": [
                   {
                     "type": "vn",
@@ -1492,8 +1492,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Easy divorce may undermine the commitment that marriage requires",
-                "flow": "Knowing divorce is simple → reduces investment in working through difficulties → marriages treated as temporary arrangements → long-term commitment culture weakens → average relationship quality declines",
+                "title": "A short reflection period can encourage couples to reconsider before finalising divorce",
+                "flow": "temporary crises can trigger decisions made under intense emotion → a brief waiting period creates time for reflection or counselling → couples with resolvable problems may reconsider → those with irreparable marriages can still proceed",
                 "examples": [
                   {
                     "type": "vn",
@@ -1526,7 +1526,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "The right to exit an abusive relationship is a fundamental human right",
-                "flow": "Domestic violence → legal barriers to divorce → victims unable to escape abusers → physical and psychological harm continues → state is effectively complicit in ongoing abuse through procedural obstruction",
+                "flow": "Domestic violence → legal barriers to divorce → victims unable to escape abusers → physical and psychological harm continues → the state contributes to continued harm by obstructing exit",
                 "examples": [
                   {
                     "type": "vn",
@@ -1539,8 +1539,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Voluntary support is more effective than legal barriers at preserving marriages",
-                "flow": "Mandatory counselling, mediation, and relationship support → couples with resolvable problems helped to resolve them → more effective than legal barriers that create resentment and delay without healing",
+                "title": "Accessible counselling and mediation can preserve marriages without creating legal barriers",
+                "flow": "couples with resolvable conflict receive counselling or mediation → communication and practical disputes are addressed → some relationships recover voluntarily → couples who still need divorce are not trapped by procedural obstacles",
                 "examples": [
                   {
                     "type": "vn",
@@ -1673,7 +1673,7 @@ window.TOPIC_DATA = {
             "label": "Positive — professional care facilities benefit elderly people and families",
             "ideas": [
               {
-                "title": "Professional facilities offer specialised medical care that families cannot provide",
+                "title": "Professional care facilities offer specialised medical care that families cannot provide",
                 "flow": "Elderly often require complex medical management → trained nursing staff → consistent medication monitoring → better health outcomes for those with serious conditions",
                 "examples": [
                   {
@@ -1688,7 +1688,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Professional care relieves unsustainable burdens from working-age family members",
-                "flow": "Elderly care is full-time demanding work → family caregivers sacrifice careers, mental health, and finances → unsustainable without support → professional care frees families to remain economically productive",
+                "flow": "Elderly care is demanding full-time work → family caregivers sacrifice careers, mental health, and finances → unsustainable without support → professional care frees families to remain economically productive",
                 "examples": [
                   {
                     "type": "vn",
@@ -1701,7 +1701,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Communal residential care can prevent social isolation among the elderly",
+                "title": "Residential care can reduce social isolation among older people",
                 "flow": "Residential care → community of peers → structured activities → consistent social engagement → better cognitive and emotional health than isolated home care for those without active family networks",
                 "examples": [
                   {
@@ -1785,7 +1785,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Family care preserves the dignity of elderly people",
-                "flow": "Aged parents cared for by loved ones → sense of being valued and known → psychological security and dignity → quality of remaining life preserved in a way that anonymous institutional care cannot replicate",
+                "flow": "Older parents cared for by loved ones → sense of being valued and known → psychological security and dignity → quality of remaining life preserved in a way that impersonal institutional care cannot replicate",
                 "examples": [
                   {
                     "type": "vn",
@@ -1798,8 +1798,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children who care for parents model intergenerational responsibility for the next generation",
-                "flow": "Children observing parents caring for grandparents → internalise family responsibility as a norm → more likely to care for their own parents → intergenerational ethic of mutual care perpetuated",
+                "title": "Caring for parents models intergenerational responsibility for the next generation",
+                "flow": "Children observing parents caring for grandparents → internalise family responsibility as a norm → more likely to care for their own parents → norm of mutual care passed to the next generation",
                 "examples": [
                   {
                     "type": "vn",
@@ -1846,7 +1846,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Elderly care is a societal responsibility, not solely a family burden",
-                "flow": "Population ageing is a national-level issue → solutions require systemic response → national insurance, welfare, and care infrastructure → individual families should not bear the entire burden of a societal demographic shift",
+                "flow": "Population ageing is a national-level issue → solutions require a system-wide response → national insurance, welfare, and care infrastructure → individual families should not bear the entire burden of a societal demographic shift",
                 "examples": [
                   {
                     "type": "vn",
@@ -1882,7 +1882,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Cultural knowledge and family values are transmitted more effectively",
-                "flow": "Daily proximity → grandparents share stories, values, and cultural practices naturally → children absorb intergenerational wisdom → family and cultural identity strengthened through organic daily contact",
+                "flow": "Daily proximity → grandparents share stories, values, and cultural practices naturally → children absorb intergenerational wisdom → family and cultural identity strengthened through natural daily contact",
                 "examples": [
                   {
                     "type": "vn",
@@ -1929,7 +1929,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Elderly people maintain greater dignity and autonomy when living independently",
-                "flow": "Own home → control over daily decisions → sense of agency → psychological wellbeing better preserved than in a dependent family setting where deference to others is constantly required",
+                "flow": "Own home → control over daily decisions → sense of agency → psychological wellbeing better preserved than in a dependent family setting where they must constantly defer to others",
                 "examples": [
                   {
                     "type": "vn",
@@ -2071,7 +2071,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Equal division reduces the unsustainable double burden on working women",
-                "flow": "Women increasingly in full-time employment → if domestic labour unchanged → women carry professional and domestic loads simultaneously → burnout → career disadvantage → structural inequality perpetuated",
+                "flow": "Women increasingly in full-time employment → if domestic labour unchanged → women carry professional and domestic loads simultaneously → burnout → career disadvantage → gender inequality continues",
                 "examples": [
                   {
                     "type": "vn",
@@ -2099,7 +2099,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Equitable partnerships produce higher relationship satisfaction",
-                "flow": "Partners who share responsibilities → both feel respected and supported → reduced resentment → stronger relational bond → lower conflict rates → more satisfying long-term partnerships",
+                "flow": "Partners who share responsibilities → both feel respected and supported → reduced resentment → stronger relationship → lower conflict rates → more satisfying long-term partnerships",
                 "examples": [
                   {
                     "type": "vn",
@@ -2132,7 +2132,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Traditional roles can reflect genuine preferences, not imposition",
-                "flow": "Some women genuinely prefer domestic focus → some men prefer breadwinner role → when freely chosen → neither party is disadvantaged → respect for autonomous personal choice is itself an equality value",
+                "flow": "Some women genuinely prefer domestic focus → some men prefer breadwinner role → when freely chosen → neither party is disadvantaged → respect for free personal choice is itself an equality value",
                 "examples": [
                   {
                     "type": "vn",
@@ -2146,7 +2146,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Rigid equal-division expectations can create unrealistic pressure on both partners",
-                "flow": "Both partners working demanding jobs → insufficient time to meet all domestic needs even if equally shared → resentment when impossible standards cannot be met → better solution: pragmatic negotiation rather than ideological prescription",
+                "flow": "Both partners working demanding jobs → insufficient time to meet all domestic needs even if equally shared → resentment when impossible standards cannot be met → better solution: practical negotiation rather than a rigid rule",
                 "examples": [
                   {
                     "type": "vn",
@@ -2182,7 +2182,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Working mothers model ambition, resilience, and professional identity",
-                "flow": "Children observe working mothers → normalise female professional success → daughters develop higher aspirations → sons expect women to have careers → attitudinal shift across the next generation",
+                "flow": "Children observe working mothers → normalise female professional success → daughters develop higher aspirations → sons expect women to have careers → more equal attitudes across the next generation",
                 "examples": [
                   {
                     "type": "vn",
@@ -2228,7 +2228,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cognitive overload from combining career and parenting reduces effectiveness in both",
+                "title": "Combining career and parenting creates mental strain that reduces effectiveness in both",
                 "flow": "Full-time career demands → mental fatigue → less present and responsive at home → parenting quality suffers → work performance also declines → neither role performed as well as when focus is undivided",
                 "examples": [
                   {
@@ -2242,8 +2242,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Quality childcare alternatives are not universally available or reliable",
-                "flow": "Childcare quality varies enormously → inadequate alternatives harm development → the benefit of a mother working depends entirely on what replaces her care → poor-quality childcare negates the assumed advantages",
+                "title": "Poor-quality childcare can reduce the benefits of maternal employment for young children",
+                "flow": "mother returns to work → child spends significant time in substitute care → if care is unstable or unresponsive, developmental needs may be poorly met → access to high-quality childcare is therefore important for balancing work and child wellbeing",
                 "examples": [
                   {
                     "type": "vn",
@@ -2264,8 +2264,8 @@ window.TOPIC_DATA = {
             "label": "Stay-at-home fathers represent a positive development",
             "ideas": [
               {
-                "title": "Challenges traditional gender norms and expands men's emotional lives",
-                "flow": "Fathers as primary caregivers → develop nurturing skills typically denied to men → richer paternal relationships → greater male emotional engagement → more complete and equal human experience for both sexes",
+                "title": "Primary caregiving challenges traditional gender roles and broadens men's emotional lives",
+                "flow": "Fathers as primary caregivers → develop nurturing skills often discouraged by traditional male roles → richer paternal relationships → greater male emotional engagement → broader emotional roles and more equal gender expectations",
                 "examples": [
                   {
                     "type": "vn",
@@ -2326,7 +2326,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Career gaps impose lasting professional and financial consequences",
-                "flow": "Years away from profession → skills deteriorate → professional network atrophies → re-entry difficult → long-term earning potential reduced → financial vulnerability if relationship later dissolves",
+                "flow": "Years away from profession → skills deteriorate → professional network weakens → re-entry difficult → long-term earning potential reduced → financial vulnerability if relationship later dissolves",
                 "examples": [
                   {
                     "type": "vn",
@@ -2340,7 +2340,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Financial dependency on a single partner creates household vulnerability",
-                "flow": "Stay-at-home father relies entirely on partner's income → if relationship dissolves → reduced legal and social protection for men who gave up careers → financial precarity at a vulnerable time",
+                "flow": "Stay-at-home father relies entirely on partner's income → if relationship dissolves → reduced legal and social protection for men who gave up careers → financial insecurity at a vulnerable time",
                 "examples": [
                   {
                     "type": "vn",
@@ -2482,7 +2482,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Absence of adult supervision increases adolescent risk-taking",
-                "flow": "Children left unsupervised → peer pressure without adult counterbalance → experimentation with substances and reckless behaviour → significant preventable harm at a vulnerable developmental stage",
+                "flow": "Children left unsupervised → peer pressure without adult guidance → experimentation with substances and reckless behaviour → significant preventable harm at a vulnerable developmental stage",
                 "examples": [
                   {
                     "type": "vn",
@@ -2495,7 +2495,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children benefit from structured adult guidance during critical cognitive and moral development",
+                "title": "Children benefit from adult guidance while judgment is still developing",
                 "flow": "Developing cognitive and moral systems → need adult guidance to form sound judgment → excessive freedom before judgment is formed → poor decisions → developmental harm that persists into adulthood",
                 "examples": [
                   {
@@ -2515,7 +2515,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Overprotection prevents the development of resilience and risk tolerance",
-                "flow": "Children never experience failure or manageable risk → no opportunity to develop coping strategies → enter adulthood unprepared for setbacks → anxiety, fragility, and inability to tolerate ambiguity",
+                "flow": "Children never experience failure or manageable risk → no opportunity to develop coping strategies → enter adulthood unprepared for setbacks → anxiety, low confidence, and difficulty handling uncertainty",
                 "examples": [
                   {
                     "type": "vn",
@@ -2542,8 +2542,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Helicopter parenting produces dependent adults incapable of independent decision-making",
-                "flow": "Parents make all decisions → children never practise decision-making → enter adulthood incapable of managing basic autonomous choices → dependency and anxiety replace competence and confidence",
+                "title": "Constant parental control produces dependent adults who struggle to make independent decisions",
+                "flow": "Parents make all decisions → children never practise decision-making → enter adulthood unable to manage basic independent choices → dependency and anxiety replace competence and confidence",
                 "examples": [
                   {
                     "type": "vn",
@@ -2564,8 +2564,8 @@ window.TOPIC_DATA = {
             "label": "Negative — parental time is critical and its decline has real costs",
             "ideas": [
               {
-                "title": "Reduced parental time weakens attachment bonds",
-                "flow": "Less time together → fewer opportunities for meaningful interaction → attachment bond less secure → children more anxious → reduced emotional regulation capacity → behavioural and academic difficulties",
+                "title": "Reduced parental time can weaken connection when remaining interactions are also limited or distracted",
+                "flow": "parents have less shared time with children → fewer opportunities for attentive conversation and support → if remaining time is low quality, emotional connection can weaken → behavioural or academic difficulties may become more likely",
                 "examples": [
                   {
                     "type": "vn",
@@ -2579,7 +2579,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Values and character are transmitted through shared daily time",
-                "flow": "Parents model values, ethics, and emotional behaviour in daily interactions → children internalise these through observation → less shared time → fewer opportunities for this crucial, organic transmission of character",
+                "flow": "Parents model values, ethics, and emotional behaviour in daily interactions → children internalise these through observation → less shared time → fewer opportunities for this crucial, natural transmission of character",
                 "examples": [
                   {
                     "type": "vn",
@@ -2639,8 +2639,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Working parents model professional values that children internalise",
-                "flow": "Children observing hard-working parents → normalise professional dedication, time management, and career responsibility → develop work ethic and understanding of adult obligations → aspirational modelling compensates for reduced presence",
+                "title": "Working parents can model responsibility and professional commitment",
+                "flow": "children observe parents managing work obligations → see persistence, planning, and responsibility in practice → these behaviours can shape attitudes toward education and work → parental employment can provide positive modelling alongside direct caregiving",
                 "examples": [
                   {
                     "type": "vn",
@@ -2709,7 +2709,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Educational technology provides learning opportunities unavailable elsewhere",
-                "flow": "Quality educational content → interactive learning of science, languages, coding, and music → skills beyond those available through outdoor play → digital literacy is a critical 21st-century competency",
+                "flow": "Quality educational content → interactive learning of science, languages, coding, and music → skills beyond those available through outdoor play → digital literacy is an important modern skill",
                 "examples": [
                   {
                     "type": "vn",
@@ -2878,8 +2878,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Declining populations reduce economic dynamism and national competitiveness",
-                "flow": "Smaller workforce → lower aggregate productivity → reduced consumer demand → economic contraction → industries shrink → national competitiveness in global markets declines",
+                "title": "Declining populations can slow economic growth and shrink domestic markets",
+                "flow": "fewer workers reduce total production capacity → a smaller population weakens consumer demand → some industries face shrinking domestic markets → economic growth and international competitiveness can suffer",
                 "examples": [
                   {
                     "type": "vn",
@@ -2893,7 +2893,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Cultural continuity faces increasing pressure as populations shrink",
-                "flow": "Shrinking population → potential dependence on large-scale immigration → rapid demographic change → cultural and linguistic shifts → societies struggle to maintain identity continuity across generations",
+                "flow": "Shrinking population → potential dependence on large-scale immigration → rapid demographic change → cultural and linguistic shifts → societies struggle to preserve cultural continuity across generations",
                 "examples": [
                   {
                     "type": "vn",
@@ -2989,8 +2989,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Childfree individuals contribute meaningfully to society in other ways",
-                "flow": "Individuals without children → often greater professional dedication → contribution through career, community, and financial support for social systems → societal need does not require that all individuals become parents",
+                "title": "Childfree adults can contribute to society through roles other than parenthood",
+                "flow": "adults without children still work, pay taxes, care for relatives, volunteer, and contribute professionally → these activities support communities and public systems → social contribution is broader than raising children → remaining childfree does not imply avoiding social responsibility",
                 "examples": [
                   {
                     "type": "vn",
@@ -3008,7 +3008,7 @@ window.TOPIC_DATA = {
             "label": "Having children carries real social responsibilities",
             "ideas": [
               {
-                "title": "Demographic sustainability requires sufficient reproduction at the population level",
+                "title": "Demographic sustainability requires enough births at the population level",
                 "flow": "Below-replacement birth rates → population decline → economic contraction → unsustainable social systems → individual choices, when aggregated, have genuine and significant collective consequences",
                 "examples": [
                   {
@@ -3022,7 +3022,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social systems built on intergenerational reciprocity depend on the next generation",
+                "title": "Public support systems depend on the next generation of workers",
                 "flow": "Pension systems, healthcare, and social security → funded by the working-age population → fewer young people → systems become unsustainable → childfree individuals still benefit from systems sustained by other people's children",
                 "examples": [
                   {
@@ -3036,8 +3036,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Parenthood develops unique human capacities that benefit broader society",
-                "flow": "Parenting develops empathy, selflessness, and long-term responsibility → societies benefit from adults who have experienced deep relational obligation → a society with few parents may gradually lose certain social virtues that parenting uniquely cultivates",
+                "title": "Raising children can create forms of care and long-term responsibility that benefit communities",
+                "flow": "parents take responsibility for another person over many years → this can strengthen patience, planning, and concern for future generations → these habits may carry into community life → parenthood can therefore generate social benefits beyond the household",
                 "examples": [
                   {
                     "type": "vn",
@@ -3058,8 +3058,8 @@ window.TOPIC_DATA = {
             "label": "Governments should actively encourage higher birth rates",
             "ideas": [
               {
-                "title": "Demographic sustainability may require policy intervention",
-                "flow": "Market dynamics alone produce below-replacement fertility → voluntary individual choices aggregate into social crisis → government intervention to correct this market failure is justified → same logic as environmental or public health regulation",
+                "title": "Governments may support family formation when very low birth rates threaten public systems",
+                "flow": "sustained low fertility shrinks the future workforce → pensions, healthcare, and other age-based systems face growing pressure → family-support policies can reduce financial barriers to having children → intervention can address demographic risks without compelling individual choices",
                 "examples": [
                   {
                     "type": "vn",
@@ -3072,8 +3072,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children are a public good that society should collectively invest in",
-                "flow": "Children → future workers, taxpayers, innovators, and caregivers → benefit the whole society → those who raise children provide a public good → public investment in family formation is therefore economically rational",
+                "title": "Raising children creates benefits for the wider society",
+                "flow": "Children → future workers, taxpayers, innovators, and caregivers → benefit society beyond their own families → parents bear much of the cost while society shares the benefits → public investment in family formation is therefore economically rational",
                 "examples": [
                   {
                     "type": "vn",
@@ -3105,8 +3105,8 @@ window.TOPIC_DATA = {
             "label": "Governments should not interfere with reproductive choices",
             "ideas": [
               {
-                "title": "Reproductive decisions are fundamentally and irreducibly private",
-                "flow": "The decision to have or not have children → most intimate possible domain of personal autonomy → government interference violates bodily autonomy and individual dignity → the state has no legitimate role in directing this choice",
+                "title": "Reproductive decisions are fundamentally private",
+                "flow": "The decision to have or not have children → most intimate possible area of personal autonomy → government interference violates bodily autonomy and individual dignity → the state has no legitimate role in directing this choice",
                 "examples": [
                   {
                     "type": "vn",
@@ -3119,8 +3119,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Pro-natalist policies are typically expensive and largely ineffective",
-                "flow": "Governments spend enormous sums on incentives → fertility rates show modest response → money better spent on education, healthcare, and immigration reform → poor return on investment for a very high fiscal cost",
+                "title": "Policies to raise birth rates are typically expensive and largely ineffective",
+                "flow": "Governments spend enormous sums on incentives → fertility rates show modest response → money better spent on education, healthcare, and immigration reform → poor return on investment for a very high cost to public finances",
                 "examples": [
                   {
                     "type": "vn",
@@ -3134,7 +3134,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Immigration offers a more efficient and humane path to addressing demographic gaps",
-                "flow": "Rather than incentivising birth → accept skilled immigrants → immediate labour market contribution → demographic gap partially addressed → global benefit for migrants seeking better opportunities → no interference with personal choices",
+                "flow": "Rather than using incentives to raise birth rates → accept skilled immigrants → immediate labour market contribution → demographic gap partially addressed → global benefit for migrants seeking better opportunities → no interference with personal choices",
                 "examples": [
                   {
                     "type": "vn",

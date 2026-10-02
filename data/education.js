@@ -39,7 +39,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Education produces skilled workers that drive economic growth",
-                "flow": "Governments design curricula around labour market demands → graduates fill roles the economy needs → higher productivity, lower unemployment, greater GDP. Mismatch between skills and industry → structural unemployment, wasted public spending.",
+                "flow": "Governments design curricula around labour market demands → graduates fill roles the economy needs → higher productivity, lower unemployment, greater GDP. Mismatch between skills and industry needs → persistent unemployment caused by the mismatch, wasted public spending.",
                 "examples": [
                   {
                     "type": "vn",
@@ -66,8 +66,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public education is taxpayer-funded, so graduates owe a return to society",
-                "flow": "The state subsidises education using public money → graduates expected to contribute back through productive work and taxes. Graduates who emigrate or prioritise personal gain → brain drain → the social contract breaks down.",
+                "title": "Publicly funded education should produce a return for the society that pays for it",
+                "flow": "Taxpayers fund students' education → graduates gain skills and earning power from that investment → if many highly trained graduates leave permanently, those skills and future tax contributions benefit other countries → the society that funded their education receives less of the return.",
                 "examples": [
                   {
                     "type": "vn",
@@ -114,7 +114,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Defining what is \"useful to society\" risks suppressing talent",
-                "flow": "Governments deciding what careers are socially useful → arts, philosophy, and humanities devalued → entire fields of human knowledge defunded. Technology without ethics → harm; economic growth without culture → emptiness.",
+                "flow": "Governments deciding what careers are socially useful → arts, philosophy, and humanities devalued → entire fields of human knowledge lose funding. Technology without ethics → harmful decisions; economic growth without culture → a poorer cultural life.",
                 "examples": [
                   {
                     "type": "vn",
@@ -574,8 +574,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "University is the last opportunity for broad intellectual development",
-                "flow": "Once students enter the workforce, time for exploration disappears → the 4 years of university are uniquely suited for intellectual curiosity. Studying only within one discipline → technically competent but intellectually narrow graduates → less capable of ethical reasoning, cultural understanding, or leadership.",
+                "title": "University provides a rare period for broad intellectual development",
+                "flow": "Full-time study gives students protected time to explore subjects beyond immediate job needs → once careers and family responsibilities begin, that time becomes harder to find → broad study can therefore develop cultural understanding, ethical reasoning, and leadership before students specialise professionally.",
                 "examples": [
                   {
                     "type": "vn",
@@ -696,7 +696,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Graduates need workplace-ready skills to contribute from day one",
-                "flow": "Employers invest time and money retraining graduates who lack practical skills → this cost could be reduced if universities taught applied competencies. Employment-focused curricula → graduates contribute immediately → faster return on investment for both student and employer.",
+                "flow": "Employers invest time and money retraining graduates who lack practical skills → this cost could be reduced if universities taught those skills directly. Employment-focused curricula → graduates contribute immediately → faster return on investment for both student and employer.",
                 "examples": [
                   {
                     "type": "vn",
@@ -710,7 +710,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Future industries will demand entirely new skill sets — universities must adapt",
-                "flow": "AI, automation, and digitalisation are reshaping the labour market faster than ever → universities that cling to outdated curricula produce graduates misaligned with future employer needs. Forward-looking skills education → graduates equipped for jobs that don't yet exist → national economic resilience.",
+                "flow": "AI, automation, and digitalisation are reshaping the labour market faster than ever → universities that cling to outdated curricula produce graduates whose skills do not match future employer needs. Forward-looking skills education → graduates equipped for jobs that do not yet exist → the economy becomes better able to adapt.",
                 "examples": [
                   {
                     "type": "vn",
@@ -723,8 +723,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Skills-focused education delivers faster, more equitable social mobility",
-                "flow": "For students from low-income families, a degree is an economic investment not an intellectual luxury → employment skills shorten the path from graduation to financial independence. Abstract academic study with no employment outcome → prolongs dependence → widens the gap between privileged and disadvantaged graduates.",
+                "title": "Skills-focused education gives low-income students a faster route to upward mobility",
+                "flow": "For students from low-income families, a degree is an economic investment rather than an intellectual luxury → employment skills shorten the path from graduation to financial independence. Abstract academic study with no employment outcome → prolongs dependence → widens the gap between privileged and disadvantaged graduates.",
                 "examples": [
                   {
                     "type": "vn",
@@ -756,8 +756,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Research and knowledge creation are universities' unique contribution to society",
-                "flow": "Vocational training can teach skills → only universities can develop the capacity for original research, theoretical advancement, and intellectual innovation. Reducing universities to job-training centres → destroys the research culture that produces scientific breakthroughs driving long-term economic growth.",
+                "title": "Universities sustain research and knowledge creation that vocational training is not designed to provide",
+                "flow": "Vocational institutions focus mainly on occupational skills → universities combine advanced teaching with research → this environment trains researchers and produces new knowledge → weakening universities in favour of pure job training risks reducing long-term innovation.",
                 "examples": [
                   {
                     "type": "vn",
@@ -794,7 +794,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Financial barriers prevent talented students from accessing higher education",
-                "flow": "Without free university education → students from poor families cannot afford tuition fees → talent is wasted and social inequality entrenched. Free education → every student, regardless of background, can access university based on ability alone → more equitable, more meritocratic society.",
+                "flow": "Without free university education → students from poor families cannot afford tuition fees → talent is wasted and social inequality becomes more deeply rooted. Free education → every student, regardless of background, can access university based on ability alone → a fairer society where opportunity depends less on family income.",
                 "examples": [
                   {
                     "type": "vn",
@@ -808,7 +808,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "An educated population benefits all of society — justifying public funding",
-                "flow": "University graduates pay more taxes, commit fewer crimes, and contribute more to innovation → society recoups its investment many times over. Treating university purely as a private benefit → ignores enormous public returns → leads to chronic underinvestment in national human capital.",
+                "flow": "University graduates pay more taxes, commit fewer crimes, and contribute more to innovation → society recoups its investment many times over. Treating university purely as a private benefit → ignores enormous public returns → leads to chronic underinvestment in a country's skills and knowledge.",
                 "examples": [
                   {
                     "type": "vn",
@@ -822,7 +822,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Student debt burdens young people and delays their economic contribution",
-                "flow": "Graduates burdened with loan repayments → delay home ownership, marriage, starting businesses → reduce consumer spending and entrepreneurial activity. Debt-free graduates → enter the economy with full financial capacity → contribute more dynamically as consumers, taxpayers, and entrepreneurs.",
+                "flow": "Graduates burdened with loan repayments → delay home ownership, marriage, and starting businesses → reduce consumer spending and entrepreneurial activity. Debt-free graduates → enter the economy with full financial capacity → contribute more actively as consumers, taxpayers, and entrepreneurs.",
                 "examples": [
                   {
                     "type": "vn",
@@ -854,8 +854,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Tuition revenue funds the quality and infrastructure universities need",
-                "flow": "World-class universities require substantial investment in laboratories, libraries, and faculty salaries → this cannot be fully funded by governments alone. Tuition fees → universities compete globally for talent and update facilities → higher quality education for all students in the long run.",
+                "title": "Tuition revenue can supplement public funding and support university quality",
+                "flow": "High-quality universities require sustained spending on staff, laboratories, libraries, and facilities → public budgets are limited and must fund many services → tuition can provide an additional revenue source → universities have more resources to maintain and improve teaching quality.",
                 "examples": [
                   {
                     "type": "vn",
@@ -869,7 +869,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Free university for all disproportionately subsidises those who least need it",
-                "flow": "University graduates earn significantly more than non-graduates over their lifetimes → asking all taxpayers to fund degrees for future high earners is regressive. Means-tested scholarships → target support where it is most needed → fairer use of public resources.",
+                "flow": "University graduates earn significantly more than non-graduates over their lifetimes → asking all taxpayers to fund degrees for future high earners directs public money toward people who may need it least. Scholarships based on financial need → target support where it is most needed → fairer use of public resources.",
                 "examples": [
                   {
                     "type": "vn",
@@ -891,8 +891,8 @@ window.TOPIC_DATA = {
             "label": "A university degree is the best route to a good job",
             "ideas": [
               {
-                "title": "Most professional careers legally require a university degree",
-                "flow": "Medicine, law, engineering, architecture, and education all require accredited qualifications → there is no alternative path into these professions. In Vietnam, where professional licensing is strictly degree-based → a student without a degree is legally excluded from entire sectors of the economy.",
+                "title": "Many regulated professions require accredited university qualifications",
+                "flow": "Careers such as medicine, law, and some engineering or teaching roles require accredited qualifications → applicants without the required degree cannot obtain professional licences → for students aiming at these careers, university is not optional → a degree provides access to sectors that alternative training cannot open.",
                 "examples": [
                   {
                     "type": "vn",
@@ -920,7 +920,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "University provides networks and credentials that open career doors",
-                "flow": "Beyond knowledge, university provides access to alumni networks, internship pipelines, and professional connections → often more valuable than the degree itself. Without a university network → individuals are excluded from the informal channels through which many opportunities are shared.",
+                "flow": "Beyond knowledge, university provides access to alumni networks, internship opportunities, and professional connections → often more valuable than the degree itself. Without a university network → individuals are excluded from the informal channels through which many opportunities are shared.",
                 "examples": [
                   {
                     "type": "vn",
@@ -967,7 +967,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "The digital economy has created career paths where portfolios beat degrees",
-                "flow": "Content creation, digital marketing, e-commerce, and freelancing are fields where results and portfolio matter more than qualifications → online platforms allow anyone to demonstrate expertise directly to the market. Skills and track record → replace credentials as the primary signal of competence.",
+                "flow": "Content creation, digital marketing, e-commerce, and freelancing are fields where results and portfolios matter more than qualifications → online platforms allow anyone to demonstrate expertise directly to the market. Skills and track record → replace credentials as the main evidence of competence.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1123,7 +1123,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Vocational training leads directly and quickly to employment",
-                "flow": "Practical skills training → graduates immediately workplace-ready → shorter path from education to income → reduces graduate unemployment and personal financial pressure. University degrees can take 4+ years with no guaranteed job at the end.",
+                "flow": "Practical skills training → graduates ready to work immediately → shorter path from education to income → reduces graduate unemployment and personal financial pressure. University degrees can take 4+ years with no guaranteed job at the end.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1137,7 +1137,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Modern economies urgently need skilled tradespeople, not more graduates",
-                "flow": "Economies need electricians, plumbers, coders, and technicians as much as degree holders → shortage of skilled trades drives up costs and slows development → overproduction of academic graduates creates unemployment while critical industry gaps remain unfilled.",
+                "flow": "Economies need electricians, plumbers, coders, and technicians as much as degree holders → shortages of skilled tradespeople drive up costs and slow development → too many academic graduates create unemployment while critical industry gaps remain unfilled.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1170,7 +1170,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Academic education develops transferable skills that outlast any single vocation",
-                "flow": "University builds critical thinking, research ability, and abstract reasoning → applicable across industries and roles → graduates can pivot as economies change. Vocational skills risk obsolescence as technology automates specific tasks → narrow training leaves workers vulnerable.",
+                "flow": "University builds critical thinking, research ability, and abstract reasoning → applicable across industries and roles → graduates can pivot as economies change. Vocational skills risk becoming outdated as technology automates specific tasks → narrow training leaves workers vulnerable.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1198,7 +1198,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Academic education drives the research and innovation economies need most",
-                "flow": "Cutting-edge research, technological breakthroughs, and national competitiveness in high-value industries require university-trained scientists and researchers → vocational training alone cannot produce this layer of intellectual capacity → countries that underinvest in universities risk falling behind in the knowledge economy.",
+                "flow": "Cutting-edge research, technological breakthroughs, and national competitiveness in high-value industries require university-trained scientists and researchers → vocational training alone cannot produce this level of research expertise → countries that underinvest in universities risk falling behind in the knowledge economy.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1221,7 +1221,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Work experience builds career awareness and better decision-making",
-                "flow": "Real workplace exposure → students understand what different careers actually involve → make better-informed choices about further education → fewer wrong university/career decisions → less wasted time and money for individuals and society.",
+                "flow": "Real workplace exposure → students understand what different careers actually involve → make better-informed choices about further education → fewer poorly informed university or career decisions → less wasted time and money for individuals and society.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1235,7 +1235,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Work experience teaches skills that classrooms cannot",
-                "flow": "Teamwork, time management, professional communication, and workplace norms → cannot be taught through textbooks → only developed through real environments. Students with early workplace exposure → more professionally mature on graduation → employers spend less time on basic induction.",
+                "flow": "Teamwork, time management, professional communication, and workplace norms → cannot be taught through textbooks → only developed through real environments. Students with early workplace exposure → more professionally mature on graduation → employers spend less time on basic workplace training.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1318,8 +1318,8 @@ window.TOPIC_DATA = {
             "label": "Schools should include practical life skills in the curriculum",
             "ideas": [
               {
-                "title": "Practical skills are essential for independent adult life",
-                "flow": "Students graduate without knowing how to manage money, cook, or maintain a home → adults struggle with basic life management despite years of schooling. Schools that ignore practical skills → produce academically capable but practically helpless graduates who burden families and social services longer.",
+                "title": "Practical skills help students become independent adults",
+                "flow": "Students who learn budgeting, cooking, and basic home management can handle everyday responsibilities sooner → they rely less on parents for routine adult tasks → greater independence makes the transition from school to adult life smoother → practical education therefore complements academic preparation.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1333,7 +1333,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Financial literacy in schools prevents lifelong economic harm",
-                "flow": "Young adults who never learned budgeting, interest rates, or debt management → make poor financial decisions → personal debt, poverty traps, and inability to save or invest. Schools that teach financial literacy → produce graduates who build wealth, avoid exploitation, and contribute more productively to the economy.",
+                "flow": "Young adults who never learned budgeting, interest rates, or debt management → make poor financial decisions → cycles of debt, financial insecurity, and inability to save or invest. Schools that teach financial literacy → produce graduates who build wealth, avoid exploitation, and contribute more productively to the economy.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1346,8 +1346,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Practical skills normalise all forms of work and reduce social inequality",
-                "flow": "Academic-only schooling devalues trades → students look down on vocational careers → labour shortages in essential industries → teaching practical skills normalises all work, reducing social inequality.",
+                "title": "Practical education can raise the status of vocational work",
+                "flow": "If schools expose all students to practical and technical tasks → trades become familiar rather than being treated as lower-status options → more students may respect and consider vocational careers → essential occupations gain a broader and more socially valued recruitment base.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1380,7 +1380,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Academic foundations are the basis of all effective practical reasoning",
-                "flow": "Understanding finance requires mathematics; cooking benefits from chemistry and nutrition → academic knowledge comes first, enabling deeper and safer practical application later. Schools that add practical subjects at the expense of academics → undermine the cognitive foundations that make those practical skills meaningful and transferable.",
+                "flow": "Understanding finance requires mathematics; cooking benefits from chemistry and nutrition → academic knowledge comes first, enabling deeper and safer practical application later. Schools that add practical subjects at the expense of academics → undermine the academic foundations that make those practical skills meaningful and transferable.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1393,8 +1393,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Adding practical subjects dilutes academic performance with measurable long-term costs",
-                "flow": "School hours are finite → adding cooking, budgeting, and repair courses reduces time for core academic subjects → lower performance in international assessments → weaker graduate competitiveness globally → long-term national economic consequences in a knowledge-driven world.",
+                "title": "Practical subjects should not crowd out the core academic foundations students still need",
+                "flow": "School hours are limited → adding many separate practical courses can reduce time for mathematics, science, and languages → weaker foundations may restrict later study and career options → practical education should be added without sacrificing essential academic learning.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1417,7 +1417,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Curricula disconnected from market needs",
-                "flow": "Universities teach theory with little industry input → graduates lack practical competencies employers value → structural mismatch between degree content and workplace requirements → employers spend months retraining new hires → graduate employment rates fall even as degree completion rises.",
+                "flow": "Universities teach theory with little industry input → graduates lack practical skills employers value → mismatch between degree content and workplace requirements → employers spend months retraining new hires → graduate employment rates fall even as degree completion rises.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1430,8 +1430,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Overproduction in saturated fields drives credential inflation",
-                "flow": "Governments expand university access without regulating field distribution → too many graduates compete for too few relevant positions → a degree no longer guarantees employment in the field studied → graduates accept unrelated work or remain unemployed → public investment in education yields diminishing personal and economic returns.",
+                "title": "Too many graduates in saturated fields reduce the value of a degree",
+                "flow": "Governments expand university access without balancing enrolment across fields → too many graduates compete for too few relevant positions → a degree no longer guarantees employment in the field studied → graduates accept unrelated work or remain unemployed → public investment in education produces weaker personal and economic returns.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1444,8 +1444,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Soft skills deficit: graduates lack what employers prioritise",
-                "flow": "Exam-driven systems reward knowledge recall and individual performance → interpersonal skills, communication, and teamwork are never assessed → graduates arrive in workplaces unable to collaborate, present ideas, or manage conflict → employers rank soft skills deficits as the primary barrier to hiring, above technical knowledge gaps.",
+                "title": "Graduates lack the interpersonal skills employers prioritise",
+                "flow": "Exam-driven systems reward knowledge recall and individual performance → interpersonal skills, communication, and teamwork are never assessed → graduates arrive in workplaces unable to collaborate, present ideas, or manage conflict → employers rank these interpersonal gaps as the primary barrier to hiring, above technical knowledge gaps.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1463,8 +1463,8 @@ window.TOPIC_DATA = {
             "label": "Measures to address graduate unemployment",
             "ideas": [
               {
-                "title": "University-industry partnerships co-designing curricula",
-                "flow": "Employers co-design degree programmes with universities → curricula reflect real skill requirements → mandatory internships, live projects, and placement years integrate theory with practice → graduates enter work already capable of contributing → recruitment cycles shorten and employer satisfaction rises.",
+                "title": "University-industry partnerships keep curricula aligned with workplace needs",
+                "flow": "Employers help universities design degree programmes → curricula reflect real skill requirements → mandatory internships, live projects, and placement years integrate theory with practice → graduates enter work already capable of contributing → recruitment cycles shorten and employer satisfaction rises.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1477,8 +1477,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Government enrolment caps in oversupplied fields, incentives for shortage sectors",
-                "flow": "Uncapped enrolment oversupplies saturated fields → credential inflation → governments cap intake and redirect funding to shortage sectors → graduate supply aligns with labour demand.",
+                "title": "Limit enrolment in overcrowded fields and support shortage areas",
+                "flow": "Uncapped enrolment produces too many graduates in saturated fields → the value of a degree falls → governments cap intake and redirect funding to shortage sectors → graduate supply aligns with labour demand.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1670,7 +1670,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Arts education transmits cultural heritage and builds national identity",
-                "flow": "Arts transmit cultural heritage and build national identity → schools that cut arts produce culturally disconnected graduates → creative industries weaken → cultural impoverishment across generations.",
+                "flow": "Arts transmit cultural heritage and build national identity → schools that cut arts produce culturally disconnected graduates → creative industries weaken → cultural knowledge and participation decline across generations.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1702,8 +1702,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Parents and private institutions are better placed to provide arts and sport",
-                "flow": "Families who value music, sport, or arts can access private lessons and clubs outside school hours → schools need not duplicate what the private sector and community already provide. School time is too valuable to spend on what students can access elsewhere → focus it where schools have a unique, irreplaceable role.",
+                "title": "Core academic time should take priority when schools cannot provide every enrichment activity",
+                "flow": "School time and budgets are limited → arts and sport can also be offered through extracurricular clubs and community programmes → keeping them partly outside the compulsory timetable protects time for subjects that require sustained classroom instruction → schools can preserve academic depth while students still have access to enrichment.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1740,7 +1740,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Understanding history is essential for understanding the present",
-                "flow": "Current political systems, social inequalities, and international conflicts → all have roots in historical events → historically illiterate citizens cannot engage meaningfully with the world. Populations ignorant of history → easily misled by propaganda and nationalist myths that distort the past to serve present agendas.",
+                "flow": "Current political systems, social inequalities, and international conflicts → all have roots in historical events → citizens with little historical knowledge cannot engage meaningfully with the world. Populations ignorant of history → easily misled by propaganda and nationalist myths that distort the past to serve present agendas.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1768,7 +1768,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "History builds shared national identity and civic engagement",
-                "flow": "Shared historical knowledge builds a common national narrative → stronger civic participation and social cohesion → without it, each generation reinvents national understanding from scratch → fragile civic identity results.",
+                "flow": "Shared historical knowledge builds a common national narrative → stronger civic participation and social cohesion → without it, each generation has to rebuild its understanding of the nation from the beginning → fragile civic identity results.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1786,8 +1786,8 @@ window.TOPIC_DATA = {
             "label": "Studying history is not necessary for young people today",
             "ideas": [
               {
-                "title": "In a fast-changing world, students need forward-looking skills, not backward-looking knowledge",
-                "flow": "The 21st-century economy values digital skills, coding, data literacy, and entrepreneurship → school time is finite → prioritising history over future-facing skills → graduates less prepared for the actual demands of the modern economy. Historical facts can be accessed instantly online — they do not require years of classroom instruction.",
+                "title": "When curriculum time is limited, some hours may be better spent on future-oriented skills",
+                "flow": "Digital, quantitative, and entrepreneurial skills require sustained practice → school timetables cannot expand indefinitely → giving more time to these areas may require reducing some compulsory history content → students can leave school better prepared for changing labour-market demands.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1866,7 +1866,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Government oversight protects children from misinformation and ideological bias",
-                "flow": "Families choosing their own curricula → risk exposure to unscientific, factually incorrect, or ideologically extreme content. Government oversight → ensures all students receive evidence-based, academically validated education → protects children's right to accurate knowledge regardless of their parents' beliefs.",
+                "flow": "Families choosing their own curricula → risk exposure to unscientific, factually incorrect, or ideologically extreme content. Government oversight → ensures all students receive accurate, evidence-based education → protects children's right to reliable knowledge regardless of their parents' beliefs.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1912,8 +1912,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Parental involvement in education produces stronger outcomes for children",
-                "flow": "Parents who participate actively in their children's education → more engaged, more supportive at home, more invested in the child's success. Government-controlled curricula → remove parents from the educational process → create passivity. Shared responsibility between government, schools, and families → produces the strongest educational outcomes.",
+                "title": "Giving families a meaningful role in curriculum choices can strengthen engagement",
+                "flow": "When parents have some input into what schools teach → they understand and feel greater ownership of the curriculum → they are more likely to reinforce learning at home → shared responsibility between families and schools can strengthen student support.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1950,7 +1950,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Teacher training omits life skills — teachers cannot teach what they never learned",
-                "flow": "Teacher education focuses on subject mastery and pedagogical method → no training in financial literacy, mental health, civic skills, or practical adult competencies → teachers enter classrooms structurally incapable of delivering life skills education even where curricula require it → the gap persists regardless of policy intent.",
+                "flow": "Teacher education focuses on subject knowledge and teaching methods → no training in financial literacy, mental health, civic skills, or practical adult abilities → teachers enter classrooms without the preparation to teach life skills effectively even where curricula require it → the gap persists regardless of policy intent.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1983,7 +1983,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Embed life skills into existing subjects",
-                "flow": "Rather than creating new standalone courses that compete for curriculum time → integrate practical skills into existing subjects → financial literacy taught in maths, communication in English, food safety in biology → no timetable disruption needed → every teacher contributes to life skills development without additional subject allocation.",
+                "flow": "Rather than creating new separate courses that compete for curriculum time → integrate practical skills into existing subjects → financial literacy taught in maths, communication in English, food safety in biology → no timetable disruption needed → every teacher contributes to life skills development without adding another subject.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1997,7 +1997,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Reform assessment to reward applied competence alongside factual knowledge",
-                "flow": "Exam-only systems incentivise recall, not competence → portfolio and project assessments redirect schools → teachers design for real-world capability → employers receive better-prepared graduates.",
+                "flow": "Exam-only systems reward recall rather than practical ability → portfolios and project assessments make applied skills count → teachers design lessons around real-world capability → employers receive better-prepared graduates.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2010,8 +2010,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Mandatory school-to-work transition programmes before leaving school",
-                "flow": "Require all secondary students to complete workplace visits, community projects, or career guidance programmes before graduation → students encounter real professional environments before leaving school → develop work-readiness in genuine contexts → transition from education to employment becomes less abrupt and less dependent on family connections or luck.",
+                "title": "Require career and workplace preparation before students leave school",
+                "flow": "Require all secondary students to complete workplace visits, community projects, or career guidance before graduation → students encounter real professional environments before leaving school → develop work-readiness in genuine contexts → transition from education to employment becomes less abrupt and less dependent on family connections or luck.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2161,8 +2161,8 @@ window.TOPIC_DATA = {
             "label": "Students should discover knowledge for themselves",
             "ideas": [
               {
-                "title": "Self-discovery builds deeper understanding and longer retention",
-                "flow": "Students who construct knowledge through problem-solving understand it more deeply → becomes personally meaningful → retained and applied more flexibly → rote reception produces surface memorisation, forgotten after exams.",
+                "title": "Discovering answers through problem-solving builds deeper understanding and longer retention",
+                "flow": "Students who work out ideas through problem-solving understand them more deeply → the knowledge becomes personally meaningful → it is retained and applied more flexibly → passive reception produces surface memorisation that is forgotten after exams.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2287,7 +2287,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Evening time should be used for rest, exploration, and holistic development",
+                "title": "Evening time should support rest, exploration, and broader development",
                 "flow": "Children who finish school need mental rest, physical activity, creative play, and family time → essential for emotional and social development that schools cannot provide. Filling evenings with homework → eliminates the unstructured time in which children naturally develop independence, curiosity, and resilience.",
                 "examples": [
                   {
@@ -2307,7 +2307,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Homework reinforces classroom learning and builds independent study habits",
-                "flow": "Classroom instruction introduces concepts → homework provides the independent practice needed to consolidate and internalise them → deeper retention and understanding. Students who never practise independently → may understand in class but forget without reinforcement → weaker long-term mastery.",
+                "flow": "Classroom instruction introduces concepts → homework provides the independent practice needed to reinforce them until they are secure → deeper retention and understanding. Students who never practise independently → may understand in class but forget without reinforcement → weaker long-term mastery.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2321,7 +2321,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Homework develops self-discipline, time management, and personal responsibility",
-                "flow": "Completing assignments independently, managing deadlines, and organising study time without a teacher → builds exactly the self-regulation skills needed in higher education and professional life. Students who never face independent work → arrive at university unable to manage their own time or motivate themselves without external structure.",
+                "flow": "Completing assignments independently, managing deadlines, and organising study time without a teacher → builds exactly the self-management skills needed in higher education and professional life. Students who never face independent work → arrive at university unable to manage their own time or motivate themselves without external structure.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2335,7 +2335,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Homework keeps parents involved in their children's education",
-                "flow": "Homework brings school content into the home → parents engage and reinforce learning → home-school partnership strengthens → eliminating homework severs parental visibility and the outcomes it produces.",
+                "flow": "Homework brings school content into the home → parents engage and reinforce learning → home-school partnership strengthens → eliminating homework gives parents less visibility into what their children are learning and weakens this connection.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2405,7 +2405,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Excessive control suppresses creativity, curiosity, and independent thinking",
-                "flow": "Rigid discipline → students learn to comply rather than question → intellectual conformity rather than innovation. Creativity, lateral thinking, and entrepreneurial risk-taking require psychological safety and freedom to explore, make mistakes, and try again — qualities that strict control actively destroys.",
+                "flow": "Rigid discipline → students learn to comply rather than question → intellectual conformity rather than innovation. Creativity, flexible thinking, and willingness to take intellectual risks require a safe environment and freedom to explore, make mistakes, and try again — qualities that strict control actively destroys.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2419,7 +2419,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Autonomy builds intrinsic motivation and a genuine love of learning",
-                "flow": "Choice and agency develop ownership of learning → intrinsic motivation grows → learning continues beyond school → external pressure produces performance only while monitored, then disengagement.",
+                "flow": "Choice and independence give students ownership of learning → internal motivation grows → learning continues beyond school → external pressure produces performance only while monitored, then disengagement.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2433,7 +2433,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Trust and respectful relationships, not rules, are the foundation of effective schools",
-                "flow": "Mutual respect between teachers and students → students feel valued → willing to engage and behave responsibly → fear-based discipline breeds resentment and strategic compliance with no genuine values development.",
+                "flow": "Mutual respect between teachers and students → students feel valued → willing to engage and behave responsibly → fear-based discipline breeds resentment and obedience only when students think they are being watched, with no genuine development of values.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2469,8 +2469,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social problems at home manifest as behaviour problems at school",
-                "flow": "Family breakdown and poverty → children carry emotional instability into classrooms → teachers lack training to address underlying trauma → punitive responses treat symptoms not causes, so problems persist.",
+                "title": "Social problems at home often appear as behaviour problems at school",
+                "flow": "Family breakdown and poverty → children carry emotional instability into classrooms → teachers lack training to address underlying trauma → punitive responses treat symptoms rather than causes, so problems persist.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2516,8 +2516,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Establish pastoral care systems to address root causes of problem behaviour",
-                "flow": "Punishing disruptive behaviour without addressing its source → behaviour recurs or escalates → school counsellors, mentors, and home-school liaison officers identify and respond to underlying emotional, family, or social problems → intervention at root cause → behaviour improves durably because the student's needs are met, not suppressed.",
+                "title": "Provide counselling and support to address the causes of problem behaviour",
+                "flow": "Punishing disruptive behaviour without addressing its source → behaviour recurs or escalates → school counsellors, mentors, and staff who link school with home identify and respond to underlying emotional, family, or social problems → intervention at root cause → behaviour improves durably because the student's needs are met, not suppressed.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2531,7 +2531,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Implement clear, consistent school-wide behaviour policies",
-                "flow": "Inconsistent enforcement → students test boundaries knowing consequences vary → school-wide expectations enforced uniformly → ambiguity eliminated → orderly environments from system consistency, not individual authority.",
+                "flow": "Inconsistent enforcement → students test boundaries knowing consequences vary → school-wide expectations are enforced uniformly → students know clearly what to expect → orderly environments result from system consistency, not individual authority.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2677,8 +2677,8 @@ window.TOPIC_DATA = {
             "label": "Online learning is more effective than traditional classrooms",
             "ideas": [
               {
-                "title": "Online learning removes geographical barriers and democratises access to quality education",
-                "flow": "Remote students, working adults, and disabled learners access education from anywhere → internet removes geographical barriers → world-class content democratised → millions excluded by location-dependent classrooms are now included.",
+                "title": "Online learning removes geographical barriers and widens access to quality education",
+                "flow": "Remote students, working adults, and disabled learners access education from anywhere → the internet removes geographical barriers → world-class content becomes widely accessible → millions excluded by location-dependent classrooms are now included.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2692,7 +2692,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Online learning is personalised and self-paced in ways classrooms cannot match",
-                "flow": "Online platforms adapt to each student's pace and level → fast learners advance, slow learners review without falling behind. Traditional classrooms → teacher moves at average pace → fast learners are bored, slow learners are lost → no individual is optimally served.",
+                "flow": "Online platforms adapt to each student's pace and level → fast learners advance, slow learners review without falling behind. Traditional classrooms → the teacher moves at an average pace → fast learners are bored, slow learners are lost → neither group gets the pace it needs.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2705,8 +2705,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Online learning dramatically reduces the cost of education",
-                "flow": "No physical infrastructure required → lower tuition fees → quality education accessible to those who cannot afford traditional institutions. The marginal cost of educating one more online student is near zero → scale allows massive cost reduction without quality loss.",
+                "title": "Online learning can reduce delivery costs by serving more students without expanding campuses",
+                "flow": "Traditional education requires classrooms, campuses, and on-site services for each additional group of students → online courses can expand enrolment with much less extra physical infrastructure → lower delivery costs can reduce fees → more learners can afford access.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2775,8 +2775,8 @@ window.TOPIC_DATA = {
             "label": "Technology will eventually replace teachers",
             "ideas": [
               {
-                "title": "AI can deliver personalised instruction more effectively than any single teacher",
-                "flow": "One teacher cannot personalise instruction for 40 different students simultaneously → AI adapts to each student's pace, knowledge gaps, and learning style in real time. As AI becomes more sophisticated → will outperform human teachers on core instructional functions → an inevitable shift toward technology-led teaching.",
+                "title": "AI can take over a growing share of routine instruction by personalising practice at scale",
+                "flow": "One teacher cannot give every student continuous individual practice and feedback → AI can adapt exercises and explanations to each student's progress → as these systems improve, more routine instructional tasks can be automated → schools may need fewer teachers for content delivery while retaining humans for mentoring and complex support.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2789,8 +2789,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology removes the human inconsistency and bias that disadvantage many students",
-                "flow": "Teachers vary enormously in skill, motivation, and unconscious bias → students' outcomes depend heavily on the lottery of which teacher they get. Technology → delivers consistent, impartial, evidence-based instruction to every student → eliminates quality variation caused by human inconsistency.",
+                "title": "Technology can reduce variation in the quality of basic instruction",
+                "flow": "Students currently receive different explanations and practice depending on teacher quality → well-designed digital systems can provide the same high-quality core materials to every learner → basic content delivery becomes more consistent across classrooms → technology reduces some disadvantages caused by uneven teaching quality.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2803,8 +2803,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Economic pressure will drive technology adoption as AI costs fall",
-                "flow": "AI instruction costs a fraction of human teacher salaries → as education budgets tighten globally → governments face irresistible economic pressure to replace expensive human teachers with efficient technology. History shows that cost-effective technology eventually displaces human labour in every industry it enters.",
+                "title": "Falling AI costs will make automation attractive to education systems under budget pressure",
+                "flow": "Teacher salaries are a major recurring education cost → AI can deliver some routine instruction to many students at low additional cost → budget pressure gives schools and governments an incentive to automate those tasks → technology is likely to take a larger role in teaching as its capability improves.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2850,8 +2850,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "History shows technology enhances but never replaces teachers",
-                "flow": "AI lacks the ability to read a room, respond to a student's emotional state, adapt to cultural context, or inspire through personal example → these human capacities remain essential in real classrooms. Every previous wave of educational technology — television, computers, tablets, MOOCs — promised to replace teachers and failed.",
+                "title": "Past educational technologies suggest teachers are more likely to be supported than fully replaced",
+                "flow": "Previous technologies changed how teachers work without removing the need for classroom leadership → teaching still requires managing groups, reading emotions, and responding to context → AI may automate some tasks but these human functions remain → technology is therefore more likely to change the teacher's role than eliminate it.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2921,7 +2921,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Mobile phones are the single biggest source of classroom distraction",
-                "flow": "Notifications, social media, games, and messaging → compete directly with classroom attention → students spend significant class time on non-educational content → lower academic performance. Research shows even a switched-off phone on the desk reduces cognitive capacity by diverting mental resources toward resisting the urge to check it.",
+                "flow": "Notifications, social media, games, and messaging → compete directly with classroom attention → students spend significant class time on non-educational content → lower academic performance. Research shows that even a switched-off phone on the desk can reduce concentration because part of a student's attention is spent resisting the urge to check it.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2935,7 +2935,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Unregulated device use exposes children to harmful online content at school",
-                "flow": "Unrestricted device use → exposure to cyberbullying, inappropriate content, and online predators during school hours → schools have a legal and moral duty of care. Allowing unrestricted use → schools abdicate this responsibility → harm occurs within the institution meant to protect children.",
+                "flow": "Unrestricted device use → exposure to cyberbullying, inappropriate content, and online predators during school hours → schools have a legal and moral duty of care. Allowing unrestricted use → schools fail in this responsibility → harm occurs within the institution meant to protect children.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3096,7 +3096,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Single-sex schools improve academic focus, especially for girls in STEM",
-                "flow": "Mixed classrooms expose girls to stereotype threat and being talked over → single-sex schools remove this pressure → girls more likely to pursue STEM and take leadership → measurable academic gains result.",
+                "flow": "Mixed classrooms expose girls to pressure from stereotypes that they are weaker in STEM, as well as being talked over → single-sex schools remove this pressure → girls more likely to pursue STEM and take leadership → measurable academic gains result.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3110,7 +3110,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Single-sex schools eliminate gendered social pressures that distort behaviour",
-                "flow": "Mixed schools → adolescents perform gender for the opposite sex — boys take risks and reject academic effort to appear masculine; girls minimise ambition and assertiveness to appear feminine → both behaviours harm learning. Single-sex schools → remove this social performance → students develop more authentically.",
+                "flow": "Mixed schools → adolescents feel pressure to behave in gender-typical ways for the opposite sex — boys take risks and reject academic effort to appear masculine; girls minimise ambition and assertiveness to appear feminine → both behaviours harm learning. Single-sex schools → remove this social pressure → students develop more authentically.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3123,8 +3123,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Single-sex schools allow teachers to use gender-specific approaches that maximise learning",
-                "flow": "Boys and girls develop at different rates and respond differently to instructional styles → mixed classrooms force teachers to average across these differences → teaching optimised for neither. Single-sex schools → teachers design lessons specifically suited to how their students learn → higher engagement, better outcomes.",
+                "title": "Single-sex schools can tailor classroom participation and support to the needs of one gender",
+                "flow": "Mixed classrooms can create different participation pressures for boys and girls → teachers in single-sex settings can focus directly on the confidence, behaviour, and engagement patterns they observe in that group → lessons and support can be adjusted more precisely → students may participate more fully and learn more effectively.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3208,7 +3208,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Girls achieve measurably more in STEM subjects when boys are absent",
-                "flow": "In mixed STEM classrooms, stereotype threat — the anxiety of confirming that girls are less capable in mathematics and science — suppresses girls' performance and risk-taking. Single-sex STEM classes → girls ask more questions, take more risks, achieve more → the gender STEM gap measurably narrows.",
+                "flow": "In mixed STEM classrooms, anxiety about confirming the stereotype that girls are less capable in mathematics and science suppresses girls' performance and risk-taking. Single-sex STEM classes → girls ask more questions, take more risks, achieve more → the gender STEM gap measurably narrows.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3221,8 +3221,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Pedagogy tailored to one gender produces stronger outcomes than teaching a mixed group",
-                "flow": "Boys and girls develop at different cognitive rates and respond differently to instructional formats → mixed classrooms force compromise → teaching is suboptimal for both groups. Single-sex schools → every pedagogical decision can be optimised for the actual students in the room → higher engagement and better academic performance.",
+                "title": "Single-sex classes can respond more directly to gender-related participation patterns",
+                "flow": "Mixed classrooms may create different confidence and participation pressures for boys and girls → in a single-sex class, teachers can identify the patterns affecting that group more clearly → classroom routines and support can be adjusted to address them → students may participate more confidently and gain more from lessons.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3254,8 +3254,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social and emotional development deficits outweigh any academic gains",
-                "flow": "Even marginal exam improvements → come at the cost of reduced cross-gender interaction experience → students graduate socially underprepared for university, the workplace, and personal relationships. Academic results are one narrow dimension of educational success → overall human development matters more.",
+                "title": "Any academic gains may come at the cost of social and emotional development",
+                "flow": "Even marginal exam improvements → come at the cost of less experience interacting with the other gender → students graduate socially underprepared for university, the workplace, and personal relationships. Academic results are one narrow dimension of educational success → overall human development matters more.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3291,8 +3291,8 @@ window.TOPIC_DATA = {
             "label": "Single-sex education reinforces gender stereotypes",
             "ideas": [
               {
-                "title": "Separating by gender institutionalises the idea that boys and girls are fundamentally different",
-                "flow": "Creating separate schools for each gender → signals that boys and girls are too different to share the same learning environment → legitimises gender as a fundamental social division → reinforces rather than challenges the idea that men and women belong in separate roles. A society aiming for equality → should practise integration, not separation.",
+                "title": "Separating by gender reinforces the idea that boys and girls are fundamentally different",
+                "flow": "Creating separate schools for each gender → signals that boys and girls are too different to share the same learning environment → treats gender as a fundamental social division → reinforces rather than challenges the idea that men and women belong in separate roles. A society aiming for equality → should practise integration, not separation.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3305,8 +3305,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Single-sex school culture often reproduces traditional gender norms in practice",
-                "flow": "Even without explicit gender teaching, single-sex school cultures → develop strong collective identities rooted in gendered expectations — boys' schools valorise toughness and competition; girls' schools emphasise cooperation and modesty → these cultural norms → reproduce the very stereotypes that hold back progress toward genuine equality.",
+                "title": "Single-sex school culture often reinforces traditional gender norms",
+                "flow": "Even without explicit gender teaching, single-sex school cultures → develop strong collective identities rooted in gender expectations — boys' schools praise toughness and competition; girls' schools emphasise cooperation and modesty → these cultural norms → reinforce the very stereotypes that hold back progress toward genuine equality.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3339,7 +3339,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Girls' schools empower female students to take leadership without gender bias",
-                "flow": "In mixed schools, boys often occupy more classroom space — more teacher attention, more confident contributions, more leadership roles → girls conditioned to defer. Girls' schools → every leadership position, every academic achievement, every act of confidence is performed by a girl → builds female ambition and self-belief that challenges gender inequality from the inside.",
+                "flow": "In mixed schools, boys often receive more teacher attention, contribute more confidently, and take more leadership roles → girls are conditioned to defer. Girls' schools → every leadership position, every academic achievement, every act of confidence is performed by a girl → builds female ambition and self-belief that challenges gender inequality from the inside.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3352,8 +3352,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Boys' schools can challenge toxic masculinity by creating space for emotional growth",
-                "flow": "When boys do not have to perform masculinity for girls → the social pressure to appear tough, dominant, and anti-academic weakens → boys more willing to engage in arts, discuss emotions, and seek help. Well-designed boys' schools → actively cultivate emotional intelligence and vulnerability → challenging the masculine stereotypes that harm both boys and gender equality.",
+                "title": "Boys' schools can challenge pressure to appear tough by creating space for emotional growth",
+                "flow": "When boys do not feel pressure to appear masculine in front of girls → the pressure to seem tough, dominant, and anti-academic weakens → boys become more willing to engage in arts, discuss emotions, and seek help. Well-designed boys' schools → actively cultivate emotional intelligence and openness → challenging the masculine stereotypes that harm both boys and gender equality.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3367,7 +3367,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Girls excelling in STEM and leadership at single-sex schools challenges stereotypes at the societal level",
-                "flow": "When girls fill every science, mathematics, and leadership role in their school → they and their teachers internalise that these are not \"male\" domains → graduates carry this into careers, families, and public life → single-sex schools can be engines of gender equality at the population level even if they separate genders at the school level.",
+                "flow": "When girls fill every science, mathematics, and leadership role in their school → they and their teachers internalise that these are not \"male\" domains → graduates carry this into careers, families, and public life → single-sex schools can promote gender equality more widely even if they separate genders at school.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3534,8 +3534,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "International exposure builds cross-cultural competence increasingly valued by employers",
-                "flow": "Living abroad → exposure to different social norms, communication styles, and professional cultures → graduates adapt quickly, collaborate across difference, navigate complex global environments → multinationals specifically recruit for this quality.",
+                "title": "International exposure builds the ability to work across cultures, which employers increasingly value",
+                "flow": "Living abroad → exposure to different social norms, communication styles, and professional cultures → graduates adapt quickly, work effectively with people from different backgrounds, and navigate complex global environments → multinational employers specifically recruit for this ability.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3567,7 +3567,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cultural dislocation and personal hardship undermine academic performance",
+                "title": "Cultural adjustment and personal hardship undermine academic performance",
                 "flow": "Adjusting to a foreign culture, language, climate, and social environment simultaneously → isolation, homesickness, and mental health difficulties → academic performance suffers in the critical early semesters → some students withdraw entirely, leaving families in debt.",
                 "examples": [
                   {
@@ -3604,7 +3604,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Educated professionals who settle abroad deprive home countries of critical skills",
-                "flow": "Students gain qualifications abroad → settle in wealthier countries → home countries lose the doctors and engineers they invested in training → hospitals and industries starved of talent, underdevelopment compounds.",
+                "flow": "Students gain qualifications abroad → settle in wealthier countries → home countries lose the doctors and engineers they invested in training → hospitals and industries are left short of talent, and development slows further.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3617,8 +3617,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public investment in education permanently emigrates with the graduate",
-                "flow": "Home governments subsidise schooling from primary through to higher education → students use this foundation to qualify for overseas programmes → emigrate upon graduating → wealthier host countries benefit from the investment made by developing nations → severe misallocation of already scarce public resources.",
+                "title": "When graduates emigrate permanently, home countries lose the return on public education spending",
+                "flow": "Home governments subsidise schooling from primary through to higher education → students use this foundation to qualify for overseas programmes → emigrate upon graduating → wealthier host countries benefit from the investment made by developing nations → scarce public resources bring less return to the country that spent them.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3678,8 +3678,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Diaspora networks create trade links and attract investment to home countries",
-                "flow": "Overseas graduates build careers and networks in host countries → leverage these relationships to channel trade, investment, and partnerships back home → countries with large, well-placed diaspora populations attract foreign capital and expertise that domestic institutions cannot independently generate.",
+                "title": "Overseas graduate networks create trade links and attract investment to home countries",
+                "flow": "Overseas graduates build careers and networks in host countries → use these relationships to channel trade, investment, and partnerships back home → countries with large, well-connected overseas communities attract foreign capital and expertise that domestic institutions cannot independently generate.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3700,7 +3700,7 @@ window.TOPIC_DATA = {
             "label": "Governments should fund students to study abroad",
             "ideas": [
               {
-                "title": "Strategic scholarships develop specialists in fields where domestic capacity does not yet exist",
+                "title": "Strategic scholarships develop specialists in fields that cannot yet be taught at a high level at home",
                 "flow": "Building world-class domestic programmes in advanced medicine, engineering, or research takes decades → overseas scholarships give developing countries faster access to high-level expertise → targeted in critical shortage areas → returnees transfer knowledge that would otherwise take generations to accumulate domestically.",
                 "examples": [
                   {
@@ -3714,8 +3714,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Internationally educated graduates generate diplomatic capital and bilateral ties",
-                "flow": "Alumni of foreign universities maintain lasting personal and professional ties to their host countries → these relationships facilitate trade negotiations, research partnerships, and diplomatic goodwill → a nation's network of overseas-educated alumni is a form of long-term soft power that benefits foreign policy for decades.",
+                "title": "Internationally educated graduates strengthen diplomatic and economic ties between countries",
+                "flow": "Alumni of foreign universities maintain lasting personal and professional ties to their host countries → these relationships facilitate trade negotiations, research partnerships, and diplomatic goodwill → a nation's network of overseas-educated alumni strengthens long-term international relationships that can benefit foreign policy for decades.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3729,7 +3729,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Overseas-trained faculty and leaders rapidly raise domestic institutional quality",
-                "flow": "Internationally educated graduates return to lead universities, hospitals, and research institutes → bring global standards, networks, and methods into domestic institutions → quality of these institutions improves faster than through incremental domestic reform → future generations benefit without leaving the country.",
+                "flow": "Internationally educated graduates return to lead universities, hospitals, and research institutes → bring global standards, networks, and methods into domestic institutions → the quality of these institutions improves faster than through slower internal reform → future generations benefit without leaving the country.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3747,8 +3747,8 @@ window.TOPIC_DATA = {
             "label": "Money is better spent improving local education",
             "ideas": [
               {
-                "title": "Scholarships benefit a tiny elite while systemic reform benefits everyone",
-                "flow": "Government scholarship programmes fund hundreds of students per year → millions remain enrolled in underfunded domestic universities → the per-capita benefit of each scholarship is enormous for the individual but trivial at the system level → systemic investment in curriculum, infrastructure, and teacher quality creates broad, equitable improvement.",
+                "title": "Scholarships help a small number of students, while university reform can benefit the whole system",
+                "flow": "Government scholarship programmes fund hundreds of students per year → millions remain enrolled in underfunded domestic universities → each scholarship gives a large benefit to one individual but has little effect on the system as a whole → investment in curriculum, infrastructure, and teacher quality creates broad, equitable improvement.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3761,8 +3761,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "High non-return rates mean public investment often permanently emigrates",
-                "flow": "Governments cannot guarantee returnees → significant proportions of scholarship recipients settle permanently in host countries → the state has funded an individual's career but received no domestic return → the public investment effectively subsidises foreign economies and widens the brain drain the scholarship was meant to address.",
+                "title": "High rates of non-return mean public investment often benefits other countries instead",
+                "flow": "Governments cannot guarantee that recipients will return → significant proportions of scholarship recipients settle permanently in host countries → the state has funded an individual's career but received no domestic return → public investment effectively subsidises foreign economies and widens the brain drain the scholarship was meant to address.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3776,7 +3776,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Investing in domestic universities creates lasting infrastructure that serves multiple generations",
-                "flow": "Scholarships produce individual returnees — each with a limited working life of contribution → investing the same funds in domestic universities improves quality for millions of current students and all future cohorts → institutions that improve attract international students and faculty → a compounding return that individual scholarships cannot match.",
+                "flow": "Scholarships produce individual returnees — each with a limited working life of contribution → investing the same funds in domestic universities improves quality for millions of current students and all future cohorts → institutions that improve attract international students and faculty → benefits accumulate across generations in a way individual scholarships cannot match.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3961,7 +3961,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Teachers bring professional expertise that parents cannot replicate",
-                "flow": "Teachers undergo years of pedagogical training → master curriculum design, child psychology, and differentiated instruction → systematically identify and address learning difficulties → evidence-based classroom methods accelerate development in ways even well-intentioned parents cannot match. Parents, however devoted, lack this professional toolkit.",
+                "flow": "Teachers undergo years of professional training → learn curriculum design, child development, and how to adapt instruction to different students → systematically identify and address learning difficulties → evidence-based classroom methods accelerate development in ways even well-intentioned parents cannot match. Parents, however devoted, lack these professional skills.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3989,7 +3989,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Teachers shape character and values during the most formative years",
-                "flow": "Children spend 6–8 hours daily in school from age 6 to 18 → teachers are the dominant social authority and role model outside the home → attitudes toward learning, fairness, and resilience are formed through classroom culture → teachers who model intellectual curiosity and ethical behaviour shape the person, not just the student.",
+                "flow": "Children spend 6–8 hours daily in school from age 6 to 18 → teachers are major adult authority figures and role models outside the home → attitudes toward learning, fairness, and resilience are formed through classroom culture → teachers who model intellectual curiosity and ethical behaviour shape the person, not just the student.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4007,8 +4007,8 @@ window.TOPIC_DATA = {
             "label": "Family environment and parental involvement are equally important",
             "ideas": [
               {
-                "title": "The home environment shapes cognitive foundations before school begins",
-                "flow": "Children's neurological and cognitive foundations are largely established in the first five years of life — long before formal schooling → parents who read, converse, and model curiosity produce children cognitively ready to benefit from school → by the time a teacher meets a child, foundational attitudes toward learning are already formed.",
+                "title": "The home environment shapes early learning foundations before school begins",
+                "flow": "The basic abilities that support thinking and learning are largely established in the first five years of life — long before formal schooling → parents who read, converse, and model curiosity produce children ready to benefit from school → by the time a teacher meets a child, foundational attitudes toward learning are already formed.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4036,7 +4036,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Emotional security from family is a prerequisite for learning that no teacher can replace",
-                "flow": "Academic motivation is grounded in emotional security → children who feel safe, loved, and valued at home develop the confidence to take intellectual risks in the classroom → teachers can support but cannot substitute for the attachment that family provides → family instability or neglect undermines performance regardless of teacher quality.",
+                "flow": "Academic motivation is grounded in emotional security → children who feel safe, loved, and valued at home develop the confidence to take intellectual risks in the classroom → teachers can support but cannot substitute for secure family relationships → family instability or neglect undermines performance regardless of teacher quality.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4072,7 +4072,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Accountability for outcomes drives continuous professional improvement",
-                "flow": "Without performance metrics, some teachers become complacent → lessons stagnate, outcomes plateau → salary tied to results incentivises reflection and professional development → continuous improvement replaces comfortable mediocrity.",
+                "flow": "Without clear performance measures, some teachers become complacent → lessons stagnate, outcomes plateau → salary tied to results encourages reflection and professional development → continuous improvement replaces comfortable routines.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4086,7 +4086,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Performance pay can direct strong teachers toward the most challenging schools",
-                "flow": "Teaching in a school with underprivileged students requires greater skill and emotional resilience than teaching in a selective school with motivated, well-supported pupils → yet flat salary structures pay both identically → differential pay that rewards results in difficult contexts → attracts strong teachers to where they are most needed → reduces the systematic disadvantage faced by children in under-resourced areas.",
+                "flow": "Teaching in a school with underprivileged students requires greater skill and emotional resilience than teaching in a selective school with motivated, well-supported pupils → yet flat salary structures pay both identically → higher pay for strong results in difficult contexts → attracts strong teachers to where they are most needed → reduces the disadvantage faced by children in under-resourced areas.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4118,8 +4118,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Performance pay destroys collegial culture and narrows teaching to test preparation",
-                "flow": "Salary-linked competition → teachers hoard strategies rather than collaborate → schools become competitive workplaces → teaching narrows to measurable scores, not deep learning.",
+                "title": "Performance pay can damage teacher collaboration and narrow teaching to test preparation",
+                "flow": "Salary-linked competition → teachers share fewer strategies rather than collaborate → schools become competitive workplaces → teaching narrows to measurable scores, not deep learning.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4132,8 +4132,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Monetising outcomes undermines the intrinsic motivation that makes great teachers",
-                "flow": "The most dedicated teachers are motivated by relationships, purpose, and vocation — not salary bonuses → introducing financial incentives for student results shifts psychological orientation from intrinsic to extrinsic motivation → behavioural economics research shows this reduces performance on complex, meaningful tasks → teaching becomes a transactional service rather than a calling.",
+                "title": "Paying bonuses for results weakens the internal motivation that makes great teachers",
+                "flow": "The most dedicated teachers are motivated by relationships, purpose, and vocation — not salary bonuses → financial incentives for student results shift attention from internal purpose to external rewards → research on motivation shows this reduces performance on complex, meaningful tasks → teaching becomes a transactional service rather than a calling.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4154,8 +4154,8 @@ window.TOPIC_DATA = {
             "label": "Governments should take primary responsibility for education",
             "ideas": [
               {
-                "title": "Education is a public good whose benefits accrue to all of society",
-                "flow": "Educated citizens produce economic productivity, lower crime, and civic participation → benefits flow to all of society → broad social return justifies public provision → private-only provision leaves enormous long-term social costs.",
+                "title": "Education benefits society as a whole, not only individual students",
+                "flow": "Educated citizens increase economic productivity, reduce crime, and participate in civic life → benefits flow to all of society → broad social returns justify public provision → private-only provision leaves enormous long-term social costs.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4168,8 +4168,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Only government funding prevents education from entrenching inequality",
-                "flow": "Market-only education costs exclude low-income families → access determined by wealth, not ability → social mobility collapses → talent trapped in poverty while mediocrity advances through wealth.",
+                "title": "Public funding is essential if access to education is not to depend on family income",
+                "flow": "When education relies mainly on private payment → low-income families face greater barriers to good schools → ability is wasted because access depends on wealth → substantial public funding keeps basic educational opportunity open across income groups.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4201,8 +4201,8 @@ window.TOPIC_DATA = {
             "label": "Individuals and families should take greater responsibility",
             "ideas": [
               {
-                "title": "Government-run education often produces standardised mediocrity rather than excellence",
-                "flow": "Centralised curricula impose one-size-fits-all content → diverse talent suppressed rather than developed → bureaucratic inertia slows reform → students meet government targets rather than individual potential.",
+                "title": "Government-run education often becomes too uniform and settles for average standards rather than excellence",
+                "flow": "Centralised curricula impose one-size-fits-all content → diverse talent is suppressed rather than developed → slow bureaucracy delays reform → students meet government targets rather than individual potential.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4215,8 +4215,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "When families invest in education, children consistently perform better",
-                "flow": "Family investment creates active parental stakeholders → schools held accountable, learning reinforced at home → aligned home-school messages raise performance → government-only provision breeds parental passivity.",
+                "title": "Shared responsibility can encourage stronger family engagement with education",
+                "flow": "When families have a meaningful role and choice in schooling → they may monitor quality and progress more closely → stronger parental involvement reinforces learning at home → combining public provision with active family participation can strengthen accountability and student support.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4280,8 +4280,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Demographic pressure outpaces teacher supply in growing economies",
-                "flow": "Growing youth populations → more schools needed → teacher demand rises faster than training programmes respond → shortages emerge first in secondary schools and rural areas where qualified teachers are scarce.",
+                "title": "Growing student populations outpace teacher supply in expanding education systems",
+                "flow": "Growing youth populations → more schools needed → teacher demand rises faster than training programmes can respond → shortages emerge first in secondary schools and rural areas where qualified teachers are scarce.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4300,7 +4300,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Raise teacher salaries to match comparable graduate professions",
-                "flow": "Salary parity with comparable professions → teaching becomes competitive in the graduate labour market → stronger candidates choose teaching → attrition falls and quality improves, replacing the self-reinforcing decline.",
+                "flow": "Paying teachers salaries comparable to other graduate professions → teaching becomes competitive in the graduate labour market → stronger candidates choose teaching → fewer teachers leave and quality improves, replacing the self-reinforcing decline.",
                 "examples": [
                   {
                     "type": "vn",
@@ -4328,7 +4328,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Create accelerated and flexible teacher training pathways",
-                "flow": "Requiring all teachers to complete a full four-year degree before entering classrooms → supply pipeline is too slow to meet urgent demand → accelerated certification routes for mid-career professionals with subject expertise → existing talent in the workforce repurposed into teaching → shortage alleviated faster than conventional training expansion could achieve.",
+                "flow": "Requiring all teachers to complete a full four-year degree before entering classrooms → traditional training is too slow to meet urgent demand → accelerated certification routes for mid-career professionals with subject expertise → existing skilled professionals move into teaching → shortages are reduced faster than conventional training expansion could achieve.",
                 "examples": [
                   {
                     "type": "vn",

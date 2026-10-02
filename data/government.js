@@ -34,8 +34,8 @@ window.TOPIC_DATA = {
             "label": "Governments should take a more active role",
             "ideas": [
               {
-                "title": "Market failures and collective-action problems create gaps that only government can fill",
-                "flow": "many social problems involve externalities, public goods, or information asymmetries → markets systematically misallocate or under-provide in these cases → individuals acting independently cannot correct structural failures → only collective action coordinated through government can fill the gap",
+                "title": "Some social problems require government coordination because markets and individuals cannot solve them alone",
+                "flow": "many social problems create costs for others, shared benefits, or information gaps → markets often allocate resources poorly or provide too little in these cases → individuals acting independently cannot correct these system-wide problems → coordinated government action can fill the gap",
                 "examples": [
                   {
                     "type": "vn",
@@ -62,8 +62,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Effective states enable individual flourishing rather than suppressing it",
-                "flow": "individual initiative is most productive where basic needs — health, education, safety — are already secured → where states fail to provide these foundations, individuals spend resources surviving rather than contributing → Scandinavian civil societies thrive alongside, not despite, active welfare states → the government-versus-individual choice is a false binary",
+                "title": "Effective governments can strengthen individual opportunity rather than suppress it",
+                "flow": "individual initiative is most productive when basic needs — health, education, safety — are already secured → where states fail to provide these foundations, people spend resources surviving rather than contributing → Scandinavian societies show that active welfare states can coexist with strong civic participation → treating government and individual action as opposites is misleading",
                 "examples": [
                   {
                     "type": "vn",
@@ -81,8 +81,8 @@ window.TOPIC_DATA = {
             "label": "Individuals should take more personal responsibility",
             "ideas": [
               {
-                "title": "Government solutions suffer from information problems and perverse incentives that individual action avoids",
-                "flow": "governments design policies without knowledge of each individual's specific circumstances → one-size-fits-all solutions produce mismatches between design and actual need → bureaucratic implementation adds costs and delays with no performance incentive → individuals and communities with direct knowledge find more targeted, efficient solutions",
+                "title": "Government solutions can suffer from poor information and weak incentives that local action avoids",
+                "flow": "governments design policies without knowing each individual's specific circumstances → one-size-fits-all solutions may not match actual needs → bureaucratic implementation adds costs and delays and may lack strong incentives to improve → individuals and communities with direct knowledge can find more targeted, efficient solutions",
                 "examples": [
                   {
                     "type": "vn",
@@ -95,8 +95,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Excessive state intervention reduces personal agency, civic engagement, and individual resilience",
-                "flow": "state provision of outcomes reduces individuals' incentive to develop the capabilities that produce them → personal investment in health, education, and financial security falls when the state is expected to provide → over generations a culture of dependency can reduce social capital — trust, self-reliance, cooperation → long-term wellbeing requires citizens who are agents, not passive recipients",
+                "title": "Excessive state intervention can weaken personal responsibility, civic participation, and resilience",
+                "flow": "state provision can reduce individuals' incentive to develop the capabilities they need themselves → personal investment in health, education, and financial security may fall when the state is expected to provide → over generations, dependency can weaken trust, self-reliance, and cooperation → long-term wellbeing requires citizens who take active responsibility rather than remain passive recipients",
                 "examples": [
                   {
                     "type": "vn",
@@ -131,8 +131,8 @@ window.TOPIC_DATA = {
             "label": "Long-term policies are necessary and appropriate",
             "ideas": [
               {
-                "title": "The most consequential social problems only respond to sustained, long-horizon investment",
-                "flow": "infrastructure, education, and climate mitigation all operate on multi-decade timescales → short-term programmes are too brief to address causes and solutions spanning generations → delaying commitment compounds costs and damage → the long-run cost of inaction exceeds the cost of early investment",
+                "title": "Major social problems require sustained long-term investment",
+                "flow": "infrastructure, education, and climate action all operate over decades → short-term programmes are too brief to address causes and solutions spanning generations → delaying commitment increases costs and damage → the long-term cost of inaction exceeds the cost of early investment",
                 "examples": [
                   {
                     "type": "vn",
@@ -145,8 +145,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Electoral cycles create a structural bias toward short-termism that governments must consciously overcome",
-                "flow": "re-election pressure every 4–5 years makes policies with immediate costs and distant benefits politically unattractive → politicians gravitate toward visible short-term measures over long-term investments → the incentive structure systematically under-provides public goods with long payoff horizons → independent fiscal councils and constitutional spending rules exist to counteract this bias",
+                "title": "Election cycles push governments toward short-term decisions unless safeguards counter this pressure",
+                "flow": "re-election pressure every 4–5 years makes policies with immediate costs and distant benefits politically unattractive → politicians tend to favour visible short-term measures over long-term investments → this incentive leads governments to provide too little for public needs whose benefits take years to appear → independent fiscal bodies and long-term spending rules can help counter this bias",
                 "examples": [
                   {
                     "type": "vn",
@@ -159,8 +159,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Early preventive investment produces compounding returns that late remediation cannot match",
-                "flow": "preventive healthcare averts disease costs far larger than the prevention investment → early education produces literacy and numeracy that compound across a lifetime → climate mitigation begun now avoids damage that grows exponentially with delay → in every domain, early investment yields returns that late remediation cannot recover",
+                "title": "Early preventive investment produces benefits that late intervention cannot fully recover",
+                "flow": "preventive healthcare avoids disease costs far larger than the initial investment → early education builds literacy and numeracy that benefit people throughout life → climate action begun now avoids damage that grows exponentially with delay → across these areas, early investment produces benefits that late intervention cannot fully recover",
                 "examples": [
                   {
                     "type": "vn",
@@ -192,8 +192,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Long-term plans are subject to forecast error and must be adaptable to changing circumstances",
-                "flow": "future conditions — technology, demographics, climate — differ systematically from projections → rigid long-term policies designed for predicted futures misallocate resources when those futures do not materialise → governments unable to adapt become committed to obsolete plans at high cost → the ideal is a long-term strategic direction with adaptive short-term implementation",
+                "title": "Long-term plans can be based on wrong forecasts and must adapt as circumstances change",
+                "flow": "future conditions — technology, demographics, climate — often differ from projections → rigid long-term policies designed for predicted futures waste resources when those futures do not occur → governments that cannot adapt become locked into outdated plans at high cost → the ideal is a long-term strategic direction with flexible short-term implementation",
                 "examples": [
                   {
                     "type": "vn",
@@ -206,8 +206,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public support for policy requires visible early results that purely long-term programmes cannot provide",
-                "flow": "citizens need evidence policies are working to maintain support for them → purely future-oriented programmes face political erosion before proving value → incorporating visible short-term milestones sustains coalition support for long-term investment → political sustainability requires matching some policy benefits to the timescale of political accountability",
+                "title": "Long-term policies need visible early results to maintain public support",
+                "flow": "citizens need evidence that policies are working to continue supporting them → programmes whose benefits are entirely in the distant future may lose political support before proving their value → visible short-term milestones help maintain support for long-term investment → politically sustainable policy therefore needs some benefits within the period in which governments are held accountable",
                 "examples": [
                   {
                     "type": "vn",
@@ -352,8 +352,8 @@ window.TOPIC_DATA = {
             "label": "Agree — prioritise healthcare and education",
             "ideas": [
               {
-                "title": "Human capital is the primary engine of long-run economic growth; public services are investment, not consumption",
-                "flow": "a healthy, educated workforce is more productive, innovative, and adaptable → public investment in healthcare and education raises human capital across the entire population → higher human capital translates into higher long-run GDP growth → countries that neglect public services underinvest in their primary productive asset",
+                "title": "A healthy, educated population drives long-term growth, so public services are an investment",
+                "flow": "a healthy, educated workforce is more productive, innovative, and adaptable → public investment in healthcare and education raises skills and health across the population → a more capable workforce supports higher long-term economic growth → countries that neglect public services underinvest in one of their main productive assets",
                 "examples": [
                   {
                     "type": "vn",
@@ -366,8 +366,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Market failures mean private provision of healthcare and education produces chronic under-supply and inequality",
-                "flow": "private healthcare and education are profitable for providers but exclude those who cannot pay → information asymmetries and externalities mean market provision systematically under-supplies relative to the social optimum → individuals who cannot access health and education pass the costs onto society through lost productivity, higher crime, and greater welfare dependency → public provision corrects the underinvestment that markets produce",
+                "title": "Private healthcare and education can leave essential services underprovided and unequal",
+                "flow": "private healthcare and education can be profitable while excluding people who cannot pay → information gaps and wider social benefits mean markets may provide less than society needs → people who lack healthcare and education create wider costs through lost productivity, higher crime, and greater welfare dependency → public provision can correct this underinvestment",
                 "examples": [
                   {
                     "type": "vn",
@@ -413,8 +413,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Infrastructure spending may generate higher economic returns than social services in capital-scarce developing countries",
-                "flow": "in countries with poor transport, energy, and communication infrastructure, logistics costs are a binding constraint on economic activity → infrastructure investment reduces the cost of doing business for every firm and household in the country → the growth dividend from infrastructure can fund future public service expansion → spending on schools and hospitals yields limited returns when poor roads prevent children from reaching schools or medicines from reaching clinics",
+                "title": "Infrastructure may produce greater economic returns than social services in developing countries with severe infrastructure shortages",
+                "flow": "where transport, energy, and communication systems are poor, high logistics costs restrict economic activity → infrastructure investment lowers the cost of doing business for firms and households → stronger growth can generate revenue for future public service expansion → spending on schools and hospitals has limited impact when poor roads prevent access to them",
                 "examples": [
                   {
                     "type": "vn",
@@ -427,8 +427,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Excessive public service spending may crowd out private investment and reduce the growth that funds all services",
-                "flow": "higher public spending requires either higher taxes or higher borrowing → higher taxes reduce the disposable income available for private saving and investment → higher borrowing raises interest rates and crowds out private capital → economic growth, which funds all public services, depends partly on private sector dynamism",
+                "title": "Excessive public service spending may reduce private investment and slow the growth that funds services",
+                "flow": "higher public spending requires either higher taxes or higher borrowing → higher taxes leave households and firms with less money to save and invest → higher borrowing raises financing costs and reduces private investment → long-term funding for public services still depends partly on a dynamic private economy",
                 "examples": [
                   {
                     "type": "vn",
@@ -463,8 +463,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rising incomes through growth reduce poverty more effectively than redistribution of a stagnant pie",
-                "flow": "absolute poverty falls most rapidly when the economy as a whole is growing → growth creates jobs, raises wages, and increases household incomes across the distribution → redistribution alone, without growth, transfers from a fixed total — providing only modest improvements in living standards → countries that prioritised growth — South Korea, Taiwan, China, Vietnam — achieved dramatic poverty reduction within a generation",
+                "title": "Economic growth can reduce poverty more effectively than redistributing a fixed amount of income",
+                "flow": "absolute poverty often falls fastest when the whole economy is growing → growth creates jobs, raises wages, and increases household incomes across society → redistribution without growth only reallocates a fixed total, limiting improvements in living standards → countries such as South Korea, Taiwan, China, and Vietnam achieved major poverty reduction alongside rapid growth",
                 "examples": [
                   {
                     "type": "vn",
@@ -477,8 +477,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Excessive welfare spending may reduce labour supply and productive investment, slowing the growth it depends on",
-                "flow": "generous welfare benefits reduce the financial pressure to seek employment → higher effective marginal tax rates imposed by welfare means-testing reduce the return to additional work → capital taxes to fund welfare reduce investment and long-run productive capacity → growth rates may slow as a result",
+                "title": "Very generous welfare may weaken work and investment incentives, slowing the growth that supports it",
+                "flow": "generous welfare benefits can reduce the financial pressure to seek employment → losing benefits as earnings rise can reduce the reward from taking additional work → taxes on investment used to fund welfare can reduce long-term productive investment → economic growth may slow as a result",
                 "examples": [
                   {
                     "type": "vn",
@@ -510,8 +510,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social safety nets reduce insecurity, enabling the productive risk-taking that drives economic dynamism",
-                "flow": "workers who fear unemployment, illness, or destitution are risk-averse → risk aversion reduces entrepreneurship, labour mobility, and willingness to retrain for new industries → social safety nets reduce the downside of risk, enabling more people to take productive risks → economies with strong welfare states — Denmark, Sweden — consistently show high labour mobility, entrepreneurship, and productivity alongside generous welfare",
+                "title": "Social safety nets can make people more willing to take productive economic risks",
+                "flow": "workers who fear unemployment, illness, or poverty tend to avoid risk → this can reduce entrepreneurship, job changes, and willingness to retrain → social safety nets reduce the downside of failure, allowing more people to take productive risks → economies with strong welfare states — Denmark and Sweden — consistently combine generous welfare with high labour mobility, entrepreneurship, and productivity",
                 "examples": [
                   {
                     "type": "vn",
@@ -524,8 +524,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Unequal growth without welfare redistribution generates social instability that undermines economic performance",
-                "flow": "growth that concentrates gains among the already-wealthy while leaving others behind generates resentment and political instability → high inequality is associated with higher crime, lower trust, worse public health, and weaker institutional quality → these social pathologies impose economic costs — reduced investment, lower productivity, higher spending on law enforcement → redistributive welfare spending that compresses inequality may actually support rather than undermine economic performance",
+                "title": "Growth that leaves large groups behind can create social problems that damage the economy",
+                "flow": "growth that concentrates gains among the already wealthy while leaving others behind can create resentment and political instability → high inequality is associated with higher crime, lower trust, worse public health, and weaker institutions → these problems create economic costs through lower investment, reduced productivity, and higher public spending → welfare policies that reduce inequality may therefore support rather than weaken economic performance",
                 "examples": [
                   {
                     "type": "vn",
@@ -546,8 +546,8 @@ window.TOPIC_DATA = {
             "label": "Yes — national celebrations and events are a good use of public funds",
             "ideas": [
               {
-                "title": "National celebrations build social cohesion and shared identity that has measurable positive returns",
-                "flow": "shared national identity reduces social fragmentation and distrust → cohesive societies have higher levels of civic participation, cooperative behaviour, and public goods provision → national celebrations create common experiences across regional, ethnic, and class divisions → the social capital generated by shared identity has measurable economic and governance benefits",
+                "title": "National celebrations can build social cohesion and a shared identity with wider social benefits",
+                "flow": "shared national identity can reduce social fragmentation and distrust → cohesive societies often show more civic participation, cooperation, and support for shared institutions → national celebrations create common experiences across regional, ethnic, and class divisions → the trust created by a shared identity can benefit both the economy and public institutions",
                 "examples": [
                   {
                     "type": "vn",
@@ -574,8 +574,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cultural events and commemorations preserve heritage with long-term societal value that markets under-provide",
-                "flow": "national traditions, performing arts, and historical commemoration would be under-provided if left entirely to private markets → cultural heritage has public good characteristics — it benefits communities beyond those who directly attend or pay → government funding sustains cultural institutions and practices that would otherwise face commercial pressure to simplify or abandon → the transmission of cultural identity across generations is a social benefit that market prices do not capture",
+                "title": "Cultural events and commemorations preserve heritage that private markets may not support adequately",
+                "flow": "national traditions, performing arts, and historical commemoration may receive too little support if left entirely to private markets → cultural heritage benefits whole communities, not only those who directly pay to attend → government funding can sustain cultural institutions and practices that commercial pressure might otherwise weaken → passing cultural identity between generations creates social value that market prices do not capture",
                 "examples": [
                   {
                     "type": "vn",
@@ -621,8 +621,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "In countries with unmet basic needs, event spending reflects deeply problematic spending priorities",
-                "flow": "in developing countries where millions lack clean water, healthcare, or education, event spending consumes fiscal space that could address life-and-death needs → the visibility and prestige of national events can make them politically attractive despite being economically unjustifiable → international events can become prestige projects driven by elite interests rather than public benefit → democratic accountability is weakened when governments spend on spectacle while neglecting services",
+                "title": "In countries with unmet basic needs, spending on major events may reflect poor priorities",
+                "flow": "in developing countries where many people lack clean water, healthcare, or education, event spending uses public money that could address urgent needs → the visibility and prestige of national events can make them politically attractive despite weak economic returns → major international events can become prestige projects serving elites more than the public → democratic accountability suffers when governments fund spectacle while neglecting essential services",
                 "examples": [
                   {
                     "type": "vn",
@@ -778,8 +778,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public goods face free-rider problems that only compulsory taxation can solve",
-                "flow": "national defence, environmental regulation, and communicable disease control benefit all citizens regardless of individual contribution → voluntary private provision faces free-rider problems — individuals benefit without contributing → taxes solve the free-rider problem by making contributions compulsory → without compulsory collective funding, public goods are systematically under-provided relative to the social optimum",
+                "title": "Shared public services need compulsory funding because voluntary contributions are unreliable",
+                "flow": "national defence, environmental regulation, and disease control benefit all citizens whether or not they contribute → if payment is voluntary, people can benefit without helping to fund the service → taxation solves this problem by making contributions compulsory → without collective funding, essential shared services are likely to receive too little support",
                 "examples": [
                   {
                     "type": "vn",
@@ -792,8 +792,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Tax-funded redistribution reduces inequality with social and economic benefits for the whole population",
-                "flow": "pre-tax income inequality is high in most market economies → taxes and transfers compress the income distribution by funding benefits for low-income groups and collecting proportionately more from high earners → more equal societies have better health outcomes, lower crime, higher trust, and stronger democratic institutions → the social benefits of lower inequality extend beyond direct recipients to the entire population",
+                "title": "Tax-funded redistribution can reduce inequality and create wider social benefits",
+                "flow": "income inequality before taxes is high in many market economies → taxes and transfers narrow the gap by supporting lower-income groups and collecting a larger share from high earners → more equal societies are associated with better health, lower crime, higher trust, and stronger democratic institutions → the benefits of lower inequality can therefore extend beyond those who directly receive support",
                 "examples": [
                   {
                     "type": "vn",
@@ -839,8 +839,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "In developing economies with large informal sectors, high formal tax rates are counterproductive",
-                "flow": "effective taxation requires formal employment, enforceable property rights, and capable tax administration → in countries with large informal sectors, tax collection is limited to a narrow formal base → high statutory tax rates on the formal sector create incentives to move into the informal sector → the result is a high-rate, low-yield system that burdens formal businesses without funding adequate services",
+                "title": "In developing economies with large informal sectors, high official tax rates can be counterproductive",
+                "flow": "effective taxation requires formal employment, enforceable property rights, and capable tax administration → where much economic activity is informal, tax collection falls mainly on a narrow formal sector → high official tax rates encourage firms and workers to move into the informal economy → the result can be high rates on paper but low revenue in practice",
                 "examples": [
                   {
                     "type": "vn",
@@ -861,8 +861,8 @@ window.TOPIC_DATA = {
             "label": "Wealthy individuals should pay higher tax rates (progressive taxation)",
             "ideas": [
               {
-                "title": "Diminishing marginal utility makes progressive rates the most welfare-efficient way to raise revenue",
-                "flow": "an extra dollar of income is worth more in welfare terms to a poor person than to a wealthy one — the principle of diminishing marginal utility → a flat percentage tax takes a larger welfare sacrifice from low-income earners than the same percentage from high earners → progressive rates equalise the welfare burden of taxation across the income distribution → the total loss of economic welfare from revenue collection is minimised when rates are calibrated to income levels",
+                "title": "Because an extra dollar brings less additional wellbeing to the rich, progressive taxes can minimise the welfare cost of raising revenue",
+                "flow": "an extra dollar of income is worth more in wellbeing terms to a poor person than to a wealthy one → the same percentage tax therefore requires a greater sacrifice from low-income earners → progressive rates spread the welfare burden of taxation more evenly across income levels → the total loss of economic wellbeing from raising revenue is reduced when tax rates rise with income",
                 "examples": [
                   {
                     "type": "vn",
@@ -875,8 +875,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Wealth concentration reduces economic dynamism and political equality, which progressive taxes partially correct",
-                "flow": "high and rising wealth concentration reduces competition and innovation — entrenched wealth builds barriers to entry → concentrated wealth converts to concentrated political power, distorting democracy in favour of elite interests → progressive taxation and redistribution compress the wealth distribution → more equal societies show higher rates of small-business formation, labour mobility, and democratic participation",
+                "title": "Concentrated wealth can weaken competition and political equality, which progressive taxes may partly correct",
+                "flow": "very high wealth concentration can reduce competition and innovation because established wealth creates barriers to entry → concentrated wealth can also translate into greater political influence → progressive taxation and redistribution reduce the concentration of wealth → more equal societies show higher rates of small-business formation, labour mobility, and democratic participation",
                 "examples": [
                   {
                     "type": "vn",
@@ -889,8 +889,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "High earners derive disproportionate benefit from the public systems that taxation funds",
-                "flow": "high-income individuals and profitable businesses depend heavily on courts, educated workers, safe roads, and stable currency → these public goods and services are funded by taxes → those who benefit most from complex public institutions — large businesses and wealthy individuals — should contribute most to funding them → the principle of benefit taxation supports progressive rates for those whose income and wealth depend most on public infrastructure",
+                "title": "High earners have greater capacity to contribute without sacrificing basic needs",
+                "flow": "basic necessities take up a smaller share of income as earnings rise → a higher tax rate therefore causes less hardship for high earners than for low earners → government can raise more revenue while protecting essential consumption → the ability-to-pay principle supports progressive taxation",
                 "examples": [
                   {
                     "type": "vn",
@@ -908,8 +908,8 @@ window.TOPIC_DATA = {
             "label": "Everyone should pay the same tax rate (flat taxation)",
             "ideas": [
               {
-                "title": "Flat rates treat citizens equally before the law and avoid disincentive effects of high marginal rates",
-                "flow": "equal percentage contributions represent equal proportional sacrifice for each earner, embodying horizontal equity → progressive rates impose higher marginal rates on additional earnings by high earners → high marginal rates reduce the after-tax reward for working harder and investing, slowing economic growth → a flat rate maximises incentives by ensuring the government's share of each additional dollar is fixed and predictable",
+                "title": "Flat tax rates keep the reward for additional earnings more predictable",
+                "flow": "the same tax rate applies to each additional dollar earned → taxpayers know how much extra income they keep as earnings rise → the system avoids very high marginal rates that may discourage additional work or investment → this can preserve incentives while keeping the tax structure simple",
                 "examples": [
                   {
                     "type": "vn",
@@ -922,8 +922,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Flat taxes are simpler to administer and harder to avoid than complex progressive systems",
-                "flow": "progressive tax codes with multiple brackets, allowances, and exemptions create vast complexity → complexity requires expensive professional tax advice, which wealthy individuals can access but lower-income people cannot → a complex code creates opportunities for avoidance strategies that simple codes foreclose → flat tax systems reduce compliance costs for individuals and administration costs for government",
+                "title": "Flat taxes can be simpler to administer and leave fewer opportunities for avoidance",
+                "flow": "progressive tax codes with many brackets, allowances, and exemptions can become extremely complex → complexity increases the need for expensive professional tax advice, which wealthy people can access more easily → complex rules create more opportunities for legal avoidance → simpler flat-tax systems can reduce compliance costs for citizens and administrative costs for government",
                 "examples": [
                   {
                     "type": "vn",
@@ -936,8 +936,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Taxing capital and high incomes heavily may reduce investment and ultimately depress wages for workers",
-                "flow": "high earners invest a larger proportion of their income than low earners → investment creates the capital — equipment, technology, infrastructure — that raises worker productivity → progressive taxes on high incomes and capital reduce the post-tax return on investment → lower investment reduces capital per worker, suppressing wage growth across the distribution",
+                "title": "Heavy taxation of capital and high incomes may reduce investment and eventually slow wage growth",
+                "flow": "high earners invest a larger share of their income than low earners → investment funds equipment, technology, and infrastructure that raise worker productivity → high taxes on investment income reduce the return from investing → lower investment can reduce the amount of productive capital available to workers and slow wage growth",
                 "examples": [
                   {
                     "type": "vn",
@@ -1079,8 +1079,8 @@ window.TOPIC_DATA = {
             "label": "Agree — strict regulations are justified",
             "ideas": [
               {
-                "title": "The harm principle justifies regulation wherever individual behaviour imposes costs on unconsenting others",
-                "flow": "individual behaviour frequently imposes costs on third parties who did not consent to bear them → drunk driving, secondhand smoke, and financial fraud all harm people beyond the person making the choice → the harm principle — articulated by John Stuart Mill — holds that the only legitimate basis for restricting individual liberty is the prevention of harm to others → regulations targeting harmful behaviour meet this criterion precisely",
+                "title": "Government regulation is justified when individual behaviour imposes costs on others",
+                "flow": "individual behaviour can impose costs on people who did not choose to bear them → drunk driving, secondhand smoke, and financial fraud all harm people beyond the person making the choice → John Stuart Mill's harm principle holds that liberty may be restricted to prevent harm to others → regulations aimed directly at such harm fit this principle",
                 "examples": [
                   {
                     "type": "vn",
@@ -1093,8 +1093,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Collective action problems require regulatory coordination that voluntary behaviour cannot achieve",
-                "flow": "many socially desirable outcomes — road safety, clean air, financial stability — require most people to behave in a certain way → if compliance is voluntary, defectors gain advantage while imposing costs on compliers → regulations solve the coordination problem by making compliance universal and mandatory → the social outcome from coordinated behaviour is better for everyone, including those who would prefer to defect",
+                "title": "Some shared social goals require rules because voluntary action cannot ensure enough participation",
+                "flow": "many desirable outcomes — road safety, clean air, financial stability — require most people to follow common rules → if compliance is voluntary, some people can ignore the rules while imposing costs on those who cooperate → regulation solves this coordination problem by making compliance universal → coordinated behaviour can therefore produce a better outcome for everyone",
                 "examples": [
                   {
                     "type": "vn",
@@ -1107,8 +1107,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Information asymmetries and cognitive biases mean individuals cannot make fully rational behavioural choices without regulatory support",
-                "flow": "individuals often cannot accurately assess the risks of their own behaviour — smoking, unhealthy food, addictive substances — due to information deficits and industry manipulation → in the absence of regulation, firms exploit these biases to promote harmful consumption → regulation — mandatory labelling, advertising restrictions, safety standards — corrects the information asymmetry → better-informed individuals make choices that more accurately reflect their own long-term interests",
+                "title": "Information gaps and predictable biases can prevent people from making fully informed choices",
+                "flow": "people cannot always judge the risks of smoking, unhealthy food, or addictive substances accurately because information is incomplete and marketing can be manipulative → firms may exploit these weaknesses to promote harmful consumption → labelling rules, advertising restrictions, and safety standards reduce these information gaps → better-informed consumers can make choices that more closely reflect their long-term interests",
                 "examples": [
                   {
                     "type": "vn",
@@ -1126,8 +1126,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — strict regulation unacceptably limits personal freedom",
             "ideas": [
               {
-                "title": "Paternalistic regulations that restrict self-regarding behaviour violate individual autonomy",
-                "flow": "a liberal state is justified in restricting freedom only to prevent harm to others, not to protect individuals from their own choices → many regulations — restricting dietary choices, recreational drug use, personal lifestyle decisions — restrict behaviour that primarily affects only the individual making the choice → individuals have the right to make self-regarding choices, including risky ones, without government prohibition → paternalistic regulations treat citizens as incapable of managing their own lives",
+                "title": "Regulations that protect people only from their own choices can violate personal autonomy",
+                "flow": "a liberal state may be justified in restricting freedom to prevent harm to others, but not simply to protect adults from their own choices → rules on diet, recreational drug use, or personal lifestyle can restrict behaviour whose main effects fall on the individual → adults have a strong claim to make personal choices, including risky ones, without government prohibition → such regulations can treat citizens as incapable of managing their own lives",
                 "examples": [
                   {
                     "type": "vn",
@@ -1190,8 +1190,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The healthcare costs of harmful product consumption fall on governments, creating a direct fiscal case for advertising restrictions",
-                "flow": "consumption of tobacco, alcohol, and high-sugar foods produces health conditions — cancer, liver disease, diabetes, obesity — whose treatment costs fall primarily on public health systems → advertisers privatise the profits of promoting harmful consumption while externalising the healthcare costs onto taxpayers → governments that fund healthcare have a direct fiscal interest in reducing demand for products that drive preventable disease → advertising restrictions reduce exposure and social normalisation of harmful products",
+                "title": "Public healthcare costs give governments a direct financial reason to restrict advertising for harmful products",
+                "flow": "tobacco, alcohol, and high-sugar foods contribute to diseases whose treatment is often funded by public health systems → companies keep the profits from promoting harmful consumption while taxpayers bear part of the healthcare cost → governments that fund healthcare therefore have a financial interest in reducing demand for products that contribute to preventable disease → advertising restrictions reduce exposure and the social normalisation of harmful consumption",
                 "examples": [
                   {
                     "type": "vn",
@@ -1204,8 +1204,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Tobacco advertising restrictions have a strong empirical track record that justifies extending them to other harmful products",
-                "flow": "tobacco advertising bans across multiple countries have been followed by measurable reductions in smoking rates, particularly among young people → plain packaging requirements in Australia and the UK reduced brand appeal and uptake, especially among adolescents → the mechanisms are well-understood: advertising restrictions reduce brand visibility and social normalisation of consumption → the empirical success of tobacco advertising restrictions provides a tested framework for regulating other harmful product categories",
+                "title": "Advertising restrictions are strongest when marketing targets vulnerable consumers or hides serious health risks",
+                "flow": "children and other vulnerable consumers are less able to evaluate persuasive marketing critically → advertising can normalise harmful consumption before informed preferences are formed → targeted restrictions reduce this influence without banning all commercial communication → regulation is therefore most justified where vulnerability and health harm are greatest",
                 "examples": [
                   {
                     "type": "vn",
@@ -1223,8 +1223,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — advertising restrictions are unjustified or counterproductive",
             "ideas": [
               {
-                "title": "Restricting advertising of legal products is a disproportionate infringement of commercial speech",
-                "flow": "commercial entities have legitimate interests in communicating with potential customers about lawful products → advertising bans and restrictions prohibit lawful communication about lawful products → the appropriate response to harmful products is taxation, product regulation, or legal prohibition — not restricting information → advertising restrictions are a form of censorship that treats consumers as unable to evaluate commercial claims critically",
+                "title": "Restricting advertising for legal products can interfere with legitimate business communication",
+                "flow": "businesses have a legitimate interest in telling potential customers about lawful products → advertising bans restrict lawful communication about lawful goods → harmful products can instead be addressed through taxation, product standards, or legal prohibition → broad advertising restrictions can amount to censorship and assume that consumers cannot evaluate commercial claims critically",
                 "examples": [
                   {
                     "type": "vn",
@@ -1251,8 +1251,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Demand for harmful products is driven by factors other than advertising, making restrictions ineffective",
-                "flow": "if consumption of unhealthy products is driven primarily by price, availability, peer behaviour, and social norms, then advertising restrictions address a symptom rather than the root cause → tobacco consumption declined significantly in many high-income countries through taxation and public awareness campaigns before advertising bans were fully implemented → consumers of unhealthy food are typically aware of health risks → resources devoted to advertising restrictions could more effectively address the underlying drivers of harmful consumption",
+                "title": "Advertising restrictions work best as one part of a broader strategy",
+                "flow": "price, availability, peer behaviour, social norms, and advertising all influence harmful consumption → restricting advertising removes only one source of demand → combining advertising limits with taxation, education, and product regulation addresses several drivers at once → a policy package is more likely to reduce consumption than advertising rules alone",
                 "examples": [
                   {
                     "type": "vn",
@@ -1390,8 +1390,8 @@ window.TOPIC_DATA = {
             "label": "Agree — governments should support the unemployed",
             "ideas": [
               {
-                "title": "Unemployment benefits act as automatic stabilisers that prevent recessions from becoming depressions",
-                "flow": "mass unemployment reduces household incomes and consumer spending → falling demand depresses business revenues, leading to further job losses — a self-reinforcing downward spiral → unemployment benefits replace a portion of lost income, sustaining consumer spending → businesses lose less revenue and are less likely to cut further jobs",
+                "title": "Unemployment benefits stabilise demand and can prevent recessions from becoming depressions",
+                "flow": "mass unemployment reduces household income and consumer spending → falling demand lowers business revenue and can cause further job losses in a self-reinforcing cycle → unemployment benefits replace part of lost income and sustain spending → businesses lose less revenue and are less likely to cut further jobs",
                 "examples": [
                   {
                     "type": "vn",
@@ -1404,8 +1404,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Structural economic change makes unemployment an unavoidable systemic risk that individuals cannot insure against privately",
-                "flow": "technological change, globalisation, and industrial restructuring periodically destroy industries and the livelihoods within them → workers in declining industries face unemployment through no fault of their own — the cause is macroeconomic, not personal failure → private unemployment insurance is unavailable or prohibitively expensive because unemployment risk is correlated across the economy → government social insurance spreads this systemic risk across the whole population",
+                "title": "Economic change creates unemployment risks that individuals cannot easily insure against",
+                "flow": "technological change, globalisation, and industrial restructuring can destroy entire industries and the jobs within them → workers may lose jobs through broad economic change rather than personal failure → private unemployment insurance is difficult because many workers can become unemployed at the same time → government social insurance spreads this shared risk across the wider population",
                 "examples": [
                   {
                     "type": "vn",
@@ -1437,8 +1437,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — financial support for the unemployed has significant drawbacks",
             "ideas": [
               {
-                "title": "Unemployment benefits reduce the urgency to find work and may extend unemployment spells",
-                "flow": "financial support for the unemployed reduces the financial cost of remaining without work → unemployed individuals with benefits can afford to search longer before accepting a job offer → extended search increases the duration of unemployment spells → longer unemployment raises the risk of skills depreciation, habit disruption, and detachment from the labour market",
+                "title": "Unemployment benefits may reduce the urgency to find work and extend periods without employment",
+                "flow": "financial support reduces the immediate cost of remaining unemployed → people receiving benefits can afford to search longer before accepting a job → longer searches can increase the time spent out of work → prolonged unemployment raises the risk of skills weakening and people becoming detached from the labour market",
                 "examples": [
                   {
                     "type": "vn",
@@ -1451,8 +1451,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Generous unemployment support creates fiscal liabilities that may be unsustainable under structural change",
-                "flow": "generous and long-duration unemployment benefits create large and growing fiscal commitments → as populations age, the ratio of working-age contributors to social insurance recipients falls → funding adequate benefits requires either higher contribution rates or reduced coverage → structural unemployment driven by automation and globalisation can increase long-term claimants beyond what was fiscally modelled",
+                "title": "Generous unemployment support can create long-term costs that become difficult to sustain",
+                "flow": "generous, long-duration unemployment benefits create large public spending commitments → as populations age, fewer working-age contributors support more benefit recipients → maintaining benefits may require higher contributions or reduced coverage → long-term unemployment caused by automation and globalisation can create more claimants than the system was designed to support",
                 "examples": [
                   {
                     "type": "vn",
@@ -1465,8 +1465,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Financial transfers are less effective than active labour market policies in returning the unemployed to work",
-                "flow": "passive financial transfers maintain income but do not address the barriers preventing workers from finding jobs — skills gaps, location mismatches, age discrimination → active labour market policies — retraining programmes, job placement services, subsidised employment — address structural causes of unemployment directly → countries with the strongest outcomes for long-term unemployed workers combine modest benefits with intensive activation support → spending on passive transfers at the expense of active programmes may worsen long-run employment outcomes",
+                "title": "Job-search support and retraining may return people to work more effectively than cash payments alone",
+                "flow": "cash transfers maintain income but do not solve barriers such as skills gaps, location mismatch, or age discrimination → retraining, job placement, and subsidised employment address these barriers directly → countries with strong outcomes for the long-term unemployed often combine income support with active job-search assistance → spending too much on passive support can leave too little for programmes that help people return to work",
                 "examples": [
                   {
                     "type": "vn",
@@ -1487,8 +1487,8 @@ window.TOPIC_DATA = {
             "label": "Agree — governments should guarantee a minimum standard of living",
             "ideas": [
               {
-                "title": "A minimum standard of living is the prerequisite for exercising all other rights and freedoms",
-                "flow": "individuals who lack basic food, shelter, healthcare, and income cannot meaningfully exercise political, civil, or economic rights → extreme poverty is capability-destroying — it forecloses the choices and opportunities that constitute a dignified human life → a government that guarantees other rights but permits destitution protects freedoms that the destitute cannot exercise → a minimum standard of living is therefore the foundational precondition for all other government obligations",
+                "title": "A minimum standard of living is the foundation for exercising all other rights and freedoms",
+                "flow": "people without basic food, shelter, healthcare, and income cannot meaningfully exercise political, civil, or economic rights → extreme poverty removes the choices and opportunities needed for a dignified life → a government that protects formal freedoms while permitting destitution protects rights that the poorest cannot use in practice → a minimum standard of living is therefore a foundational requirement for other government obligations",
                 "examples": [
                   {
                     "type": "vn",
@@ -1515,8 +1515,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Preventing extreme poverty is a cost-effective public investment that reduces downstream social costs",
-                "flow": "poverty is associated with higher crime rates, worse public health, greater demand for emergency services, and weaker educational outcomes in children → these social costs are borne by the whole society, not only the poor → public investment in preventing extreme poverty reduces these downstream social costs → children raised above the poverty floor have better health, educational, and economic outcomes that compound across a generation",
+                "title": "Preventing extreme poverty can reduce wider social costs",
+                "flow": "poverty is associated with higher crime, worse public health, greater use of emergency services, and weaker educational outcomes for children → these costs are borne by the wider society, not only by poor households → public investment that prevents extreme poverty can reduce these later costs → children raised above severe poverty are more likely to achieve better health, education, and economic outcomes over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -1534,8 +1534,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — guaranteed minimum standards have significant costs and limitations",
             "ideas": [
               {
-                "title": "Unconditional guarantees may reduce economic participation and incentives for self-reliance",
-                "flow": "if a minimum income or standard of living is guaranteed unconditionally, the marginal benefit of low-wage work is reduced for those near the threshold → individuals at the margin between work and guaranteed support may choose support over employment, reducing labour supply → widespread exit from low-wage employment reduces the tax base that funds the guarantee, creating fiscal pressure → conditional programmes — requiring participation in work, training, or job search — better balance income protection with employment incentives",
+                "title": "Unconditional guarantees may reduce work incentives for people near the support threshold",
+                "flow": "if a minimum income is guaranteed regardless of employment, low-wage work may offer only a small financial gain for some people → those close to the boundary between work and support may choose not to take low-paid jobs → if many people leave work, the tax base funding the guarantee shrinks and public costs rise → programmes linked to work, training, or job search can better balance income protection with employment incentives",
                 "examples": [
                   {
                     "type": "vn",
@@ -1722,8 +1722,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Healthcare and education have positive externalities that justify provision beyond what individual willingness-to-pay would generate",
-                "flow": "vaccinated individuals protect not only themselves but unvaccinated people around them → educated workers raise the productivity of colleagues and communities → these positive externalities mean that the social benefit of healthcare and education exceeds the private benefit → a market priced at private value therefore under-supplies relative to the social optimum",
+                "title": "Healthcare and education create wider social benefits that markets may not fully reward",
+                "flow": "vaccinated people protect not only themselves but also others around them → educated workers can raise the productivity of colleagues and communities → these wider benefits mean healthcare and education create more value for society than for the individual alone → markets based only on private willingness to pay may therefore provide less than society benefits from",
                 "examples": [
                   {
                     "type": "vn",
@@ -1755,8 +1755,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — free access for everyone creates its own problems",
             "ideas": [
               {
-                "title": "Zero pricing creates excess demand, queue rationing, and fiscal pressure that undermines quality",
-                "flow": "when services are free at the point of use, demand rises without the price signal that would limit it → excess demand leads to waiting lists, overcrowding, and deteriorating quality for all users → rationing shifts from price to queue, which wastes time and favours those with schedule flexibility → the fiscal cost of providing free services to unlimited demand at adequate quality is very high",
+                "title": "Free services can create excess demand, long queues, and pressure on public budgets",
+                "flow": "when services are free at the point of use, demand can rise because price no longer limits use → excess demand can produce waiting lists, overcrowding, and lower quality → rationing shifts from price to waiting time, which can disadvantage people with less flexible schedules → providing unlimited free access while maintaining high quality can be very expensive",
                 "examples": [
                   {
                     "type": "vn",
@@ -1769,8 +1769,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Zero cost at point of use may reduce personal responsibility and the value placed on services",
-                "flow": "services obtained without payment are often less valued than those that require personal contribution → zero-cost access can reduce the sense of personal responsibility for health outcomes and educational effort → patients who face no cost may make more demands on healthcare for minor conditions that do not require professional attention → students who pay nothing may invest less effort in education, reducing the return on public investment",
+                "title": "Free access can increase low-priority demand when use is not managed",
+                "flow": "when users face no direct cost or gatekeeping, some low-priority demand may increase → limited staff and facilities must serve more cases → waiting times and public costs rise → triage, appointment rules, or carefully designed co-payments can manage demand while protecting access for those in need",
                 "examples": [
                   {
                     "type": "vn",
@@ -1819,8 +1819,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Private capital investment can expand service capacity without burdening the public balance sheet",
-                "flow": "governments in many countries face fiscal constraints that limit public investment in service infrastructure → private providers bring equity and debt capital to fund infrastructure without immediate government outlay → public-private partnerships allow governments to expand capacity through private finance → infrastructure built privately generates returns through user fees or government service payments over the contract period",
+                "title": "Private investment can expand service capacity without requiring large immediate government spending",
+                "flow": "many governments face budget limits that restrict investment in public-service infrastructure → private providers can use their own investment and borrowing to finance new facilities → public-private partnerships allow capacity to expand without the government paying the full cost upfront → investors are repaid later through user fees or government payments over the contract",
                 "examples": [
                   {
                     "type": "vn",
@@ -1866,8 +1866,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Transaction and monitoring costs in private service markets may offset or exceed the efficiency gains",
-                "flow": "introducing private providers requires designing contracts, running tenders, monitoring compliance, and managing disputes — activities requiring scarce specialist expertise → private providers, who negotiate such contracts professionally, are better positioned than governments in this information asymmetry → the resulting contracts often favour providers over commissioners, capturing efficiency gains for shareholders rather than taxpayers → in many cases the transaction and monitoring costs of private provision rival the efficiency savings it generates",
+                "title": "The cost of contracting and monitoring private providers can reduce or erase efficiency gains",
+                "flow": "using private providers requires governments to design contracts, run tenders, monitor performance, and manage disputes → these tasks require specialist expertise that private companies may possess more strongly than public agencies → contracts may therefore favour providers and allow much of the efficiency gain to become profit rather than public savings → in some cases, the extra contracting and monitoring costs can rival the savings private provision creates",
                 "examples": [
                   {
                     "type": "vn",
@@ -1880,8 +1880,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Natural monopolies and public goods cannot be effectively subjected to private market competition",
-                "flow": "many public services — water supply, electricity grids, rail tracks — are natural monopolies where the cost structure makes parallel duplication economically wasteful → competition in natural monopoly markets produces either wasteful duplication or effective monopoly without competitive discipline → public goods — national defence, flood control — cannot be privatised because private providers cannot exclude non-paying beneficiaries → for these services, the theoretical efficiency case for private provision does not apply",
+                "title": "Some essential services do not work well under normal market competition",
+                "flow": "services such as water networks, electricity grids, and rail tracks are costly to duplicate → competition can therefore create wasteful parallel systems or leave one provider with effective monopoly power → services such as national defence and flood control also benefit people who cannot easily be excluded for non-payment → normal private-market competition is therefore poorly suited to these services",
                 "examples": [
                   {
                     "type": "vn",
@@ -1902,8 +1902,8 @@ window.TOPIC_DATA = {
             "label": "Causes of declining public service quality",
             "ideas": [
               {
-                "title": "Prolonged fiscal austerity has reduced resources for staffing, maintenance, and capacity investment",
-                "flow": "successive austerity programmes — cutting government spending to reduce deficits — have reduced real-terms funding for healthcare, education, and social services → under-investment in staff, equipment, and maintenance accumulates as deferred costs → service quality deteriorates as the gap between demand and funded capacity widens → political cycles prioritise visible headline spending over less visible maintenance and capacity investment",
+                "title": "Long periods of spending cuts can reduce staffing, maintenance, and service capacity",
+                "flow": "repeated efforts to cut government deficits can reduce real funding for healthcare, education, and social services → underinvestment in staff, equipment, and maintenance builds up over time → service quality falls as demand grows faster than funded capacity → political cycles often favour visible new spending over less visible maintenance and long-term capacity",
                 "examples": [
                   {
                     "type": "vn",
@@ -1916,8 +1916,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rising demand from ageing populations and growing complexity has outpaced public service capacity",
-                "flow": "ageing populations require more intensive healthcare and social care at the same time as the working-age population funding these services shrinks → public expectations of service quality and responsiveness have risen with living standards → the complexity of service users' needs — multimorbidity, inequality-related social problems — has increased → fixed or slowly growing budgets must stretch to cover more complex needs for a larger service-dependent population",
+                "title": "Ageing populations and more complex needs can outgrow public service capacity",
+                "flow": "ageing populations need more healthcare and social care while the working-age population funding them becomes relatively smaller → public expectations of service quality also rise as living standards improve → more people have several health and social problems at the same time → fixed or slowly growing budgets must cover more complex needs for a larger dependent population",
                 "examples": [
                   {
                     "type": "vn",
@@ -1963,8 +1963,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Workforce investment — competitive pay, training, and manageable workloads — addresses the human capital deficit at the core of service decline",
-                "flow": "public service quality ultimately depends on the people delivering it — nurses, teachers, social workers, engineers → chronic under-investment in workforce pay and development makes public sector careers less attractive relative to private sector alternatives → staff shortages, particularly in specialist roles, are a primary proximate cause of service quality decline → competitive pay, continuous professional development, and sustainable workloads attract and retain the quality workforce that underpins service excellence",
+                "title": "Better pay, training, and manageable workloads can address staff shortages at the centre of service decline",
+                "flow": "public service quality ultimately depends on the people delivering it — nurses, teachers, social workers, engineers → weak pay and limited professional development make public careers less attractive than private alternatives → staff shortages, especially in specialist roles, directly reduce service quality → competitive pay, continuous training, and manageable workloads help attract and retain strong staff",
                 "examples": [
                   {
                     "type": "vn",
@@ -1977,8 +1977,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Structural reform — integration, digitalisation, and prevention focus — can improve outcomes without proportional cost increases",
-                "flow": "fragmented public services — where health, social care, housing, and employment support operate separately — produce duplication, gaps, and poor user experience → integrated commissioning and joined-up service delivery address complex needs more effectively and reduce duplication → digital transformation reduces administrative burden, improves information sharing, and enables proactive rather than reactive service → shifting investment from acute reactive services toward prevention reduces long-run demand",
+                "title": "Better coordination, digital systems, and prevention can improve services without matching increases in cost",
+                "flow": "fragmented services — where health, social care, housing, and employment support operate separately — create duplication, gaps, and poor user experience → coordinating these services around the same users can reduce duplication and address complex needs more effectively → digital systems can reduce administration, improve information sharing, and support earlier intervention → shifting spending from crisis response toward prevention can reduce long-term demand",
                 "examples": [
                   {
                     "type": "vn",
@@ -2123,8 +2123,8 @@ window.TOPIC_DATA = {
             "label": "Agree — government intervention to reduce inequality is justified",
             "ideas": [
               {
-                "title": "Extreme inequality undermines equality of opportunity, the legitimacy claim of meritocracy",
-                "flow": "meritocracy — the principle that outcomes should reflect effort and talent rather than circumstances of birth — is a core legitimating claim of liberal market economies → extreme wealth inequality concentrates advantage in successive generations through elite education, inherited capital, and social networks → equally talented children from poor backgrounds systematically underperform relative to those from wealthy ones → the gap widens with each generation as compounding returns to capital exceed wage growth",
+                "title": "Extreme inequality undermines the idea that success should depend on effort and talent rather than birth",
+                "flow": "meritocracy means outcomes should reflect effort and talent rather than family background → extreme wealth inequality passes advantages across generations through elite education, inherited wealth, and social networks → equally talented children from poor families therefore face systematic disadvantages → these gaps can widen over time as returns to wealth grow faster than wages",
                 "examples": [
                   {
                     "type": "vn",
@@ -2137,8 +2137,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "High inequality generates social pathologies that reduce wellbeing for everyone, including the wealthy",
-                "flow": "high inequality is associated with higher rates of crime, mental illness, social distrust, and political instability → these social pathologies affect quality of life across all income groups, not only the poor → wealthy individuals in highly unequal societies live with greater personal insecurity, reduced public space quality, and weaker social trust than counterparts in more equal societies → Wilkinson and Pickett's data demonstrate that for almost every measurable social outcome, more equal societies outperform less equal ones across the entire income distribution",
+                "title": "High inequality can weaken social trust and increase insecurity across society",
+                "flow": "large and visible gaps in wealth can make institutions seem unfair → trust between social groups and confidence in shared institutions decline → cooperation becomes harder and political resentment grows → the social costs of inequality can therefore extend beyond low-income households",
                 "examples": [
                   {
                     "type": "vn",
@@ -2151,8 +2151,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Unconstrained market forces structurally increase inequality, requiring active government counteraction",
-                "flow": "technology and globalisation systematically increase returns to high-skill labour and capital while suppressing wages for routine-task workers → capital income — dividends, rent, interest — grows faster than labour income in most market economies, concentrating wealth among asset holders → without redistribution, the income and wealth share of those at the top rises automatically → only active government intervention — progressive taxes, minimum wages, social transfers, anti-monopoly regulation — can counteract these structural forces",
+                "title": "Market forces can widen inequality when access to skills and assets is uneven",
+                "flow": "technology and globalisation can raise rewards for scarce skills and capital → people who already own assets or have advanced skills capture more of the gains → income and wealth gaps widen when others cannot access similar opportunities → education, competition policy, minimum wages, and progressive taxation can limit these pressures",
                 "examples": [
                   {
                     "type": "vn",
@@ -2170,8 +2170,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — government intervention to reduce inequality has significant limitations",
             "ideas": [
               {
-                "title": "Redistribution creates efficiency costs that may reduce the growth that benefits everyone including the poor",
-                "flow": "progressive taxes reduce the after-tax return on work, saving, and investment for high earners → reduced investment slows capital accumulation and long-run productivity growth → tax revenues raised fund transfers that partially offset market inequality but also reduce the total income available for distribution → Arthur Okun's 'leaky bucket' insight — that redistribution transfers less than it collects due to efficiency losses — implies that redistribution is expensive",
+                "title": "Redistribution can create economic costs that partly reduce the income available to share",
+                "flow": "progressive taxes reduce the after-tax reward from work, saving, and investment for high earners → if investment falls, long-term productivity growth may slow → transfers can reduce inequality but may also reduce the total economic output available for distribution → redistribution therefore involves a trade-off between greater equality and possible efficiency losses",
                 "examples": [
                   {
                     "type": "vn",
@@ -2184,8 +2184,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Some inequality reflects productive differences in skill, effort, and risk-taking that intervention should not fully compress",
-                "flow": "some income inequality reflects returns to skills, education, and entrepreneurial risk that society benefits from encouraging → compressed wage differentials reduce the incentive to acquire marketable skills and take productive risks → innovation, which drives long-run living standard improvements, depends partly on the prospect of differential rewards → countries that compress income distributions too aggressively lose skilled workers and entrepreneurs to less heavily taxed jurisdictions",
+                "title": "Some inequality rewards differences in skill, effort, and risk-taking that society may want to encourage",
+                "flow": "some income differences reflect skills, education, and entrepreneurial risk that can create wider benefits → narrowing wage differences too far may weaken incentives to gain valuable skills or take productive risks → innovation partly depends on the possibility of earning higher rewards from successful ideas → very high taxes may also encourage skilled workers and entrepreneurs to relocate",
                 "examples": [
                   {
                     "type": "vn",
@@ -2198,8 +2198,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Inequality is best addressed through opportunity investment, not income redistribution",
-                "flow": "current income redistribution addresses the symptoms of inequality without changing its underlying causes — unequal human capital and opportunity → investment in early childhood education, universal healthcare, and social mobility programmes changes the distribution of human capital → as human capital becomes less concentrated, market wages converge upward through supply and demand → the labour market, given more equally distributed skills, produces more equal market outcomes without requiring perpetual redistribution",
+                "title": "Opportunity investment can reduce inequality before redistribution is required",
+                "flow": "early education, healthcare, and skills programmes improve disadvantaged people's productive capacity → more people can compete for higher-paying work → market-income gaps narrow before taxes and transfers are applied → redistribution can then focus on inequalities that opportunity policy cannot remove",
                 "examples": [
                   {
                     "type": "vn",
@@ -2220,8 +2220,8 @@ window.TOPIC_DATA = {
             "label": "Agree — free markets are the best mechanism for prosperity",
             "ideas": [
               {
-                "title": "Price signals coordinate millions of individual decisions more efficiently than any central plan",
-                "flow": "prices aggregate dispersed information about supply, demand, costs, and preferences that no central authority could collect or process → price signals direct resources toward their highest-value uses automatically, without central direction → firms that use resources efficiently profit → the aggregate result is a level of productivity and innovation that no planned system has matched",
+                "title": "Prices coordinate millions of individual decisions more efficiently than central planners can",
+                "flow": "prices combine information about supply, demand, costs, and preferences that no central authority can collect perfectly → price changes guide resources toward uses that consumers value more without requiring central direction → firms that use resources efficiently are rewarded with profit → the overall result can be high productivity and innovation",
                 "examples": [
                   {
                     "type": "vn",
@@ -2267,8 +2267,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — free markets alone are insufficient for broad prosperity",
             "ideas": [
               {
-                "title": "Market failures — externalities, public goods, information asymmetries — require government correction",
-                "flow": "producers in unregulated markets do not bear the full cost of the pollution and environmental damage they impose on third parties → goods with positive externalities — public health, basic research, national defence — are under-provided because private providers cannot capture the full social return → information asymmetries in healthcare and finance allow providers to exploit consumers who cannot evaluate service quality → market outcomes are efficient only when private and social costs align — a condition violated across many important sectors",
+                "title": "Markets sometimes fail when private decisions create wider costs, shared benefits, or information gaps",
+                "flow": "producers do not always pay the full cost of pollution and other damage imposed on third parties → services with wider benefits — public health, basic research, national defence — may receive too little private funding because providers cannot capture all the benefit → information gaps in healthcare and finance can allow providers to exploit consumers who cannot judge quality → government intervention can improve outcomes when private incentives do not match wider social costs and benefits",
                 "examples": [
                   {
                     "type": "vn",
@@ -2281,8 +2281,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Unregulated markets tend toward concentration that undermines the competition that makes them efficient",
-                "flow": "network effects, economies of scale, and first-mover advantages concentrate market power in successful firms → concentrated firms use market power to raise prices, reduce quality, and suppress entry by rivals → competition — the mechanism through which markets produce efficient outcomes — is systematically undermined by the success of the most efficient firms → active antitrust and competition regulation is required to maintain the competitive markets that produce market efficiency gains",
+                "title": "Unregulated markets can become concentrated and weaken the competition that makes them efficient",
+                "flow": "large advantages from scale, networks, or entering a market early can concentrate power in a few successful firms → dominant firms can then raise prices, reduce quality, or make entry harder for rivals → competition, which is meant to discipline firms, weakens as market power grows → competition law and regulation may therefore be needed to preserve genuine competition",
                 "examples": [
                   {
                     "type": "vn",
@@ -2295,8 +2295,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Free markets produce high average incomes but distribute them unequally, leaving significant populations behind",
-                "flow": "market outcomes reflect differences in skills, capital, and circumstance that are partially random and partially heritable → free markets produce high average incomes alongside significant poverty and inequality → prosperity that is concentrated among a minority is not the same as broad-based prosperity → markets raise average incomes most effectively but improve the lives of the poorest least reliably",
+                "title": "Free markets can raise average incomes while still leaving many people behind",
+                "flow": "market outcomes reflect differences in skills, wealth, and circumstances that people do not fully choose → free markets can produce high average incomes alongside serious poverty and inequality → prosperity concentrated among a minority is not the same as broadly shared prosperity → markets may raise average incomes efficiently while improving the position of the poorest less reliably",
                 "examples": [
                   {
                     "type": "vn",
@@ -2331,8 +2331,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Small businesses drive local innovation and reinvest revenue in local economies more effectively than large corporations",
-                "flow": "large corporations standardise products and services for global markets, optimising for the average customer → small businesses can serve niche local markets and adapt to local preferences that corporate standardisation ignores → local businesses reinvest a higher proportion of revenue in the local economy — using local suppliers, employing local workers — creating stronger local multiplier effects → the diversity and adaptability of small business ecosystems provide economic resilience against the volatility that concentrated industries face",
+                "title": "Small businesses can serve local needs and keep more economic activity within communities",
+                "flow": "large corporations standardise products and services for broad markets → small businesses can adapt more easily to local preferences and niche demand → local firms often use nearby suppliers and workers, keeping more spending in the local economy → diverse small-business networks can also make local economies less dependent on a few large employers",
                 "examples": [
                   {
                     "type": "vn",
@@ -2345,8 +2345,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Large corporations use scale and political influence to build entry barriers that suppress competition and must be counteracted",
-                "flow": "large corporations use lobbying, regulatory influence, and market power to shape rules in their favour → regulatory complexity that large firms navigate with specialist legal and compliance teams disproportionately burdens small competitors → the result is a protected oligopoly that maintains high prices and low innovation → government support for small businesses — simplified regulation, access to financing, preferential procurement thresholds — counteracts the structural advantages that incumbent size creates",
+                "title": "Large corporations can use scale and political influence to create barriers for smaller competitors",
+                "flow": "large corporations can use lobbying, legal expertise, and market power to shape rules in their favour → complex regulation is easier for large firms with specialist teams to manage than for small competitors → markets can therefore become dominated by a few firms with high prices and weaker innovation → simpler rules, better access to finance, and fair public procurement can reduce the disadvantages created by firm size",
                 "examples": [
                   {
                     "type": "vn",
@@ -2392,8 +2392,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Government support should be conditioned on market failure, not firm size as a category",
-                "flow": "the economic value of a business depends on its productivity, innovation, and employment creation — not its size → blanket support for small businesses transfers resources from more productive to less productive firms if the average small firm is less efficient → some large corporations create enormous social value — in technology, logistics, energy — that small businesses in the same sector cannot deliver at equivalent scale → government support should be conditioned on market failures — credit constraints, positive externalities, public good provision — not on size as a proxy",
+                "title": "Government support should address specific market problems rather than favour firms simply because they are small",
+                "flow": "the value of a business depends on its productivity, innovation, and employment rather than size alone → blanket support for small firms can shift resources toward less productive businesses → some large corporations create social value at a scale that small firms cannot match → public support should therefore target specific problems such as lack of credit, wider social benefits, or essential services rather than firm size itself",
                 "examples": [
                   {
                     "type": "vn",
@@ -2538,8 +2538,8 @@ window.TOPIC_DATA = {
             "label": "Agree — government policies are often ineffective",
             "ideas": [
               {
-                "title": "Implementation gaps between policy design and frontline delivery systematically undermine effectiveness",
-                "flow": "governments design policies at the national level based on aggregate data and political objectives → implementation requires frontline workers — teachers, social workers, police — who exercise discretion and may not share the policy's goals → the gap between policy intent and street-level delivery is large and systematic → monitoring and accountability mechanisms are often too weak to detect or correct implementation failures",
+                "title": "Gaps between policy design and frontline delivery can undermine effectiveness",
+                "flow": "governments design policies nationally using broad data and political objectives → implementation depends on frontline workers — teachers, social workers, police — who exercise judgment and may interpret the policy differently → the result can be a large gap between policy intentions and what citizens actually receive → weak monitoring and accountability can make these delivery failures hard to identify and correct",
                 "examples": [
                   {
                     "type": "vn",
@@ -2552,8 +2552,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social problems are complex adaptive systems that resist single-policy interventions",
-                "flow": "social problems like poverty, crime, and substance abuse involve multiple interacting causes — economic, cultural, psychological, historical → a policy addressing one cause typically produces compensating adjustments in the others → stricter policing, for example, displaces crime geographically rather than eliminating it → the complexity of social systems means that interventions produce unintended consequences as frequently as intended benefits",
+                "title": "Complex social problems rarely respond fully to a single policy",
+                "flow": "poverty, crime, and substance abuse have several interacting causes — economic, cultural, psychological, historical → a policy aimed at one cause can trigger changes elsewhere that reduce its impact → stricter policing, for example, may move crime to another area rather than eliminate it → complex social problems therefore require policies that anticipate unintended effects",
                 "examples": [
                   {
                     "type": "vn",
@@ -2566,8 +2566,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Electoral incentives drive governments toward visible but evidence-free interventions",
-                "flow": "politicians face pressure to act visibly on public concerns, regardless of whether action is effective → announcing a new policy signals responsiveness without requiring evidence of impact → politically popular interventions — tough sentencing, high-profile crackdowns, new bureaucratic agencies — often lack evidence of effectiveness but generate positive media coverage → evidence-based policy requires accepting that effective interventions may be invisible and that popular solutions may not work",
+                "title": "Election pressures can push governments toward visible policies even when evidence is weak",
+                "flow": "politicians face pressure to show that they are acting on public concerns whether or not a policy is effective → announcing a new measure creates an immediate appearance of responsiveness → politically popular actions — tough sentencing, high-profile crackdowns, new agencies — may receive support before their effectiveness is established → evidence-based policy sometimes requires choosing less visible measures over popular ones",
                 "examples": [
                   {
                     "type": "vn",
@@ -2649,8 +2649,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Strict laws protect victims and send an unambiguous normative signal about community standards",
-                "flow": "weak laws leave victims inadequately protected and signal that their welfare is not a government priority → strict laws establish clear standards of acceptable conduct that protect third parties from harm → firm enforcement removes dangerous individuals from the situations where they cause harm → beyond deterrence, the existence of strict law communicates that society regards the behaviour as seriously unacceptable",
+                "title": "Strict laws protect victims and send a clear message about acceptable behaviour",
+                "flow": "weak laws can leave victims poorly protected and suggest that their welfare is not a priority → strict laws establish clear standards that protect others from harm → firm enforcement can remove dangerous individuals from situations where they can cause further harm → beyond deterrence, strict law communicates that society considers the behaviour seriously unacceptable",
                 "examples": [
                   {
                     "type": "vn",
@@ -2732,8 +2732,8 @@ window.TOPIC_DATA = {
             "label": "Agree — prevention is more effective than punishment",
             "ideas": [
               {
-                "title": "Prevention addresses root causes; punishment addresses symptoms after harm has occurred",
-                "flow": "most social problems have identifiable upstream causes in economic deprivation, early childhood adversity, mental illness, and lack of opportunity → punishment addresses harmful behaviour after it has occurred and after victims have already suffered → preventive investment — early childhood programmes, education, mental health services, community development — addresses the conditions that produce harmful behaviour before it emerges → preventing a problem is almost always cheaper than responding to it after the fact",
+                "title": "Prevention tackles causes before harm occurs, while punishment responds afterwards",
+                "flow": "many social problems have identifiable earlier causes in poverty, childhood adversity, mental illness, and lack of opportunity → punishment responds only after harmful behaviour has occurred and victims have already suffered → preventive investment — early childhood programmes, education, mental health services, community development — addresses these conditions before harm emerges → preventing problems can be cheaper than responding after the damage is done",
                 "examples": [
                   {
                     "type": "vn",
@@ -2746,8 +2746,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Punishment has high costs and limited effectiveness on behaviour that is non-deliberate or compelled",
-                "flow": "incarceration is extremely expensive — costing more per year than university education in most countries → a large proportion of people who commit harmful acts do not make rational deterrence calculations — they act impulsively, under the influence of substances, or out of desperation rather than deliberate cost-benefit analysis → for these individuals, the threat of punishment has limited deterrent effect regardless of its severity → the same resources spent on prevention — early intervention, addiction treatment, mental health support — reach larger numbers at lower cost per person helped",
+                "title": "Punishment is costly and has limited effect on impulsive or desperation-driven behaviour",
+                "flow": "incarceration is extremely expensive — costing more per year than university education in most countries → many harmful acts are committed impulsively, under the influence of substances, or out of desperation rather than after careful calculation → for these people, the threat of punishment has limited deterrent effect regardless of severity → the same resources spent on early intervention, addiction treatment, or mental health support can reach more people at lower cost",
                 "examples": [
                   {
                     "type": "vn",
@@ -2760,8 +2760,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Prevention builds social capital and community resilience that self-sustains social order",
-                "flow": "communities with strong social capital — trust, cooperative norms, active civil society — experience lower crime, better health, and greater educational attainment regardless of policing levels → preventive government investment in community infrastructure, youth services, and social support builds this social capital → communities that develop self-sustaining prosocial norms require less ongoing government intervention → punishment-focused approaches do not build social capital and can erode it by criminalising community members, disrupting families, and reducing trust in institutions",
+                "title": "Prevention can build the trust and community strength that help maintain social order",
+                "flow": "communities with strong trust, cooperative norms, and active local organisations experience lower crime, better health, and stronger educational outcomes regardless of policing levels → preventive investment in community infrastructure, youth services, and social support can strengthen these relationships → communities with self-sustaining positive norms require less ongoing government intervention → punishment-focused approaches do not build this social trust and can weaken it by disrupting families and reducing confidence in institutions",
                 "examples": [
                   {
                     "type": "vn",
@@ -2779,8 +2779,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — punishment remains necessary alongside prevention",
             "ideas": [
               {
-                "title": "Prevention alone cannot protect society from those who would cause harm regardless of circumstances",
-                "flow": "most social problems have a residual population of individuals who would commit harmful acts even in optimal social and economic conditions → no preventive programme eliminates all harmful behaviour from all individuals → society requires mechanisms to protect innocent people from those who cause harm regardless of circumstances → punishment — incapacitation, deterrence, removal from the community — provides this protection for those for whom prevention has not worked",
+                "title": "Prevention cannot eliminate every immediate threat to public safety",
+                "flow": "even effective preventive programmes reduce risk rather than removing it completely → some serious harmful behaviour will still occur → society needs immediate ways to protect potential victims when prevention fails → imprisonment, supervision, and other restrictions remain necessary in those cases",
                 "examples": [
                   {
                     "type": "vn",
@@ -2793,8 +2793,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Punishment fulfils justice functions beyond deterrence that societies require morally and socially",
-                "flow": "criminal punishment is not only a policy instrument for reducing harm — it is also a moral response to wrongdoing that recognises the agency and responsibility of perpetrators → victims and society require acknowledgement that harmful acts are met with proportionate consequences → a system focused entirely on prevention and treatment can appear to dismiss the moral agency of perpetrators and the legitimate claims of victims for justice → the retributive and expressive functions of punishment — communicating that wrongdoing is unacceptable — are socially necessary independent of deterrent effectiveness",
+                "title": "Punishment serves justice functions beyond deterrence",
+                "flow": "criminal punishment is not only a tool for reducing future harm but also a response to wrongdoing that recognises personal responsibility → victims and society may reasonably expect serious harm to receive proportionate consequences → a system focused only on prevention and treatment can appear to overlook responsibility and victims' claims to justice → punishment can therefore communicate social condemnation even when its deterrent effect is limited",
                 "examples": [
                   {
                     "type": "vn",
@@ -2807,8 +2807,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Long-run prevention requires short-term protection mechanisms while preventive effects accumulate",
-                "flow": "preventive programmes in education, early childhood intervention, and community development have time horizons of years or decades before their effects on crime and social problems become measurable → during this transition period, society must protect itself from harms that prevention will eventually reduce → punishment-based approaches provide immediate protection for victims while preventive investments take effect → the false binary between prevention and punishment ignores the temporal dimension: prevention is the long-run strategy while punishment provides necessary short-run protection",
+                "title": "Long-term prevention still requires short-term protection while its effects develop",
+                "flow": "education, early-childhood support, and community programmes may take years before their effects on crime and social problems become visible → during that period, society still needs protection from current harms → punishment and other protective measures can provide immediate protection while preventive investment takes effect → prevention and punishment therefore operate on different time horizons rather than being complete alternatives",
                 "examples": [
                   {
                     "type": "vn",
@@ -2953,8 +2953,8 @@ window.TOPIC_DATA = {
             "label": "Agree — international cooperation is essential for global problems",
             "ideas": [
               {
-                "title": "Climate change is a global commons problem that only international cooperation can solve",
-                "flow": "greenhouse gas emissions anywhere affect the climate everywhere — the atmosphere is a global commons → individual countries acting unilaterally have no incentive to bear full abatement costs when other countries can free-ride on their efforts → carbon reduction produces full benefits only if most major emitters participate simultaneously → international agreements create the multilateral commitment mechanism that aligns national incentives with global welfare",
+                "title": "Climate change is a shared global problem that requires international cooperation",
+                "flow": "greenhouse gas emissions anywhere affect the climate everywhere → individual countries have limited incentive to bear all the costs of reducing emissions if others can benefit without acting → major emissions cuts work best when most large emitters participate → international agreements help align national incentives with the shared global interest",
                 "examples": [
                   {
                     "type": "vn",
@@ -2967,8 +2967,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Poverty and disease do not respect borders, making global cooperation both moral and strategic",
-                "flow": "extreme poverty in one region generates migration pressure, political instability, and disease transmission that affects neighbouring and distant countries → the 2014 Ebola outbreak, the 2020 COVID-19 pandemic, and historical precedents all demonstrate that health system failure anywhere threatens health security everywhere → wealthy countries have both a moral obligation to reduce avoidable suffering and a strategic interest in the stability of low-income regions → international development assistance, pandemic preparedness cooperation, and debt relief are instruments of enlightened self-interest, not only charity",
+                "title": "Poverty and disease cross borders, making international cooperation both moral and practical",
+                "flow": "extreme poverty can contribute to migration pressure and instability, while infectious diseases can spread beyond national borders → the 2014 Ebola outbreak and the 2020 COVID-19 pandemic show that weak health systems in one place can threaten health security elsewhere → wealthy countries may therefore have both a moral reason to reduce avoidable suffering and a practical interest in greater global stability → development aid, pandemic preparedness, and debt relief can serve national interests as well as humanitarian goals",
                 "examples": [
                   {
                     "type": "vn",
@@ -2981,8 +2981,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Global problems require the scale of resources and coordination that no single government can provide",
-                "flow": "challenges like climate change, pandemic preparedness, and nuclear non-proliferation require coordinated action spanning the entire international system → the financial, technological, and diplomatic resources required exceed what any single government can deploy → multilateral institutions — the UN, WHO, WTO, IMF — pool sovereignty and resources to address problems at the required scale → without these institutions, collective action failures would leave global public goods chronically under-provided",
+                "title": "Some global problems require more resources and coordination than any single government can provide",
+                "flow": "climate change, pandemic preparedness, and nuclear non-proliferation require action across many countries → the financial, technological, and diplomatic resources involved exceed what one government can provide alone → institutions such as the UN, WHO, WTO, and IMF combine resources and coordinate action → without cooperation, shared global needs may receive too little support",
                 "examples": [
                   {
                     "type": "vn",
@@ -3000,8 +3000,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — international cooperation has significant limitations",
             "ideas": [
               {
-                "title": "International agreements are difficult to enforce and frequently undermined by free-riding",
-                "flow": "international agreements require near-universal participation to be effective because defecting countries gain competitive advantages → enforcement mechanisms in international law are weak — no authority can compel compliance without the consent of sovereign states → major emitters have repeatedly missed emissions targets under the Paris Agreement without meaningful consequence → countries prioritise national economic interests over international commitments when these conflict",
+                "title": "International agreements are difficult to enforce because countries can benefit without fully complying",
+                "flow": "international agreements often work best when most countries participate because those that do less can gain a competitive advantage → international law has limited enforcement power because sovereign states usually must accept the rules → major emitters have repeatedly missed emissions targets under the Paris Agreement without meaningful consequences → governments may prioritise national economic interests when these conflict with international promises",
                 "examples": [
                   {
                     "type": "vn",
@@ -3028,8 +3028,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Powerful countries dominate international organisations in ways that serve their interests, not global welfare",
-                "flow": "international institutions reflect the power distribution of the international system — major powers have disproportionate influence in the UN Security Council, IMF, and WTO → rules and decisions in these bodies tend to favour the economic and political interests of wealthy nations → developing countries are often subject to conditionality and constraints that wealthy nations do not face equally → the claim that international cooperation serves global welfare can disguise a system where powerful states shape global rules to their advantage",
+                "title": "Powerful countries can shape international organisations in ways that favour their own interests",
+                "flow": "international institutions reflect differences in power between states, giving major countries greater influence in bodies such as the UN Security Council, IMF, and WTO → rules and decisions can therefore favour the economic and political interests of wealthy states → developing countries may face conditions and constraints that stronger countries can avoid more easily → international cooperation can therefore reproduce global power imbalances rather than automatically serving everyone equally",
                 "examples": [
                   {
                     "type": "vn",
@@ -3078,8 +3078,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "National policy diversity generates governance learning that benefits the global system",
-                "flow": "a world in which all countries pursue identical global objectives loses the diversity of governance experiments that generates learning about what works → national governments pursuing their own priorities produce policy variation from which other countries can learn → competition between national models — in regulation, social policy, industrial strategy — creates selection pressure for effective governance → global coordination that suppresses national diversity may lock in suboptimal approaches worldwide",
+                "title": "Different national policies create experiments that other countries can learn from",
+                "flow": "if all countries pursue identical policies, the world loses opportunities to compare different approaches → national governments that follow different priorities create useful policy variation → successful approaches in regulation, social policy, or industrial strategy can then be copied elsewhere → excessive global coordination may reduce this experimentation and lock many countries into the same poor approach",
                 "examples": [
                   {
                     "type": "vn",
@@ -3097,8 +3097,8 @@ window.TOPIC_DATA = {
             "label": "Governments should contribute more to global issues",
             "ideas": [
               {
-                "title": "Citizens' wellbeing increasingly depends on global conditions that national action alone cannot manage",
-                "flow": "global supply chains, financial markets, climate, and pandemic risk all affect domestic living standards in ways no national government can unilaterally control → a country cannot insulate itself from global inflation, financial contagion, climate impacts, or infectious disease through domestic policy alone → protecting citizens' wellbeing therefore requires the international cooperation that stabilises global systems → national prioritisation without international engagement leaves citizens exposed to global risks that domestic policy cannot address",
+                "title": "Citizens' wellbeing increasingly depends on global conditions that national policy alone cannot control",
+                "flow": "global supply chains, financial markets, climate, and pandemic risks all affect domestic living standards beyond any single government's control → countries cannot fully protect themselves from global inflation, financial crises, climate impacts, or infectious disease through domestic policy alone → protecting citizens therefore also requires cooperation that stabilises shared international systems → focusing only on national action leaves citizens exposed to risks that cross borders",
                 "examples": [
                   {
                     "type": "vn",
@@ -3111,8 +3111,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Global poverty and instability generate costs for wealthy nations that make international investment rational",
-                "flow": "extreme poverty and state fragility in low-income countries generate conditions for mass migration, conflict, and infectious disease that impose direct costs on wealthier nations → the 2015–16 European migration crisis and COVID-19 pandemic illustrate how instability in distant places produces immediate domestic consequences → investment in international development, conflict prevention, and pandemic preparedness reduces these downstream costs → from a purely self-interested perspective, spending on international stability is cheaper than managing the crises that its absence generates",
+                "title": "Weak institutions and uncontrolled crises abroad can create cross-border costs",
+                "flow": "conflict, state fragility, and poorly controlled disease outbreaks can spread effects beyond national borders → neighbouring and distant countries may face migration pressure, security risks, or health costs → development, conflict prevention, and health-system support can reduce some of these risks at source → international investment can therefore serve domestic interests as well as humanitarian goals",
                 "examples": [
                   {
                     "type": "vn",
@@ -3147,8 +3147,8 @@ window.TOPIC_DATA = {
             "label": "Agree — international organisations should have more power",
             "ideas": [
               {
-                "title": "Voluntary international agreements fail without credible enforcement — binding authority fills this gap",
-                "flow": "voluntary international agreements fail when national interests conflict with agreed commitments — as repeatedly demonstrated by missed climate targets and trade rule violations → binding authority backed by enforcement mechanisms raises the credibility and compliance rate of international commitments → countries that free-ride on others' cooperative efforts are deterred by the prospect of meaningful sanctions → stronger international institutions convert the collective action problem from a prisoner's dilemma into a regulated framework with enforceable rules",
+                "title": "International agreements need credible enforcement when national interests conflict with shared commitments",
+                "flow": "voluntary agreements can break down when national interests conflict with commitments, as shown by missed climate targets and trade-rule violations → credible enforcement increases the cost of non-compliance and makes promises more reliable → countries are less likely to benefit unfairly from others' cooperation when meaningful penalties exist → stronger institutions can turn loosely coordinated cooperation into a rules-based system with enforceable consequences",
                 "examples": [
                   {
                     "type": "vn",
@@ -3194,8 +3194,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — expanding international organisations' power is problematic",
             "ideas": [
               {
-                "title": "International organisations lack the democratic legitimacy to exercise binding authority over national populations",
-                "flow": "national governments are elected by citizens who can remove them from office — the foundational accountability mechanism of democratic legitimacy → international organisations are staffed by appointed officials and governed by procedures that give ordinary citizens no meaningful input or accountability mechanism → binding decisions by international bodies override national democratic choices without the consent of the affected populations → expanding international authority worsens the democratic deficit that already exists in global governance",
+                "title": "International organisations may lack enough democratic accountability to exercise strong authority over national populations",
+                "flow": "national governments are elected by citizens who can remove them from office → international organisations are usually led by appointed officials whom ordinary citizens cannot directly vote out → binding international decisions can therefore override national choices without the same level of direct public accountability → expanding international authority can widen the gap between decision-makers and the citizens affected",
                 "examples": [
                   {
                     "type": "vn",
@@ -3208,8 +3208,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "International organisations reflect the interests of powerful states and should not receive expanded authority without reform",
-                "flow": "the structure of major international organisations gives disproportionate influence to wealthy and powerful states — the Security Council veto, IMF weighted voting, WTO consensus rules dominated by major economies → decisions of these bodies tend to reflect the economic and geopolitical interests of major powers rather than the welfare of the global majority → expanding the authority of unreformed institutions dominated by powerful states does not serve global welfare — it entrenches power asymmetries under the veneer of multilateralism → genuine global governance reform requires redistribution of institutional power alongside any expansion of authority",
+                "title": "International organisations can reflect powerful states' interests and should not gain more authority without reform",
+                "flow": "major international organisations give powerful states greater formal or informal influence — through vetoes, weighted voting, or bargaining power → decisions can therefore reflect major powers' economic and geopolitical interests more strongly than those of smaller states → expanding unreformed institutions may deepen existing power imbalances → reforming how influence is distributed should accompany any increase in international authority",
                 "examples": [
                   {
                     "type": "vn",
@@ -3222,8 +3222,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "National policy diversity requires preserving space for governance experimentation",
-                "flow": "different countries face different conditions, cultures, and development stages that make uniform international rules suboptimal → international authority imposing one-size-fits-all policy solutions ignores the variation that makes different approaches appropriate in different contexts → countries need the flexibility to experiment with different regulatory and social models to find what works in their specific situation → a world with strong international authority loses the governance diversity from which global policy learning emerges",
+                "title": "Countries need enough policy freedom to experiment with different approaches",
+                "flow": "countries differ in culture, economic conditions, and stages of development, so the same rule may not work equally well everywhere → uniform international rules can ignore these differences → national governments need space to test different regulatory and social models → strong international authority can reduce the variety of approaches from which countries learn",
                 "examples": [
                   {
                     "type": "vn",
@@ -3382,8 +3382,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Transparent decision-making reduces corruption by making misconduct harder to conceal",
-                "flow": "corruption flourishes in opacity — officials who know their decisions will be scrutinised make better ones → public procurement corruption — rigged contracts, inflated prices, undisclosed conflicts of interest — depends on concealing the decision-making process from oversight → transparency in tendering, contract awards, and expenditure makes corruption harder to hide and easier to investigate once suspected → countries with strong freedom of information laws and public expenditure reporting consistently score better on corruption perception indices",
+                "title": "Transparent decision-making can reduce corruption by making misconduct harder to hide",
+                "flow": "corruption is easier when officials expect little scrutiny → rigged contracts, inflated prices, and hidden conflicts of interest depend on keeping decisions away from public oversight → publishing tendering, contracts, and spending makes misconduct harder to conceal and easier to investigate → countries with strong freedom-of-information laws and public spending reporting consistently score better on corruption-perception indices",
                 "examples": [
                   {
                     "type": "vn",
@@ -3396,8 +3396,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public scrutiny improves decision quality by exposing weak reasoning and incorporating external knowledge",
-                "flow": "decisions made in secret may reflect the biases and interests of a small group without the corrective pressure of external challenge → transparent policy development — public consultations, published evidence bases, open deliberation — exposes weak reasoning and incorporates diverse perspectives and local knowledge → the quality of decisions is improved by the discipline of having to justify them publicly and respond to challenge → better decisions produce better outcomes for citizens",
+                "title": "Public scrutiny can improve decisions by exposing weak reasoning and adding outside knowledge",
+                "flow": "secret decisions may reflect the biases and interests of a small group without outside challenge → public consultations, published evidence, and open debate expose weak reasoning and add diverse perspectives and local knowledge → officials must justify their choices publicly and respond to criticism → stronger reasoning can produce better decisions for citizens",
                 "examples": [
                   {
                     "type": "vn",
@@ -3415,8 +3415,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — unlimited transparency has costs and limitations",
             "ideas": [
               {
-                "title": "Some government decisions require confidentiality to be effective",
-                "flow": "diplomatic negotiations require confidential space in which parties can explore positions without being publicly committed to them → national security decisions depend on information whose value would be destroyed by disclosure to adversaries → premature disclosure of policy options can produce market movements, public panic, or political interference that prevents optimal decision-making → blanket transparency requirements that cover all government communication reduce the quality of deliberation by chilling honest internal exchange",
+                "title": "Some government decisions need confidentiality to work effectively",
+                "flow": "diplomatic negotiations need private space where parties can explore positions without immediately committing to them publicly → national security decisions depend on information that would lose value if adversaries received it → premature disclosure can move markets, create panic, or trigger political pressure before options are fully assessed → requiring all internal communication to be public can discourage honest discussion and weaken decision-making",
                 "examples": [
                   {
                     "type": "vn",
@@ -3429,8 +3429,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Excessive transparency can produce performative decision-making that reduces genuine deliberative quality",
-                "flow": "when all deliberation is public, officials become reluctant to explore unconventional ideas or acknowledge uncertainty that could be taken out of context → decision-making shifts from honest deliberation to performance for external audiences → risk-averse officials default to conventional positions rather than genuine analysis to avoid criticism → formal transparency can be maintained while actual decision-making moves to informal channels beyond oversight",
+                "title": "Too much transparency can push officials toward public performance instead of honest discussion",
+                "flow": "when every discussion is public, officials may avoid unconventional ideas or admitting uncertainty because comments can be taken out of context → decision-making can shift from genuine analysis to performance for outside audiences → risk-averse officials may choose safe conventional positions simply to avoid criticism → formal transparency may then remain while real discussion moves into unofficial channels",
                 "examples": [
                   {
                     "type": "vn",
@@ -3465,8 +3465,8 @@ window.TOPIC_DATA = {
             "label": "Causes of declining public trust in government",
             "ideas": [
               {
-                "title": "High-profile failures, scandals, and broken promises have directly eroded the credibility of governments",
-                "flow": "trust in governments is built through consistent delivery of commitments and is destroyed by visible failures, dishonesty, and corruption → financial crises, intelligence failures, policy disasters, and corruption scandals expose the gap between government claims and reality → social media accelerates the spread of information about government failures and amplifies criticism that traditional media might have filtered → the cumulative exposure of incompetence and dishonesty across multiple countries and issues has produced a generalised credibility deficit",
+                "title": "Visible failures, scandals, and broken promises can erode trust in government",
+                "flow": "trust grows when governments keep commitments and falls when citizens see failure, dishonesty, or corruption → financial crises, policy failures, and corruption scandals expose gaps between official claims and actual performance → social media spreads information about these failures quickly and amplifies criticism → repeated exposure to failure across institutions can create broader distrust",
                 "examples": [
                   {
                     "type": "vn",
@@ -3479,8 +3479,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Growing inequality between elites and ordinary citizens creates the perception that governments serve the powerful",
-                "flow": "in many countries, the benefits of economic growth and government policy have flowed disproportionately to wealthy elites → ordinary citizens observe stagnant wages, rising living costs, and deteriorating public services while connected elites prosper → government policies — tax relief for corporations, bank bailouts, austerity for public services — appear to confirm that the system is designed in favour of concentrated interests → this perception, even when partially inaccurate, is rational given observable distributional outcomes",
+                "title": "Growing inequality can create the perception that governments serve powerful groups rather than ordinary citizens",
+                "flow": "in many countries, economic gains and policy benefits are seen as flowing disproportionately to wealthy elites → ordinary citizens may face stagnant wages, higher living costs, or weaker public services while well-connected groups prosper → policies such as corporate tax relief, bank bailouts, or public spending cuts can reinforce the impression that concentrated interests receive special treatment → this perception can persist even when the full causes are more complex",
                 "examples": [
                   {
                     "type": "vn",
@@ -3493,8 +3493,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Disinformation and media fragmentation have undermined shared factual foundations for political debate",
-                "flow": "the collapse of traditional gatekeeping media has allowed misinformation and conspiracy theories to circulate at scale on social media platforms → political actors deliberately spread false claims about government and public institutions to undermine trust for partisan advantage → citizens exposed to conflicting information and unable to distinguish reliable from unreliable sources become generalised sceptics of all institutional communication → algorithmic amplification prioritises outrage and conflict over accuracy, intensifying distrust as an emotional state",
+                "title": "Disinformation and fragmented media can destroy the shared facts needed for political debate",
+                "flow": "the decline of common news sources has allowed misinformation and conspiracy theories to circulate widely on social media → political actors may spread false claims about governments and public institutions for partisan advantage → citizens exposed to conflicting information can become sceptical of all institutional communication → algorithms that reward outrage and conflict can intensify this distrust",
                 "examples": [
                   {
                     "type": "vn",
@@ -3526,8 +3526,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Structural anti-corruption reforms reduce the observable bad behaviour that drives distrust",
-                "flow": "where distrust is driven by genuine corruption and misuse of power, institutional reforms that prevent and punish misconduct directly address the cause → strengthening independent oversight bodies — auditors, ombudsmen, anti-corruption agencies — creates credible constraints on government misconduct → transparent procurement, financial disclosure requirements, and conflict-of-interest rules reduce the concentrated benefits that government provides to connected elites → anti-corruption reforms signal genuine institutional change through changed incentives, not merely changed communication",
+                "title": "Anti-corruption reforms can reduce the misconduct that drives distrust",
+                "flow": "where distrust comes from genuine corruption or abuse of power, reforms that prevent and punish misconduct address the source directly → independent auditors, ombudsmen, and anti-corruption agencies create stronger checks on officials → transparent procurement, financial disclosure, and conflict-of-interest rules reduce opportunities for connected groups to receive special benefits → these reforms show institutional change through different incentives rather than better public relations",
                 "examples": [
                   {
                     "type": "vn",
@@ -3562,8 +3562,8 @@ window.TOPIC_DATA = {
             "label": "Agree — more opportunities for participation are needed",
             "ideas": [
               {
-                "title": "Democratic legitimacy in complex modern societies requires more than periodic elections",
-                "flow": "representative democracy was designed for simpler societies where elected representatives could credibly act for the full range of citizen interests → the complexity, scale, and speed of modern governance means that elected representatives make hundreds of consequential decisions between elections on which citizens have no direct input → elections aggregate preferences into crude binary choices that cannot capture the nuanced views of millions of citizens on specific issues → supplementing representative democracy with participatory mechanisms — citizens' assemblies, participatory budgeting, public consultations — makes governance more continuously responsive to citizen preferences",
+                "title": "Periodic elections cannot express citizens' preferences on every major policy decision",
+                "flow": "elections ask voters to choose between broad political programmes rather than decide each issue separately → governments make many important decisions between elections with little direct public input → carefully designed participatory mechanisms can reveal preferences on specific questions → participation can therefore complement rather than replace representative democracy",
                 "examples": [
                   {
                     "type": "vn",
@@ -3576,8 +3576,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Citizen deliberation produces better-informed decisions on complex value trade-offs than expert-only processes",
-                "flow": "complex policy questions — urban planning, healthcare resource allocation, environmental regulation — involve trade-offs between competing values that experts and politicians cannot resolve alone without normative input from those affected → citizens' assemblies and deliberative processes give representative groups of ordinary people access to expert evidence while deliberating on values and priorities → decisions emerging from informed citizen deliberation command higher public legitimacy than technocratic recommendations because they reflect democratic rather than expert authority → participatory processes also surface local knowledge and lived experience that expert analysis systematically misses",
+                "title": "Citizen deliberation can add public values and lived experience to expert analysis",
+                "flow": "many complex policies involve value judgments as well as technical evidence → experts can explain likely consequences but cannot decide alone which social priorities should carry the most weight → representative citizen groups can deliberate using expert evidence and lived experience → combining both sources can improve legitimacy and reveal concerns that technical analysis misses",
                 "examples": [
                   {
                     "type": "vn",
@@ -3590,8 +3590,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Participation builds civic capacity and investment in shared institutions that sustains democratic culture",
-                "flow": "citizens who participate in governance develop understanding of policy trade-offs, institutional constraints, and the perspectives of others → this civic education produces more realistic public expectations and reduces the gap between promises and perceived delivery that erodes trust → participatory processes build social connections across class, geography, and ethnicity — strengthening social cohesion → citizens who have actively shaped a decision have stronger ownership of its implementation and greater tolerance for its imperfections",
+                "title": "Participation can strengthen civic skills and citizens' commitment to shared institutions",
+                "flow": "citizens who take part in governance learn more about policy trade-offs, institutional limits, and other people's perspectives → this experience can create more realistic expectations and reduce misunderstandings that damage trust → participatory processes can connect people across class, geography, and ethnicity → citizens who help shape a decision may feel greater ownership of its implementation and tolerate its imperfections more readily",
                 "examples": [
                   {
                     "type": "vn",
@@ -3623,8 +3623,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Participation processes are easily captured by organised interests rather than representing the general public",
-                "flow": "open participation processes attract those with the time, resources, and motivation to engage — typically organised interest groups, ideological activists, and stakeholders with concentrated economic interests → ordinary citizens with diffuse interests and time constraints rarely participate in consultations and public hearings → the resulting 'public input' reflects the preferences of a vocal, organised minority rather than the general population → participation capture can produce outcomes that are less representative than decisions made by elected representatives subject to broad electoral accountability",
+                "title": "Open consultations can overrepresent organised interests unless participation is carefully designed",
+                "flow": "people with more time, resources, or strong organised interests are more likely to attend open consultations → ordinary citizens with weaker individual stakes may participate less → unstructured public input can therefore become unrepresentative → random selection and other representative designs can reduce this bias",
                 "examples": [
                   {
                     "type": "vn",

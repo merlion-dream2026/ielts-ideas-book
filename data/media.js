@@ -93,8 +93,8 @@ window.TOPIC_DATA = {
             "label": "Social media has made people more isolated",
             "ideas": [
               {
-                "title": "Replaces deep relationships with shallow, performative connections",
-                "flow": "quantity of connections prioritised over quality → interactions become performative → genuine intimacy and trust erode → large follower counts mask profound loneliness",
+                "title": "Replaces deep relationships with shallow, image-focused connections",
+                "flow": "quantity of connections prioritised over quality → interactions focus on managing impressions → genuine intimacy and trust erode → large follower counts mask profound loneliness",
                 "examples": [
                   {
                     "type": "vn",
@@ -107,7 +107,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "In-person social skills atrophy through disuse",
+                "title": "In-person social skills weaken through lack of practice",
                 "flow": "digital communication reduces need for face-to-face interaction → social skills (eye contact, reading body language, managing conflict) underdeveloped → real-world relationships become harder to form and sustain",
                 "examples": [
                   {
@@ -254,8 +254,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Unregulated platforms hold unprecedented, unaccountable power over democratic processes",
-                "flow": "algorithms control what billions see → political views shaped at scale → elections influenced → democratic outcomes distorted without any external accountability",
+                "title": "Opaque platform algorithms can shape political information without adequate public accountability",
+                "flow": "platform algorithms determine which political content receives visibility → users are exposed to different information depending on opaque ranking systems → these systems can influence what issues and viewpoints receive attention → transparency and independent oversight are justified because such influence occurs without normal editorial accountability",
                 "examples": [
                   {
                     "type": "vn",
@@ -268,8 +268,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Platform self-regulation has repeatedly and structurally failed",
-                "flow": "platforms promise self-regulation → profit from engagement overrides safety commitments → harmful content persists → only external accountability creates real behavioural change",
+                "title": "Platform self-regulation has repeatedly failed",
+                "flow": "platforms promise self-regulation → engagement-based profits override safety commitments → harmful content persists → only external accountability creates real behavioural change",
                 "examples": [
                   {
                     "type": "vn",
@@ -301,8 +301,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "National regulation is technically ineffective in a borderless global network",
-                "flow": "platforms operate across borders → national laws bypassed via VPNs and offshore servers → regulation creates compliance costs without achieving safety outcomes → citizens circumvent restrictions trivially",
+                "title": "National regulation can be weakened by cross-border platforms and easy circumvention",
+                "flow": "platforms operate across multiple jurisdictions → users and companies can shift activity to services or servers outside one country's rules → enforcement becomes incomplete and more expensive → national regulation works best when combined with international coordination and platform-level compliance",
                 "examples": [
                   {
                     "type": "vn",
@@ -316,7 +316,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Heavy regulation entrenches dominant platforms and stifles competition",
-                "flow": "compliance costs favour large established platforms → startups cannot afford them → regulatory moats created → less competition → worse outcomes for users long-term",
+                "flow": "compliance costs favour large established platforms → startups cannot afford them → barriers created by regulation → less competition → worse outcomes for users long-term",
                 "examples": [
                   {
                     "type": "vn",
@@ -385,7 +385,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Social media coordinates and increases in-person contact",
-                "flow": "social media used to organise meetups and events → in-person gatherings planned more easily → physical socialising more frequent and better coordinated → digital tools scaffold rather than replace real contact",
+                "flow": "social media used to organise meetups and events → in-person gatherings planned more easily → physical socialising more frequent and better coordinated → digital tools support rather than replace real contact",
                 "examples": [
                   {
                     "type": "vn",
@@ -412,8 +412,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Measured evidence shows in-person social time has not collapsed",
-                "flow": "time-use studies show stable or increasing in-person social time in many demographics → 'replacement' narrative driven by perception, not data → social media adds to, rather than subtracts from, physical social life",
+                "title": "Social media can complement rather than replace in-person social contact",
+                "flow": "people use social media to maintain contact between meetings → digital tools make it easier to organise gatherings and stay connected → online communication can support relationships that also continue offline → the effect depends on how social media is used rather than simple substitution",
                 "examples": [
                   {
                     "type": "vn",
@@ -435,7 +435,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Platforms are deliberately engineered for compulsive use",
-                "flow": "infinite scroll, notifications, and variable reward mechanics borrowed from gambling psychology → compulsive checking triggered → time spent far exceeds users' intentions → addiction by design",
+                "flow": "infinite scroll, notifications, and unpredictable reward mechanisms similar to those used in gambling → compulsive checking triggered → time spent far exceeds users' intentions → compulsive use encouraged by design",
                 "examples": [
                   {
                     "type": "vn",
@@ -531,7 +531,7 @@ window.TOPIC_DATA = {
             "label": "Democratised information sharing is a positive development",
             "ideas": [
               {
-                "title": "Citizens can hold power accountable, bypassing censored or captured media",
+                "title": "Citizens can hold power accountable, bypassing censored or media controlled by powerful interests",
                 "flow": "anyone can publish and distribute → gatekeepers bypassed → wrongdoing exposed that controlled media suppresses → democratic accountability strengthened from below",
                 "examples": [
                   {
@@ -773,8 +773,8 @@ window.TOPIC_DATA = {
             "label": "Advertising manipulates consumers into unnecessary purchases",
             "ideas": [
               {
-                "title": "Advertising engineers desire through emotional rather than rational appeal",
-                "flow": "advertisers link products to aspirational identities → consumers buy to attain the identity, not the product → purchases driven by manufactured desire → genuine needs irrelevant to the transaction",
+                "title": "Advertising creates desire through emotional rather than rational appeal",
+                "flow": "advertisers link products to aspirational identities → consumers buy to attain the identity, not the product → purchases driven by created desire → genuine needs irrelevant to the transaction",
                 "examples": [
                   {
                     "type": "vn",
@@ -898,8 +898,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sweden's 30-year ban demonstrates restrictions are both enforceable and effective",
-                "flow": "Sweden banned TV advertising to under-12s in 1991 → children protected from commercial manipulation for three decades → no evidence of economic harm to media or advertising sector → model viable for wider adoption",
+                "title": "Restrictions can reduce children's exposure to commercial persuasion",
+                "flow": "young children have limited ability to recognise persuasive intent → restricting child-targeted advertising reduces direct commercial exposure → fewer marketing messages shape preferences during early development → regulation can protect children while media-literacy skills are still developing",
                 "examples": [
                   {
                     "type": "vn",
@@ -1042,8 +1042,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Global advertising homogenises culture and erodes local identity",
-                "flow": "global advertising promotes uniform consumer culture → local products, traditions, and aesthetics displaced → cultural diversity reduced → communities lose distinctiveness and heritage",
+                "title": "Global advertising makes cultures more uniform and erodes local identity",
+                "flow": "global advertising promotes similar consumer culture across countries → local products, traditions, and aesthetics displaced → cultural diversity reduced → communities lose distinctiveness and heritage",
                 "examples": [
                   {
                     "type": "vn",
@@ -1161,8 +1161,8 @@ window.TOPIC_DATA = {
             "label": "Heavy advertising investment is a positive development",
             "ideas": [
               {
-                "title": "Large advertising spend signals product quality and creates market accountability",
-                "flow": "companies investing heavily in advertising stake their reputation on their products → strong advertising creates long-term accountability → companies with poor products cannot sustain expensive campaigns → market selects for quality",
+                "title": "Large advertising campaigns can increase product visibility and strengthen brand accountability",
+                "flow": "large campaigns make a product widely visible → more consumers try and publicly evaluate it → poor performance generates reputational damage at greater scale → firms with highly visible brands face stronger incentives to protect long-term customer trust",
                 "examples": [
                   {
                     "type": "vn",
@@ -1236,8 +1236,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Advertising resources would generate far greater social value invested elsewhere",
-                "flow": "global advertising spend exceeds $1 trillion annually → deployed to persuade rather than produce → enormous opportunity cost → equivalent investment in R&D, education, or healthcare would benefit society far more",
+                "title": "Excessive advertising can divert business resources from product improvement",
+                "flow": "large advertising budgets compete with spending on research, design, and customer service → firms may invest more in persuasion than in improving the product itself → consumers pay for marketing through product prices → shifting some spending toward quality improvement can create more direct consumer value",
                 "examples": [
                   {
                     "type": "vn",
@@ -1272,8 +1272,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Advertising builds brand equity that sustains long-term competitive advantage",
-                "flow": "sustained advertising investment builds brand associations in consumer memory → brand preference created → premium pricing justified → competitive moat compounds over time",
+                "title": "Advertising builds brand value that sustains long-term competitive advantage",
+                "flow": "sustained advertising investment builds brand associations in consumer memory → brand preference created → premium pricing justified → competitive advantage strengthens over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -1287,7 +1287,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Digital advertising enables precise targeting that no alternative approach can match",
-                "flow": "behavioural data enables targeting of specific audiences → conversion rates exceed non-targeted methods → advertising spend increasingly efficient → precision impossible through other promotional channels",
+                "flow": "behavioural data enables targeting of specific audiences → purchase rates exceed those from non-targeted methods → advertising spend increasingly efficient → precision impossible through other promotional channels",
                 "examples": [
                   {
                     "type": "vn",
@@ -1305,8 +1305,8 @@ window.TOPIC_DATA = {
             "label": "Other methods are equally or more effective than advertising",
             "ideas": [
               {
-                "title": "Word-of-mouth and peer recommendations consistently outperform advertising in conversion",
-                "flow": "consumers trust peer recommendations far more than advertising → word-of-mouth generates higher purchase intent → referral programmes outperform equivalent advertising spend → authenticity beats broadcast at the point of decision",
+                "title": "Peer recommendations can be more persuasive than advertising because they are trusted",
+                "flow": "consumers often view friends and existing customers as less commercially motivated than advertisers → recommendations therefore carry greater credibility → credible recommendations reduce uncertainty before purchase → referral and review systems can influence decisions strongly without conventional advertising",
                 "examples": [
                   {
                     "type": "vn",
@@ -1501,7 +1501,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Objective reporting enables citizens to form independent political judgements",
-                "flow": "factual, unbiased reporting → citizens receive accurate information → make autonomous decisions → democracy functions as intended → power held accountable by informed voters",
+                "flow": "factual, unbiased reporting → citizens receive accurate information → make independent decisions → democracy functions as intended → power held accountable by informed voters",
                 "examples": [
                   {
                     "type": "vn",
@@ -1562,7 +1562,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Opinion journalism exposes truths that 'balanced' reporting systematically suppresses",
-                "flow": "reporters who take positions challenge authority more effectively → both-sidesing of clear ethical wrongs creates false equivalence → investigative accountability journalism requires editorial commitment to pursue the truth",
+                "flow": "reporters who take positions challenge authority more effectively → giving equal weight to clearly unequal evidence can create false equivalence → investigative accountability journalism requires editorial commitment to pursue the truth",
                 "examples": [
                   {
                     "type": "vn",
@@ -1672,7 +1672,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Mandatory ownership transparency allows audiences to calibrate their reading",
+                "title": "Mandatory ownership transparency allows audiences to judge sources more carefully",
                 "flow": "required disclosure of ownership, funding sources, and advertiser relationships → audiences can assess potential conflicts of interest → market pressure rewards transparent outlets → bias reduced through accountability",
                 "examples": [
                   {
@@ -1722,7 +1722,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Governments and political actors deliberately weaponise misinformation",
+                "title": "Governments and political actors deliberately use misinformation as a political tool",
                 "flow": "political movements commission false narratives → distributed through fake accounts and compromised media → public opinion shaped before truth established → democratic discourse polluted at scale",
                 "examples": [
                   {
@@ -1741,7 +1741,7 @@ window.TOPIC_DATA = {
             "label": "Solutions to fake news",
             "ideas": [
               {
-                "title": "Platform accountability through regulation aligns incentives with accuracy",
+                "title": "Platform accountability through regulation gives platforms financial reasons to prioritise accuracy",
                 "flow": "legal liability for viral misinformation → platforms financially motivated to reduce false content → algorithmic amplification of false stories reduced → accurate content relatively advantaged",
                 "examples": [
                   {
@@ -1769,7 +1769,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Population-wide digital literacy builds structural resistance to misinformation",
+                "title": "Population-wide digital literacy builds broad resistance to misinformation",
                 "flow": "citizens who understand how misinformation is created and distributed → more sceptical of unverified claims → share less false content → misinformation ecosystem shrinks from the demand side",
                 "examples": [
                   {
@@ -1819,8 +1819,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Printed newspapers carry an unjustifiable environmental cost",
-                "flow": "print requires paper, ink, printing machinery, and physical distribution → significant carbon footprint per reader reached → digital delivers equivalent content at a fraction of the environmental cost → sustainability argument against print is decisive",
+                "title": "Digital distribution avoids many material and transport costs associated with print",
+                "flow": "printed newspapers require paper, ink, printing, and physical delivery → digital distribution avoids most of these material inputs → environmental costs associated with producing and transporting each physical copy are reduced → this gives digital news an important sustainability advantage",
                 "examples": [
                   {
                     "type": "vn",
@@ -1838,7 +1838,7 @@ window.TOPIC_DATA = {
             "label": "Newspapers remain valuable and necessary",
             "ideas": [
               {
-                "title": "Print supports deeper reading and higher-quality journalistic engagement",
+                "title": "Print supports deeper reading and deeper engagement with journalism",
                 "flow": "physical newspapers encourage sustained, linear reading → deeper comprehension than skimming digital feeds → long-form investigative journalism suited to print → quality of civic engagement maintained at a level digital cannot replicate",
                 "examples": [
                   {
@@ -1902,8 +1902,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Positive coverage motivates prosocial behaviour and constructive public mood",
-                "flow": "coverage of successful community initiatives and human kindness → audiences inspired → prosocial behaviour increases → solutions-focused journalism creates constructive momentum rather than paralysis",
+                "title": "Positive coverage motivates socially constructive behaviour and constructive public mood",
+                "flow": "coverage of successful community initiatives and human kindness → audiences inspired → socially constructive behaviour increases → solutions-focused journalism creates constructive momentum rather than paralysis",
                 "examples": [
                   {
                     "type": "vn",
@@ -2013,8 +2013,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Gratuitously graphic content traumatises audiences without proportionate informational value",
-                "flow": "graphic violent imagery causes genuine psychological harm → when informational value is low, harm-to-benefit ratio is negative → editorial restrictions on gratuitous content justified on basic harm-reduction grounds",
+                "title": "Graphic content can traumatise audiences when it adds little informational value",
+                "flow": "graphic violent imagery causes genuine psychological harm → when informational value is low, harm outweighs informational benefit → editorial restrictions on unnecessarily graphic content justified on basic harm-reduction grounds",
                 "examples": [
                   {
                     "type": "vn",
@@ -2032,8 +2032,8 @@ window.TOPIC_DATA = {
             "label": "Restricting journalism is fundamentally dangerous",
             "ideas": [
               {
-                "title": "Restrictions on 'certain types' of news inevitably expand to cover all inconvenient reporting",
-                "flow": "initial restriction justified on narrow grounds → scope expands under political pressure → 'public interest' becomes cover for self-interest → all critical journalism eventually at risk → democracy dies without genuinely free press",
+                "title": "Vague news restrictions can expand beyond their original purpose",
+                "flow": "a narrowly defined restriction gives authorities power over publication → ambiguous terms such as 'public interest' or 'security' can later be interpreted more broadly → politically inconvenient reporting may then face pressure → strong legal limits and independent review are necessary to prevent overreach",
                 "examples": [
                   {
                     "type": "vn",
@@ -2299,7 +2299,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology increases the frequency and emotional texture of family connection",
+                "title": "Technology increases the frequency and emotional richness of family connection",
                 "flow": "messaging makes casual daily contact effortless → families share small moments previously lost to distance → cumulative contact deepens bonds → technology augments rather than replaces in-person closeness",
                 "examples": [
                   {
@@ -2335,7 +2335,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology democratises communication access for populations previously excluded",
+                "title": "Technology expands communication access for previously excluded populations",
                 "flow": "smartphones and internet give voice to communities with limited infrastructure → information gaps closed → economic and social participation extended → global inequality in communication access reduced",
                 "examples": [
                   {
@@ -2349,7 +2349,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology-mediated communication has enabled entirely new forms of human collaboration",
+                "title": "Digital communication has enabled entirely new forms of human collaboration",
                 "flow": "digital tools enable global coordination at scale → teams collaborate in real time across continents → new organisations, movements, and knowledge communities emerge → collective human capacity expanded beyond previous limits",
                 "examples": [
                   {
@@ -2465,8 +2465,8 @@ window.TOPIC_DATA = {
             "label": "Disadvantages of internet-changed interaction are significant",
             "ideas": [
               {
-                "title": "Internet has created the most powerful surveillance and manipulation infrastructure in history",
-                "flow": "internet enables mass collection of personal data → governments and corporations build detailed behavioural profiles → behaviour influenced at scale → autonomy undermined → power concentration accelerated rather than dispersed",
+                "title": "Internet has created powerful surveillance and manipulation systems",
+                "flow": "internet enables mass collection of personal data → governments and corporations build detailed behavioural profiles → behaviour influenced at scale → autonomy undermined → power becomes more concentrated rather than more widely distributed",
                 "examples": [
                   {
                     "type": "vn",
@@ -2479,8 +2479,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Internet addiction causes measurable harm to mental health and productivity at global scale",
-                "flow": "platforms engineered for compulsive use → addiction behaviours develop across billions → mental health deteriorates → productivity declines → harms distributed simultaneously across an unprecedented share of humanity",
+                "title": "Compulsive internet use can harm mental health and productivity",
+                "flow": "some digital services are designed to encourage prolonged engagement → vulnerable users may develop compulsive use patterns → excessive use can displace sleep, work, exercise, and face-to-face interaction → these disruptions can damage wellbeing and productivity when use becomes difficult to control",
                 "examples": [
                   {
                     "type": "vn",
@@ -2543,8 +2543,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Asynchronous communication allows more considered, accurate exchanges",
-                "flow": "asynchronous messaging allows time for thought before response → communication becomes more deliberate → documentation created → misunderstandings reduced → professional communication quality improves in many contexts",
+                "title": "Delayed-response communication allows more considered, accurate exchanges",
+                "flow": "messages that do not require an immediate reply allows time for thought before response → communication becomes more deliberate → documentation created → misunderstandings reduced → professional communication quality improves in many contexts",
                 "examples": [
                   {
                     "type": "vn",
@@ -2576,8 +2576,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Text-based communication removes the majority of human communicative information",
-                "flow": "human communication is 70–80% non-verbal → text removes tone, gesture, and facial expression → meaning systematically distorted → emotional misunderstanding increases → relationships damaged by structurally impoverished exchange",
+                "title": "Text-based communication removes important non-verbal cues",
+                "flow": "text omits tone of voice, facial expression, gesture, and immediate feedback → emotional meaning can become less clear → ambiguity is easier to misinterpret in sensitive exchanges → richer channels may therefore be preferable when emotion and relationship management matter",
                 "examples": [
                   {
                     "type": "vn",
@@ -2590,8 +2590,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology enables avoidance of difficult communication that builds relational capacity",
-                "flow": "digital tools lower activation energy for avoidance → hard conversations never had → emotional skills underdeveloped → long-term relational and conflict-resolution capacity diminished → convenience trading away growth",
+                "title": "Technology enables avoidance of difficult communication that builds relationship skills",
+                "flow": "digital tools makes avoidance easier → hard conversations never had → emotional skills underdeveloped → long-term relationship and conflict-resolution skills diminished → convenience trading away growth",
                 "examples": [
                   {
                     "type": "vn",
@@ -2659,8 +2659,8 @@ window.TOPIC_DATA = {
             "label": "Concerns about mobile communication replacing traditional forms",
             "ideas": [
               {
-                "title": "Loss of formal communication registers impoverishes language and professional capability",
-                "flow": "messaging abbreviation and informal conventions displace formal writing → literary and rhetorical traditions weakened → expressive range narrows → capacity for formal, nuanced written communication declines in younger generations",
+                "title": "Loss of formal communication styles impoverishes language and professional capability",
+                "flow": "messaging abbreviation and informal conventions displace formal writing → literary and rhetorical traditions weakened → range of expression narrows → capacity for formal, nuanced written communication declines in younger generations",
                 "examples": [
                   {
                     "type": "vn",
@@ -2673,8 +2673,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Mobile messaging creates availability expectations that colonise personal time",
-                "flow": "messaging apps create implicit 24-hour availability → failure to respond quickly interpreted negatively → personal and family time colonised by communication obligations → autonomy over attention systematically eroded",
+                "title": "Mobile messaging creates availability expectations that intrude on personal time",
+                "flow": "messaging apps create implicit 24-hour availability → failure to respond quickly interpreted negatively → personal and family time increasingly occupied by communication obligations → autonomy over attention systematically eroded",
                 "examples": [
                   {
                     "type": "vn",
@@ -2902,7 +2902,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Family, education, and peer influence rival or exceed media's socialising power",
+                "title": "Family, education, and peer influence rival or exceed media's influence on social development",
                 "flow": "media influence operates alongside family upbringing, religious formation, and peer norms → media is one of many competing influences → its effect is mediated and often outweighed by direct personal experience → attributing behaviour to media alone overstates its power",
                 "examples": [
                   {
@@ -3021,7 +3021,7 @@ window.TOPIC_DATA = {
             "label": "Celebrity focus displacing important issues is a negative development",
             "ideas": [
               {
-                "title": "Celebrity coverage crowds out journalism about consequential public affairs",
+                "title": "Celebrity coverage crowds out journalism about important public affairs",
                 "flow": "editorial space and audience attention are finite → celebrity coverage displaces political and social journalism → citizens less informed about issues affecting their lives → democratic participation declines as civic knowledge falls",
                 "examples": [
                   {
@@ -3049,7 +3049,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Celebrity gossip distracts public attention from systemic problems requiring collective action",
+                "title": "Celebrity gossip distracts public attention from major social problems requiring collective action",
                 "flow": "celebrity scandal dominates news cycles → important political and social developments pass unnoticed → collective outrage deployed on trivial matters → systemic problems unaddressed because public attention has been captured elsewhere",
                 "examples": [
                   {
@@ -3132,8 +3132,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Repetition and saturation produce opinion change even in initially resistant audiences",
-                "flow": "repeated exposure to consistent messages → even resistant audiences shift over time → volume of consistent messaging overrides individual critical resistance → sustained campaigns reliably change opinion at population level",
+                "title": "Repeated media messages can reinforce familiar frames and gradually influence attitudes",
+                "flow": "people repeatedly encounter the same framing of an issue → that interpretation becomes more familiar and easier to recall → repeated familiarity can make the frame more influential in later judgments → sustained media exposure may therefore shape attitudes even when a single message has little effect",
                 "examples": [
                   {
                     "type": "vn",
@@ -3165,7 +3165,7 @@ window.TOPIC_DATA = {
             "label": "Media's influence on public opinion is constrained and contested",
             "ideas": [
               {
-                "title": "People seek confirming information rather than updating opinions through media",
+                "title": "People seek confirming information rather than changing their views through media",
                 "flow": "confirmation bias leads audiences to select validating media → consumption reinforces rather than shapes opinion → attitude change through media is rare and typically small → media often reflects rather than creates public opinion",
                 "examples": [
                   {
@@ -3229,7 +3229,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Media can reinforce prosocial norms that formal institutions cannot effectively reach",
+                "title": "Media can reinforce positive social norms that formal institutions cannot effectively reach",
                 "flow": "laws enforce behaviour but cannot shape values → media reaches citizens in private life → moral values modelled through stories → behaviour changes through value formation, not legal compliance → media uniquely positioned for this function",
                 "examples": [
                   {
@@ -3243,8 +3243,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Unconstrained immoral content causes measurable harm that media has a duty to prevent",
-                "flow": "media normalising violence, misogyny, or discrimination → social acceptance of these behaviours increases → real-world harm follows → media cannot claim moral neutrality when content choices have documented social consequences",
+                "title": "Harmful content can normalise damaging behaviour that media has a duty to consider",
+                "flow": "media repeatedly presenting violence, misogyny, or discrimination as normal → social acceptance of these behaviours increases → real-world harm follows → media cannot claim moral neutrality when content choices have documented social consequences",
                 "examples": [
                   {
                     "type": "vn",
@@ -3290,8 +3290,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Authentic storytelling is more effective moral education than didactic prescription",
-                "flow": "audiences reject obvious moralising → heavy-handed moral content ignored or counter-productive → authentic narratives exploring moral complexity engage audiences genuinely → moral responsibility better discharged through quality than prescription",
+                "title": "Authentic storytelling is more effective moral education than direct moral instruction",
+                "flow": "audiences reject obvious moralising → overly direct moral content ignored or counter-productive → authentic narratives exploring moral complexity engage audiences genuinely → moral responsibility better discharged through thoughtful storytelling than direct instruction",
                 "examples": [
                   {
                     "type": "vn",
@@ -3455,7 +3455,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children require structural protection from online content that adults can navigate",
+                "title": "Children require stronger protection from online content that adults can navigate",
                 "flow": "children cannot critically evaluate harmful content → exposure to violence, exploitation, and extremism causes developmental harm → government duty of protection justifies regulatory intervention → child welfare overrides unlimited adult free speech in this specific sphere",
                 "examples": [
                   {
@@ -3474,8 +3474,8 @@ window.TOPIC_DATA = {
             "label": "Government control of platform information is dangerous",
             "ideas": [
               {
-                "title": "Government-controlled information is the definition of propaganda",
-                "flow": "government controls information → controls political reality → opposition voices silenced → citizens receive only state-approved perspectives → democratic deliberation becomes impossible → authoritarianism institutionalised through information control",
+                "title": "Direct government control of information creates a serious propaganda risk",
+                "flow": "government controls which political information reaches the public → criticism and competing viewpoints can be restricted → citizens receive a narrower account of public affairs → democratic scrutiny weakens when the institution being scrutinised also controls the information environment",
                 "examples": [
                   {
                     "type": "vn",
@@ -3488,8 +3488,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Governments are uniquely self-interested in controlling political information",
-                "flow": "governments face criticism online → controlling platforms allows suppression of political opponents under 'safety' justification → conflict of interest is structural → no self-regulating government will stop at genuine public safety",
+                "title": "Governments face a structural conflict of interest when regulating political information",
+                "flow": "governments are themselves subjects of online criticism → content-control powers can be used to reduce that criticism as well as genuine harm → officials therefore have incentives that may conflict with neutral enforcement → independent judicial or regulatory oversight is needed to separate safety rules from political self-protection",
                 "examples": [
                   {
                     "type": "vn",
@@ -3538,8 +3538,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Governments and platforms consistently abuse content restrictions to silence legitimate dissent",
-                "flow": "every content restriction creates a tool for abuse → history shows restrictions always expand beyond stated purpose → trust in authorities to use censorship responsibly is not empirically justified → better to protect broad freedom than create abusable powers",
+                "title": "Broad content restrictions create recurring risks of suppressing legitimate dissent",
+                "flow": "content rules require authorities or platforms to define unacceptable speech → broad or vague definitions can capture lawful criticism and minority viewpoints → enforcement errors are especially costly in political debate → narrow rules, due process, and appeal mechanisms are therefore essential to protect legitimate expression",
                 "examples": [
                   {
                     "type": "vn",
@@ -3668,8 +3668,8 @@ window.TOPIC_DATA = {
             "label": "Censorship threatens freedom and democratic society",
             "ideas": [
               {
-                "title": "Censorship invariably expands beyond its stated purpose to suppress political opposition",
-                "flow": "initial justification on narrow grounds → powers expand incrementally → critics silenced under broadened definitions → no mechanism stops expansion → democratic accountability eventually destroyed by the very tools deployed to protect it",
+                "title": "Censorship powers can expand when political incentives favour broader control",
+                "flow": "authorities gain an initial power to restrict narrowly defined content → political pressure may encourage broader interpretation of that power → critics and inconvenient reporting become increasingly vulnerable → constitutional limits, independent courts, and transparent review are needed to prevent expansion",
                 "examples": [
                   {
                     "type": "vn",
@@ -3746,8 +3746,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Platform self-regulation has failed consistently and structurally to control harmful content",
-                "flow": "voluntary policies promise removal → harmful content persists at scale → financial incentives override safety commitments → externally imposed controls necessary to override the commercial logic that produces systematic under-enforcement",
+                "title": "Platform self-regulation has failed consistently to control harmful content",
+                "flow": "voluntary policies promise removal → harmful content persists at scale → financial incentives override safety commitments → externally imposed controls necessary to override the commercial incentives that lead to weak enforcement",
                 "examples": [
                   {
                     "type": "vn",
@@ -3765,8 +3765,8 @@ window.TOPIC_DATA = {
             "label": "Strict internet content control threatens freedom of expression",
             "ideas": [
               {
-                "title": "'Harmful content' is inherently subjective and inevitably defined to include legitimate speech",
-                "flow": "defining 'harmful' requires value judgements → whoever has authority to define it controls the information environment → legitimate dissent, minority viewpoints, and challenging ideas classified as harmful → censorship disguised as safety",
+                "title": "Ambiguous definitions of harmful content create a risk of suppressing legitimate speech",
+                "flow": "harm categories require judgment about context and severity → vague rules encourage platforms or regulators to remove borderline material defensively → lawful criticism and minority viewpoints may be caught alongside genuinely harmful content → precise definitions and appeal rights are needed to limit over-removal",
                 "examples": [
                   {
                     "type": "vn",
@@ -3793,8 +3793,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technical controls are ineffective — media literacy is the solution that actually works",
-                "flow": "technical restrictions → motivated users circumvent via VPNs → harmful content accessible despite controls → resources wasted on ineffective technical solutions → media literacy, which changes behaviour rather than routing, persistently underfunded",
+                "title": "Technical controls alone cannot solve harmful-content problems",
+                "flow": "some users can circumvent technical restrictions and harmful material can migrate across platforms → blocking tools therefore reduce access without eliminating it → media literacy helps users evaluate material that controls do not catch → combining proportionate safeguards with education is more robust than relying on technical restrictions alone",
                 "examples": [
                   {
                     "type": "vn",
@@ -3958,7 +3958,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Online media democratises who can participate in public discourse",
+                "title": "Online media broadens participation in public discourse",
                 "flow": "barrier to publishing reduced to near-zero → diverse voices enter public discourse → perspectives previously excluded by editorial gatekeeping reach audiences → democratic pluralism of information enriched beyond what broadcast models allowed",
                 "examples": [
                   {
@@ -4027,7 +4027,7 @@ window.TOPIC_DATA = {
             "label": "Printed newspapers will disappear",
             "ideas": [
               {
-                "title": "Structural audience decline makes print commercially unviable",
+                "title": "Long-term audience decline makes print commercially unviable",
                 "flow": "younger generations show near-zero print readership → audiences ageing and declining → advertising revenue migrates to digital → print economics collapse → newspapers converting to digital-only or closing entirely",
                 "examples": [
                   {
@@ -4055,8 +4055,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Environmental and ESG pressures accelerate the transition away from print",
-                "flow": "environmental sustainability becomes corporate and regulatory priority → paper-based media increasingly difficult to justify → ESG commitments push media companies toward digital → climate pressure compounds economic pressure to accelerate print's decline",
+                "title": "Environmental and corporate sustainability pressures accelerate the transition away from print",
+                "flow": "environmental sustainability becomes corporate and regulatory priority → paper-based media increasingly difficult to justify → corporate sustainability commitments push media companies toward digital → climate pressure compounds economic pressure to accelerate print's decline",
                 "examples": [
                   {
                     "type": "vn",
@@ -4102,7 +4102,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Print serves functions digital cannot — offline access, community identity, archival permanence",
+                "title": "Print serves functions digital cannot — offline access, community identity, long-term physical records",
                 "flow": "not all readers have reliable internet → print serves connectivity-limited communities → physical permanence supports legal and archival functions → local papers anchor community identity → these niches sustain print where digital cannot substitute",
                 "examples": [
                   {
@@ -4138,8 +4138,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Online diversity of sources produces more complete and accurate information collectively",
-                "flow": "online hosts thousands of competing outlets → different perspectives checked against each other → monopoly on narrative impossible → collective intelligence of multiple independent sources more reliable than any single editorial team's version",
+                "title": "Multiple independent online sources can improve verification when users compare them",
+                "flow": "online readers can consult several independent reports on the same event → differences and inconsistencies become visible → claims can be checked against additional evidence → source diversity can improve accuracy when users actively compare rather than simply consume more content",
                 "examples": [
                   {
                     "type": "vn",
@@ -4152,8 +4152,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Traditional media's concentrated ownership created systematic bias that online diversity corrects",
-                "flow": "print owned by commercial interests → systematic bias toward owners' perspectives → online diversity of sources counteracts this → no single commercial interest controls online information → structural reliability advantage for diverse online ecosystem",
+                "title": "Online source diversity can expose biases that concentrated traditional ownership may hide",
+                "flow": "different online outlets can report the same issue from competing perspectives → users can compare coverage rather than depend on one owner or editorial line → conflicting accounts make some omissions and biases easier to detect → diversity can therefore reduce dependence on any single media organisation",
                 "examples": [
                   {
                     "type": "vn",
@@ -4200,7 +4200,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Zero publishing barriers create enormous volumes of unreliable content online",
-                "flow": "anyone can publish online → unqualified, biased, or malicious actors publish freely → audiences struggle to distinguish reliable from unreliable → signal-to-noise ratio worse than traditional media → reliability reduced by democratisation of publishing",
+                "flow": "anyone can publish online → unqualified, biased, or malicious actors publish freely → audiences struggle to distinguish reliable from unreliable → the proportion of reliable to unreliable information is worse than in traditional media → reliability reduced by democratisation of publishing",
                 "examples": [
                   {
                     "type": "vn",
@@ -4268,8 +4268,8 @@ window.TOPIC_DATA = {
             "label": "Preference for video over written content is a negative development",
             "ideas": [
               {
-                "title": "Video consumption trains passive reception rather than active critical thinking",
-                "flow": "reading requires active construction of meaning → video provides meaning pre-packaged → critical engagement skills not exercised → capacity for analytical reading and independent interpretation declines → complex written argument becomes inaccessible",
+                "title": "Heavy reliance on passive video can reduce practice in analytical reading",
+                "flow": "watching pre-structured video requires less decoding of written argument than sustained reading → if video repeatedly replaces long-form reading, people practise complex textual analysis less often → weaker practice can reduce comfort with dense written material → balanced media use preserves the strengths of both formats",
                 "examples": [
                   {
                     "type": "vn",
@@ -4430,7 +4430,7 @@ window.TOPIC_DATA = {
             "label": "Problems caused by information overload",
             "ideas": [
               {
-                "title": "Information overload impairs decision-making and cognitive functioning",
+                "title": "Information overload impairs decision-making and clear thinking",
                 "flow": "volume of information exceeds cognitive processing capacity → analysis paralysis develops → poor decisions made under information burden → mental clarity and effective judgment deteriorate",
                 "examples": [
                   {
@@ -4458,8 +4458,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Information overload allows misinformation to thrive by making verification impossible",
-                "flow": "overwhelming volume makes individual verification impossible → false content indistinguishable from true at scale → audiences resort to heuristics (shares, familiarity) → misinformation exploits exactly these shortcuts → informed citizenship structurally undermined",
+                "title": "Information overload makes verification harder and encourages mental shortcuts",
+                "flow": "information volume exceeds the time available for checking every claim → users verify fewer items individually → they rely more on shortcuts such as familiarity, popularity, or trusted sources → misinformation can exploit these shortcuts → overload therefore increases vulnerability even when verification remains possible",
                 "examples": [
                   {
                     "type": "vn",
@@ -4477,8 +4477,8 @@ window.TOPIC_DATA = {
             "label": "Solutions to information overload",
             "ideas": [
               {
-                "title": "Digital literacy education builds critical evaluation skills that work at any information volume",
-                "flow": "teach source evaluation, bias detection, and verification techniques → individuals navigate overload confidently → quality of personal information consumption improves → population-wide resistance to misinformation built → structural long-term solution",
+                "title": "Digital literacy helps people manage large information volumes more effectively",
+                "flow": "people learn source evaluation, bias detection, and verification techniques → they prioritise credible sources and ignore low-value material more efficiently → personal information quality improves despite high volume → education reduces the harm of overload without claiming to remove cognitive limits",
                 "examples": [
                   {
                     "type": "vn",
@@ -4506,7 +4506,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Institutional quality standards reduce low-quality information at source",
-                "flow": "regulatory accuracy and labelling requirements → low-quality content reduced at production stage → signal-to-noise ratio improves without restricting individual freedom → overload addressed through supply-side quality, not demand-side restriction",
+                "flow": "regulatory accuracy and labelling requirements → low-quality content reduced at production stage → the proportion of useful, reliable information improves without restricting individual freedom → overload addressed through quality at the source, not demand-side restriction",
                 "examples": [
                   {
                     "type": "vn",
@@ -4555,8 +4555,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Accurate information stripped of context misleads without containing any falsehood",
-                "flow": "true facts removed from context → different meaning created → false understanding formed from technically correct information → impossible to fact-check → contextual misinformation harder to identify and correct than outright fabrication",
+                "title": "True information presented without context can be harder to detect as misleading",
+                "flow": "accurate facts are selectively removed from their wider context → audiences draw conclusions the full evidence would not support → simple true-or-false checks may miss the problem → effective verification must examine framing and omitted context as well as factual accuracy",
                 "examples": [
                   {
                     "type": "vn",
@@ -4602,8 +4602,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Mandatory transparency about source funding and ownership helps audiences calibrate trust",
-                "flow": "required disclosure of funding, ownership, and editorial policies → audiences can assess potential conflicts of interest → trust calibrated to actual source credibility → information ecosystem becomes more navigable → audiences empowered rather than reliant on central arbiters of truth",
+                "title": "Mandatory transparency about source funding and ownership helps audiences judge trust more accurately",
+                "flow": "required disclosure of funding, ownership, and editorial policies → audiences can assess potential conflicts of interest → trust adjusted to the source's actual credibility → information ecosystem becomes more navigable → audiences empowered rather than reliant on central arbiters of truth",
                 "examples": [
                   {
                     "type": "vn",
@@ -4652,8 +4652,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Algorithmic personalisation creates confident ignorance from narrow information fragments",
-                "flow": "algorithms serve content matching existing beliefs → users receive reinforcing rather than broadening information → illusion of comprehensive understanding formed from a narrow feed → overconfidence worse than acknowledged ignorance → personalised overload producing certainty without understanding",
+                "title": "Algorithmic personalisation creates false confidence from narrow information fragments",
+                "flow": "algorithms serve content matching existing beliefs → users receive reinforcing rather than broadening information → illusion of comprehensive understanding formed from a narrow feed → overconfidence worse than acknowledged ignorance → personalised feeds create certainty without broad understanding",
                 "examples": [
                   {
                     "type": "vn",
@@ -4671,7 +4671,7 @@ window.TOPIC_DATA = {
             "label": "Disagree: information abundance enables more knowledge, not less",
             "ideas": [
               {
-                "title": "Multiple sources enable triangulation and verification that produces more reliable understanding",
+                "title": "Multiple sources enable cross-checking and verification that produces more reliable understanding",
                 "flow": "independent sources on the same topic → cross-referencing possible → errors in any single source identified → more accurate understanding achievable → information abundance enabling better knowledge than information scarcity allowed",
                 "examples": [
                   {
@@ -4685,8 +4685,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Access to specialist information has democratised expertise previously reserved for elites",
-                "flow": "technical, medical, legal, and scientific knowledge freely accessible online → individuals access expert-level information → informed personal and civic decisions made at a quality previously impossible → information abundance enabling knowledge that gatekeeping formerly restricted",
+                "title": "Access to specialist information has made specialist knowledge more widely accessible",
+                "flow": "technical, medical, legal, and scientific knowledge freely accessible online → individuals access specialist information → informed personal and civic decisions made at a quality previously impossible → information abundance enabling knowledge that gatekeeping formerly restricted",
                 "examples": [
                   {
                     "type": "vn",
@@ -4699,8 +4699,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The problem is lack of evaluation skills, not information volume itself",
-                "flow": "information itself does not produce confusion → absence of evaluation skills does → solution is literacy education, not information restriction → with appropriate tools, abundance enables more knowledge → the skill, not the volume, is the limiting factor",
+                "title": "Evaluation skills determine how well people turn information abundance into knowledge",
+                "flow": "large information volumes create both opportunities and cognitive pressure → people with strong evaluation skills can filter sources and prioritise relevant evidence → those without these skills become more vulnerable to confusion → literacy therefore determines how much benefit people gain from abundance, even though volume still matters",
                 "examples": [
                   {
                     "type": "vn",
@@ -4847,8 +4847,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Messaging norms train informal registers incompatible with professional and academic contexts",
-                "flow": "casual conventions (abbreviation, emoji, informal tone) become dominant style → formal registers disappear through disuse → professional emails, reports, and structured arguments decline in quality → communication fitness for formal contexts reduced",
+                "title": "Messaging norms train informal styles incompatible with professional and academic contexts",
+                "flow": "casual conventions (abbreviation, emoji, informal tone) become dominant style → formal styles weaken through lack of use → professional emails, reports, and structured arguments decline in quality → ability to communicate in formal contexts declines",
                 "examples": [
                   {
                     "type": "vn",
@@ -4880,8 +4880,8 @@ window.TOPIC_DATA = {
             "label": "Technology enhances rather than reduces communication ability",
             "ideas": [
               {
-                "title": "Technology provides new communication channels that expand expressive range",
-                "flow": "written, visual, audio, and video tools available simultaneously → individuals choose the medium best suited to their message → expressive range expanded → complex ideas communicated more effectively through multimedia than any single traditional channel allowed",
+                "title": "Technology provides new communication channels that expand the ways people can express ideas",
+                "flow": "written, visual, audio, and video tools available simultaneously → individuals choose the medium best suited to their message → range of expression expanded → complex ideas communicated more effectively through multimedia than any single traditional channel allowed",
                 "examples": [
                   {
                     "type": "vn",
@@ -4908,8 +4908,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Global communication tools develop cross-cultural competency impossible before technology",
-                "flow": "technology enables daily communication across languages and cultures → cross-cultural skills developed through practice → communicative range expanded beyond monocultural in-person interaction → abilities impossible without technology now standard",
+                "title": "Global communication tools greatly expand opportunities to develop cross-cultural communication skills",
+                "flow": "digital tools enable frequent contact with people from different languages and cultures → regular interaction provides repeated practice in adapting communication styles → users can develop broader cultural awareness without travelling → technology greatly expands access to cross-cultural communication experience",
                 "examples": [
                   {
                     "type": "vn",
@@ -4930,8 +4930,8 @@ window.TOPIC_DATA = {
             "label": "Face-to-face communication is more effective",
             "ideas": [
               {
-                "title": "In-person exchange transmits the complete range of human communicative information",
-                "flow": "face-to-face includes facial expressions, body language, tone, and spatial awareness → full communicative bandwidth available → emotional understanding more accurate → misunderstandings fewer → communication quality fundamentally higher than any digitally mediated channel",
+                "title": "In-person exchange combines verbal and non-verbal cues particularly effectively",
+                "flow": "face-to-face interaction includes words, tone, facial expression, gesture, and immediate feedback → more cues help participants interpret emotional meaning → misunderstandings can be noticed and corrected quickly → in-person communication is especially valuable for sensitive or relationship-focused exchanges",
                 "examples": [
                   {
                     "type": "vn",
@@ -4958,8 +4958,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Physical co-presence builds trust and commitment that remote media cannot replicate",
-                "flow": "shared physical space creates mutual vulnerability → trust built at a depth remote communication cannot achieve → relationships more resilient → commitments made in person carry greater social weight than equivalent digital agreements",
+                "title": "Being physically together can strengthen trust and commitment in important relationships",
+                "flow": "shared physical settings provide richer social cues and sustained mutual attention → participants can read reactions and respond immediately → important conversations may feel more personal and consequential → in-person contact can therefore strengthen trust, especially in new or high-stakes relationships",
                 "examples": [
                   {
                     "type": "vn",
@@ -5041,8 +5041,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Global connectivity creates unparalleled cross-cultural communication development",
-                "flow": "daily interaction with people of different languages and cultures through digital platforms → cross-cultural skills developed at scale through practice → linguistic and cultural adaptability greater than any previous generation could achieve → communication range expanded globally",
+                "title": "Global connectivity creates far greater opportunities to develop cross-cultural communication skills",
+                "flow": "daily interaction with people of different languages and cultures through digital platforms → cross-cultural skills developed through frequent practice → linguistic and cultural adaptability greater than any previous generation could achieve → communication range expanded globally",
                 "examples": [
                   {
                     "type": "vn",
@@ -5074,8 +5074,8 @@ window.TOPIC_DATA = {
             "label": "Communication skills have declined compared to the past",
             "ideas": [
               {
-                "title": "Essential interpersonal skills are atrophying through lack of in-person practice",
-                "flow": "technology reduces need for face-to-face contact → in-person skills — eye contact, listening, managing silence, reading social cues — underpractised → atrophy follows → basic interpersonal competencies less developed in younger generations than in those who had no alternative to in-person exchange",
+                "title": "Essential interpersonal skills are weakening through lack of in-person practice",
+                "flow": "technology reduces need for face-to-face contact → in-person skills — eye contact, listening, managing silence, reading social cues — underpractised → skills weaken over time → basic interpersonal competencies less developed in younger generations than in those who had no alternative to in-person exchange",
                 "examples": [
                   {
                     "type": "vn",
@@ -5088,8 +5088,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Reading depth and formal writing quality have declined across educated populations",
-                "flow": "short-form digital content trains scanning rather than sustained reading → formal writing proficiency declines from disuse → capacity for structured extended argument weakens → core communication competencies required by education and professions undermined",
+                "title": "Short-form digital habits can weaken practice in sustained reading and formal writing",
+                "flow": "frequent short-form content encourages rapid scanning → less time is spent practising long-form reading and extended writing → skills that depend on sustained attention receive less exercise → without deliberate practice, some users may become less comfortable with complex written communication",
                 "examples": [
                   {
                     "type": "vn",
@@ -5102,8 +5102,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Speed norms of digital communication sacrifice depth and deliberation for volume",
-                "flow": "digital communication rewards rapid response and high volume → deliberate, considered communication devalued → instinctive reaction replaces reflective expression → quantity increases as quality per exchange declines → more communication demonstrating less communication skill",
+                "title": "Speed norms of digital communication sacrifice depth and careful thought for volume",
+                "flow": "digital communication rewards rapid response and high volume → careful, considered communication devalued → instinctive reaction replaces reflective expression → quantity increases as quality per exchange declines → more communication demonstrating less communication skill",
                 "examples": [
                   {
                     "type": "vn",
@@ -5237,7 +5237,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Platforms are deliberately designed to maximise children's time-on-screen",
-                "flow": "tech companies use variable rewards, infinite scroll, and gamification → children's developing brains highly susceptible to these triggers → compulsive use develops → time on screens vastly exceeds what children or parents intend",
+                "flow": "tech companies use unpredictable rewards, infinite scroll, and gamified features → children's developing brains highly susceptible to these triggers → compulsive use develops → time on screens vastly exceeds what children or parents intend",
                 "examples": [
                   {
                     "type": "vn",
@@ -5312,7 +5312,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Platform regulation imposes design changes that reduce compulsive use at source",
-                "flow": "government regulation requires removal of addictive design features in children's platforms → variable rewards, infinite scroll, and autoplay restricted → compulsive use reduced at source → individual and parental willpower no longer required to overcome engineered addiction",
+                "flow": "government regulation requires removal of addictive design features in children's platforms → unpredictable rewards, infinite scroll, and autoplay restricted → compulsive use reduced at source → individual and parental willpower no longer required to overcome engineered addiction",
                 "examples": [
                   {
                     "type": "vn",
@@ -5444,8 +5444,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children lack the self-regulation capacity to manage media use without adult guidance",
-                "flow": "prefrontal cortex — responsible for self-regulation — not fully developed until mid-20s → children structurally unable to resist engineered platform compulsion → without limits, device use expands to fill all available time → adult guidance is a developmental necessity, not optional",
+                "title": "Children's developing self-control makes adult guidance particularly important for media use",
+                "flow": "children's self-regulation and long-term judgment are still developing → highly engaging platforms can be harder for them to manage independently → without boundaries, some children use devices longer than intended → age-appropriate limits and guidance help them practise self-control gradually",
                 "examples": [
                   {
                     "type": "vn",
@@ -5458,8 +5458,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Healthy media habits established in childhood create lifelong patterns",
-                "flow": "habits formed in childhood persist → healthy boundaries established early → self-regulation develops within structured limits → adults with clear childhood media limits show healthier long-term habits → parental investment in habits creates compounding returns in lifelong wellbeing",
+                "title": "Healthy media routines in childhood can help children practise later self-regulation",
+                "flow": "consistent childhood routines create repeated practice in stopping, switching activities, and balancing screen use with other needs → children gradually participate in managing these boundaries → responsibility can increase as self-control develops → early structure can support rather than replace later independent regulation",
                 "examples": [
                   {
                     "type": "vn",
@@ -5505,8 +5505,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Active co-viewing and engagement are more effective than quantity restrictions alone",
-                "flow": "time limits without quality engagement → children avoid restricted devices but gain no critical skills → active parental co-viewing → discussion of content → critical thinking developed alongside consumption → engagement consistently outperforms restriction for developmental outcomes",
+                "title": "Active co-viewing helps children interpret media rather than only limiting exposure",
+                "flow": "parents watch or discuss media with children → questions and explanations help children understand persuasive, emotional, or unrealistic content → critical thinking develops during actual media use → co-viewing adds a learning component that simple time limits do not provide",
                 "examples": [
                   {
                     "type": "vn",

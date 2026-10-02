@@ -101,8 +101,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sport can reinforce social divisions and nationalism rather than transcending them",
-                "flow": "fierce sporting rivalries intensify rather than reduce national tensions → tribalism around sports clubs reflects and amplifies existing social divisions → unsuccessful sporting campaigns generate frustration rather than unity → sport's social effects are positive in victory and negative in defeat",
+                "title": "Sport can intensify existing group rivalries as well as create unity",
+                "flow": "strong team identities divide supporters into in-groups and out-groups → existing national, ethnic, or local tensions can become attached to sporting rivalry → hostile behaviour may then extend beyond the event itself → sport can therefore reinforce division when rivalry is poorly managed",
                 "examples": [
                   {
                     "type": "vn",
@@ -165,8 +165,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sport provides a rule-governed outlet for competitive drives that would otherwise cause conflict",
-                "flow": "human competitive instinct is channelled into rule-governed sporting contests → aggression is ritualised and bounded → defeat is accepted within a framework of fair play → competitive energies find a constructive, bounded expression rather than spilling into real-world hostility",
+                "title": "Sport provides a structured and peaceful setting for intense competition",
+                "flow": "people can pursue status, rivalry, and achievement within agreed rules → opponents compete without needing to treat one another as enemies outside the contest → officials and norms limit acceptable behaviour → sport offers a socially controlled form of competition that can reduce the chance of rivalry becoming harmful",
                 "examples": [
                   {
                     "type": "vn",
@@ -282,7 +282,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Many people lead healthy, fulfilling social lives without significant sports participation",
-                "flow": "health can be maintained through diet, sleep, and moderate activity without formal sport → social cohesion is built through many non-sports institutions → claiming sport is essential pathologises the majority who do not participate regularly → healthiness and social participation take many valid forms",
+                "flow": "health can be maintained through diet, sleep, and moderate activity without formal sport → social cohesion is built through many non-sports institutions → claiming sport is essential unfairly treats non-participants as unhealthy or socially deficient → health and social participation take many valid forms",
                 "examples": [
                   {
                     "type": "vn",
@@ -331,8 +331,8 @@ window.TOPIC_DATA = {
             "label": "Sport is uniquely effective as a health maintenance strategy",
             "ideas": [
               {
-                "title": "Sport addresses physical, mental, and social health simultaneously — no other intervention does",
-                "flow": "cardiovascular exercise improves heart health → team sport reduces social isolation → achievement in sport builds self-efficacy → no single other intervention addresses physical, psychological, and social health simultaneously",
+                "title": "Sport can improve physical, mental, and social wellbeing at the same time",
+                "flow": "regular physical activity improves physical health → achievement and routine can support confidence and mood → team participation creates social contact and belonging → sport can therefore deliver several dimensions of wellbeing through one activity",
                 "examples": [
                   {
                     "type": "vn",
@@ -345,8 +345,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sport's social structure creates adherence that solitary exercise cannot match",
-                "flow": "team commitments create accountability → competition provides intrinsic motivation → social enjoyment makes activity sustainable over years → adherence rates for sport are significantly higher than for gym memberships or unstructured exercise → sustained activity delivers the cumulative health benefits that sporadic effort cannot",
+                "title": "Sport's social structure can sustain participation better than solitary exercise",
+                "flow": "team commitments create accountability → competition provides internal motivation → social enjoyment makes activity sustainable over years → continued participation in sport is significantly higher than for gym memberships or unstructured exercise → sustained activity delivers the cumulative health benefits that sporadic effort cannot",
                 "examples": [
                   {
                     "type": "vn",
@@ -359,8 +359,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sport's mental health benefits are as significant as its physical effects and are uniquely delivered through sport",
-                "flow": "competitive sport requires mental concentration that clears rumination → team sport reduces social isolation → regular sport participation produces consistent antidepressant effects → these mental health benefits are achieved without pharmaceutical side effects",
+                "title": "Team sport can combine exercise with social connection in ways that support mental health",
+                "flow": "physical activity can improve mood and reduce stress → team participation adds regular social contact → shared goals and routine reduce isolation → sport can therefore support mental health through both exercise and belonging",
                 "examples": [
                   {
                     "type": "vn",
@@ -378,7 +378,7 @@ window.TOPIC_DATA = {
             "label": "Sport is beneficial but not the uniquely best path to good health",
             "ideas": [
               {
-                "title": "Diet and sleep have stronger evidence bases for health maintenance than sport alone",
+                "title": "Diet and sleep have stronger evidence for health maintenance than sport alone",
                 "flow": "poor diet is the leading preventable cause of premature death globally → sleep deprivation has severe health consequences across all biological systems → exercise cannot compensate for nutritional deficiency or chronic sleep deprivation → sport is one component of health, not its primary driver",
                 "examples": [
                   {
@@ -652,8 +652,8 @@ window.TOPIC_DATA = {
             "label": "Government promotion of sport and activity is justified and necessary",
             "ideas": [
               {
-                "title": "Governments are the only institutions with the scale and reach to address population-wide inactivity",
-                "flow": "individual willpower and market solutions have failed to reverse declining activity trends → population-level behaviour change requires structural intervention → governments can reform built environments, fund facilities, run campaigns, and create incentives at scale → public health imperative justifies coordinated public investment",
+                "title": "Governments are uniquely placed to remove structural barriers to population-wide physical activity",
+                "flow": "inactivity is shaped by transport, urban design, school policy, and public facilities → these systems are strongly influenced by government decisions → coordinated public policy can change the environment for millions at once → government therefore has a central role even when other institutions also contribute",
                 "examples": [
                   {
                     "type": "vn",
@@ -666,8 +666,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The cost savings from preventing inactivity-related disease far exceed the investment required",
-                "flow": "diabetes, cardiovascular disease, and obesity are enormously expensive to treat → a fraction of those costs invested in prevention generates major fiscal returns → governments bear the majority of healthcare costs → promoting physical activity is the most economically rational public health investment available",
+                "title": "Preventing inactivity-related disease can reduce future healthcare costs",
+                "flow": "physical inactivity contributes to costly chronic disease → well-designed activity programmes can prevent some of these cases → avoided treatment reduces pressure on public health budgets → prevention can therefore justify substantial public investment when programmes are effective",
                 "examples": [
                   {
                     "type": "vn",
@@ -750,7 +750,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "WHO classifies physical inactivity as the fourth leading preventable cause of global mortality",
-                "flow": "insufficient physical activity directly linked to cardiovascular disease → cancer risk increases with sedentary behaviour → type 2 diabetes correlates closely with inactivity → the epidemiological case for inactivity as a major health cause is among the strongest in public health research",
+                "flow": "insufficient physical activity is directly linked to cardiovascular disease → cancer risk increases with sedentary behaviour → type 2 diabetes correlates closely with inactivity → the public-health evidence for inactivity as a major health risk is among the strongest in public health research",
                 "examples": [
                   {
                     "type": "vn",
@@ -777,8 +777,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Physical inactivity contributes significantly to the global mental health crisis",
-                "flow": "regular physical activity reduces depression and anxiety → sedentary behaviour is associated with elevated cortisol and disrupted sleep → the loss of daily physical activity from modern work and leisure has contributed directly to rising mental health problems → the mental health case for activity is independent of and complementary to the physical health case",
+                "title": "Physical inactivity can worsen mental health alongside other modern risk factors",
+                "flow": "regular activity can reduce symptoms of depression and anxiety → sedentary routines remove one protective factor for mental wellbeing → inactivity may combine with stress, isolation, and poor sleep → increasing activity can therefore form one part of a broader mental-health response",
                 "examples": [
                   {
                     "type": "vn",
@@ -796,8 +796,8 @@ window.TOPIC_DATA = {
             "label": "Inactivity is one factor among many — other causes are equally or more important",
             "ideas": [
               {
-                "title": "Diet is a more powerful determinant of most modern health problems than physical inactivity",
-                "flow": "caloric excess from processed food is the primary driver of obesity → poor diet quality causes nutritional deficiency independent of activity level → active people who eat poorly have worse health outcomes than inactive people who eat well → dietary reform would deliver greater health gains than activity promotion in most populations",
+                "title": "Poor diet may deserve at least as much attention as inactivity in chronic-disease prevention",
+                "flow": "diet directly affects calorie intake and nutrient quality → many chronic conditions are strongly influenced by what people eat → exercise cannot fully offset a persistently poor diet → health policy should address nutrition alongside physical activity rather than treating inactivity as the single dominant cause",
                 "examples": [
                   {
                     "type": "vn",
@@ -825,7 +825,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Medical technology is extending healthy life expectancy even as physical inactivity increases",
-                "flow": "medical advances extend healthy life expectancy despite rising inactivity → early diagnosis technology catches inactivity-related diseases before they become fatal → pharmaceutical management of diabetes and cardiovascular disease has improved dramatically → technology partially compensates for inactivity even as it causes it",
+                "flow": "medical advances extend healthy life expectancy despite rising inactivity → early diagnosis technology catches inactivity-related diseases before they become fatal → medicines for diabetes and cardiovascular disease have improved dramatically → technology partially compensates for inactivity even as it causes it",
                 "examples": [
                   {
                     "type": "vn",
@@ -847,7 +847,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Digital entertainment provides immediate, low-effort rewards that outdoor sport cannot match",
-                "flow": "video games are engineered around instant gratification and variable reward → they require no physical preparation, travel, or organisation → digital entertainment wins the competition for leisure time by minimising friction → outdoor sport requires sustained effort before its rewards are felt",
+                "flow": "video games are engineered around instant gratification and variable reward → they require no physical preparation, travel, or organisation → digital entertainment wins the competition for leisure time by being easier to start and continue → outdoor sport requires sustained effort before its rewards are felt",
                 "examples": [
                   {
                     "type": "vn",
@@ -921,8 +921,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology-integrated physical activity can bridge the digital-physical divide for young people",
-                "flow": "augmented reality games that require movement → wearable devices that gamify physical activity → online fitness challenges and social accountability platforms → digital engagement mechanics can incentivise physical activity rather than replace it → meeting young people where they already are",
+                "title": "Technology-integrated physical activity can connect digital engagement with physical activity for young people",
+                "flow": "augmented reality games that require movement → wearable devices that turn physical activity into a game → online fitness challenges and social accountability platforms → digital engagement methods can encourage physical activity rather than replace it → meeting young people where they already are",
                 "examples": [
                   {
                     "type": "vn",
@@ -1070,8 +1070,8 @@ window.TOPIC_DATA = {
             "label": "Compulsory PE is essential for equitable physical development",
             "ideas": [
               {
-                "title": "Schools are the only equitable mechanism for ensuring all children receive physical activity regardless of family income",
-                "flow": "private sports clubs and facilities are unaffordable for many families → PE in schools provides physical activity access regardless of income → without compulsory school PE, participation rates would closely follow family wealth → the school setting is the only universal delivery mechanism for physical activity to all children",
+                "title": "Schools are one of the fairest ways to guarantee children regular physical activity",
+                "flow": "school attendance reaches children across income groups → PE does not depend on families paying for private clubs → regular school-based activity gives disadvantaged children a minimum level of access → compulsory PE can therefore reduce inequalities in physical-activity opportunities",
                 "examples": [
                   {
                     "type": "vn",
@@ -1168,7 +1168,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Academic qualifications determine life opportunities in ways that sport participation does not",
-                "flow": "academic qualifications determine access to university and professional employment → knowledge and analytical skills are the primary productive assets in knowledge economies → economic returns to academic education are consistently high and well-documented → sport provides enjoyment but not comparable life-trajectory outcomes",
+                "flow": "academic qualifications determine access to university and professional employment → knowledge and analytical skills are the primary productive assets in knowledge economies → economic returns to academic education are consistently high and well-documented → sport provides enjoyment but not comparable long-term life opportunities",
                 "examples": [
                   {
                     "type": "vn",
@@ -1195,8 +1195,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sport and physical activity are available outside schools without requiring dedicated curriculum time",
-                "flow": "community clubs, parks, and private facilities provide sport outside school hours → families can prioritise physical activity independently → schools do not need to use curriculum time for activities accessible privately → academic subjects have no comparably accessible external delivery mechanism",
+                "title": "Schools may reasonably prioritise academic subjects while supporting sport through a limited PE programme",
+                "flow": "curriculum time is finite → core subjects require sustained instructional time and specialist teaching → schools can preserve a basic level of PE without treating sport as equal to every academic priority → community and extracurricular options can then provide additional physical activity",
                 "examples": [
                   {
                     "type": "vn",
@@ -1214,8 +1214,8 @@ window.TOPIC_DATA = {
             "label": "Sport is equally important and supports rather than competes with academic goals",
             "ideas": [
               {
-                "title": "Physical activity improves cognitive function and academic performance — the dichotomy is false",
-                "flow": "research shows regular physical activity improves concentration, memory, and cognitive function → sedentary students underperform relative to active peers even on academic measures → investing in student physical wellbeing supports academic achievement → the perceived competition between sport and academic time is a false trade-off",
+                "title": "A moderate amount of physical activity can support academic performance rather than simply compete with it",
+                "flow": "physical activity can improve concentration and mood → more attentive students may learn more efficiently during academic lessons → some PE time may therefore partly offset its own timetable cost → schools should balance, rather than simply oppose, physical and academic development",
                 "examples": [
                   {
                     "type": "vn",
@@ -1361,8 +1361,8 @@ window.TOPIC_DATA = {
             "label": "Competitive sport is uniquely effective at developing life skills in children",
             "ideas": [
               {
-                "title": "Managing defeat in sport builds resilience that transfers to all life domains",
-                "flow": "sport presents regular failure within a safe and bounded context → children learn that loss is survivable and recoverable → the habit of bouncing back from defeat in sport translates into resilience in academic failure and professional setbacks → no classroom curriculum delivers comparable resilience training",
+                "title": "Sport gives children repeated practice in recovering from setbacks",
+                "flow": "competition creates frequent low-stakes wins and losses → children experience disappointment in a structured setting → coaches and teammates encourage them to try again → repeated recovery can strengthen habits that are useful when facing setbacks elsewhere",
                 "examples": [
                   {
                     "type": "vn",
@@ -1599,8 +1599,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Athletic careers are short, physically brutal, and compress lifetime earnings into a narrow window",
-                "flow": "peak careers typically last 8–12 years → injuries can end careers instantly and leave permanent disability → athletes forgo normal education and alternative career paths → they must earn lifetime income in a compressed window → high pay compensates for accelerated risk and shortened earning life",
+                "title": "Athletic careers are short, physically demanding, and concentrate lifetime earnings into a narrow window",
+                "flow": "peak careers typically last 8–12 years → injuries can end careers instantly and leave permanent disability → athletes forgo normal education and alternative career paths → they must earn much of their lifetime income in a short period → high pay compensates for greater risk and a shortened earning life",
                 "examples": [
                   {
                     "type": "vn",
@@ -1614,7 +1614,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Genuine elite talent is extraordinarily scarce and commands a premium in a competitive global labour market",
-                "flow": "true elite ability exists in a tiny fraction of any population → clubs compete globally for the same limited talent pool → bidding drives salaries to market-clearing rates → this is standard economic logic applied to an exceptionally scarce and visible resource",
+                "flow": "true elite ability exists in a tiny fraction of any population → clubs compete globally for the same limited talent pool → bidding drives salaries to market rates → this is standard economic logic applied to an exceptionally scarce and visible resource",
                 "examples": [
                   {
                     "type": "vn",
@@ -1632,8 +1632,8 @@ window.TOPIC_DATA = {
             "label": "High athlete salaries are economically and morally unjustifiable",
             "ideas": [
               {
-                "title": "Athlete salaries are grotesquely disproportionate to those of people who perform genuinely essential work",
-                "flow": "nurses, teachers, and emergency workers sustain functioning societies → their salaries are a fraction of elite athlete pay → societies signal that entertainment is worth more than essential services → this misalignment undermines morale in critical professions and distorts career choices",
+                "title": "Athlete salaries are vastly higher than those of people who perform essential work",
+                "flow": "nurses, teachers, and emergency workers sustain functioning societies → their salaries are a fraction of elite athlete pay → societies signal that entertainment is worth more than essential services → this imbalance undermines morale in critical professions and distorts career choices",
                 "examples": [
                   {
                     "type": "vn",
@@ -1682,8 +1682,8 @@ window.TOPIC_DATA = {
             "label": "Sports professionals are paid too much",
             "ideas": [
               {
-                "title": "Publicly subsidised stadiums underpin private club revenues that funnel into elite salaries",
-                "flow": "stadiums are frequently built or subsidised with public funds → infrastructure is provided to clubs that are private businesses → clubs generate large revenues on publicly-funded assets → athletes capture a portion of those revenues → taxpayers fund the conditions that make extreme salaries possible",
+                "title": "Publicly subsidised stadiums support private club revenues that contribute to elite salaries",
+                "flow": "stadiums are frequently built or subsidised with public funds → infrastructure is provided to clubs that are private businesses → clubs generate large revenues using publicly funded assets → athletes receive a portion of those revenues → taxpayers fund some of the conditions that make extreme salaries possible",
                 "examples": [
                   {
                     "type": "vn",
@@ -1696,8 +1696,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Extreme salaries incentivise mercenary player movement that destroys club loyalty and fan attachment",
-                "flow": "players follow the highest salary regardless of club loyalty → squads change completely every few seasons → fans invest emotionally in clubs but players have no reciprocal attachment → the social contract between clubs and communities erodes → sport loses its authentic community character",
+                "title": "Extreme salaries encourage salary-driven player movement that weakens club loyalty and fan attachment",
+                "flow": "players follow the highest salary regardless of club loyalty → squads change completely every few seasons → fans invest emotionally in clubs but players have no reciprocal attachment → the bond between clubs and communities erodes → sport loses some of its authentic community character",
                 "examples": [
                   {
                     "type": "vn",
@@ -1710,8 +1710,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Elite athlete wealth sends damaging aspirational messages to young people facing tiny odds of success",
-                "flow": "children treat athletes as aspirational figures → extreme salaries signal that sporting celebrity is among society's most valued contributions → children may over-prioritise athletic careers over education → the probability of professional success is tiny → misaligned aspiration causes widespread disappointment and wasted potential",
+                "title": "Extreme athlete wealth can create unrealistic career expectations unless young people receive balanced guidance",
+                "flow": "highly paid athletes receive intense media attention → young people may overestimate the likelihood of professional sporting success → schools and families can counter this by explaining the risks and importance of education → balanced guidance allows inspiration without encouraging unrealistic career planning",
                 "examples": [
                   {
                     "type": "vn",
@@ -1730,7 +1730,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Athlete salaries are determined by genuinely free markets responding to mass voluntary consumer demand",
-                "flow": "billions of people voluntarily pay to watch sports → their spending generates revenue → clubs compete to attract the talent that drives that spending → salaries rise to market-clearing rates → this is how competitive markets function when consumers freely value something",
+                "flow": "billions of people voluntarily pay to watch sports → their spending generates revenue → clubs compete to attract the talent that drives that spending → salaries rise to market rates → this is how competitive markets function when consumers freely value something",
                 "examples": [
                   {
                     "type": "vn",
@@ -1757,8 +1757,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Comparing athlete pay with essential worker pay is emotionally compelling but economically misleading",
-                "flow": "salaries reflect revenue generated, not social importance → a footballer entertains millions simultaneously while a nurse serves hundreds sequentially → scale of audience determines commercial value → comparing wages across sectors with fundamentally different revenue models is not an economic argument → market wages and social worth are different things",
+                "title": "Comparing athlete pay with essential worker pay does not explain how wages are set",
+                "flow": "salaries reflect revenue generated, not social importance → a footballer entertains millions simultaneously while a nurse serves hundreds sequentially → scale of audience determines commercial value → comparing wages across sectors with fundamentally different revenue models does not explain wage formation → market wages and social worth are different things",
                 "examples": [
                   {
                     "type": "vn",
@@ -1808,7 +1808,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "State-backed clubs create financial imbalance that cannot be overcome by genuine sporting merit",
-                "flow": "sovereign wealth enables essentially unlimited investment → state-backed clubs spend vastly more than market revenues justify → smaller clubs cannot compete regardless of quality → results become financially determined rather than competitively earned → the spectacle of competition is preserved while genuine sporting contest is eliminated",
+                "flow": "state ownership or funding enables extremely large investment → state-backed clubs spend vastly more than market revenues justify → smaller clubs cannot compete regardless of quality → results become financially determined rather than competitively earned → the appearance of competition remains while genuine sporting contest is weakened",
                 "examples": [
                   {
                     "type": "vn",
@@ -1840,7 +1840,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Financial stakes compound sporting motivation and create competitive intensity throughout league tables",
+                "title": "Financial stakes can strengthen sporting motivation and competitive intensity throughout league tables",
                 "flow": "financial rewards motivate elite performance just as trophies and records do → clubs work harder when stakes are both sporting and financial → relegation and promotion carry major financial consequences → competitive intensity exists at every level of the table → money has added to sporting motivation rather than replacing it",
                 "examples": [
                   {
@@ -1951,8 +1951,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Over-commercialisation alienates traditional fans and erodes the authentic culture sport depends on",
-                "flow": "ticket prices rise as clubs pursue premium revenue → merchandise is re-released seasonally to maximise sales → match schedules move for broadcaster convenience → atmosphere and traditions that gave sport its appeal erode → long-term supporters are priced out while sport is repackaged for a wealthier, less passionate demographic",
+                "title": "Elite sport offers a level of skill and drama that recreational participation cannot reproduce",
+                "flow": "professional athletes perform at exceptional speed and technical level → close competition creates suspense and memorable moments → spectators can enjoy performances unavailable in ordinary amateur play → elite sport therefore provides a distinctive form of entertainment even for people who prefer participating themselves",
                 "examples": [
                   {
                     "type": "vn",
@@ -2131,8 +2131,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Watching sport is universally accessible regardless of age, fitness, or physical ability",
-                "flow": "physical participation requires a functional body, reasonable fitness, and time for recovery → injury, age, and disability progressively exclude people from active sport → spectating faces none of these barriers → people who cannot participate due to age or health can still enjoy sport fully → watching extends sporting enjoyment across an entire lifetime",
+                "title": "Spectating allows many people excluded from active participation to remain involved in sport",
+                "flow": "age, injury, disability, or poor fitness can limit active participation → watching requires far fewer physical demands → people who can no longer play can still follow teams and competitions → spectatorship extends sporting involvement across more stages and circumstances of life",
                 "examples": [
                   {
                     "type": "vn",
@@ -2165,7 +2165,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Active participation develops health, skills, and friendships that watching never provides",
-                "flow": "playing sport improves cardiovascular health, strength, and coordination → skills develop progressively and create a personal sense of growing competence → regular team sport builds genuine friendships through shared physical effort → spectating provides none of these accumulating benefits → participation creates lasting value; watching is consumed once and leaves no residue",
+                "flow": "playing sport improves cardiovascular health, strength, and coordination → skills develop progressively and create a personal sense of growing competence → regular team sport builds genuine friendships through shared physical effort → spectating provides none of these accumulating benefits → participation creates lasting personal benefits while watching is mainly a one-time experience",
                 "examples": [
                   {
                     "type": "vn",
@@ -2178,8 +2178,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The outcome of participation is within one's own control; spectating makes enjoyment entirely dependent on others",
-                "flow": "in participation, effort and skill directly influence the experience and outcome → a personal best, a well-executed move, or a hard-fought win are self-created achievements → spectating leaves the viewer entirely passive — joy and disappointment are determined by strangers → depending on others for enjoyment creates emotional fragility → participation offers a more reliable and autonomous form of satisfaction",
+                "title": "Participation offers a stronger sense of personal agency than spectating",
+                "flow": "players influence their own performance through effort and skill → improvement produces a direct sense of achievement → spectators can enjoy the event but cannot affect what happens on the field → participation therefore provides a form of satisfaction more closely tied to one's own actions",
                 "examples": [
                   {
                     "type": "vn",
@@ -2214,8 +2214,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sports viewing consumes substantial time that could be invested in personally developmental activities",
-                "flow": "the average dedicated sports fan spends dozens of hours per month watching matches → that time could be used for learning new skills, reading, social connection, or creative work → passive consumption produces no lasting personal development → the opportunity cost of heavy sports viewing is considerable in terms of personal growth foregone",
+                "title": "Heavy sports viewing can carry a substantial opportunity cost",
+                "flow": "leisure time is limited → many hours of viewing leave fewer hours for exercise, learning, creative work, or relationships → these alternative activities may produce benefits that passive viewing does not → excessive rather than moderate spectatorship can therefore reduce opportunities for personal development",
                 "examples": [
                   {
                     "type": "vn",
@@ -2297,8 +2297,8 @@ window.TOPIC_DATA = {
             "label": "Excessive sports watching is displacing physical participation",
             "ideas": [
               {
-                "title": "Broadcast proliferation has dramatically expanded the volume of available sports content, enabling passive overconsumption",
-                "flow": "streaming platforms and 24-hour sports channels have multiplied available content exponentially → fans can watch sport continuously without natural stopping points → screen time displaces time that was previously spent in physical activity → the supply-side expansion of sports content has enabled passive consumption at unhealthy levels",
+                "title": "The expansion of sports broadcasting has dramatically increased available sports content, enabling passive overconsumption",
+                "flow": "streaming platforms and 24-hour sports channels have multiplied available content enormously → fans can watch sport continuously without natural stopping points → screen time displaces time that was previously spent in physical activity → the expansion of sports content has enabled passive consumption at unhealthy levels",
                 "examples": [
                   {
                     "type": "vn",
@@ -2311,8 +2311,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Heavy sports spectatorship correlates with sedentary behaviour in the population groups with the lowest activity levels",
-                "flow": "the demographics who watch most sport — young urban men, older adults — are also among those with the lowest physical activity rates → the correlation between high watching and low participation is consistent across studies → watching appears to substitute for rather than inspire participation in these groups → passive consumption crowds out the physical activity these groups most need",
+                "title": "Heavy sports viewing can reinforce sedentary routines among already inactive people",
+                "flow": "people with low activity levels may spend more leisure time watching sport → long viewing sessions add further sedentary hours → if viewing replaces active leisure, inactivity becomes harder to reverse → the concern is strongest when spectatorship is part of an already sedentary lifestyle",
                 "examples": [
                   {
                     "type": "vn",
@@ -2325,7 +2325,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Time budget analysis confirms that sports viewing competes directly with participation time",
+                "title": "Limited leisure time means sports viewing competes directly with participation time",
                 "flow": "leisure time is finite → hours spent watching sport are hours unavailable for physical activity → most people cannot significantly expand total leisure time → trade-offs are real and unavoidable → for individuals with limited leisure hours, every hour of sports viewing is a direct substitution away from possible participation",
                 "examples": [
                   {
@@ -2491,8 +2491,8 @@ window.TOPIC_DATA = {
             "label": "Screens are replacing traditional leisure — with significant losses",
             "ideas": [
               {
-                "title": "Time-use data confirms that screen-based entertainment has expanded at the direct expense of traditional leisure activities",
-                "flow": "global average daily screen time has increased dramatically over the past two decades → time budgets are finite → hours gained on screens correspond to hours lost from other activities → traditional leisure — reading physical books, outdoor activities, communal games — has declined in parallel → the displacement is empirically documented, not merely anecdotal",
+                "title": "Rising screen entertainment has likely displaced some traditional leisure activities",
+                "flow": "daily leisure time is limited → screen entertainment now occupies a larger share of that time → some activities such as outdoor play, physical hobbies, or communal games therefore receive less time → the effect is substitution in part, even though digital and traditional leisure can also coexist",
                 "examples": [
                   {
                     "type": "vn",
@@ -2505,8 +2505,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Screen entertainment is replacing embodied leisure that develops physical skills, health, and direct social bonds",
-                "flow": "physical leisure — sport, dance, craft, outdoor play — develops motor skills, fitness, and manual competence → these skills require repeated physical practice that screen-based activity does not provide → when screens replace physical leisure, the developmental benefits of embodied activity are lost → children and adults lose capacities that screen engagement cannot develop",
+                "title": "Screen entertainment is replacing physical leisure that develops skills, health, and direct social bonds",
+                "flow": "physical leisure — sport, dance, craft, outdoor play — develops motor skills, fitness, and manual competence → these skills require repeated physical practice that screen-based activity does not provide → when screens replace physical leisure, the developmental benefits of physical activity are lost → children and adults lose capacities that screen engagement cannot develop",
                 "examples": [
                   {
                     "type": "vn",
@@ -2762,8 +2762,8 @@ window.TOPIC_DATA = {
             "label": "Investing in professional sport also serves genuine public interests",
             "ideas": [
               {
-                "title": "Elite sport success inspires mass participation and creates a cultural platform for physical activity",
-                "flow": "successful national teams and elite athletes become role models → their visibility motivates millions of citizens to begin or increase physical activity → national sporting success generates a measurable participation dividend → investment in elite performance infrastructure can catalyse far broader public health benefits → the public return from elite investment is not confined to the elite level",
+                "title": "Elite sporting success can support participation when it is linked to accessible grassroots opportunities",
+                "flow": "successful athletes attract public attention and inspire interest → people are more likely to act on that interest when local clubs and facilities are available → coordinated grassroots programmes convert inspiration into participation → elite investment can therefore support wider public activity when the pathway is deliberately built",
                 "examples": [
                   {
                     "type": "vn",
@@ -2813,7 +2813,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Without accessible public facilities, physical activity becomes a privilege of the wealthy rather than a universal right",
-                "flow": "private gyms and sports clubs are prohibitively expensive for low-income households → without public alternatives, regular exercise is effectively unavailable to the economically disadvantaged → health outcomes become stratified by income → public facilities are the infrastructure of health equity → their absence entrenches health inequality alongside economic inequality",
+                "flow": "private gyms and sports clubs are prohibitively expensive for low-income households → without public alternatives, regular exercise is effectively unavailable to the economically disadvantaged → health outcomes become divided by income → public facilities are essential support for equal health opportunities → their absence entrenches health inequality alongside economic inequality",
                 "examples": [
                   {
                     "type": "vn",
@@ -2859,8 +2859,8 @@ window.TOPIC_DATA = {
             "label": "Public facilities alone are insufficient — other factors matter more",
             "ideas": [
               {
-                "title": "Many people fail to use existing public facilities — the barrier to physical activity is behavioural, not infrastructural",
-                "flow": "public facilities exist in most developed countries without eliminating physical inactivity → low-income populations with access to free facilities frequently remain inactive → the real barriers are motivational, cultural, and social rather than physical → building more facilities does not automatically change behaviour → investment without accompanying behaviour change programmes may have limited effect",
+                "title": "Facilities alone are insufficient to raise physical activity",
+                "flow": "building a facility removes only one barrier → people may still face low motivation, lack of time, safety concerns, or unfamiliarity with exercise → programmes, outreach, and suitable design influence whether facilities are actually used → infrastructure works best when combined with behavioural and social support",
                 "examples": [
                   {
                     "type": "vn",
@@ -2909,8 +2909,8 @@ window.TOPIC_DATA = {
             "label": "Sports facilities deserve priority in public spending",
             "ideas": [
               {
-                "title": "Sports facilities address the rising burden of lifestyle disease that threatens to overwhelm healthcare systems",
-                "flow": "non-communicable diseases driven by inactivity now account for the majority of global deaths and healthcare costs → physical activity is one of the most powerful preventive interventions available → accessible facilities enable the activity that prevents disease → every unit of facility investment that increases activity reduces future healthcare demand → preventive infrastructure is ultimately more cost-effective than treating disease",
+                "title": "Well-used sports facilities can contribute to prevention of inactivity-related chronic disease",
+                "flow": "physical inactivity raises the risk of several major chronic conditions → convenient facilities can make regular activity easier → increased activity reduces some preventable disease risk → where facilities attract sustained use, they can reduce part of the future healthcare burden",
                 "examples": [
                   {
                     "type": "vn",
@@ -2937,8 +2937,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sports facilities yield cross-generational returns by establishing healthy habits in children that persist across lifetimes",
-                "flow": "early access to sports facilities shapes childhood physical activity habits → habits formed young are more durable than those adopted in adulthood → investment in youth sports infrastructure generates health returns across an entire lifetime → the intergenerational return on facility investment is substantially higher than for services that only benefit current users → long-term cost-effectiveness justifies prioritising facility construction",
+                "title": "Sports facilities can generate long-term benefits by establishing healthy habits in children",
+                "flow": "early access to sports facilities shapes childhood physical activity habits → habits formed young are more durable than those adopted in adulthood → investment in youth sports infrastructure generates health returns across an entire lifetime → these long-term benefits can extend across generations → long-term value strengthens the case for prioritising facility construction",
                 "examples": [
                   {
                     "type": "vn",
@@ -2971,7 +2971,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Private markets and civil society can provide sports facilities without government funding being the primary source",
-                "flow": "sports participation is a private good as well as a public benefit → individuals who benefit from facilities can be expected to contribute to their costs → private gyms, club memberships, and community organisations already provide significant sports infrastructure → government spending should focus on goods the market fails to provide adequately → supplementing private provision with public subsidy is more appropriate than wholesale replacement",
+                "flow": "sports participation provides direct private benefits as well as public benefits → individuals who benefit from facilities can be expected to contribute to their costs → private gyms, club memberships, and community organisations already provide significant sports infrastructure → government spending should focus on goods the market fails to provide adequately → supplementing private provision with public subsidy is more appropriate than wholesale replacement",
                 "examples": [
                   {
                     "type": "vn",
@@ -3020,8 +3020,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Physical activity generates health benefits that reduce government healthcare spending — making free access a net saving",
-                "flow": "physically active populations have lower rates of chronic disease → lower chronic disease rates reduce healthcare expenditure substantially → the healthcare savings from an active population exceed the cost of providing free facility access → free access is not merely a welfare expenditure but a fiscally rational investment → governments recoup the subsidy through reduced health system costs",
+                "title": "Free or heavily subsidised access can be fiscally worthwhile if it meaningfully increases activity",
+                "flow": "price can deter low-income users from facilities → removing or reducing fees may increase participation among these groups → sustained activity can lower some chronic-disease risk → if health savings and participation gains exceed the subsidy, free access can be a sound public investment",
                 "examples": [
                   {
                     "type": "vn",
@@ -3034,7 +3034,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sport and physical activity are rights of citizenship that should not be rationed by financial means",
+                "title": "Sport and physical activity are rights of citizenship that should not be limited by ability to pay",
                 "flow": "physical health is a fundamental component of human wellbeing → access to the means of maintaining health should not depend on income → charging for facilities treats health infrastructure as a commercial product rather than a public good → just as societies provide free access to public parks and libraries, sports facilities should be part of the universal public infrastructure of healthy citizenship",
                 "examples": [
                   {
@@ -3245,7 +3245,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "More leisure creates space for personal development, creativity, and social relationships that work cannot provide",
-                "flow": "leisure enables pursuit of interests that employment cannot accommodate → creative activities and social engagement develop dimensions of personhood that work alone cannot → richer personal lives contribute to greater empathy, creativity, and social capital → individuals with meaningful leisure are more fulfilled → societies with strong leisure cultures are more cohesive and innovative",
+                "flow": "leisure enables pursuit of interests that employment cannot accommodate → creative activities and social engagement develop aspects of identity and life that work alone cannot → richer personal lives contribute to greater empathy, creativity, and community trust → individuals with meaningful leisure are more fulfilled → societies with strong leisure cultures are more cohesive and innovative",
                 "examples": [
                   {
                     "type": "vn",
@@ -3258,8 +3258,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "More leisure time strengthens family relationships and intergenerational bonds",
-                "flow": "time is the fundamental resource of family relationships → overwork is a primary driver of family breakdown and parenting deficits → more leisure means more time with children, partners, and elderly parents → strong family relationships are among the most powerful predictors of individual happiness and social stability → leisure investment is investment in the social fabric",
+                "title": "More discretionary time can strengthen family relationships when people use it for shared life",
+                "flow": "long working hours reduce the time family members are available to one another → shorter or more flexible hours create more opportunities for shared meals, childcare, and elder support → repeated time together can strengthen relationships → work-life policies can therefore support family bonds without assuming leisure alone guarantees them",
                 "examples": [
                   {
                     "type": "vn",
@@ -3291,7 +3291,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Commercial entertainment has colonised free time, capturing additional leisure hours in passive consumption",
+                "title": "Commercial entertainment has taken over more free time, capturing additional leisure hours in passive consumption",
                 "flow": "commercial entertainment platforms are engineered to maximise engagement time → streaming, social media, and gaming use sophisticated design to occupy free time → additional leisure hours flow disproportionately into passive consumption → health and developmental benefits of leisure depend on active engagement → more leisure without guidance on use may simply expand sedentary screen consumption",
                 "examples": [
                   {
@@ -3306,7 +3306,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Reduced working hours may limit individual career development and economic output",
-                "flow": "professional skills develop through sustained practice and engagement → reduced working hours slow skill development and career progression → economic productivity depends on cumulative human effort applied to value-creating activities → societies with very high leisure time may sacrifice long-run growth and individual earning potential → the leisure-productivity trade-off has real economic consequences",
+                "flow": "professional skills develop through sustained practice and engagement → reduced working hours slow skill development and career progression → economic productivity depends partly on sustained time spent in productive activity → societies with very high leisure time may sacrifice long-run growth and individual earning potential → the leisure-productivity trade-off has real economic consequences",
                 "examples": [
                   {
                     "type": "vn",
@@ -3342,7 +3342,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Globalised leisure exposes people to diverse cultures that were previously inaccessible",
-                "flow": "streaming platforms make global cinema, music, and documentary universally available → people routinely consume cultural products from countries beyond their own → cultural exposure broadens perspective, builds empathy, and challenges parochialism → leisure has become a vehicle for informal intercultural education at a scale no formal curriculum could achieve",
+                "flow": "streaming platforms make global cinema, music, and documentary universally available → people routinely consume cultural products from countries beyond their own → cultural exposure broadens perspective, builds empathy, and challenges narrow local outlooks → leisure has become a vehicle for informal intercultural education at a scale no formal curriculum could achieve",
                 "examples": [
                   {
                     "type": "vn",
@@ -3388,8 +3388,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital leisure has reduced the depth of social connection from embodied engagement to mediated interaction",
-                "flow": "social media provides social stimulation without physical presence → people substitute online social leisure for in-person activities → depth of social connection declines as quantity of digital interaction rises → research links high social media use with loneliness rather than connection → the social character of leisure has degraded as its digital content has expanded",
+                "title": "Digital leisure has shifted some social connection from face-to-face engagement to screen-based interaction",
+                "flow": "social media provides social stimulation without physical presence → people substitute online social leisure for in-person activities → depth of social connection declines as quantity of digital interaction rises → research links high social media use with loneliness rather than connection → the social character of leisure has weakened as its digital content has expanded",
                 "examples": [
                   {
                     "type": "vn",
@@ -3402,7 +3402,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Algorithmic curation narrows cultural exposure and eliminates the serendipitous discovery that traditional leisure enabled",
+                "title": "Recommendation algorithms can narrow cultural exposure and reduce unexpected discovery",
                 "flow": "streaming and social algorithms serve content based on past preferences → each choice trains the algorithm to serve more of the same → users consume within self-reinforcing preference bubbles → exposure to culturally challenging or unexpected content declines → the diversity of cultural experience that browsing a physical library or cinema once enabled is systematically reduced",
                 "examples": [
                   {
@@ -3425,7 +3425,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Genuine relaxation is a biological and psychological necessity, not a luxury",
-                "flow": "sustained cognitive work depletes mental energy and elevates stress hormones → unstructured rest allows neural pathways to reset and cortisol to normalise → attempting productive activity in leisure extends depletion without recovery → chronic failure to rest produces burnout, reduced creativity, and health decline → relaxation is not idleness but essential maintenance of human capacity",
+                "flow": "sustained cognitive work depletes mental energy and raises stress → unstructured rest allows mental recovery → attempting productive activity throughout leisure extends depletion without recovery → chronic failure to rest produces burnout, reduced creativity, and health decline → relaxation is not idleness but essential maintenance of human capacity",
                 "examples": [
                   {
                     "type": "vn",
@@ -3438,8 +3438,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Demanding that leisure be productive extends market logic into the last domain of genuine human freedom",
-                "flow": "work demands measurable output and continuous productivity → if leisure must also be productive, every hour of human life is instrumentalised → individuals cannot escape the evaluative frame that measures worth by output → rest and play for their own sake become impossible → the commodification of leisure produces anxiety rather than fulfilment",
+                "title": "Demanding that leisure be productive extends productivity pressure into a domain of personal freedom",
+                "flow": "work demands measurable output and continuous productivity → if leisure must also be productive, every hour of human life is treated as a means to produce results → individuals cannot escape the mindset that measures worth by output → rest and play for their own sake become impossible → turning leisure into another productivity task produces anxiety rather than fulfilment",
                 "examples": [
                   {
                     "type": "vn",
@@ -3452,8 +3452,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Purposeless leisure is the condition from which creativity and innovation most reliably emerge",
-                "flow": "creative breakthroughs typically occur not during focused productive work but during relaxed, undirected mental states → play and free exploration generate novel connections that structured productivity suppresses → many great innovations emerged from leisure pursued with no productive intent → relaxation is the precondition for the creative thinking that makes focused work valuable",
+                "title": "Unstructured leisure can support creativity by giving the mind space to explore",
+                "flow": "focused work directs attention toward immediate tasks → relaxed or playful periods allow ideas to combine more freely → unexpected connections can emerge when there is no fixed goal → some creative insight therefore benefits from time that is not tightly structured around output",
                 "examples": [
                   {
                     "type": "vn",
@@ -3521,8 +3521,8 @@ window.TOPIC_DATA = {
             "label": "Free time should be spent on personal interests",
             "ideas": [
               {
-                "title": "Intrinsically motivated leisure is more psychologically sustaining than instrumental self-improvement",
-                "flow": "intrinsic motivation — doing something for its own pleasure — produces more durable engagement than external goals → skill-oriented leisure can feel like obligation and extension of work pressure → activities pursued for genuine personal interest sustain engagement without external reinforcement → the psychological quality of leisure is highest when completely self-determined → personal interest is the most reliable basis for leisure that genuinely restores",
+                "title": "Leisure driven by genuine interest can be more psychologically sustaining than self-improvement pursued as an obligation",
+                "flow": "doing something for its own pleasure produces more durable engagement than pursuing external goals → skill-oriented leisure can feel like obligation and an extension of work pressure → activities pursued for genuine personal interest sustain engagement without external rewards → the psychological quality of leisure is highest when completely self-chosen → personal interest is a strong basis for leisure that genuinely restores",
                 "examples": [
                   {
                     "type": "vn",
@@ -3549,8 +3549,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Communities built around shared personal interests generate social capital that skill-acquisition pursuits rarely create",
-                "flow": "shared leisure interests bring people with diverse backgrounds together around a common passion → hobby communities and sports clubs create sustained social bonds based on genuine shared interest → these communities provide belonging, friendship, and mutual support → the social capital generated is a significant public good → skill-acquisition pursued individually generates no equivalent community benefit",
+                "title": "Communities built around shared interests can create strong social bonds",
+                "flow": "shared leisure interests bring people with diverse backgrounds together around a common passion → hobby communities and sports clubs create sustained social bonds based on genuine shared interest → these communities provide belonging, friendship, and mutual support → the community bonds generated are a significant public good → skill development pursued individually creates no equivalent community benefit",
                 "examples": [
                   {
                     "type": "vn",
@@ -3582,8 +3582,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The distinction between personal interests and skill learning is false — genuine interests pursued seriously always develop skill",
-                "flow": "genuine personal interests naturally motivate deeper engagement and practice → sustained practice of any interest develops real competence over time → skill development need not feel like work when growing from authentic interest → following personal interests seriously is one of the most effective paths to skill acquisition → the choice is not interest or skill but how deeply one pursues what one loves",
+                "title": "Many genuine interests naturally lead to skill development when pursued deeply",
+                "flow": "personal interest encourages repeated voluntary practice → sustained practice often improves knowledge or technique → learning feels less like obligation when driven by curiosity → leisure can therefore combine enjoyment with skill development without making productivity its primary purpose",
                 "examples": [
                   {
                     "type": "vn",
@@ -3756,8 +3756,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Major events generate international visibility and soft power that attract tourism and investment",
-                "flow": "hosting generates enormous global media coverage → host nations receive sustained international attention and positive association with athletic excellence → tourism increases during and after events as global audiences develop interest in the destination → foreign direct investment often follows improved international perception → the economic and diplomatic returns from global visibility can extend well beyond the event itself",
+                "title": "Major events can raise international visibility and support tourism or national reputation",
+                "flow": "hosting places a country before a large global audience → successful organisation can improve awareness and perceptions of the destination → tourism marketing and business promotion can build on that attention → reputational gains may therefore create benefits beyond the event when supported by broader policy",
                 "examples": [
                   {
                     "type": "vn",
@@ -3803,7 +3803,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Event infrastructure frequently becomes costly, unused 'white elephants' after competitors leave",
+                "title": "Event infrastructure can become costly and underused after competitors leave",
                 "flow": "venues are designed for specific event requirements that do not match post-event demand → massive stadiums with no permanent local sporting market sit empty → maintenance costs continue without generating revenue → facilities deteriorate without the operational income to sustain them → the legacy is not development but expensive decay that diverts resources indefinitely",
                 "examples": [
                   {
@@ -3854,7 +3854,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Economic benefits are routinely exaggerated by hosts and event organisations with vested interests",
-                "flow": "bidding organisations commission optimistic economic impact studies to justify hosting costs → multiplier effects and tourism projections are systematically overstated → actual post-event economic data consistently falls short of pre-event projections → independent economists who review hosting economics find net economic benefit is rare → the positive economic case for hosting is largely produced by parties who benefit from hosting being approved",
+                "flow": "bidding organisations commission optimistic economic impact studies to justify hosting costs → indirect economic benefits and tourism projections are systematically overstated → actual post-event economic data consistently falls short of pre-event projections → independent economists who review hosting economics find net economic benefit is rare → the positive economic case for hosting is largely produced by parties who benefit from hosting being approved",
                 "examples": [
                   {
                     "type": "vn",
@@ -3867,8 +3867,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Short-term tourism surges are often offset by displacement of regular visitors deterred by crowds and high prices",
-                "flow": "major events attract large numbers of sport-specific visitors → but regular tourists avoid destinations during major events due to high prices, overcrowding, and disruption → net tourism impact is frequently smaller than projected → hotels may be fully booked at high prices during the event but see reduced occupancy before and after → the net tourism economic effect often approximates zero",
+                "title": "Tourism gains from major events may be smaller than headline visitor numbers suggest",
+                "flow": "major events attract new sport-specific visitors → high prices and crowding can deter some ordinary tourists → some spending therefore replaces rather than adds to normal tourism → the net tourism gain should be judged against displaced visitors, not gross event attendance alone",
                 "examples": [
                   {
                     "type": "vn",
@@ -3914,8 +3914,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "For developing nations, hosting demonstrates organisational capacity and attracts foreign investment by changing international perceptions",
-                "flow": "successfully hosting a major event demonstrates that a country can deliver complex logistics at world standard → international business and investors update their assessment of the country's institutional capacity → improved perception reduces the political risk premium that international investors apply → foreign direct investment increases as confidence in the host country's competence grows → the demonstration effect of successful hosting can catalyse lasting economic development",
+                "title": "Successful hosting can improve perceptions of a developing country's organisational capacity",
+                "flow": "delivering a complex international event demonstrates logistical and administrative capability → foreign businesses gain a visible example of institutional competence → this can support wider efforts to market the country to investors → hosting is therefore best treated as one reputational signal rather than a direct engine of investment",
                 "examples": [
                   {
                     "type": "vn",
@@ -3951,7 +3951,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Media coverage of international events exposes global audiences to cultures and peoples they would otherwise never encounter",
-                "flow": "major sporting events attract massive global audiences → broadcast coverage includes human interest stories about athletes from diverse cultural backgrounds → audiences learn about countries, traditions, and peoples through the stories of individual athletes → this informal cultural education reaches populations that would never travel to or formally study those countries → mass mediated sport generates cross-cultural empathy at scale",
+                "flow": "major sporting events attract massive global audiences → broadcast coverage includes human interest stories about athletes from diverse cultural backgrounds → audiences learn about countries, traditions, and peoples through the stories of individual athletes → this informal cultural education reaches populations that would never travel to or formally study those countries → televised sport generates cross-cultural empathy at scale",
                 "examples": [
                   {
                     "type": "vn",
@@ -3997,8 +3997,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Political boycotts and geopolitical tensions demonstrate that sport cannot transcend serious political conflicts",
-                "flow": "major sporting events have repeatedly been subject to political boycotts driven by international conflicts → the 1980 and 1984 Olympics, apartheid-era exclusions, and recent bans on Russian athletes demonstrate sport's entanglement with geopolitics → athletes become instruments of political signalling rather than ambassadors of human understanding → sport does not transcend politics; it is conducted within and shaped by political power",
+                "title": "Geopolitical conflict can limit sport's ability to build international understanding",
+                "flow": "governments may boycott events, exclude athletes, or use sport for political signalling → sporting contact is reduced precisely when political relations are most hostile → athletes can become symbols of state conflict rather than personal exchange → sport's peace-building potential therefore depends on the wider political environment",
                 "examples": [
                   {
                     "type": "vn",
@@ -4011,8 +4011,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Brief spectator contact generates no genuine intercultural learning — only surface-level, stereotype-reinforcing exposure",
-                "flow": "watching athletes from another country performs does not provide meaningful cultural knowledge → media narratives reduce complex cultures to national stereotypes and clichés → fans may feel positive sentiment toward individual athletes without understanding the cultures they represent → genuine cross-cultural understanding requires sustained engagement and education → the fleeting contact of sporting spectacle produces at best emotional response, not informed intercultural comprehension",
+                "title": "Spectator exposure alone usually provides only limited intercultural understanding",
+                "flow": "sporting broadcasts focus mainly on competition rather than detailed cultural context → brief stories can introduce audiences to unfamiliar countries but rarely provide deep knowledge → stereotypes may persist when coverage is simplified → meaningful intercultural understanding generally requires broader and more sustained engagement",
                 "examples": [
                   {
                     "type": "vn",
@@ -4158,7 +4158,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Extreme financial and career rewards create overwhelming incentives to cheat for marginal performance gains",
-                "flow": "professional sport concentrates enormous rewards at the very top → tiny performance differences separate winners from also-rans → performance-enhancing drugs can provide the marginal gains that determine those differences → the financial upside of doping success vastly exceeds the expected cost of getting caught → rational calculation in a high-reward, inadequately policed system produces systematic doping",
+                "flow": "professional sport concentrates enormous rewards at the very top → tiny performance differences separate winners from those just below the top → performance-enhancing drugs can provide the marginal gains that determine those differences → the financial upside of doping success vastly exceeds the expected cost of getting caught → rational calculation in a high-reward, inadequately policed system produces systematic doping",
                 "examples": [
                   {
                     "type": "vn",
@@ -4172,7 +4172,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Inadequate and inconsistent testing creates environments where the probability of detection is perceived as low",
-                "flow": "anti-doping agencies have limited resources and jurisdiction → testing is not random or sufficiently frequent to catch all violations → sophisticated masking agents and blood passport evasion techniques stay ahead of testing methods → athletes and coaches perceive the risk of detection as acceptable → weak enforcement creates a permissive environment in which doping becomes normalised within elite training cultures",
+                "flow": "anti-doping agencies have limited resources and jurisdiction → testing is not random or sufficiently frequent to catch all violations → sophisticated masking agents and methods of avoiding biological-passport detection stay ahead of testing methods → athletes and coaches perceive the risk of detection as acceptable → weak enforcement creates a permissive environment in which doping becomes normalised within elite training cultures",
                 "examples": [
                   {
                     "type": "vn",
@@ -4204,8 +4204,8 @@ window.TOPIC_DATA = {
             "label": "Measures to address doping in modern sport",
             "ideas": [
               {
-                "title": "Longer bans, stricter liability, and meaningful criminal penalties would dramatically raise the deterrent effect",
-                "flow": "current sanctions are insufficiently severe to deter athletes in high-reward sports → lifetime bans for first offences would eliminate career prospects entirely → criminal prosecution for intentional doping would add reputational and legal costs → coaches, team doctors, and administrators who facilitate doping would face personal liability → sanctions that effectively end careers and create criminal records would shift the cost-benefit calculation decisively against doping",
+                "title": "Stronger sanctions work best when combined with a credible probability of detection",
+                "flow": "athletes weigh both the consequence of being caught and the likelihood of detection → meaningful bans raise the cost of cheating → frequent and reliable testing makes that cost feel real → combining credible detection with proportionate sanctions strengthens deterrence more than severity alone",
                 "examples": [
                   {
                     "type": "vn",
@@ -4218,8 +4218,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Biological passport programmes and longitudinal testing detect indirect evidence of doping more reliably than substance testing alone",
-                "flow": "substance testing can be evaded through timing, microdosing, and masking agents → biological passport programmes track athletes' physiological profiles over time → unusual deviations from individual baselines indicate likely manipulation even without direct detection of a banned substance → longitudinal testing is harder to evade than point-in-time substance testing → the biological passport approach fundamentally changes the anti-doping detection paradigm",
+                "title": "Biological passport programmes and repeated testing over time can detect indirect evidence of doping more reliably than substance testing alone",
+                "flow": "substance testing can be evaded through timing, microdosing, and masking agents → biological passport programmes track athletes' physiological profiles over time → unusual deviations from individual baselines indicate likely manipulation even without direct detection of a banned substance → repeated testing over time is harder to evade than point-in-time substance testing → the biological passport approach fundamentally changes how anti-doping authorities detect violations",
                 "examples": [
                   {
                     "type": "vn",
@@ -4232,8 +4232,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Education, culture change, and athlete support systems address the root causes that sanctions alone cannot reach",
-                "flow": "punitive measures deter but do not change the underlying cultures and pressures that produce doping → education programmes can build athletes' understanding of health risks and ethical principles before they are exposed to doping environments → strong athlete support systems give athletes the resources to resist coaching pressure → independent athlete welfare organisations create channels for whistleblowing without career risk → culture change within sports is the only durable solution to systemic doping",
+                "title": "Education and athlete support address pressures that testing and sanctions cannot solve alone",
+                "flow": "punishment can deter individual violations but does not remove coaching pressure or permissive team cultures → education strengthens athletes' understanding of health and ethics → independent support and reporting channels make resistance safer → combining cultural reform with enforcement addresses both causes and consequences of doping",
                 "examples": [
                   {
                     "type": "vn",
@@ -4254,8 +4254,8 @@ window.TOPIC_DATA = {
             "label": "Winning has displaced fair play as sport's primary value",
             "ideas": [
               {
-                "title": "Financial stakes in elite sport make winning a financial imperative that overrides ethical commitments",
-                "flow": "professional sport concentrates enormous rewards at the very top → the financial gap between winning and losing is now enormous → clubs, athletes, and national programmes face severe financial consequences from losing → ethical constraints like fair play that may reduce competitive advantage become unaffordable luxuries → when losing means financial ruin, winning displaces ethics as the organising value of elite sport",
+                "title": "High financial stakes can increase pressure to prioritise results over fair play",
+                "flow": "clubs and athletes gain major financial rewards from success → small competitive advantages can therefore carry large monetary value → under intense pressure, some participants may tolerate behaviour they would otherwise reject → commercial stakes can weaken ethical restraint unless rules and culture counterbalance the incentive",
                 "examples": [
                   {
                     "type": "vn",
@@ -4268,8 +4268,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Systematic use of gamesmanship, simulation, and tactical rule-breaking demonstrates that rule evasion is now standard practice",
-                "flow": "tactical fouling to prevent counter-attacks is now coached and normal in elite football → time-wasting and simulation are standard competitive tools → players routinely exploit grey areas between the letter and spirit of rules → when rule-bending is universal and unpunished, fair play has been effectively abandoned as a meaningful constraint → the evidence of actual sporting behaviour confirms that results-first culture is dominant",
+                "title": "Normalised tactical rule-bending can weaken the practical meaning of fair play",
+                "flow": "some teams deliberately use fouls, time-wasting, or simulation for competitive advantage → repeated tolerance makes these tactics seem like normal strategy → players learn that exploiting grey areas can be rewarded → fair play remains an ideal but can lose influence over everyday elite behaviour",
                 "examples": [
                   {
                     "type": "vn",
@@ -4282,8 +4282,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Media and public culture celebrate winning above all else, reinforcing an outcomes-obsessed sporting culture",
-                "flow": "media coverage focuses overwhelmingly on results rather than the manner of achieving them → losing gracefully receives minimal attention while winning by any means is celebrated → public discourse around sport is dominated by winners and losers rather than conduct and character → sporting heroes are those who win, not those who compete with integrity → the cultural reinforcement of winning-first values normalises the displacement of fair play",
+                "title": "Results-focused media coverage can place fair play in the background",
+                "flow": "sports coverage naturally centres on winners, records, and trophies → conduct receives less attention unless it is unusually good or bad → repeated emphasis on outcomes shapes what audiences and athletes perceive as most important → media can therefore strengthen a results-first culture even without endorsing cheating",
                 "examples": [
                   {
                     "type": "vn",
@@ -4301,8 +4301,8 @@ window.TOPIC_DATA = {
             "label": "Fair play values persist and continue to matter",
             "ideas": [
               {
-                "title": "Fair play is institutionalised in rules, officiating structures, and governing body frameworks that effectively constrain winning-at-all-costs",
-                "flow": "every major sport has codified rules that constrain methods of competition → referee and officiating systems enforce those rules in real time → governing bodies impose sanctions for rule violations that make rule-breaking costly → VAR, technology, and expanded officiating have made rule evasion harder and more costly → the institutional machinery of fair play constrains win-at-all-costs behaviour more effectively than ever",
+                "title": "Fair play is embedded in rules, officiating systems, and governing-body structures that constrain winning at all costs",
+                "flow": "every major sport has formal rules that constrain methods of competition → referee and officiating systems enforce those rules in real time → governing bodies impose sanctions for rule violations that make rule-breaking costly → VAR, technology, and expanded officiating have made rule evasion harder and more costly → the institutions of fair play constrain win-at-all-costs behaviour more effectively than ever",
                 "examples": [
                   {
                     "type": "vn",
@@ -4316,7 +4316,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Genuine acts of sportsmanship and fair play are still celebrated as the sport's highest values when they occur",
-                "flow": "acts of exceptional sportsmanship — helping fallen opponents, withdrawing from competition for ethical reasons, refusing advantages gained unfairly — receive disproportionate public celebration → these moments resonate precisely because they represent what sport is supposed to be → the emotional power of fair play when it occurs demonstrates that the value is not dead but alive as an aspiration → the public reaction to sportsmanship suggests that fair play values persist strongly in sporting culture",
+                "flow": "acts of exceptional sportsmanship — helping fallen opponents, withdrawing from competition for ethical reasons, refusing advantages gained unfairly — receive unusually strong public praise → these moments resonate precisely because they represent what sport is supposed to be → the emotional power of fair play when it occurs demonstrates that the value is not dead but alive as an aspiration → the public reaction to sportsmanship suggests that fair play values persist strongly in sporting culture",
                 "examples": [
                   {
                     "type": "vn",
@@ -4329,8 +4329,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Grassroots and amateur sport maintains fair play as its primary value, suggesting the problem is specific to professional extremes",
-                "flow": "recreational sport is played by hundreds of millions of people for intrinsic enjoyment → at amateur level, fair play is the norm rather than the exception → children's and community sport actively teach and reinforce fair play values → the displacement of fair play is concentrated in elite professional sport under extreme financial pressure → characterising sport in general as having abandoned fair play confuses a partial problem with a universal trend",
+                "title": "Grassroots sport shows that fair play remains an important value outside elite professional pressure",
+                "flow": "many recreational participants play mainly for enjoyment, health, and community → youth and local leagues often teach respect for rules and opponents explicitly → financial pressure is far lower than in elite sport → problems at professional level therefore should not automatically be generalised to all sport",
                 "examples": [
                   {
                     "type": "vn",
@@ -4379,8 +4379,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology democratises access to performance insight previously confined to the wealthiest clubs and nations",
-                "flow": "historically, sophisticated performance analysis was available only to elite clubs with large budgets → technology costs have fallen dramatically with commoditisation → mobile and cloud-based analytics tools are now accessible to community clubs and national programmes in developing countries → the performance gap between wealthy and less-wealthy sporting nations has narrowed → technology is a force for sporting equality as well as sporting excellence",
+                "title": "Falling technology costs are expanding access to performance analysis beyond elite clubs",
+                "flow": "performance tools were once affordable mainly to wealthy teams → lower-cost mobile and cloud-based systems are now more widely available → smaller clubs can use data that previously required specialist infrastructure → technology can therefore reduce one source of inequality even though wider funding gaps remain",
                 "examples": [
                   {
                     "type": "vn",
@@ -4399,7 +4399,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Video review technology disrupts the flow and emotional immediacy of sport, degrading the spectator experience",
-                "flow": "sport's emotional power lies in its immediacy — goals scored and celebrated are decisive → video review introduces delays that break the emotional continuity of sporting moments → celebrations are held pending review → the spontaneous shared emotional experience of sport is replaced by anxious waiting → the fundamental character of sporting spectatorship is degraded by the intrusion of bureaucratic process into the moment of sporting decision",
+                "flow": "sport's emotional power lies in its immediacy — goals scored and celebrated are decisive → video review introduces delays that break the emotional continuity of sporting moments → celebrations are held pending review → the spontaneous shared emotional experience of sport is replaced by anxious waiting → the fundamental character of sporting spectatorship is weakened by a formal review process entering the moment of sporting decision",
                 "examples": [
                   {
                     "type": "vn",
@@ -4427,7 +4427,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Heavy reliance on performance data can undermine the human judgment, creativity, and intuition that make sport artistically compelling",
-                "flow": "data-driven sport management increasingly constrains decisions that coaches, players, and teams would previously have made intuitively → statistical analysis may systematically undervalue unquantifiable qualities — creativity, courage, risk-taking — that produce sport's most memorable moments → sport reduced to data optimisation loses the unpredictability and artistic dimension that generates its deepest appeal → the soul of sport resides in human decision-making under pressure, not in algorithmic optimisation",
+                "flow": "data-driven sport management increasingly constrains decisions that coaches, players, and teams would previously have made intuitively → statistical analysis may systematically undervalue unquantifiable qualities — creativity, courage, risk-taking — that produce sport's most memorable moments → sport reduced to data optimisation loses the unpredictability and artistic dimension that generates its deepest appeal → the soul of sport resides in human decision-making under pressure, not in data-driven optimisation",
                 "examples": [
                   {
                     "type": "vn",

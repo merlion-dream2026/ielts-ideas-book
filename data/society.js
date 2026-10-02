@@ -231,8 +231,8 @@ window.TOPIC_DATA = {
             "label": "Agree — preservation is extremely difficult under globalisation",
             "ideas": [
               {
-                "title": "Digital technology creates unstoppable cultural convergence",
-                "flow": "Internet and social media expose everyone to the same global content → cultural convergence accelerates beyond any government's control → no policy can fully reverse this flow",
+                "title": "Digital technology makes cultural convergence harder to prevent",
+                "flow": "Global platforms expose large populations to similar content → shared trends spread quickly across borders → national policy can support local culture but cannot eliminate outside influence → pressure toward greater cultural similarity persists",
                 "examples": [
                   {
                     "type": "vn",
@@ -245,8 +245,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Economic integration makes cultural isolation self-defeating",
-                "flow": "Countries that restrict cultural exchange also restrict trade and investment → economic cost too high → no modern economy can afford cultural protectionism → identity erodes alongside economic integration",
+                "title": "Economic integration makes complete cultural isolation increasingly difficult",
+                "flow": "Trade, tourism, migration, and global business increase contact with foreign cultures → outside products and ideas become part of daily life → limiting all cultural exchange would require costly restrictions on ordinary international interaction → some cultural change therefore accompanies deep economic integration",
                 "examples": [
                   {
                     "type": "vn",
@@ -422,8 +422,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Immigrants enrich culture and increase social dynamism in host cities",
-                "flow": "New populations introduce food, art, language, and ideas → host culture absorbs and transforms them → produces a more vibrant and creative society",
+                "title": "Immigrants enrich culture and increase cultural vitality in host cities",
+                "flow": "New populations introduce food, art, language, and ideas → host culture absorbs and adapts these influences → a more vibrant and creative society emerges",
                 "examples": [
                   {
                     "type": "vn",
@@ -492,7 +492,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Shared language and civic values are prerequisites for social cohesion",
-                "flow": "Functional societies require a common framework — shared language, civic norms, legal values → immigrants who reject these undermine the social compact → integration requires cultural commitment, not just physical presence",
+                "flow": "Functional societies require a common framework — shared language, civic norms, and legal values → immigrants who reject these undermine the shared social framework → integration requires cultural commitment, not just physical presence",
                 "examples": [
                   {
                     "type": "vn",
@@ -506,7 +506,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Host country norms protect rights that immigrant cultural practices may violate",
-                "flow": "Host country laws on gender equality, religious freedom, and individual rights → may conflict with certain immigrant cultural practices → cultural adoption protects individuals within insular communities",
+                "flow": "Host country laws on gender equality, religious freedom, and individual rights → may conflict with certain immigrant cultural practices → adopting these shared civic standards protects individuals within closed communities",
                 "examples": [
                   {
                     "type": "vn",
@@ -588,8 +588,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Immigration addresses the demographic crisis of ageing populations",
-                "flow": "Birth rates fall below replacement level → workforce shrinks → pension and healthcare systems face unsustainable pressure → immigration replenishes the young working-age population → fiscal sustainability restored",
+                "title": "Working-age immigration can ease fiscal pressure in ageing societies",
+                "flow": "Low birth rates reduce the ratio of workers to retirees → working-age immigrants expand the labour force and tax base → pension and healthcare pressures are reduced in the near and medium term → immigration can buy time for broader demographic and fiscal reform",
                 "examples": [
                   {
                     "type": "vn",
@@ -621,8 +621,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Brain drain harms sending countries more than it benefits receiving ones",
-                "flow": "Skilled workers emigrate → sending country loses its education investment → talent and productivity extracted by richer nations → cycle of underdevelopment reinforced → net global inequality increases",
+                "title": "Large-scale skilled emigration can weaken essential services in sending countries",
+                "flow": "Publicly trained professionals leave for richer labour markets → shortages emerge in sectors such as healthcare, education, and engineering → the sending country loses part of its investment in skills → development can slow unless migration benefits are channelled back effectively",
                 "examples": [
                   {
                     "type": "vn",
@@ -743,8 +743,8 @@ window.TOPIC_DATA = {
             "label": "Men and women have different abilities suited to different roles",
             "ideas": [
               {
-                "title": "Biological differences create genuine differences in average capacity and preference",
-                "flow": "Biological differences → on average, different cognitive profiles and physical capacities → some roles better suit one sex → forcing identical outcomes ignores statistical reality",
+                "title": "Average biological differences can matter in some physically demanding roles",
+                "flow": "Some sex-linked average differences are relevant to strength or endurance → certain jobs place unusually high physical demands on workers → average representation may therefore differ between men and women → selection should still be based on individual ability rather than sex alone",
                 "examples": [
                   {
                     "type": "vn",
@@ -757,8 +757,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children benefit from gender-differentiated parenting, especially early maternal care",
-                "flow": "Young children develop security and attachment through close early caregiving → when primary caregivers prioritise careers in early childhood → attachment security may be weaker → child development outcomes can suffer",
+                "title": "Infancy can justify temporary differences in parental roles without implying permanent inequality",
+                "flow": "Pregnancy, recovery, and infant feeding can place different early demands on mothers and fathers → families may divide responsibilities differently during infancy → stable, responsive care remains the central developmental need → early role differences need not determine later family or career roles",
                 "examples": [
                   {
                     "type": "vn",
@@ -790,8 +790,8 @@ window.TOPIC_DATA = {
             "label": "Men and women should have equal opportunities in all areas",
             "ideas": [
               {
-                "title": "Historical gender roles reflect social conditioning, not fixed natural difference",
-                "flow": "Gender roles have varied dramatically across cultures and historical periods → differences are largely socially constructed → restricting opportunity based on group averages disadvantages individuals whose abilities differ from the norm",
+                "title": "Historical variation shows that gender roles are not fixed by biology alone",
+                "flow": "Societies with similar biological differences have assigned very different roles to men and women → social norms therefore influence how abilities and responsibilities are interpreted → traditional role patterns cannot be treated as universally natural → opportunities should remain open to individuals regardless of sex",
                 "examples": [
                   {
                     "type": "vn",
@@ -855,7 +855,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Economic independence empowers women and reduces domestic inequality",
-                "flow": "Women in careers → financial independence → reduced vulnerability to abusive or coercive relationships → greater negotiating power within households → social equality advances beyond the workplace",
+                "flow": "Women in careers → financial independence → reduced vulnerability to abusive or coercive relationships → greater say in household decisions → social equality advances beyond the workplace",
                 "examples": [
                   {
                     "type": "vn",
@@ -901,8 +901,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Traditionally female care sectors are being depleted as women access higher-status roles",
-                "flow": "Women moving into previously male fields → care professions left understaffed → nursing, teaching, and social work face workforce crises → sectors vital to social welfare weakened",
+                "title": "Greater career choice exposes the need to make care work more attractive",
+                "flow": "Women gain access to a wider range of occupations → care sectors can no longer rely on a restricted female labour pool → low pay or difficult conditions become harder to sustain → better wages, training, and working conditions are needed to recruit enough staff",
                 "examples": [
                   {
                     "type": "vn",
@@ -924,7 +924,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Women's economic independence is a net gain for individuals and for society",
-                "flow": "Women with careers → financial security → resilience against poverty and relationship dependency → greater lifetime earnings → higher social contribution",
+                "flow": "Women with careers → financial security → less vulnerability to poverty or financial dependence on a partner → greater lifetime earnings → higher social contribution",
                 "examples": [
                   {
                     "type": "vn",
@@ -938,7 +938,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Personal fulfilment and autonomy have intrinsic value that demographic concerns cannot override",
-                "flow": "Women choosing careers are exercising fundamental autonomy → autonomy and self-determination are core human values → coercing women into family roles to solve demographic problems instrumentalises them",
+                "flow": "Women choosing careers are exercising fundamental autonomy → autonomy and self-determination are core human values → coercing women into family roles to solve demographic problems treats them as a means to demographic goals rather than as autonomous individuals",
                 "examples": [
                   {
                     "type": "vn",
@@ -956,8 +956,8 @@ window.TOPIC_DATA = {
             "label": "Disadvantages outweigh — demographic and developmental consequences are serious",
             "ideas": [
               {
-                "title": "Declining birth rates create unsustainable demographic and economic consequences",
-                "flow": "Women prioritising careers → birth rates fall below replacement level → population ages → workforce shrinks → pension and healthcare systems face structural deficits",
+                "title": "Career-family conflict can contribute to lower birth rates when support is weak",
+                "flow": "Demanding career paths coincide with high childcare costs and limited family support → people delay or reduce childbearing → birth rates fall and populations age → workforce and pension pressures increase over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -970,8 +970,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Children benefit from parental presence that career-prioritisation may reduce",
-                "flow": "Both parents working full-time → children spend more time in institutional care → some attachment relationships less stable → certain developmental and emotional outcomes weaker → social costs accumulate",
+                "title": "Long working hours can reduce parent-child time when flexibility and childcare support are poor",
+                "flow": "Both parents work long or inflexible hours → daily time for responsive interaction decreases → parents and children may experience greater stress and weaker connection → family-friendly work policies can protect both employment and child wellbeing",
                 "examples": [
                   {
                     "type": "vn",
@@ -1106,8 +1106,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Modern education emphasises individual achievement over communal obligation",
-                "flow": "Education systems reward individual competition → young people develop self-focused mindsets → traditional values of communal duty and social harmony seem less relevant → civic participation falls",
+                "title": "Education focused only on individual achievement may underdevelop civic responsibility",
+                "flow": "Schools reward grades and individual competition while giving little time to cooperation or service → students get fewer opportunities to practise collective responsibility → civic habits develop less strongly → later participation in community life may weaken",
                 "examples": [
                   {
                     "type": "vn",
@@ -1222,8 +1222,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Science-based modern values replace harmful traditional practices and improve quality of life",
-                "flow": "Traditional practices often lack scientific grounding → evidence-based modern approaches to health, sanitation, and safety → significant reductions in preventable suffering",
+                "title": "Evidence-based practices can replace harmful customs and reduce preventable suffering",
+                "flow": "Some inherited practices persist without evidence of safety or effectiveness → scientific and public-health knowledge provides safer alternatives → harmful practices decline when better methods are adopted → preventable illness and injury fall",
                 "examples": [
                   {
                     "type": "vn",
@@ -1291,8 +1291,8 @@ window.TOPIC_DATA = {
             "label": "Problems caused by generational value differences",
             "ideas": [
               {
-                "title": "Family conflict and breakdown as value gaps widen within households",
-                "flow": "Divergent values between generations → conflict over life choices — careers, marriage, lifestyle → family relationships strained → social safety net provided by family weakens",
+                "title": "Family conflict and breakdown increase as value gaps widen within households",
+                "flow": "Divergent values between generations → conflict over life choices — careers, marriage, lifestyle → family relationships become strained → the support network provided by family weakens",
                 "examples": [
                   {
                     "type": "vn",
@@ -1305,8 +1305,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social fragmentation as shared values no longer unite communities across age groups",
-                "flow": "Loss of shared values across generations → communities fragment along age lines → civic participation falls → collective institutions weaken → society loses capacity for coordinated action",
+                "title": "Loss of shared values across age groups increases social fragmentation",
+                "flow": "Loss of shared values across generations → communities fragment along age lines → civic participation falls → shared institutions weaken → society loses capacity for coordinated action",
                 "examples": [
                   {
                     "type": "vn",
@@ -1450,7 +1450,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Individual responsibility creates a moral culture that benefits the whole society",
-                "flow": "When individuals take responsibility for community welfare → a culture of civic obligation develops → future generations internalise prosocial values → society becomes more cooperative and trusting",
+                "flow": "When individuals take responsibility for community welfare → a culture of civic obligation develops → future generations internalise cooperative values → society becomes more cooperative and trusting",
                 "examples": [
                   {
                     "type": "vn",
@@ -1469,7 +1469,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Relying on individual goodwill creates uneven and unreliable support for the vulnerable",
-                "flow": "Individual willingness to help varies → those most in need may live in communities with least capacity → informal systems fail the most vulnerable → government ensures consistent, rights-based provision",
+                "flow": "Individual willingness to help varies → those most in need may live in communities with the least capacity → informal systems fail the most vulnerable → government ensures consistent support guaranteed by law",
                 "examples": [
                   {
                     "type": "vn",
@@ -1518,8 +1518,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Community service addresses critical labour shortages in social care sectors",
-                "flow": "Ageing populations increase demand for social care → paid workforce insufficient → compulsory youth service provides a practical supplement → social infrastructure maintained → young people gain practical skills",
+                "title": "Youth community service can supplement non-specialist social support",
+                "flow": "Ageing populations increase demand for companionship and practical assistance → trained young participants can help with non-clinical tasks under supervision → professional staff can focus on specialist care → young people gain useful civic and practical experience",
                 "examples": [
                   {
                     "type": "vn",
@@ -1573,8 +1573,8 @@ window.TOPIC_DATA = {
             "label": "Why people feel disconnected from local communities",
             "ideas": [
               {
-                "title": "Urbanisation and labour mobility destroy the stable neighbourhoods where community forms",
-                "flow": "Economic growth drives urbanisation → people move frequently for work → neighbours are strangers → community bonds require stable long-term residence → modern mobility makes this impossible",
+                "title": "High residential mobility makes neighbourhood trust harder to build",
+                "flow": "People move more frequently for work and housing → neighbours have fewer repeated interactions over time → familiarity and mutual obligation develop more slowly → local institutions and shared spaces become more important for rebuilding community",
                 "examples": [
                   {
                     "type": "vn",
@@ -1587,8 +1587,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital technology replaces local bonds with global but shallow connections",
-                "flow": "Social media provides the sensation of connection → reduces motivation to invest in local relationships → time and energy redirected from neighbours to screens → local community bonds atrophy",
+                "title": "Digital technology replaces local bonds with broader but weaker connections",
+                "flow": "Social media provides a sense of connection → reduces motivation to invest in local relationships → time and energy shift from neighbours to screens → local community bonds weaken over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -1751,7 +1751,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Globalisation distributes opportunities unevenly, concentrating growth in certain cities and regions",
-                "flow": "Globalisation creates export-oriented industries → concentrates jobs in certain cities → other areas left behind → geographic inequality reinforces income inequality → divergence compounds over time",
+                "flow": "Globalisation creates export-oriented industries → concentrates jobs in certain cities → other areas are left behind → geographic inequality reinforces income inequality → regional gaps widen further over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -1769,8 +1769,8 @@ window.TOPIC_DATA = {
             "label": "Measures to reduce inequality",
             "ideas": [
               {
-                "title": "Progressive taxation and redistribution directly compress after-tax inequality",
-                "flow": "Higher taxes on high incomes and wealth → government revenue increases → funded investment in education, healthcare, and social protection → inequality of outcomes reduced at population level",
+                "title": "Progressive taxation and redistribution directly reduce after-tax inequality",
+                "flow": "Higher taxes on high incomes and wealth → government revenue increases → funding for education, healthcare, and social protection expands → inequality of outcomes falls across the population",
                 "examples": [
                   {
                     "type": "vn",
@@ -1784,7 +1784,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Investment in education prevents inequality from compounding across generations",
-                "flow": "Quality education for all → prevents inherited disadvantage → breaks cycle where poor parents produce poor children → long-term structural reduction in inequality",
+                "flow": "Quality education for all → prevents inherited disadvantage → breaks the cycle in which poverty passes from one generation to the next → long-term structural reduction in inequality",
                 "examples": [
                   {
                     "type": "vn",
@@ -1838,8 +1838,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — individual responsibility should remain primary",
             "ideas": [
               {
-                "title": "Guaranteed support reduces incentives for work and self-improvement",
-                "flow": "Guaranteed basic support reduces motivation to seek employment → labour supply falls → productivity decreases → long-term economic growth undermined → the support system becomes fiscally unsustainable",
+                "title": "Poorly designed income support can weaken work incentives at the margin",
+                "flow": "Benefits are withdrawn sharply as earnings rise → some recipients gain little financially from taking low-paid work or increasing hours → labour participation may fall among affected groups → gradual benefit withdrawal can protect support while preserving work incentives",
                 "examples": [
                   {
                     "type": "vn",
@@ -1907,8 +1907,8 @@ window.TOPIC_DATA = {
             "label": "Disadvantages outweigh — extreme pay inequality is economically and socially harmful",
             "ideas": [
               {
-                "title": "Extreme salary inequality corrodes social cohesion and corrupts democratic institutions",
-                "flow": "Very high salaries → extreme wealth concentration → wealthy individuals gain disproportionate political influence → democratic institutions captured by elite interests → policies favour the few",
+                "title": "Extreme income concentration can translate into unequal political influence",
+                "flow": "Very high incomes accumulate into substantial wealth → wealth funds lobbying, campaign activity, media access, and elite networks → affluent groups gain more influence over public decisions than ordinary citizens → trust in democratic equality can weaken",
                 "examples": [
                   {
                     "type": "vn",
@@ -1921,8 +1921,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Very high salaries often reflect market power rather than proportional social contribution",
-                "flow": "Executive and financial sector pay has grown far faster than measured productivity → high salaries often reflect negotiating power and insider networks → reward for extraction, not value creation",
+                "title": "Very high salaries often reflect bargaining power rather than proportional social contribution",
+                "flow": "Executive and financial-sector pay has grown far faster than measured productivity → high salaries often reflect negotiating power and insider networks → the pay reflects bargaining power rather than equivalent value creation",
                 "examples": [
                   {
                     "type": "vn",
@@ -2040,8 +2040,8 @@ window.TOPIC_DATA = {
             "label": "Agree — income is the most important factor for happiness",
             "ideas": [
               {
-                "title": "Financial security eliminates the chronic stress that undermines all other wellbeing",
-                "flow": "Low income → constant anxiety about housing, food, and healthcare → chronic stress → poor mental and physical health → money removes these foundational threats to wellbeing",
+                "title": "Financial security removes a major source of chronic stress",
+                "flow": "Low income creates persistent anxiety about housing, food, and healthcare → this material insecurity contributes to chronic stress → adequate income reduces these daily threats → mental and physical wellbeing can improve",
                 "examples": [
                   {
                     "type": "vn",
@@ -2068,8 +2068,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "In status-conscious societies, income determines social standing and relational quality",
-                "flow": "Income determines social standing → social standing affects quality of relationships → relationships are central to happiness → income therefore drives relational as well as material wellbeing",
+                "title": "In status-conscious societies, income can shape social opportunities as well as material wellbeing",
+                "flow": "Higher income can increase access to valued social spaces and networks → social status affects how people are treated and which opportunities they encounter → these advantages can influence social confidence and relationship opportunities → income may therefore affect wellbeing indirectly as well as materially",
                 "examples": [
                   {
                     "type": "vn",
@@ -2116,7 +2116,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Purpose, autonomy, and meaning are essential to happiness and cannot be purchased",
-                "flow": "Meaningful work aligned with personal values → intrinsic motivation and life direction → psychological wellbeing → these cannot be bought → often in conflict with purely income-maximising choices",
+                "flow": "Meaningful work aligned with personal values → intrinsic motivation and life direction → psychological wellbeing → these cannot be bought → often in conflict with choices focused only on earning more",
                 "examples": [
                   {
                     "type": "vn",
@@ -2199,7 +2199,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Meaningful work and a sense of purpose provide wellbeing that consumption cannot replicate",
-                "flow": "Work aligned with personal values → sense of competence and purpose → intrinsic motivation → sustainable wellbeing → not dependent on income level or external recognition",
+                "flow": "Work aligned with personal values → sense of competence and purpose → internal motivation → lasting wellbeing → not dependent on income level or external recognition",
                 "examples": [
                   {
                     "type": "vn",
@@ -2345,8 +2345,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Heritage once destroyed or neglected can never be recovered — prevention is the only strategy",
-                "flow": "Heritage destroyed or neglected → irreversible cultural loss → future generations inherit a poorer world → the cost of prevention is always lower than the cost of permanent loss",
+                "title": "Irreplaceable heritage is best protected before it is lost",
+                "flow": "Some historic sites, artefacts, and traditions cannot be authentically replaced once destroyed → reconstruction may recover appearance but not original material or context → preventive maintenance reduces the risk of irreversible loss → early protection is often more effective than emergency restoration",
                 "examples": [
                   {
                     "type": "vn",
@@ -2378,8 +2378,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Private funding and market mechanisms can support arts and heritage without government subsidy",
-                "flow": "Arts and heritage with genuine public value → attract private donors, corporate sponsorship, and entrance fees → sustainable without government funding → public resources freed for true public goods",
+                "title": "Private funding can reduce, though not eliminate, reliance on government subsidy",
+                "flow": "Popular cultural institutions can raise money from donations, sponsorship, memberships, and entrance fees → diversified income reduces dependence on public budgets → government funding can be concentrated on heritage with weak commercial appeal → mixed funding can balance public access with financial resilience",
                 "examples": [
                   {
                     "type": "vn",
@@ -2401,7 +2401,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Free admission ensures cultural access is not determined by income",
-                "flow": "Paid admission → low-income families excluded → cultural capital concentrates among the wealthy → free admission removes this barrier → culture becomes a shared public good",
+                "flow": "Paid admission → low-income families excluded → cultural opportunities concentrate among the wealthy → free admission removes this barrier → culture becomes a shared public good",
                 "examples": [
                   {
                     "type": "vn",
@@ -2433,8 +2433,8 @@ window.TOPIC_DATA = {
             "label": "Disadvantages outweigh — free admission creates financial and fairness problems",
             "ideas": [
               {
-                "title": "Free admission creates unsustainable financial pressure on cultural institutions",
-                "flow": "No admission revenue → museums entirely dependent on government funding → budgets fluctuate with political priorities → institutions become financially vulnerable → collection care and quality decline",
+                "title": "Free admission can create funding pressure unless alternative revenue is secure",
+                "flow": "Removing ticket revenue creates a larger funding gap → museums must rely more heavily on public funding, donations, or commercial income → if these sources fluctuate, maintenance and programming are squeezed → free access is sustainable only when replacement funding is reliable",
                 "examples": [
                   {
                     "type": "vn",
@@ -2448,7 +2448,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Admission charges are a fair way to fund institutions used primarily by a minority",
-                "flow": "Not all taxpayers visit museums → general taxation requires non-visitors to subsidise visitors → user charges create fairer cost allocation → resources directed more efficiently when users bear a share",
+                "flow": "Not all taxpayers visit museums → general taxation requires non-visitors to subsidise visitors → user charges create a fairer sharing of costs → resources are directed more efficiently when users bear a share",
                 "examples": [
                   {
                     "type": "vn",

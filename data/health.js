@@ -53,8 +53,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Ultra-processed food is engineered to be irresistible and available everywhere",
-                "flow": "Food industry invests in addictive flavour science → ultra-processed food designed to maximise consumption → available cheaply at every outlet → home cooking displaced → calorie-dense, nutrient-poor food becomes the dietary default.",
+                "title": "Ultra-processed food is designed to encourage overconsumption and is available everywhere",
+                "flow": "Food industry invests in highly appealing flavours and textures → ultra-processed food designed to maximise consumption → available cheaply at every outlet → home cooking displaced → calorie-dense, nutrient-poor food becomes the dietary default.",
                 "examples": [
                   {
                     "type": "vn",
@@ -137,7 +137,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Entertainment technology makes inactivity effortless and immediately rewarding",
-                "flow": "Streaming, gaming, and social media provide immediate reward → passive entertainment competes with active leisure → psychological resistance to exercise rises → screens require no effort → digital convenience undermines movement.",
+                "flow": "Streaming, gaming, and social media provide immediate reward → passive entertainment competes with active leisure → motivation to exercise falls → screens require no effort → digital convenience undermines movement.",
                 "examples": [
                   {
                     "type": "vn",
@@ -192,7 +192,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Sugar taxes reduce consumption and prompt manufacturers to reformulate",
-                "flow": "Tax increases retail price → price-sensitive consumers buy less → manufacturers reduce sugar to avoid tax threshold → food supply improves without requiring individual willpower → structural change via market mechanism.",
+                "flow": "Tax increases retail price → price-sensitive consumers buy less → manufacturers reduce sugar to avoid tax threshold → food supply improves without requiring individual willpower → structural change occurs through market incentives.",
                 "examples": [
                   {
                     "type": "vn",
@@ -373,7 +373,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Healthcare is a fundamental right that should not depend on ability to pay",
-                "flow": "Illness strikes regardless of wealth → financial capacity should not determine survival or recovery → user charges create a two-tier system where the poor die preventably → universal access is a prerequisite for genuine equality of citizenship.",
+                "flow": "Illness strikes regardless of wealth → financial capacity should not determine survival or recovery → user charges create a two-tier system where low-income people face preventable deaths → universal access is a prerequisite for genuine equality of citizenship.",
                 "examples": [
                   {
                     "type": "vn",
@@ -434,7 +434,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Individual financial contribution encourages responsible healthcare use",
-                "flow": "When healthcare is entirely free → moral hazard inflates demand → resources consumed by minor conditions → less available for serious illness → co-payments redirect use toward genuine need.",
+                "flow": "When healthcare is entirely free → patients face no direct price signal → resources may be used for minor conditions → less capacity remains for serious illness → co-payments redirect use toward genuine need.",
                 "examples": [
                   {
                     "type": "vn",
@@ -455,8 +455,8 @@ window.TOPIC_DATA = {
             "label": "Agree — healthcare deserves priority in public spending",
             "ideas": [
               {
-                "title": "Health is the foundation for all economic and social participation",
-                "flow": "Ill health reduces workforce participation → productivity falls → social costs rise → healthcare investment protects economic activity → healthy population generates returns greater than equivalent spending on most other services.",
+                "title": "Healthcare investment supports economic productivity by keeping people healthy enough to work and participate",
+                "flow": "better access to effective care → illness is prevented or treated earlier → fewer working days and productive years are lost → workforce participation and productivity are better protected",
                 "examples": [
                   {
                     "type": "vn",
@@ -469,8 +469,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Preventive healthcare saves far more money than it costs",
-                "flow": "Investment in prevention → fewer people develop costly chronic conditions → hospitalisations reduced → long-term healthcare savings exceed initial prevention investment → health spending is a net financial gain, not just a social expenditure.",
+                "title": "Preventive healthcare can reduce expensive illness and improve value for public spending",
+                "flow": "effective prevention reduces the number or severity of some illnesses → fewer patients need intensive treatment or hospital care → avoidable treatment costs fall → health systems can use resources more efficiently",
                 "examples": [
                   {
                     "type": "vn",
@@ -488,8 +488,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — other spending delivers health improvements more efficiently",
             "ideas": [
               {
-                "title": "Education addresses the social determinants of health more efficiently than healthcare",
-                "flow": "Education raises income → higher income enables healthier food, housing, and exercise → educated individuals make better health decisions → education addresses root causes of poor health → long-term population health improvement via education exceeds equivalent direct healthcare investment.",
+                "title": "Education can improve health by addressing upstream social causes",
+                "flow": "education improves knowledge and employment opportunities → higher income and health literacy support healthier living conditions and choices → preventable health risks fall over time → education complements healthcare by reducing some causes of poor health before treatment is needed",
                 "examples": [
                   {
                     "type": "vn",
@@ -731,7 +731,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Work pressure and job insecurity create chronic psychological strain",
-                "flow": "Global competition intensifies workplace demands → long hours, performance targets, and job insecurity normalised → chronic activation of the stress response → mental and physical health deteriorate → burnout epidemic as work culture exceeds human capacity.",
+                "flow": "Global competition intensifies workplace demands → long hours, performance targets, and job insecurity normalised → the stress response remains active for long periods → mental and physical health deteriorate → widespread burnout as work culture exceeds human capacity.",
                 "examples": [
                   {
                     "type": "vn",
@@ -759,7 +759,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Social media generates constant comparison and anxiety about status and appearance",
-                "flow": "Platforms present curated highlights of others' lives → constant comparison to unrealistic standards → inadequacy and anxiety normalised → fear of missing out becomes chronic → digital social life creates status competition with no natural endpoint.",
+                "flow": "Platforms present curated highlights of others' lives → constant comparison to unrealistic standards → feelings of inadequacy and anxiety increase → fear of missing out becomes chronic → digital social life creates status competition with no natural endpoint.",
                 "examples": [
                   {
                     "type": "vn",
@@ -813,8 +813,8 @@ window.TOPIC_DATA = {
             "label": "Agree — mental illness deserves the same medical treatment as physical illness",
             "ideas": [
               {
-                "title": "Mental illnesses are biological conditions with measurable physical causes",
-                "flow": "Brain chemistry, genetics, and neurology are the biological substrate of mental illness → treating depression, anxiety, and schizophrenia as moral failures rather than medical conditions is scientifically incorrect → pharmaceutical and psychological treatment works → medical recognition is both accurate and effective.",
+                "title": "Mental illness deserves the same seriousness and access to treatment as physical illness",
+                "flow": "mental disorders can cause severe and measurable impairment → effective psychological, social, and medical treatments exist → treating them as personal weakness discourages people from seeking care → recognising them as legitimate health conditions improves access and reduces stigma",
                 "examples": [
                   {
                     "type": "vn",
@@ -846,8 +846,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — mental health requires a broader, distinct approach",
             "ideas": [
               {
-                "title": "Mental health is fundamentally shaped by social conditions, not just biology",
-                "flow": "Physical illness is primarily biological → mental health is shaped by relationships, trauma, poverty, and meaning → purely medical models miss the social roots → social interventions — housing, employment, community connection — are often more effective than medication.",
+                "title": "Mental health care must address social conditions as well as clinical symptoms",
+                "flow": "trauma, poverty, isolation, and insecure living conditions can worsen mental health → medication alone cannot remove these pressures → combining clinical care with social support addresses both symptoms and contributing conditions → treatment becomes more comprehensive",
                 "examples": [
                   {
                     "type": "vn",
@@ -860,8 +860,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Specialist mental health investment requires distinct infrastructure, not assimilation",
-                "flow": "Effective mental health care requires unique expertise, community services, and treatment models → advocacy for parity should not mean structural merger with physical healthcare → specialist investment and distinct professional development produce better outcomes than integration into a framework built for physical illness.",
+                "title": "Mental health care needs specialist services rather than simple integration into physical healthcare",
+                "flow": "Effective mental health care requires specialist expertise, community services, and treatment models → equal status should not mean simply merging it into physical healthcare → dedicated investment and specialist training produce better outcomes than integration into a framework built for physical illness.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1008,8 +1008,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Market failures mean individuals cannot make genuinely free health choices",
-                "flow": "Food and tobacco industries invest billions in engineering addiction and manipulating choice → information asymmetry prevents accurate risk evaluation → advertising targets children before preferences form → genuine free choice is impossible in a manipulated market → government must correct these failures.",
+                "title": "Commercial environments can distort health choices, justifying targeted regulation",
+                "flow": "companies use persuasive marketing and product design to increase consumption → consumers may underestimate long-term risks, especially when information is incomplete → choices are shaped by incentives and messages that firms partly control → targeted regulation can make health decisions better informed",
                 "examples": [
                   {
                     "type": "vn",
@@ -1042,7 +1042,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Excessive government health mandates threaten personal freedom and autonomy",
-                "flow": "Governments deciding what citizens eat, how they exercise, and what risks they take → paternalistic overreach → individual autonomy eroded → privacy of personal choices undermined → liberty is a value health policy must balance, not override.",
+                "flow": "Governments deciding what citizens eat, how they exercise, and what risks they take → excessive state control → individual autonomy eroded → privacy of personal choices undermined → liberty is a value health policy must balance, not override.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1055,8 +1055,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Individual lifestyle choices are the proximate cause of most chronic disease",
-                "flow": "Diet, exercise, smoking, and alcohol are the primary drivers of chronic disease → these are fundamentally individual decisions made daily → no government programme can substitute for personal commitment to healthy choices → responsibility follows choice.",
+                "title": "Lifestyle choices are an important contributor to many chronic diseases",
+                "flow": "diet, physical activity, smoking, and alcohol can materially affect long-term disease risk → repeated habits accumulate health effects over time → individuals can reduce some risks through sustained behaviour change → personal responsibility remains one part of prevention alongside supportive environments",
                 "examples": [
                   {
                     "type": "vn",
@@ -1092,7 +1092,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Restricting advertising reduces demand and improves childhood diets",
-                "flow": "Advertising drives brand awareness and pester power → restriction reduces children's exposure → brand recognition falls → impulse demand on parents reduced → childhood dietary patterns improve where advertising restrictions are enforced.",
+                "flow": "Advertising drives brand awareness and pressure on parents → restriction reduces children's exposure → brand recognition falls → impulse demand on parents reduced → childhood dietary patterns improve where advertising restrictions are enforced.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1124,8 +1124,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital migration renders broadcast advertising bans structurally obsolete",
-                "flow": "Broadcast advertising can be regulated → children's media consumption has migrated to digital platforms → algorithmic recommendations, influencer marketing, and sponsored content evade traditional bans → regulation creates false reassurance without limiting actual exposure.",
+                "title": "Advertising restrictions must extend to digital platforms to remain effective",
+                "flow": "children increasingly consume media online → influencer marketing and algorithmic advertising bypass rules written mainly for television → broadcast-only restrictions cover a shrinking share of exposure → regulation must include digital channels to reduce advertising reach",
                 "examples": [
                   {
                     "type": "vn",
@@ -1147,7 +1147,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Financial responsibility for health costs creates meaningful incentives for prevention",
-                "flow": "No financial consequence for unhealthy choices → moral hazard reduces incentive for prevention → financial responsibility creates incentive to avoid unnecessary health risk → resources freed for those facing unavoidable illness → insurance models based on behaviour precedented in other sectors.",
+                "flow": "No financial consequence for unhealthy choices → weaker financial incentives for prevention → financial responsibility creates incentive to avoid unnecessary health risk → resources freed for those facing unavoidable illness → behaviour-based insurance models already exist in other sectors.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1339,7 +1339,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Medical advances extend not just lifespan but healthy, active years",
-                "flow": "Modern medicine compresses morbidity → people live longer and healthier → disability confined to a shorter end-of-life period → more years of active, capable living → quality and quantity of life improve simultaneously.",
+                "flow": "Modern medicine reduces the share of life spent in poor health → people live longer and healthier → disability confined to a shorter end-of-life period → more years of active, capable living → quality and quantity of life improve simultaneously.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1372,7 +1372,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Extended lifespan without quality can mean prolonged suffering",
-                "flow": "Medical technology can maintain biological life beyond the point of meaningful living → patients kept alive through technology despite severe dementia or organ failure → end-of-life care extends suffering for patients and burden for families → quantity of life extended without equivalent quality.",
+                "flow": "Medical technology can maintain biological life even when quality of life is severely limited → patients kept alive through technology despite severe dementia or organ failure → end-of-life care extends suffering for patients and burden for families → quantity of life extended without equivalent quality.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1393,8 +1393,8 @@ window.TOPIC_DATA = {
             "label": "Agree — medical technology will transform healthcare for the better",
             "ideas": [
               {
-                "title": "AI diagnostics will achieve accuracy beyond human capability",
-                "flow": "AI trained on millions of medical images → detects patterns invisible to human clinicians → earlier diagnosis of cancer and chronic disease → better treatment outcomes → diagnostic accuracy no longer constrained by individual physician experience or fatigue.",
+                "title": "AI can improve diagnostic accuracy and consistency in specific medical tasks",
+                "flow": "AI trained on large clinical datasets can detect subtle patterns → clinicians receive additional decision support → some conditions can be identified earlier or more consistently → combining machine analysis with clinical judgment can improve care",
                 "examples": [
                   {
                     "type": "vn",
@@ -1589,7 +1589,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Social isolation harms elderly wellbeing as traditional family structures weaken",
-                "flow": "Urbanisation disperses extended families → adult children migrate for work → traditional multigenerational care disappears → state services are inadequate substitutes → elderly isolation becomes an epidemic.",
+                "flow": "Urbanisation disperses extended families → adult children migrate for work → traditional multigenerational care disappears → state services are inadequate substitutes → social isolation among elderly people becomes widespread.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1671,8 +1671,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Family care is far more cost-effective than building state provision at scale",
-                "flow": "Professional care homes are expensive to build, staff, and regulate → family caregiving uses existing household resources → state funds preserved for other priorities → total societal cost lower when families provide care → economic case for family care matches the emotional one.",
+                "title": "Family care can reduce direct public spending when relatives are willing and able to provide support",
+                "flow": "some elderly people can be cared for safely at home → less residential care capacity is required → direct state spending on institutional care falls → public resources can be concentrated on families and patients with more complex needs",
                 "examples": [
                   {
                     "type": "vn",
@@ -1705,7 +1705,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "State care provides professional standards and safeguards family settings cannot guarantee",
-                "flow": "Professional care homes are regulated → staff trained and accountable → abuse and neglect detectable → elderly people with complex needs receive specialised care → frail elderly are vulnerable and require professional protection, not just familial goodwill.",
+                "flow": "Professional care homes are regulated → staff trained and accountable → abuse and neglect detectable → elderly people with complex needs receive specialised care → frail elderly are vulnerable and require professional protection, not just family goodwill.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1726,8 +1726,8 @@ window.TOPIC_DATA = {
             "label": "Agree — raising retirement age is necessary",
             "ideas": [
               {
-                "title": "Demographic arithmetic makes higher retirement ages fiscally unavoidable",
-                "flow": "Rising life expectancy + fixed retirement age = longer pension payout period → pension fund costs rise → fewer workers funding more retirees → system approaches insolvency → raising retirement age restores the ratio between working and retirement years.",
+                "title": "Higher retirement ages can help restore pension balance as life expectancy rises",
+                "flow": "people spend more years in retirement while the worker-to-retiree ratio falls → pension costs rise relative to contributions → extending working lives increases contributions and shortens benefit periods → financial pressure on pension systems is reduced",
                 "examples": [
                   {
                     "type": "vn",
@@ -1773,8 +1773,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Keeping older workers longer blocks economic entry for younger generations",
-                "flow": "Fixed number of positions in many sectors → older workers staying longer → youth unemployment rises → human potential wasted → delaying retirement at one end blocks entry at the other.",
+                "title": "Higher retirement ages can slow entry in occupations where vacancies depend heavily on turnover",
+                "flow": "some sectors have slow turnover and limited junior openings → later retirement reduces vacancies in those sectors → young entrants may wait longer for opportunities → retirement policy should account for labour-market conditions rather than assume one age suits every occupation",
                 "examples": [
                   {
                     "type": "vn",
@@ -1905,7 +1905,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Global health threats cross borders — self-interest aligns with humanitarian obligation",
-                "flow": "Infectious disease does not respect national boundaries → untreated disease reservoirs in developing nations → pandemic risk for all → wealthy nations' self-interest in health security aligns with humanitarian duty → global health investment simultaneously protects both rich and poor.",
+                "flow": "Infectious disease does not respect national boundaries → uncontrolled outbreaks in countries with weak health systems → pandemic risk for all → wealthy nations' self-interest in health security aligns with humanitarian duty → global health investment simultaneously protects both rich and poor.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1952,7 +1952,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Local solutions are better designed for local conditions and more sustainable",
-                "flow": "Western medical models designed for wealthy-nation disease patterns and infrastructure → imposed solutions poorly adapted to local contexts → local innovation produces more appropriate, sustainable solutions → investing in local capacity more effective than supplying external services.",
+                "flow": "Healthcare models designed for wealthy-country disease patterns and infrastructure → externally imposed solutions poorly adapted to local contexts → local innovation produces more appropriate, sustainable solutions → investing in local capacity more effective than supplying external services.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1987,8 +1987,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Companies already benefit from publicly-funded research — reciprocal obligation follows",
-                "flow": "Most fundamental drug research is publicly funded through universities and government grants → companies license these discoveries → patent commercial profit on publicly subsidised science → public funding creates a legitimate public interest claim on access.",
+                "title": "Public funding of drug research creates a public claim to affordable access",
+                "flow": "Most fundamental drug research is publicly funded through universities and government grants → companies license these discoveries → earn commercial profit from publicly subsidised science → public funding creates a legitimate public interest claim on access.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2006,8 +2006,8 @@ window.TOPIC_DATA = {
             "label": "Disagree — mandatory price cuts undermine drug development",
             "ideas": [
               {
-                "title": "Reduced prices undermine the R&D investment that creates future treatments",
-                "flow": "Drug development costs $2 billion+ per successful product → prices must recover these costs → mandating lower prices reduces R&D investment → fewer new drugs developed → today's access solution creates tomorrow's pipeline problem.",
+                "title": "Aggressive price controls can reduce incentives for private investment in new medicines",
+                "flow": "drug development requires large and risky upfront investment → firms expect successful products to compensate for failed projects and research costs → if expected returns fall sharply, some private research becomes less attractive → fewer projects may receive investment",
                 "examples": [
                   {
                     "type": "vn",
@@ -2152,7 +2152,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Digital connectivity eliminates recovery time, creating chronic physiological stress",
-                "flow": "Smartphones erase the boundary between work and personal life → employees available at all hours → psychological recovery from work becomes impossible → cortisol elevated chronically → immune, cardiovascular, and mental health consequences compound over time.",
+                "flow": "Smartphones erase the boundary between work and personal life → employees available at all hours → psychological recovery from work becomes impossible → stress hormones remain chronically elevated → immune, cardiovascular, and mental health consequences compound over time.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2179,8 +2179,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Work-related mental health conditions have reached epidemic proportions",
-                "flow": "Workplace stress, harassment, and burnout become leading causes of long-term illness → mental health conditions now the primary reason for sick leave in many countries → productivity losses and healthcare costs soar → mental illness from work is a public health crisis, not an individual failing.",
+                "title": "Work-related mental health conditions have become increasingly widespread",
+                "flow": "Workplace stress, harassment, and burnout become leading causes of long-term illness → mental health conditions now the primary reason for sick leave in many countries → productivity losses and healthcare costs soar → work-related mental illness becomes a public health problem, not an individual failing.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2212,8 +2212,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Work provides health-protective factors that unemployment cannot",
-                "flow": "Work provides income, social connection, structure, and purpose → employment is positively correlated with health → unemployment is more strongly associated with poor health than demanding work.",
+                "title": "Good-quality employment can protect health through income, routine, social contact, and purpose",
+                "flow": "secure work provides income and daily structure → colleagues provide social connection → purposeful activity supports wellbeing → when working conditions are reasonable, employment can offer health benefits that unemployment often lacks",
                 "examples": [
                   {
                     "type": "vn",

@@ -48,7 +48,7 @@ function gateHtml(wrong) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ideas Book for IELTS Essay</title>
+<title>Ideas Book for IELTS Essays</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -164,7 +164,7 @@ function gateHtml(wrong) {
       </svg>
     </div>
     <div class="eyebrow">Champion Edu</div>
-    <h1>Ideas Book for IELTS Essay</h1>
+    <h1>Ideas Book for IELTS Essays</h1>
     <p class="subtitle">Nhập passcode để xem nội dung</p>
     <input type="password" name="passcode" placeholder="• • • • • •" autofocus autocomplete="off" inputmode="numeric">
     <button type="submit">Vào xem</button>

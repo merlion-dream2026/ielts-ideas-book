@@ -60,8 +60,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Family instability removes the primary agent of moral development",
-                "flow": "absent parents, conflict, or parental criminality → children lack supervision and moral modelling → antisocial norms normalised early → risk of offending multiplies through adolescence",
+                "title": "Family instability weakens children's main source of moral guidance",
+                "flow": "absent parents, conflict, or parental criminality → children lack supervision and positive moral examples → antisocial behaviour is normalised early → risk of offending multiplies through adolescence",
                 "examples": [
                   {
                     "type": "vn",
@@ -108,7 +108,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Early family intervention breaks intergenerational crime cycles",
-                "flow": "parenting education and home-visiting schemes target at-risk households early → children develop self-regulation and moral reasoning → propensity for criminal behaviour reduced before adolescence",
+                "flow": "parenting education and home-visiting schemes target at-risk households early → children develop self-control and moral reasoning → likelihood of criminal behaviour is reduced before adolescence",
                 "examples": [
                   {
                     "type": "vn",
@@ -121,8 +121,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Community cohesion rebuilds informal social control",
-                "flow": "investment in public spaces, youth clubs, and neighbourhood networks → stronger informal oversight → residents monitor and report crime → fewer opportunities and less motivation for offending",
+                "title": "Community cohesion rebuilds informal community oversight",
+                "flow": "investment in public spaces, youth clubs, and neighbourhood networks → stronger day-to-day community oversight → residents monitor and report crime → fewer opportunities and less motivation for offending",
                 "examples": [
                   {
                     "type": "vn",
@@ -143,8 +143,8 @@ window.TOPIC_DATA = {
             "label": "Poverty is a primary driver of criminal behaviour",
             "ideas": [
               {
-                "title": "Material deprivation makes survival crimes a rational calculation",
-                "flow": "poverty eliminates ability to meet basic needs → theft and fraud become calculated responses → property crime concentrates predictably in deprived areas → the link is structural, not coincidental",
+                "title": "Severe poverty can make survival crime seem like a rational choice",
+                "flow": "poverty leaves people unable to meet basic needs → theft and fraud become calculated responses → property crime concentrates predictably in deprived areas → the link is built into social conditions rather than coincidental",
                 "examples": [
                   {
                     "type": "vn",
@@ -172,7 +172,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Concentrated poverty destroys the institutions that restrain behaviour",
-                "flow": "deprivation clusters geographically → social cohesion and informal control collapse → criminal norms spread through peer networks → crime becomes embedded regardless of individual intentions",
+                "flow": "deprivation clusters geographically → social cohesion and community oversight collapse → criminal norms spread through peer networks → crime becomes embedded regardless of individual intentions",
                 "examples": [
                   {
                     "type": "vn",
@@ -190,8 +190,8 @@ window.TOPIC_DATA = {
             "label": "Poverty alone is insufficient to explain criminal behaviour",
             "ideas": [
               {
-                "title": "The vast majority of poor people never commit crimes",
-                "flow": "if poverty caused crime deterministically → all deprived communities would show equal crime rates → they demonstrably do not → cultural values and community bonds mediate the relationship",
+                "title": "Poverty influences crime, but it cannot explain differences between equally deprived communities",
+                "flow": "communities with similar levels of poverty can have very different crime rates → differences in family stability, social trust, and local institutions shape how poverty affects behaviour → poverty raises risk but does not determine outcomes on its own",
                 "examples": [
                   {
                     "type": "vn",
@@ -218,8 +218,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cultural and institutional quality override poverty as crime determinants",
-                "flow": "rule of law, social trust, and cultural norms shape crime rates independently of poverty levels → some wealthy societies are high-crime; some poor societies are low-crime → poverty provides partial but not complete explanation",
+                "title": "Cultural values and strong institutions can matter more than poverty in shaping crime",
+                "flow": "rule of law, social trust, and cultural norms shape crime rates independently of poverty levels → some wealthy societies have high crime; some poor societies have low crime → poverty explains part of the pattern, but not all of it",
                 "examples": [
                   {
                     "type": "vn",
@@ -254,8 +254,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Education instils the values and norms that inhibit offending",
-                "flow": "schooling transmits civic values, rule of law, and awareness of consequences → moral reasoning and empathy develop → psychological barriers to crime become internalised → educated populations resist criminal peer cultures more effectively",
+                "title": "Education instils values and norms that discourage offending",
+                "flow": "schooling teaches civic values, respect for the law, and awareness of consequences → moral reasoning and empathy develop → internal restraints against crime become stronger → educated populations resist criminal peer pressure more effectively",
                 "examples": [
                   {
                     "type": "vn",
@@ -269,7 +269,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Education builds impulse control and long-term thinking",
-                "flow": "schooling develops cognitive and emotional self-regulation → individuals weigh future consequences before acting → impulsive risk-taking decreases → propensity for opportunistic crime falls significantly",
+                "flow": "schooling develops self-control over thoughts and emotions → individuals weigh future consequences before acting → impulsive risk-taking decreases → likelihood of opportunistic crime falls significantly",
                 "examples": [
                   {
                     "type": "vn",
@@ -301,8 +301,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Structural poverty overrides individual educational gains",
-                "flow": "economic inequality concentrates crime regardless of education levels → poor areas remain high-crime even as school completion improves → education without economic opportunity is insufficient → structural reform must accompany schooling",
+                "title": "Economic disadvantage can outweigh individual educational gains",
+                "flow": "economic inequality concentrates crime regardless of education levels → poor areas remain high-crime even as school completion improves → education without economic opportunity is insufficient → broader economic reform must accompany schooling",
                 "examples": [
                   {
                     "type": "vn",
@@ -384,8 +384,8 @@ window.TOPIC_DATA = {
             "label": "Wider social and economic factors are more powerful determinants",
             "ideas": [
               {
-                "title": "Economic structure shapes criminal opportunity regardless of family",
-                "flow": "macroeconomic inequality creates deprived neighbourhoods → entire communities face blocked legitimate pathways → crime increases across all families in the same area → structural forces override individual family influence",
+                "title": "Wider economic inequality shapes criminal opportunity regardless of family",
+                "flow": "wider economic inequality creates deprived neighbourhoods → entire communities face blocked legitimate routes to success → crime increases across all families in the same area → broader economic forces outweigh individual family influence",
                 "examples": [
                   {
                     "type": "vn",
@@ -399,7 +399,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Peer group and neighbourhood environment override parental influence in adolescence",
-                "flow": "adolescent peer influence becomes dominant → children from good families turn to crime through peer socialisation in high-crime neighbourhoods → family values alone are insufficient to overcome environmental pressure",
+                "flow": "adolescent peer influence becomes dominant → children from good families turn to crime under the influence of criminal peers in high-crime neighbourhoods → family values alone are insufficient to overcome environmental pressure",
                 "examples": [
                   {
                     "type": "vn",
@@ -482,7 +482,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Many unemployed people never commit crimes",
-                "flow": "millions are unemployed at any point without turning to crime → additional variables beyond joblessness determine criminal choice → moral values, family support, and social capital all mediate the relationship",
+                "flow": "millions are unemployed at any point without turning to crime → factors beyond joblessness shape criminal choices → moral values, family support, and community ties all affect how strongly unemployment is linked to crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -559,8 +559,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Countries that invested in reducing inequality achieved lasting crime reductions",
-                "flow": "social investment in equality and opportunity → sustained multi-decade crime reductions → reliance on mass incarceration → cycling recidivism and high crime → evidence consistently favours structural over punitive investment",
+                "title": "Addressing root causes can reduce crime more sustainably than punishment alone",
+                "flow": "investment in education, employment, and family support reduces the conditions that generate offending → fewer new offenders enter the justice system → punishment is needed less often → crime reduction is sustained because the source of offending is weakened",
                 "examples": [
                   {
                     "type": "vn",
@@ -606,8 +606,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Some dangerous offenders require incapacitation regardless of the social strategy",
-                "flow": "not all offenders are purely products of social conditions → some exhibit persistent dangerous behaviour → the public requires protection → incarceration for dangerous individuals is necessary regardless of the broader investment strategy",
+                "title": "Some dangerous offenders must be kept in prison regardless of the broader social strategy",
+                "flow": "not all offenders are purely products of social conditions → some show persistent dangerous behaviour → the public requires protection → imprisonment is necessary for dangerous individuals regardless of the broader investment strategy",
                 "examples": [
                   {
                     "type": "vn",
@@ -805,8 +805,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital media normalises criminal behaviour and accelerates peer radicalisation",
-                "flow": "social media and gaming platforms celebrate criminal aesthetics → young people normalise what they repeatedly see → peer competition rewards risk-taking → digital socialisation accelerates the path to criminal involvement",
+                "title": "Digital media normalises criminal behaviour and intensifies harmful peer influence",
+                "flow": "social media and gaming platforms glamorise criminal lifestyles → young people normalise what they repeatedly see → peer competition rewards risk-taking → online peer influence accelerates the path to criminal involvement",
                 "examples": [
                   {
                     "type": "vn",
@@ -852,8 +852,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Family support services strengthen the primary protective unit",
-                "flow": "counselling, parenting classes, and financial support for struggling families → family bonds strengthened → parental capacity to supervise and guide improves → home becomes protective rather than criminogenic",
+                "title": "Family support services strengthen children's main source of protection",
+                "flow": "counselling, parenting classes, and financial support for struggling families → family bonds strengthened → parental capacity to supervise and guide improves → home becomes protective rather than a source of crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -888,8 +888,8 @@ window.TOPIC_DATA = {
             "label": "Young serious offenders should face adult-equivalent punishment",
             "ideas": [
               {
-                "title": "Serious crimes cause equal harm regardless of the offender's age",
-                "flow": "victims of violent crime suffer identically whether the perpetrator is 16 or 30 → justice demands consequences proportionate to harm caused → age-based exemptions fail victims → equal harm should produce equal consequences",
+                "title": "Serious youth offences may justify adult-level consequences when maturity and intent are comparable",
+                "flow": "some older adolescents understand the seriousness and wrongfulness of planned violent acts → courts can assess maturity, intent, and circumstances individually → where responsibility is close to that of an adult, substantially lighter punishment based only on age can be hard to justify",
                 "examples": [
                   {
                     "type": "vn",
@@ -917,7 +917,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Some young offenders are fully aware of and morally responsible for their actions",
-                "flow": "adolescent moral reasoning is sufficiently developed by mid-teens to understand the wrongness of serious crimes → premeditated violence by a 16-year-old differs fundamentally from impulsive child behaviour → individual culpability should be assessed, not blanket age exemptions applied",
+                "flow": "adolescent moral reasoning is sufficiently developed by mid-teens to understand the wrongness of serious crimes → premeditated violence by a 16-year-old differs fundamentally from impulsive child behaviour → individual responsibility should be assessed, rather than applying blanket age exemptions",
                 "examples": [
                   {
                     "type": "vn",
@@ -935,8 +935,8 @@ window.TOPIC_DATA = {
             "label": "Young offenders should be treated differently from adults",
             "ideas": [
               {
-                "title": "Adolescent brain development means young people cannot be held to adult standards",
-                "flow": "prefrontal cortex — governing impulse control and long-term reasoning — is not fully developed until the mid-20s → adolescents are neurologically predisposed to risk-taking and poor judgment → adult-standard accountability ignores established neuroscience",
+                "title": "Adolescent development justifies greater allowance for impulsiveness and reduced foresight",
+                "flow": "brain systems involved in impulse control and long-term planning are still developing during adolescence → teenagers are generally more prone to impulsive risk-taking than adults → sentencing can recognise this developmental difference while still holding them responsible",
                 "examples": [
                   {
                     "type": "vn",
@@ -986,7 +986,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Parents are the first and most powerful moral educators",
-                "flow": "children's core values form in the family before school begins → parents who model, reinforce, or fail to challenge antisocial behaviour shape criminal predisposition → parental negligence produces moral deficits → deficits manifest as crime",
+                "flow": "children's core values form in the family before school begins → parents who model, reinforce, or fail to challenge antisocial behaviour shape a child's tendency toward crime → parental negligence weakens moral judgment → these weaknesses later appear as criminal behaviour",
                 "examples": [
                   {
                     "type": "vn",
@@ -1014,7 +1014,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Parental abuse and neglect are direct causal factors in juvenile crime",
-                "flow": "abuse or severe neglect → trauma, attachment disorders, and learned aggression → children who experience violence are significantly more likely to perpetrate it → parental behaviour is an active cause, not merely background context",
+                "flow": "abuse or severe neglect → trauma, attachment problems, and learned aggression → children who experience violence are significantly more likely to use violence themselves → parental behaviour is an active cause, not merely background context",
                 "examples": [
                   {
                     "type": "vn",
@@ -1096,8 +1096,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Schools can teach practical law literacy that deters unknowing violations",
-                "flow": "many young people commit crimes through ignorance of the law → schools can systematically teach legal rights, responsibilities, and consequences → informed young people make better choices → legal literacy functions as a preventive tool",
+                "title": "Schools can teach practical legal knowledge that prevents unknowing violations",
+                "flow": "many young people commit crimes through ignorance of the law → schools can systematically teach legal rights, responsibilities, and consequences → informed young people make better choices → practical legal knowledge becomes a preventive tool",
                 "examples": [
                   {
                     "type": "vn",
@@ -1143,8 +1143,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Overburdening schools with social problems reduces academic quality",
-                "flow": "diverting school time to moral and civic education reduces academic instruction → students' academic prospects suffer → reduced qualifications lead to worse employment outcomes → the prevention effort inadvertently creates the economic conditions for crime",
+                "title": "Schools cannot solve crime causes that lie mainly outside the classroom",
+                "flow": "schools can teach legal and civic values → but family instability, poverty, neighbourhood crime, and weak policing operate beyond school → classroom instruction has limited power over these conditions → schools should support crime prevention without being expected to replace wider social policy",
                 "examples": [
                   {
                     "type": "vn",
@@ -1309,7 +1309,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Education builds the values and reasoning that prevent offending",
-                "flow": "schooling transmits civic norms and legal awareness → moral reasoning and empathy develop → psychological inhibitors of crime become internalised → educated populations resist criminal peer cultures more effectively",
+                "flow": "schooling teaches civic norms and legal awareness → moral reasoning and empathy develop → internal restraints against crime become stronger → educated populations resist criminal peer pressure more effectively",
                 "examples": [
                   {
                     "type": "vn",
@@ -1405,8 +1405,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Faster response times increase apprehension rates and strengthen deterrence",
-                "flow": "more officers → faster response when crimes occur → higher arrest rates → greater deterrent through certainty of punishment → criminals know rapid response reduces the probability of successful escape",
+                "title": "Faster response times increase arrest rates and strengthen deterrence",
+                "flow": "more officers → faster response when crimes occur → higher arrest rates → stronger deterrence because punishment seems more certain → criminals know rapid response makes successful escape less likely",
                 "examples": [
                   {
                     "type": "vn",
@@ -1466,8 +1466,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social investment produces more sustained crime reduction per unit of spending",
-                "flow": "police salaries, equipment, and administration are expensive recurring costs → social investment in education, employment, and community produces self-sustaining crime reduction → cost-per-crime-prevented is far higher for policing than for social programmes",
+                "title": "Social investment produces more lasting crime reduction for the same spending",
+                "flow": "police salaries, equipment, and administration are expensive recurring costs → social investment in education, employment, and communities produces crime reduction that can sustain itself → policing costs far more for each crime prevented than social programmes",
                 "examples": [
                   {
                     "type": "vn",
@@ -1488,8 +1488,8 @@ window.TOPIC_DATA = {
             "label": "Prevention spending is more effective and efficient than punishment",
             "ideas": [
               {
-                "title": "Prevention is dramatically cheaper than punishment per crime avoided",
-                "flow": "imprisonment costs tens of thousands per prisoner annually → education, family support, and employment programmes cost a fraction → and prevent crime from occurring rather than merely responding → rational resource allocation favours prevention",
+                "title": "Prevention is dramatically cheaper than punishment for each crime avoided",
+                "flow": "imprisonment costs tens of thousands per prisoner annually → education, family support, and employment programmes cost a fraction → they prevent crime from occurring rather than merely responding to it → spending resources rationally therefore favours prevention",
                 "examples": [
                   {
                     "type": "vn",
@@ -1549,8 +1549,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Credible punishment deters rational criminal calculation",
-                "flow": "potential offenders weigh benefits against risks of punishment → reducing punishment reduces the deterrent cost of offending → crime becomes more attractive when consequences are perceived as negligible → some level of credible punishment is necessary in any functioning justice system",
+                "title": "Credible punishment deters offenders who weigh risks and benefits",
+                "flow": "potential offenders weigh benefits against risks of punishment → reducing punishment lowers the cost they attach to offending → crime becomes more attractive when consequences seem negligible → some level of credible punishment is necessary in any functioning justice system",
                 "examples": [
                   {
                     "type": "vn",
@@ -1564,7 +1564,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Victims and society require justice, not only crime reduction",
-                "flow": "punishment has a retributive function beyond crime reduction → victims need societal acknowledgment that wrongs against them matter → public confidence in the justice system requires visible consequences → prevention-only approaches undermine the moral framework of law",
+                "flow": "punishment has a role beyond reducing crime → victims need societal acknowledgment that wrongs against them matter → public confidence in the justice system requires visible consequences → prevention-only approaches undermine the moral framework of law",
                 "examples": [
                   {
                     "type": "vn",
@@ -1599,8 +1599,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Predictive analytics enables proactive policing",
-                "flow": "crime data analysis identifies patterns and hotspots → police resources directed precisely where needed → proactive patrols prevent crimes before they occur → efficiency of the same number of officers multiplies significantly",
+                "title": "Crime-data analysis enables proactive policing",
+                "flow": "crime data analysis identifies patterns and hotspots → police resources are directed precisely where needed → proactive patrols prevent crimes before they occur → the same number of officers becomes significantly more effective",
                 "examples": [
                   {
                     "type": "vn",
@@ -1647,7 +1647,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Algorithmic systems embed and amplify existing biases",
-                "flow": "predictive policing algorithms trained on biased historical data → over-police already marginalised communities → more arrests create more data confirming the bias → discriminatory outcomes are mathematically laundered into apparent objectivity",
+                "flow": "predictive policing algorithms trained on biased historical data → already marginalised communities are policed more heavily → more arrests create more data that confirms the original bias → discriminatory outcomes appear objective simply because an algorithm produced them",
                 "examples": [
                   {
                     "type": "vn",
@@ -1823,8 +1823,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Camera footage provides irrefutable prosecution evidence",
-                "flow": "crimes caught on camera → identity and action clearly recorded → prosecution becomes straightforward → conviction rates rise → future deterrence strengthened through certainty of punishment",
+                "title": "Camera footage can strengthen prosecution by providing direct visual evidence",
+                "flow": "crimes captured clearly on camera → investigators gain evidence about identity and actions → cases become easier to prove when footage is reliable → higher likelihood of conviction can strengthen deterrence",
                 "examples": [
                   {
                     "type": "vn",
@@ -1870,8 +1870,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Blanket surveillance erodes civil liberties and chills lawful behaviour",
-                "flow": "pervasive camera coverage → citizens' movements constantly monitored → awareness of surveillance modifies lawful behaviour → freedom of assembly, protest, and personal expression is psychologically curtailed",
+                "title": "Blanket surveillance erodes civil liberties and discourages lawful behaviour",
+                "flow": "pervasive camera coverage → citizens' movements are constantly monitored → awareness of surveillance changes lawful behaviour → people feel less free to assemble, protest, or express themselves",
                 "examples": [
                   {
                     "type": "vn",
@@ -1967,8 +1967,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Surveillance infrastructure is routinely repurposed beyond its stated crime prevention mandate",
-                "flow": "data collected for crime prevention → repurposed for political monitoring, commercial exploitation, or harassment → scope creep is historically the norm → creating surveillance capacity creates the conditions for its abuse",
+                "title": "Surveillance systems are often reused beyond their original crime-prevention purpose",
+                "flow": "data collected for crime prevention → reused for political monitoring, commercial exploitation, or harassment → use gradually expands beyond its original purpose → building surveillance capacity creates the conditions for abuse",
                 "examples": [
                   {
                     "type": "vn",
@@ -1981,8 +1981,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Privacy is a foundational right, not merely an instrumental preference",
-                "flow": "privacy enables autonomy, identity formation, and freedom from state control → surveillance compromises personhood even when data is never misused → the knowledge of being watched alters behaviour → a permanently watched population cannot be truly free",
+                "title": "Privacy is a basic right, not just a practical preference",
+                "flow": "privacy allows people to make personal choices, develop their identity, and live free from unnecessary state control → surveillance undermines this freedom even when data is never misused → knowing that one is being watched changes behaviour → a permanently watched population cannot be truly free",
                 "examples": [
                   {
                     "type": "vn",
@@ -2004,7 +2004,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Armed criminals require an armed and credible police response",
-                "flow": "offenders who carry firearms → unarmed police cannot safely confront or arrest them → dangerous criminals operate with relative impunity → public safety is compromised by an asymmetry in force",
+                "flow": "offenders who carry firearms → unarmed police cannot safely confront or arrest them → dangerous criminals can act with little fear of being stopped → public safety is compromised when criminals have much greater force than police",
                 "examples": [
                   {
                     "type": "vn",
@@ -2051,7 +2051,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Armed police escalate confrontations and increase civilian casualties",
-                "flow": "firearm availability changes the calculus of every encounter → officers more likely to use lethal force in ambiguous situations → civilians killed in confrontations that unarmed officers would have de-escalated → gun presence transforms interactions",
+                "flow": "the presence of firearms changes the risk calculation in every encounter → officers are more likely to use lethal force in ambiguous situations → civilians are killed in confrontations that unarmed officers would have de-escalated → guns change the nature of police-civilian interactions",
                 "examples": [
                   {
                     "type": "vn",
@@ -2128,8 +2128,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Lack of genuine accountability perpetuates a perception of impunity",
-                "flow": "officers who commit misconduct are rarely prosecuted → internal investigations widely seen as whitewashes → the public concludes accountability is structurally impossible → distrust becomes a rational response to a demonstrably unaccountable system",
+                "title": "Lack of genuine accountability creates the belief that officers can act without consequences",
+                "flow": "officers who commit misconduct are rarely prosecuted → internal investigations are widely seen as cover-ups → the public concludes that real accountability is impossible within the system → distrust becomes a rational response to a system seen as unaccountable",
                 "examples": [
                   {
                     "type": "vn",
@@ -2315,8 +2315,8 @@ window.TOPIC_DATA = {
             "label": "Imprisonment is justified and effective",
             "ideas": [
               {
-                "title": "Incapacitation immediately protects society from dangerous offenders",
-                "flow": "incarceration physically removes offenders from society → crimes they would otherwise commit are prevented → communities are immediately safer → the protection effect is direct and certain",
+                "title": "Keeping dangerous offenders in prison immediately protects society",
+                "flow": "imprisonment physically removes offenders from society → crimes they would otherwise commit are prevented → communities are immediately safer → the protective effect is direct and certain",
                 "examples": [
                   {
                     "type": "vn",
@@ -2362,8 +2362,8 @@ window.TOPIC_DATA = {
             "label": "Alternatives to imprisonment are more effective",
             "ideas": [
               {
-                "title": "Prison is criminogenic — it produces more crime than it prevents",
-                "flow": "incarceration exposes offenders to hardened criminals → criminal networks, norms, and techniques are absorbed → criminal identity becomes entrenched → ex-prisoners return to society more dangerous than when they entered",
+                "title": "Prison produces more crime than it prevents",
+                "flow": "imprisonment exposes offenders to hardened criminals → they absorb criminal networks, norms, and techniques → criminal identity becomes deeply rooted → ex-prisoners return to society more dangerous than when they entered",
                 "examples": [
                   {
                     "type": "vn",
@@ -2427,7 +2427,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Reformed ex-prisoners contribute productively to society",
-                "flow": "rehabilitation equips offenders with skills and self-concept for legal life → successful reintegration into employment → tax contributions, family stability, and community participation → society gains a productive member rather than a recurring burden",
+                "flow": "rehabilitation equips offenders with skills and a new sense of identity for a law-abiding life → successful reintegration into employment → tax contributions, family stability, and community participation → society gains a productive member rather than a recurring burden",
                 "examples": [
                   {
                     "type": "vn",
@@ -2440,8 +2440,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "International evidence shows reform-focused systems reduce crime more effectively",
-                "flow": "Nordic countries' rehabilitative prison systems → lowest reoffending rates globally → lower crime rates than punitive systems → the evidence is cross-national and consistent → reform produces better crime outcomes than punishment alone",
+                "title": "Rehabilitation-focused prisons can reduce reoffending by preparing offenders for release",
+                "flow": "education, treatment, and skills training address problems linked to offending → prisoners leave with better ability to work and manage their behaviour → reintegration becomes easier → fewer return to crime after release",
                 "examples": [
                   {
                     "type": "vn",
@@ -2459,8 +2459,8 @@ window.TOPIC_DATA = {
             "label": "Punishment remains a legitimate and necessary purpose of prison",
             "ideas": [
               {
-                "title": "Victims require retributive justice, not only offender welfare",
-                "flow": "crime causes real suffering to victims → justice demands that offenders experience meaningful deprivation proportionate to the harm caused → a prison focused entirely on rehabilitation may appear to prioritise the offender → victims' needs for acknowledgment must be central",
+                "title": "Victims require punishment that reflects the harm done, not only support for offenders",
+                "flow": "crime causes real suffering to victims → justice demands that offenders experience meaningful loss proportionate to the harm caused → a prison focused entirely on rehabilitation may appear to prioritise the offender → victims' need for acknowledgment must remain central",
                 "examples": [
                   {
                     "type": "vn",
@@ -2488,7 +2488,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Some offenders are unwilling or unable to engage with rehabilitation",
-                "flow": "not all offenders are motivated to change → compelled participation in rehabilitation programmes produces poor outcomes → for persistent or psychopathic offenders rehabilitation is not achievable → punishment and incapacitation are the appropriate responses for this group",
+                "flow": "not all offenders are motivated to change → forced participation in rehabilitation programmes produces poor outcomes → for persistent offenders with deeply entrenched antisocial behaviour, rehabilitation is not achievable → punishment and secure imprisonment are the appropriate responses for this group",
                 "examples": [
                   {
                     "type": "vn",
@@ -2509,8 +2509,8 @@ window.TOPIC_DATA = {
             "label": "Longer sentences effectively reduce crime",
             "ideas": [
               {
-                "title": "Extended incapacitation prevents reoffending for longer",
-                "flow": "a prisoner cannot commit crimes while incarcerated → longer sentences extend the crime-free period → for prolific offenders even a few extra years may prevent dozens of crimes → the incapacitation effect is direct and certain",
+                "title": "Longer imprisonment prevents reoffending for longer",
+                "flow": "a prisoner cannot commit crimes in the community while incarcerated → longer sentences extend the period in which they cannot reoffend outside prison → for prolific offenders even a few extra years may prevent dozens of crimes → the protective effect of imprisonment is direct and certain",
                 "examples": [
                   {
                     "type": "vn",
@@ -2523,8 +2523,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Harsher prospective sentences alter the rational criminal's calculation",
-                "flow": "longer expected sentences → higher expected cost of criminal activity → rational actors who weigh costs and benefits → reduce offending when the expected punishment increases significantly → deterrence effect operates prospectively",
+                "title": "The threat of longer sentences changes a calculating offender's decision",
+                "flow": "longer expected sentences → higher expected cost of criminal activity → offenders who weigh costs and benefits → reduce offending when the expected punishment increases significantly → the deterrent effect works before the crime is committed",
                 "examples": [
                   {
                     "type": "vn",
@@ -2584,8 +2584,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sentence length inflation creates unsustainable costs without proportionate crime reduction",
-                "flow": "longer sentences dramatically increase prison populations → costs to government multiply → prisons become overcrowded and dysfunctional → conditions worsen for all inmates → the crime reduction benefit fails to materialise at the scale the cost implies",
+                "title": "Ever-longer sentences create unsustainable costs without matching crime reduction",
+                "flow": "longer sentences dramatically increase prison populations → costs to government multiply → prisons become overcrowded and dysfunctional → conditions worsen for all inmates → crime reduction fails to increase enough to justify the scale of the cost",
                 "examples": [
                   {
                     "type": "vn",
@@ -2634,8 +2634,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Incapacitation through harsh sentences directly prevents reoffending",
-                "flow": "harsher sentences mean longer incarceration → dangerous offenders remain removed from society for longer → crimes they would otherwise commit are prevented → even if rehabilitation fails, the incapacitation effect produces crime reduction",
+                "title": "Longer prison sentences directly prevent reoffending during imprisonment",
+                "flow": "harsher sentences mean longer imprisonment → dangerous offenders remain removed from society for longer → crimes they would otherwise commit are prevented → even if rehabilitation fails, keeping them in prison still reduces crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -2667,8 +2667,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cross-national evidence shows no correlation between sentence severity and crime rates",
-                "flow": "countries with the harshest punishments do not have the lowest crime rates → countries with lenient systems often have the lowest rates → the expected relationship between severity and crime is consistently absent from empirical data",
+                "title": "Harsher sentences add little deterrence when offenders do not expect to be caught",
+                "flow": "potential offenders first consider whether detection is likely → if they expect to escape arrest, even a very long sentence carries little practical weight → improving the certainty of detection changes the decision more directly than adding years to a sentence",
                 "examples": [
                   {
                     "type": "vn",
@@ -2681,8 +2681,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Harsher punishment without addressing causes is an expensive futility",
-                "flow": "harsh penalties do not change the economic conditions, family dysfunction, or social environments that produce crime → new offenders emerge from the same conditions → punishment is endlessly applied to endless new criminals → the crime machine runs on, more expensively",
+                "title": "Harsher punishment without addressing causes is costly and ineffective",
+                "flow": "harsh penalties do not change the economic conditions, family dysfunction, or social environments that produce crime → new offenders emerge from the same conditions → punishment is repeatedly applied to new offenders → the cycle of crime continues at ever greater cost",
                 "examples": [
                   {
                     "type": "vn",
@@ -2703,8 +2703,8 @@ window.TOPIC_DATA = {
             "label": "First-time offenders deserve more lenient treatment",
             "ideas": [
               {
-                "title": "A first offence may be an aberration; rehabilitation is most achievable at this stage",
-                "flow": "first-time offenders have not yet developed entrenched criminal identities → the causes of their offence may be temporary or circumstantial → early intervention and leniency maximise the window for change → harsh first responses close off the reform opportunity",
+                "title": "A first offence may be an isolated act; rehabilitation is most achievable at this stage",
+                "flow": "first-time offenders have not yet developed deeply rooted criminal identities → the causes of their offence may be temporary or circumstantial → early intervention and leniency maximise the opportunity for change → harsh first responses close off that opportunity",
                 "examples": [
                   {
                     "type": "vn",
@@ -2717,8 +2717,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Disproportionate punishment for first offences forecloses the path to reform",
-                "flow": "harsh first sentences → criminal record attaches permanently → employment prospects damaged for life → social stigma makes reintegration extremely difficult → ex-prisoners have few options other than further criminal activity",
+                "title": "Disproportionate punishment for first offences closes off the path to reform",
+                "flow": "harsh first sentences → a criminal record follows the offender permanently → employment prospects are damaged for life → social stigma makes reintegration extremely difficult → ex-prisoners have few options other than further criminal activity",
                 "examples": [
                   {
                     "type": "vn",
@@ -2732,7 +2732,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Leniency for first offenders is consistent with proportionality and justice principles",
-                "flow": "punishment should be proportionate to the full picture of the offender, not just the offence → criminal history is a legitimate aggravating factor → its absence is a legitimate mitigating factor → treating identical offences identically regardless of history violates proportionality",
+                "flow": "punishment should reflect the full circumstances of the offender, not just the offence → prior convictions can justify a harsher sentence → a clean record can justify a lighter sentence → treating identical offences identically regardless of history ignores proportionality",
                 "examples": [
                   {
                     "type": "vn",
@@ -2750,7 +2750,7 @@ window.TOPIC_DATA = {
             "label": "Leniency for first-time offenders has important limits",
             "ideas": [
               {
-                "title": "The gravity of the first offence, not its novelty, should determine punishment",
+                "title": "The seriousness of a first offence, not the fact that it is a first offence, should determine punishment",
                 "flow": "a first offence may be murder, rape, or terrorism → treating these leniently because of clean prior history is unjust → the victim's suffering is not reduced by the fact that it is the offender's first crime → seriousness must override criminal history in sentencing",
                 "examples": [
                   {
@@ -3093,8 +3093,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Repeat offenders demonstrate that second chances are not always warranted",
-                "flow": "recidivism statistics show that many offenders reoffend after release → second chances are not automatically redemptive → persistent reoffending reveals that some individuals require ongoing supervision or restriction → unconditional second chances risk public safety",
+                "title": "Repeat offending shows that second chances do not always work",
+                "flow": "reoffending rates show that many offenders commit further crimes after release → second chances do not automatically lead to reform → persistent reoffending shows that some individuals require ongoing supervision or restriction → unconditional second chances can put public safety at risk",
                 "examples": [
                   {
                     "type": "vn",
@@ -3129,8 +3129,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Countries prioritising rehabilitation achieve better crime outcomes than those prioritising punishment",
-                "flow": "Nordic countries invest heavily in rehabilitation → achieve the world's lowest reoffending rates → maintain low crime rates without mass incarceration → punitive systems maintain high crime despite enormous criminal justice spending → the international evidence strongly favours rehabilitation",
+                "title": "Rehabilitation can outperform punishment when it directly reduces the causes of reoffending",
+                "flow": "treatment addresses addiction and behavioural problems → education and training improve legal employment prospects → stronger reintegration reduces the pressures that lead back to crime → reoffending falls because the reasons for offending are reduced",
                 "examples": [
                   {
                     "type": "vn",
@@ -3163,7 +3163,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Not all offenders are willing or able to engage with rehabilitation",
-                "flow": "rehabilitation requires genuine motivation and engagement → compelled participation produces poor outcomes → individuals with psychopathic traits, entrenched criminal identities, or severe personality disorders respond minimally → punishment and incapacitation are the only effective responses for this group",
+                "flow": "rehabilitation requires genuine motivation and engagement → forced participation produces poor outcomes → people with deeply entrenched criminal behaviour or severe personality problems may respond very little → punishment and secure confinement are the only effective responses for this group",
                 "examples": [
                   {
                     "type": "vn",
@@ -3176,8 +3176,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Deterrence and justice require punishment independently of rehabilitation outcomes",
-                "flow": "potential offenders need to face a credible cost for offending → rehabilitation-only approaches reduce the deterrent signal → victims require retributive acknowledgment of the harm they suffered → punishment fulfils these functions that rehabilitation cannot",
+                "title": "Deterrence and justice require punishment even when rehabilitation works",
+                "flow": "potential offenders need to face a credible cost for offending → rehabilitation-only approaches weaken the deterrent message → victims need clear acknowledgment that the harm they suffered deserves consequences → punishment fulfils these functions that rehabilitation cannot",
                 "examples": [
                   {
                     "type": "vn",
@@ -3190,8 +3190,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rehabilitation-only approaches can undermine public confidence in the justice system",
-                "flow": "if the public perceives that serious criminals receive therapeutic care rather than meaningful punishment → confidence in the justice system falls → crime reporting rates decline → communities take justice into their own hands → the legitimacy of the system depends on visible proportionate consequences",
+                "title": "Rehabilitation needs visible accountability to maintain public confidence",
+                "flow": "if serious offences appear to bring only treatment and no meaningful consequence → victims and the public may see the system as too lenient → trust in rehabilitation-focused justice weakens → combining reform with proportionate punishment preserves legitimacy",
                 "examples": [
                   {
                     "type": "vn",
@@ -3227,7 +3227,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Education, training, and therapy produce measurable reductions in reoffending",
-                "flow": "specific rehabilitation interventions have strong evidence bases → prison education raises employment outcomes post-release → cognitive behavioural therapy reduces criminal thinking → skills programmes enable legitimate income → each intervention has measurable reoffending reduction effects",
+                "flow": "specific rehabilitation programmes have strong evidence behind them → prison education improves employment after release → cognitive behavioural therapy reduces patterns of thinking linked to crime → skills programmes enable legitimate income → each intervention produces measurable reductions in reoffending",
                 "examples": [
                   {
                     "type": "vn",
@@ -3240,8 +3240,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Human dignity requires that imprisonment be more than punitive suffering",
-                "flow": "international human rights law prohibits cruel, inhuman, or degrading treatment → purely punitive imprisonment without rehabilitative purpose approaches this threshold → prisoners retain human dignity → prisons are obligated to support rather than merely confine",
+                "title": "Human dignity requires prison conditions that punish without unnecessary degradation",
+                "flow": "prisoners lose liberty as punishment but retain basic human rights → humane conditions avoid needless degradation → education and treatment give prisoners a realistic route back to society → punishment can protect dignity while still supporting rehabilitation",
                 "examples": [
                   {
                     "type": "vn",
@@ -3260,7 +3260,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Prison must remain genuinely unpleasant to maintain its deterrent effect",
-                "flow": "the deterrent value of imprisonment depends on it being a genuinely aversive experience → if prison becomes comfortable or resembles a hotel → the prospective cost of crime falls → rational offenders factor this reduced cost into their calculations → deterrence weakens",
+                "flow": "the deterrent value of imprisonment depends on it being genuinely unpleasant → if prison becomes comfortable or resembles a hotel → the expected cost of crime falls → calculating offenders take this lower cost into account → deterrence weakens",
                 "examples": [
                   {
                     "type": "vn",
@@ -3287,8 +3287,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "High-risk offenders require secure containment, not therapeutic environments",
-                "flow": "a subset of prisoners pose serious ongoing dangers → rehabilitation programmes are ineffective for this group → therapeutic prison environments may create security vulnerabilities → for dangerous offenders secure incapacitation is the only appropriate response",
+                "title": "High-risk offenders require secure confinement, not therapeutic environments",
+                "flow": "some prisoners pose serious ongoing dangers → rehabilitation programmes are ineffective for this group → therapeutic prison environments may create security risks → for dangerous offenders, secure confinement is the only appropriate response",
                 "examples": [
                   {
                     "type": "vn",
@@ -3309,8 +3309,8 @@ window.TOPIC_DATA = {
             "label": "Prison education and vocational training are the most effective reoffending prevention tools",
             "ideas": [
               {
-                "title": "Employment after release is the strongest single predictor of non-reoffending",
-                "flow": "stable employment provides income, structure, identity, and social bonds → all the factors that prevent reoffending → education and vocational training are the primary routes to post-release employment → therefore they are the most direct intervention available within prisons",
+                "title": "Employment after release is the strongest single factor linked to avoiding reoffending",
+                "flow": "stable employment provides income, structure, identity, and social bonds → all help prevent reoffending → education and vocational training are the primary routes to post-release employment → therefore they are the most direct intervention available within prisons",
                 "examples": [
                   {
                     "type": "vn",
@@ -3324,7 +3324,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Education changes how offenders think about themselves and their futures",
-                "flow": "education expands the prisoner's sense of what is possible for them → a newly literate or qualified person may experience a fundamental identity shift → the ex-prisoner becomes capable of imagining a legitimate future → self-concept change underlies sustainable behaviour change",
+                "flow": "education expands a prisoner's sense of what is possible → a newly literate or qualified person may experience a fundamental shift in identity → the ex-prisoner becomes capable of imagining a legitimate future → a changed sense of identity supports lasting behaviour change",
                 "examples": [
                   {
                     "type": "vn",
@@ -3356,7 +3356,7 @@ window.TOPIC_DATA = {
             "label": "Other factors are equally or more important in preventing reoffending",
             "ideas": [
               {
-                "title": "Mental health, addiction, and housing instability are stronger reoffending predictors",
+                "title": "Mental health, addiction, and housing instability are stronger drivers of reoffending",
                 "flow": "untreated addiction drives drug-related reoffending regardless of qualifications → mental illness creates crisis situations that overwhelm skills-based coping → homelessness immediately after release produces crisis-driven reoffending → qualifications alone cannot address these deeper needs",
                 "examples": [
                   {
@@ -3371,7 +3371,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Labour market discrimination limits the practical value of prison qualifications",
-                "flow": "many employers refuse to hire ex-offenders regardless of qualifications → prison qualifications are signalled by the criminal record that accompanies them → the employment pathway that education theoretically opens is blocked by discrimination → the theory fails in the face of labour market reality",
+                "flow": "many employers refuse to hire ex-offenders regardless of qualifications → employers see the criminal record that comes with those qualifications → the employment pathway that education theoretically opens is blocked by discrimination → the theory fails in the face of labour market reality",
                 "examples": [
                   {
                     "type": "vn",
@@ -3454,7 +3454,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Serious crimes require proportionate punishment that reflects their gravity",
-                "flow": "restorative processes may be appropriate for minor offences → serious harm demands a response that reflects that gravity → community dialogue cannot adequately express society's condemnation of murder, rape, or terrorism → the expressive and retributive functions of traditional punishment are irreplaceable",
+                "flow": "restorative processes may be appropriate for minor offences → serious harm demands a response that reflects that gravity → community dialogue cannot adequately express society's condemnation of murder, rape, or terrorism → traditional punishment is irreplaceable in expressing condemnation and imposing deserved consequences",
                 "examples": [
                   {
                     "type": "vn",
@@ -3481,8 +3481,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public safety sometimes requires incapacitation that restorative justice cannot provide",
-                "flow": "some offenders pose ongoing danger to the public → restorative dialogue does not remove that threat → imprisonment is the only mechanism for protecting potential future victims → public safety requires incapacitation for dangerous individuals regardless of the restorative justice framework",
+                "title": "Public safety sometimes requires secure imprisonment that restorative justice cannot provide",
+                "flow": "some offenders pose an ongoing danger to the public → restorative dialogue does not remove that threat → imprisonment is the only mechanism for protecting potential future victims → public safety therefore requires secure confinement for dangerous individuals regardless of the restorative justice framework",
                 "examples": [
                   {
                     "type": "vn",
@@ -3619,7 +3619,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Digital anonymity makes detection and prosecution extremely difficult",
-                "flow": "offenders operate through VPNs, proxy servers, and encrypted channels → identity concealment is cheap and accessible → risk of apprehension approaches zero → rational calculation strongly favours cybercrime over physical crime",
+                "flow": "offenders operate through VPNs, proxy servers, and encrypted channels → hiding one's identity is cheap and accessible → the risk of being caught approaches zero → for a calculating offender, cybercrime becomes far more attractive than physical crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -3632,7 +3632,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rapid digitalisation has created vast attack surfaces before security can keep pace",
+                "title": "Rapid digitalisation has created many new targets before security can keep pace",
                 "flow": "accelerated digital adoption → enormous volumes of valuable data stored online → systems deployed without adequate security → attackers exploit gaps before defences are established",
                 "examples": [
                   {
@@ -3646,8 +3646,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cross-border jurisdiction gaps allow cybercriminals to operate with impunity",
-                "flow": "crimes committed in one country, infrastructure hosted in another, proceeds moved through a third → no single jurisdiction can effectively prosecute alone → international legal coordination is slow and incomplete → criminals operate profitably in the gaps between legal systems",
+                "title": "Gaps between national legal systems allow cybercriminals to avoid punishment",
+                "flow": "crimes are committed in one country, infrastructure is hosted in another, and proceeds are moved through a third → no single country can prosecute effectively on its own → international legal coordination is slow and incomplete → criminals operate profitably in the gaps between legal systems",
                 "examples": [
                   {
                     "type": "vn",
@@ -3665,8 +3665,8 @@ window.TOPIC_DATA = {
             "label": "Solutions to the rising cybercrime problem",
             "ideas": [
               {
-                "title": "International cooperation and treaty frameworks close jurisdictional gaps",
-                "flow": "bilateral and multilateral extradition and evidence-sharing agreements → criminals cannot exploit gaps between legal systems → consistent prosecution risk regardless of location → international norms develop that cover the same behaviours globally",
+                "title": "International cooperation and treaties close gaps between legal systems",
+                "flow": "bilateral and multilateral agreements on extradition and evidence sharing → criminals cannot exploit gaps between legal systems → the risk of prosecution becomes more consistent regardless of location → international rules develop to cover the same behaviours across countries",
                 "examples": [
                   {
                     "type": "vn",
@@ -3679,8 +3679,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public education and digital literacy reduce the attack surface",
-                "flow": "educated users recognise phishing, protect credentials, and report suspicious activity → the pool of exploitable targets shrinks → criminals face diminishing returns in educated populations → cybersecurity becomes a shared civic responsibility, not only a technical one",
+                "title": "Public education and digital literacy reduce the number of easy targets",
+                "flow": "educated users recognise phishing, protect credentials, and report suspicious activity → the pool of easy targets shrinks → criminals gain less from attacking better-informed populations → cybersecurity becomes a shared public responsibility, not only a technical one",
                 "examples": [
                   {
                     "type": "vn",
@@ -3694,7 +3694,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Mandatory security standards and regulatory penalties force corporate protection",
-                "flow": "legal obligations to protect user data → regular auditing and certification requirements → significant penalties for preventable breaches → security investment becomes a compliance necessity rather than an optional cost",
+                "flow": "legal obligations to protect user data → regular auditing and certification requirements → significant penalties for preventable breaches → security investment becomes necessary to comply with the law rather than an optional cost",
                 "examples": [
                   {
                     "type": "vn",
@@ -3715,8 +3715,8 @@ window.TOPIC_DATA = {
             "label": "White-collar crime causes greater societal harm",
             "ideas": [
               {
-                "title": "The financial scale of white-collar crime dwarfs all other categories combined",
-                "flow": "a single corporate fraud or banking scandal causes losses in the billions → more victims than years of street crime → aggregate economic harm is incomparably greater → the resources extracted from society fund nothing productive",
+                "title": "White-collar crime can cause harm on a far wider scale than individual street offences",
+                "flow": "large frauds can affect thousands of customers, investors, or taxpayers at once → losses spread across institutions and the wider economy → a single scheme can create harm far beyond one direct victim → enforcement priorities should reflect this scale as well as visible street crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -3729,8 +3729,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "White-collar crime destroys institutional trust and governance quality",
-                "flow": "corruption and financial fraud erode confidence in banks, governments, and courts → citizens lose faith that institutions serve them → social trust collapses → the cooperative infrastructure of modern society is systematically undermined",
+                "title": "White-collar crime destroys trust in major institutions and weakens governance",
+                "flow": "corruption and financial fraud erode confidence in banks, governments, and courts → citizens lose faith that institutions serve them → social trust collapses → the trust needed for modern society to function is systematically undermined",
                 "examples": [
                   {
                     "type": "vn",
@@ -3763,7 +3763,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Violent crime causes direct, irreversible personal harm that money cannot repair",
-                "flow": "murder, assault, and rape destroy lives and traumatise communities → financial harm, however large, is in principle recoverable → physical and psychological harm from violence is not → direct bodily harm represents a categorically more fundamental injury",
+                "flow": "murder, assault, and rape destroy lives and traumatise communities → financial harm, however large, is in principle recoverable → physical and psychological harm from violence is not → direct bodily harm is a more fundamental form of injury",
                 "examples": [
                   {
                     "type": "vn",
@@ -3826,8 +3826,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cultural glorification of violence and toxic masculinity norms normalise aggression",
-                "flow": "media, music, and peer culture celebrate violent masculinity → violence is framed as a legitimate response to disrespect → young men internalise that status requires willingness to use force → violent confrontation becomes culturally scripted rather than exceptional",
+                "title": "Glorifying violence and linking masculinity to aggression normalise violent behaviour",
+                "flow": "media, music, and peer culture celebrate an image of masculinity based on violence → violence is presented as a legitimate response to disrespect → young men absorb the idea that status requires a willingness to use force → violent confrontation comes to seem like the expected response rather than an exception",
                 "examples": [
                   {
                     "type": "vn",
@@ -3840,8 +3840,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Weak institutions and perceived impunity encourage violent behaviour",
-                "flow": "when police are corrupt, ineffective, or absent → perpetrators calculate they will not face consequences → violence becomes a rational tool for dispute resolution → criminal norms that normalise violence spread in the resulting institutional vacuum",
+                "title": "Weak institutions and the belief that offenders will go unpunished encourage violence",
+                "flow": "when police are corrupt, ineffective, or absent → offenders calculate that they will not face consequences → violence becomes a rational tool for settling disputes → criminal norms that normalise violence spread where effective institutions are absent",
                 "examples": [
                   {
                     "type": "vn",
@@ -3873,8 +3873,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Community-based violence interruption programmes break the cycle at street level",
-                "flow": "trained community mediators intervene in disputes before violence escalates → former offenders with street credibility mediate conflicts → the social script that requires violent retaliation is disrupted → norm change spreads through peer networks",
+                "title": "Community programmes stop violence before it escalates at street level",
+                "flow": "trained community mediators intervene in disputes before violence escalates → former offenders with street credibility mediate conflicts → the expectation that violence must be answered with violence is disrupted → new non-violent norms spread through peer networks",
                 "examples": [
                   {
                     "type": "vn",
@@ -3887,8 +3887,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Institutional strengthening and consistent enforcement restore deterrence",
-                "flow": "invest in capable and trusted police → consistent prosecution of violent offenders → impunity falls → the rational calculation of would-be violent actors changes → violence becomes costly rather than consequence-free",
+                "title": "Stronger institutions and consistent enforcement restore deterrence",
+                "flow": "invest in capable and trusted police → violent offenders are prosecuted consistently → fewer offenders expect to escape punishment → would-be offenders recalculate the risks of violence → violence becomes costly rather than consequence-free",
                 "examples": [
                   {
                     "type": "vn",
@@ -3937,8 +3937,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Border security and customs intelligence intercept supply before it reaches domestic markets",
-                "flow": "improved border technology and intelligence → higher seizure rates → supply reaching domestic markets is reduced → prices rise and downstream drug-related crime falls",
+                "title": "Border intelligence can weaken drug supply networks before drugs reach domestic markets",
+                "flow": "better intelligence helps customs identify high-risk shipments → more consignments are intercepted → traffickers lose stock and money while supply becomes less reliable → repeated disruption raises the cost and difficulty of serving domestic markets",
                 "examples": [
                   {
                     "type": "vn",
@@ -4118,8 +4118,8 @@ window.TOPIC_DATA = {
             "label": "Media coverage does increase public fear of crime",
             "ideas": [
               {
-                "title": "Crime reporting is systematically disproportionate to actual statistical risk",
-                "flow": "rare but dramatic crimes receive extensive coverage → repetition creates the impression that such crimes are frequent → the public's mental model of crime frequency is distorted → fear reflects perceived, not actual, risk",
+                "title": "Crime reporting gives rare offences more attention than their actual risk justifies",
+                "flow": "rare but dramatic crimes receive extensive coverage → repetition creates the impression that such crimes are frequent → the public's picture of how often crimes occur becomes distorted → fear reflects perceived rather than actual risk",
                 "examples": [
                   {
                     "type": "vn",
@@ -4132,8 +4132,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Emotional and visceral crime coverage bypasses rational risk assessment",
-                "flow": "graphic crime narratives trigger visceral fear responses → emotional processing overrides statistical reasoning → one vivid story of harm outweighs many reassuring statistics → fear persists even when objective risk is low",
+                "title": "Emotionally intense crime coverage overrides rational risk assessment",
+                "flow": "graphic crime stories trigger intense fear → emotional reactions override statistical reasoning → one vivid story of harm outweighs many reassuring statistics → fear persists even when objective risk is low",
                 "examples": [
                   {
                     "type": "vn",
@@ -4146,8 +4146,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Repeated exposure creates a cumulative 'mean world syndrome'",
-                "flow": "sustained diet of crime news → cumulative impression of a dangerous world → distrust of strangers increases → social participation falls → quality of life declines even among people who face minimal actual risk",
+                "title": "Repeated crime news makes the world seem more dangerous than it is",
+                "flow": "constant exposure to crime news → a growing impression that the world is dangerous → distrust of strangers increases → social participation falls → quality of life declines even among people who face minimal actual risk",
                 "examples": [
                   {
                     "type": "vn",
@@ -4166,7 +4166,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Crime reporting serves legitimate public safety and accountability functions",
-                "flow": "reporting crimes alerts the public to genuine local risks → communities take protective action → media exposes police failures and demand accountability → an informed public is better equipped to protect itself than an uninformed one",
+                "flow": "reporting crimes alerts the public to genuine local risks → communities take protective action → media exposes police failures and demands accountability → an informed public is better equipped to protect itself than an uninformed one",
                 "examples": [
                   {
                     "type": "vn",
@@ -4179,8 +4179,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Audiences have media literacy to contextualise crime reporting appropriately",
-                "flow": "media consumers are not passive recipients of fear → critical media literacy enables contextual interpretation → educated audiences distinguish between dramatic individual cases and statistical trends → the fear effect is concentrated among low-literacy media consumers",
+                "title": "Media-literate audiences can put crime reporting in context",
+                "flow": "media consumers are not passive recipients of fear → critical media skills help them interpret reports in context → educated audiences distinguish dramatic individual cases from statistical trends → the fear effect is concentrated among audiences with weak media literacy",
                 "examples": [
                   {
                     "type": "vn",
@@ -4215,8 +4215,8 @@ window.TOPIC_DATA = {
             "label": "Crime is systematically exaggerated in media coverage",
             "ideas": [
               {
-                "title": "Commercial incentives reward sensational crime coverage that inflates perceived threat",
-                "flow": "dramatic crime stories attract audiences → audiences attract advertising revenue → newsrooms are economically incentivised to select the most frightening cases → crime coverage is filtered for drama, not statistical representativeness",
+                "title": "Commercial incentives reward sensational crime coverage and inflate perceived threat",
+                "flow": "dramatic crime stories attract audiences → audiences attract advertising revenue → newsrooms therefore favour the most frightening cases → crime coverage is selected for drama rather than how common those crimes actually are",
                 "examples": [
                   {
                     "type": "vn",
@@ -4229,8 +4229,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rare dramatic crimes crowd out the numerically dominant but unremarkable majority",
-                "flow": "murder and stranger-violence are statistically rare → they are vastly overrepresented in news → theft, fraud, and domestic violence are statistically common → they receive minimal coverage → the public's mental picture of 'crime' is constructed entirely from statistical outliers",
+                "title": "Rare dramatic crimes crowd out more common but less striking offences",
+                "flow": "murder and stranger-violence are statistically rare → they are vastly overrepresented in news → theft, fraud, and domestic violence are statistically common → they receive minimal coverage → the public's mental picture of 'crime' is constructed entirely from rare cases",
                 "examples": [
                   {
                     "type": "vn",
@@ -4243,8 +4243,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Victim and perpetrator selection in crime coverage distorts the social picture of who commits crime",
-                "flow": "media tends to cover crimes involving certain victim and offender profiles → creates racialised, gendered, or class-based stereotypes → public associates crime with particular groups → stigma and discriminatory policing follow from the distorted picture",
+                "title": "Selective crime coverage distorts the public's view of who commits crime",
+                "flow": "media tends to cover crimes involving certain victim and offender profiles → creates stereotypes based on race, gender, or class → public associates crime with particular groups → stigma and discriminatory policing follow from the distorted picture",
                 "examples": [
                   {
                     "type": "vn",
@@ -4277,7 +4277,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Public crime awareness enables individual and community protective action",
-                "flow": "coverage of crime trends and emerging threats → public adjusts behaviour and increases protective measures → communities organise watch schemes and pressure for local improvements → the information function of crime news produces real safety benefits",
+                "flow": "coverage of crime trends and emerging threats → public adjusts behaviour and increases protective measures → communities organise watch schemes and pressure for local improvements → crime news can therefore produce real safety benefits",
                 "examples": [
                   {
                     "type": "vn",
@@ -4290,8 +4290,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Fear of crime may reflect genuine social conditions that statistics undercount",
-                "flow": "official crime statistics systematically undercount unreported crimes → police-recorded data misses the majority of actual offending → the public's fear may track the true level of crime more accurately than official figures → dismissing fear as media-manufactured may itself be a distortion",
+                "title": "Official statistics can miss local risks, so fear of crime should not automatically be dismissed",
+                "flow": "many offences are never reported to police → official data can understate particular local problems → residents' direct experience may reveal risks that national figures miss → some fear may reflect real exposure rather than media distortion",
                 "examples": [
                   {
                     "type": "vn",
@@ -4313,7 +4313,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Repeated exposure to violent content desensitises and normalises aggression",
-                "flow": "violent imagery repeatedly encountered → emotional responses diminish over time → violence is gradually perceived as normal rather than shocking → the psychological inhibitors of violent behaviour are progressively weakened",
+                "flow": "violent imagery repeatedly encountered → emotional responses diminish over time → violence is gradually perceived as normal rather than shocking → internal restraints against violent behaviour are progressively weakened",
                 "examples": [
                   {
                     "type": "vn",
@@ -4327,7 +4327,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Violent media provides criminal role models and normalises crime as a lifestyle",
-                "flow": "media romanticises criminal figures as powerful and successful → young people internalise criminal aesthetics and aspirations → crime is presented as an attractive identity rather than a failing → the cultural legitimacy of criminal behaviour increases",
+                "flow": "media romanticises criminal figures as powerful and successful → young people absorb the style and ambitions associated with criminal lifestyles → crime is presented as an attractive identity rather than a failing → criminal behaviour gains greater cultural acceptance",
                 "examples": [
                   {
                     "type": "vn",
@@ -4341,7 +4341,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Children are particularly vulnerable to violent media's influence on behaviour",
-                "flow": "developing brains are more susceptible to modelling effects → children who observe violence, including mediated violence, are more likely to reproduce it → aggressive play patterns develop before moral reasoning is mature → early exposure shapes long-term behavioural tendencies",
+                "flow": "developing brains are more likely to copy behaviour they observe → children who observe violence, including violence through media, are more likely to reproduce it → aggressive play patterns develop before moral reasoning is mature → early exposure shapes long-term patterns of behaviour",
                 "examples": [
                   {
                     "type": "vn",
@@ -4359,8 +4359,8 @@ window.TOPIC_DATA = {
             "label": "Violent media content does not meaningfully increase crime",
             "ideas": [
               {
-                "title": "Research correlations are weak and causation has not been established",
-                "flow": "laboratory aggression studies measure immediate responses, not real-world violence → correlational studies cannot isolate media as a causal variable → countries with highest violent media consumption do not show highest violent crime rates → the causal claim is not supported by the evidence",
+                "title": "Studies show weak links, and they do not establish that violent media causes real-world violence",
+                "flow": "laboratory aggression studies measure immediate responses, not real-world violence → studies that find correlations cannot prove that media itself causes violence → countries with the highest violent-media consumption do not show the highest violent-crime rates → the evidence does not establish a causal link",
                 "examples": [
                   {
                     "type": "vn",
@@ -4373,8 +4373,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The vast majority of violent media consumers never engage in violent behaviour",
-                "flow": "billions of people consume violent films, games, and news without committing violence → if media consumption caused violence, rates would be far higher → other factors — poverty, mental illness, family breakdown — are far stronger predictors → media violence is a negligible variable",
+                "title": "Violent media alone is a weak explanation for serious violence",
+                "flow": "violent-media consumption is widespread while serious violence remains rare → exposure by itself cannot explain who becomes violent → stronger differences lie in family environment, substance abuse, poverty, and other risk factors → media should be treated as one possible influence rather than the main cause",
                 "examples": [
                   {
                     "type": "vn",
@@ -4387,8 +4387,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Crime has far more powerful determinants than media consumption",
-                "flow": "poverty, unemployment, family breakdown, substance abuse, and mental illness are consistently the strongest predictors of violent offending → media consumption explains a negligible additional fraction of variance → policy attention focused on media misallocates resources from genuinely causal factors",
+                "title": "Crime has much stronger causes than media consumption",
+                "flow": "poverty, unemployment, family breakdown, substance abuse, and mental illness are consistently the strongest predictors of violent offending → media consumption adds very little to explaining who becomes violent → focusing policy on media diverts resources away from factors that actually drive crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -4530,8 +4530,8 @@ window.TOPIC_DATA = {
             "label": "Criminals should retain the same fundamental rights as all citizens",
             "ideas": [
               {
-                "title": "Rights are universal and unconditional — stripping them is philosophically unjustifiable",
-                "flow": "human rights derive from personhood, not behaviour → a person does not forfeit humanity by committing a crime → the logic of stripping rights from criminals is the logic that justified historical atrocities → rights must be universal or they are not rights at all",
+                "title": "Human rights should be restricted only when the punishment requires it",
+                "flow": "human rights come from being human rather than from good behaviour → conviction can justify specific restrictions such as loss of liberty → unrelated rights should remain unless restricting them is necessary and proportionate → otherwise rights become conditional privileges rather than universal protections",
                 "examples": [
                   {
                     "type": "vn",
@@ -4558,7 +4558,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Preserving prisoners' rights produces better rehabilitation and reoffending outcomes",
+                "title": "Protecting prisoners' rights supports rehabilitation and reduces reoffending",
                 "flow": "rights to education, healthcare, and family contact inside prison → prisoners can maintain human connections and develop skills → reintegration after release is more successful → reoffending falls when human dignity is preserved during incarceration",
                 "examples": [
                   {
@@ -4592,7 +4592,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Victims' rights must be weighed against offenders' rights in sentencing",
-                "flow": "victims have rights to safety, justice, and non-repetition → these rights can conflict with offenders' rights to early release or community access → the justice system must balance both sets of rights → unlimited offender rights may compromise victims' legitimate claims",
+                "flow": "victims have rights to safety, justice, and protection from further harm → these rights can conflict with offenders' rights to early release or community access → the justice system must balance both sets of rights → unlimited offender rights may compromise victims' legitimate claims",
                 "examples": [
                   {
                     "type": "vn",
@@ -4628,7 +4628,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "The primary duty of government is to protect citizens from harm",
-                "flow": "the social contract justifies government authority in exchange for protection → citizens surrender certain freedoms to gain collective security → a government that cannot protect its citizens has failed its core function → some freedom must be sacrificed for meaningful safety",
+                "flow": "government authority is justified partly by its duty to protect citizens → citizens accept some limits on freedom in return for collective security → a government that cannot protect its citizens has failed its core function → some freedom must be sacrificed for meaningful safety",
                 "examples": [
                   {
                     "type": "vn",
@@ -4641,8 +4641,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Specific safety measures have demonstrably saved lives at modest cost to freedom",
-                "flow": "seatbelt laws, smoking restrictions, and gun controls restrict freedom but prevent deaths at scale → the freedom restricted is small relative to the harm prevented → empirical outcomes validate the trade-off → society benefits collectively from targeted freedom restrictions",
+                "title": "Specific safety measures have saved lives while placing only modest limits on freedom",
+                "flow": "seatbelt laws, smoking restrictions, and gun controls restrict freedom but prevent deaths at scale → the freedom restricted is small relative to the harm prevented → real-world results support the trade-off → society benefits collectively from targeted restrictions on freedom",
                 "examples": [
                   {
                     "type": "vn",
@@ -4675,7 +4675,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Rights surrendered for safety are rarely fully recovered once the threat passes",
-                "flow": "emergency powers become institutionalised → temporary measures are extended indefinitely → the bureaucracies built to administer restrictions develop institutional interests in their continuation → the ratchet of security restriction moves in one direction",
+                "flow": "emergency powers become permanent parts of government → temporary measures are extended indefinitely → agencies created to enforce restrictions develop reasons to preserve them → security restrictions tend to accumulate rather than fully disappear",
                 "examples": [
                   {
                     "type": "vn",
@@ -4702,8 +4702,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The most effective and legitimate societies protect both safety and freedom simultaneously",
-                "flow": "Nordic and East Asian high-trust societies achieve low crime AND high freedom → the assumed inverse relationship is empirically absent in the best-governed societies → freedom and safety are complements, not substitutes, when government is competent and trusted",
+                "title": "Targeted security measures can protect safety without requiring broad loss of freedom",
+                "flow": "governments can focus restrictions narrowly on specific risks → legal safeguards and oversight limit unnecessary intrusion → proportionate measures preserve public trust and cooperation → safety can improve without treating freedom as the price that must always be paid",
                 "examples": [
                   {
                     "type": "vn",
@@ -4771,7 +4771,7 @@ window.TOPIC_DATA = {
             "label": "Strict laws can harm society when poorly designed or over-applied",
             "ideas": [
               {
-                "title": "Over-criminalisation produces unjust outcomes and wastes criminal justice resources",
+                "title": "Criminalising too many behaviours produces unjust outcomes and wastes justice resources",
                 "flow": "criminalising too many behaviours → disproportionate punishment for minor violations → criminal records harm individuals for trivial acts → the justice system is overwhelmed with cases that do not serve any genuine social protection interest",
                 "examples": [
                   {
@@ -4799,8 +4799,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social norms and trust, not legal coercion, are the primary basis of social order",
-                "flow": "the vast majority of legal compliance occurs because people believe the law is right → not because they fear enforcement → social trust and shared norms maintain order more efficiently and sustainably than coercive enforcement → strict law is a supplement to social norms, not their replacement",
+                "title": "Social norms and trust, not fear of punishment, are the main basis of social order",
+                "flow": "the vast majority of legal compliance occurs because people believe the law is right → not because they fear enforcement → social trust and shared norms maintain order more efficiently and sustainably than the threat of punishment → strict law supports social norms rather than replacing them",
                 "examples": [
                   {
                     "type": "vn",
@@ -4836,7 +4836,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Digital financial systems enable seamless cross-border money laundering",
-                "flow": "global banking integration, cryptocurrency, and shell company networks → criminal proceeds move across jurisdictions in seconds → asset tracing becomes extremely difficult → the financial infrastructure of globalisation serves criminal capital as effectively as legitimate capital",
+                "flow": "global banking integration, cryptocurrency, and shell company networks → criminal proceeds move across jurisdictions in seconds → asset tracing becomes extremely difficult → global financial systems move criminal money as efficiently as legitimate funds",
                 "examples": [
                   {
                     "type": "vn",
@@ -4850,7 +4850,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Reduced border controls have enabled the movement of criminal networks themselves",
-                "flow": "free movement of people, particularly within regional blocs → criminal organisations recruit, deploy, and relocate operatives easily across borders → operational flexibility makes law enforcement harder → organisations are less vulnerable to disruption in any single jurisdiction",
+                "flow": "free movement of people, particularly within regional blocs → criminal organisations recruit, send, and relocate members easily across borders → this flexibility makes law enforcement harder → organisations are less vulnerable to disruption in any single country",
                 "examples": [
                   {
                     "type": "vn",
@@ -4897,7 +4897,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Much international crime predates globalisation and has other primary causes",
-                "flow": "piracy, smuggling, human trafficking, and corruption existed long before modern globalisation → attributing their current prevalence to globalisation obscures their independent causes → governance failure, conflict, and inequality are the primary drivers → globalisation is a pathway, not a cause",
+                "flow": "piracy, smuggling, human trafficking, and corruption existed long before modern globalisation → blaming their current scale on globalisation hides their separate causes → governance failure, conflict, and inequality are the primary drivers → globalisation is a pathway, not a cause",
                 "examples": [
                   {
                     "type": "vn",
@@ -4933,7 +4933,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Information sharing multiplies each country's effective enforcement capacity",
-                "flow": "intelligence gathered in one country about a criminal network operating in another → shared through agreed channels → enables targeted operations that would otherwise be impossible → the combined intelligence picture is vastly richer than any single country can develop alone",
+                "flow": "intelligence gathered in one country about a criminal network operating in another → shared through agreed channels → enables targeted operations that would otherwise be impossible → the combined information is far richer than any single country can develop alone",
                 "examples": [
                   {
                     "type": "vn",
@@ -4946,8 +4946,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Common legal standards prevent criminals exploiting regulatory and legal gaps between countries",
-                "flow": "harmonised laws on money laundering, cybercrime, and trafficking → criminals cannot base operations in countries with the weakest standards → the global legal floor rises → regulatory arbitrage by criminal networks becomes progressively harder",
+                "title": "Common legal standards stop criminals exploiting differences between countries' laws",
+                "flow": "similar laws on money laundering, cybercrime, and trafficking → criminals cannot base operations in countries with the weakest standards → minimum legal standards rise across countries → exploiting differences between national laws becomes progressively harder for criminal networks",
                 "examples": [
                   {
                     "type": "vn",
@@ -5015,8 +5015,8 @@ window.TOPIC_DATA = {
             "label": "Crime is an unavoidable feature of all human societies",
             "ideas": [
               {
-                "title": "Deviance is a universal feature of all known human societies",
-                "flow": "every society that has ever been studied contains individuals who violate its norms → the specific acts defined as criminal change across cultures and history → but the existence of norm violation does not → no social system has ever achieved zero crime",
+                "title": "Rule-breaking exists in every known human society",
+                "flow": "every society ever studied contains people who break its norms → the specific acts defined as criminal change across cultures and history → but rule-breaking itself does not disappear → no social system has ever achieved zero crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -5043,8 +5043,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The definition of crime expands as society becomes more complex",
-                "flow": "as societies develop, new behaviours are criminalised → cybercrime, tax evasion, environmental crimes — did not exist until recently → even as traditional crime falls, new criminal categories emerge → the elimination of crime as a category is conceptually impossible",
+                "title": "Social and technological change continually creates new forms of crime",
+                "flow": "new technologies and economic systems create new opportunities for wrongdoing → laws expand to cover these behaviours → some older crimes may decline while newer forms emerge → eliminating crime entirely becomes harder as society changes",
                 "examples": [
                   {
                     "type": "vn",
@@ -5063,7 +5063,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Social investment has proven capable of dramatic, sustained crime reductions",
-                "flow": "targeted economic development, education, and community investment → demonstrable falls in crime rates over decades → the scale of reduction achievable dwarfs the residual inevitable minimum → treating crime as 'unavoidable' undermines the political will for this investment",
+                "flow": "targeted economic development, education, and community investment → clear falls in crime rates over decades → the reduction can be far larger than the small amount of crime that may remain unavoidable → treating crime as 'unavoidable' weakens political support for this investment",
                 "examples": [
                   {
                     "type": "vn",
@@ -5076,8 +5076,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Some societies achieve extremely low crime rates that challenge the 'unavoidable' claim",
-                "flow": "Japan, Singapore, Iceland, and Nordic countries maintain crime rates orders of magnitude below world averages → if crime were truly unavoidable, these societies could not achieve such outlier outcomes → their success proves that social conditions can reduce crime to near-negligible levels",
+                "title": "Very low-crime societies show that 'unavoidable' does not mean 'unchangeable'",
+                "flow": "some societies sustain much lower crime rates than others → this variation shows that institutions and social conditions strongly affect how much crime occurs → even if zero crime is unrealistic, policy can still reduce it to very low levels → inevitability is therefore a poor excuse for accepting high crime",
                 "examples": [
                   {
                     "type": "vn",
@@ -5090,8 +5090,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Accepting crime as unavoidable creates a dangerous fatalism that undermines prevention",
-                "flow": "the 'unavoidable' framing reduces political urgency for crime prevention investment → becomes a self-fulfilling prophecy → governments invest less → crime persists → the prediction is confirmed not by necessity but by policy failure",
+                "title": "Treating crime as unavoidable creates the belief that prevention is pointless",
+                "flow": "the 'unavoidable' framing reduces political urgency for crime prevention investment → creates a self-fulfilling cycle → governments invest less → crime persists → the prediction is confirmed by policy failure rather than necessity",
                 "examples": [
                   {
                     "type": "vn",

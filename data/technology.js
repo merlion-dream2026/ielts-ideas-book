@@ -54,7 +54,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Technology creates communities around shared interests and identities",
-                "flow": "Physical proximity no longer limits who people can connect with → online platforms aggregate individuals with niche interests or minority identities globally → communities of support, practice, and belonging form → people find connection they could not access locally → social isolation from geographic or demographic circumstances reduced.",
+                "flow": "Physical proximity no longer limits who people can connect with → online platforms bring together people with specific interests or minority identities from around the world → communities of support, shared practice, and belonging form → people find connections they could not access locally → social isolation caused by geographic or demographic circumstances is reduced.",
                 "examples": [
                   {
                     "type": "vn",
@@ -67,7 +67,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital communication supplements in-person relationships, not replaces them",
+                "title": "Digital communication supplements in-person relationships rather than replacing them",
                 "flow": "Messaging tools extend relationships between meetings → couples, friends, and colleagues maintain continuous low-effort contact → relationships gain warmth and continuity → people feel closer because contact is no longer rationed by physical proximity → technology and face-to-face interaction are complementary, not competing.",
                 "examples": [
                   {
@@ -114,8 +114,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital communication atrophies the social skills built through face-to-face contact",
-                "flow": "Digital communication substitutes for in-person interaction → social skills practised less → tolerance for social discomfort declines → capacity for in-person relationships weakens.",
+                "title": "Digital communication weakens the social skills built through face-to-face contact",
+                "flow": "Digital communication substitutes for in-person interaction → face-to-face social skills are practised less → tolerance for social discomfort declines → ability to manage in-person relationships weakens.",
                 "examples": [
                   {
                     "type": "vn",
@@ -138,7 +138,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Digital communication lacks the emotional depth of in-person interaction",
-                "flow": "Text, emoji, and even video miss the full bandwidth of face-to-face communication — tone, touch, body language, shared physical experience → important relationship signals are lost or misread → misunderstandings increase, emotional intimacy is harder to build → relationships conducted primarily online remain fundamentally shallower than those grounded in physical presence.",
+                "flow": "Text, emoji, and even video miss the full range of face-to-face communication — tone, touch, body language, shared physical experience → important relationship signals are lost or misread → misunderstandings increase, emotional intimacy is harder to build → relationships conducted primarily online remain fundamentally shallower than those grounded in physical presence.",
                 "examples": [
                   {
                     "type": "vn",
@@ -152,7 +152,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Social media encourages comparison and envy, corroding self-worth and relationships",
-                "flow": "Platforms surface aspirational curated content → users compare real lives to others' highlight reels → inadequacy and resentment grow → mental health and relationship quality decline.",
+                "flow": "Platforms show carefully selected, idealised content → users compare their real lives with others' highlight reels → feelings of inadequacy and resentment grow → mental health and relationship quality decline.",
                 "examples": [
                   {
                     "type": "vn",
@@ -165,8 +165,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology enables avoidance of real-world interaction, weakening social capacity",
-                "flow": "Digital communication offers a lower-anxiety alternative → in-person interaction avoided → social muscles weaken → capacity for real-world relationships deteriorates.",
+                "title": "Technology enables avoidance of face-to-face interaction, weakening social skills",
+                "flow": "Digital communication offers a lower-anxiety alternative → in-person interaction is avoided → face-to-face social skills weaken through lack of practice → ability to manage real-world relationships deteriorates.",
                 "examples": [
                   {
                     "type": "vn",
@@ -199,7 +199,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Online platforms create communities impossible to form through geography alone",
-                "flow": "Geographic isolation prevents shared-experience connection → platforms allow these individuals to find each other → communities of belonging form → mental health improves where physical community cannot provide it.",
+                "flow": "Geographic isolation prevents people from finding others with similar experiences → platforms allow these individuals to connect → communities of belonging and support form → isolation is reduced where local communities cannot provide the same connection.",
                 "examples": [
                   {
                     "type": "vn",
@@ -212,8 +212,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Ambient digital contact keeps relationships warm between in-person meetings",
-                "flow": "Without technology, contact requires effort → relationships cool between meetings → messaging enables low-effort ambient contact → relationships stay warm and in-person meetings become richer.",
+                "title": "Regular digital contact keeps relationships connected between in-person meetings",
+                "flow": "Without technology, contact requires effort → relationships cool between meetings → messaging enables regular, low-effort contact → relationships stay connected and in-person meetings become richer.",
                 "examples": [
                   {
                     "type": "vn",
@@ -249,8 +249,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology dependency creates new fragility and anxiety",
-                "flow": "Life dependent on devices and platforms → system failures become personal crises → those who once managed without cannot now function without → dependency introduces fragility that simpler living did not have.",
+                "title": "Dependence on technology creates new vulnerability and anxiety",
+                "flow": "Life becomes dependent on devices and platforms → system failures become personal crises → those who once managed without technology can no longer function without it → dependence creates vulnerabilities that simpler living did not have.",
                 "examples": [
                   {
                     "type": "vn",
@@ -310,7 +310,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rejecting technology creates worse disadvantages in a digitally structured society",
+                "title": "Rejecting technology creates greater disadvantages in a digital society",
                 "flow": "Opting out of technology in a society built around digital systems → excluded from essential services, information, economic opportunity, and social participation → those without technology face greater difficulty managing health, finance, work, and relationships, not less → simplicity comes at the cost of capability → full participation in modern life requires technological engagement.",
                 "examples": [
                   {
@@ -510,8 +510,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "AI increases productivity, creating wealth that funds new industries",
-                "flow": "Automation raises output per worker → profits reinvested in R&D → new industries emerge → new job categories created alongside those displaced.",
+                "title": "AI productivity gains can create demand for new complementary jobs and industries",
+                "flow": "AI raises productivity in existing industries → lower costs and new capabilities create demand for new products and services → firms expand into activities that require human design, maintenance, oversight, and customer interaction → new categories of work emerge alongside some displaced roles.",
                 "examples": [
                   {
                     "type": "vn",
@@ -524,8 +524,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "AI frees humans from routine tasks, elevating the quality of work",
-                "flow": "AI handles pattern recognition and rule-based tasks → humans shift to creative, judgment-driven work → job quality and satisfaction improve → human potential more fully realised.",
+                "title": "AI can improve job quality when it automates routine tasks rather than entire roles",
+                "flow": "Workers spend substantial time on repetitive administrative or analytical tasks → AI can take over part of this workload → employees have more time for judgment, creativity, communication, and problem-solving → job quality improves when organisations redesign roles around these human strengths.",
                 "examples": [
                   {
                     "type": "vn",
@@ -571,8 +571,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The transition burden falls entirely on workers least able to absorb it",
-                "flow": "Retraining requires time, money, and access to education → workers displaced mid-career, with family obligations and limited savings → cannot easily return to education → government and corporate transition support is consistently inadequate → individuals bear the personal cost of a structural economic transformation they did not choose.",
+                "title": "The transition burden can fall disproportionately on workers with the fewest resources to adapt",
+                "flow": "Automation displaces some mid-career and lower-skilled workers → retraining requires time, money, and access to education → those with limited savings or family responsibilities face greater barriers to transition → without strong support, the people least able to adapt bear the largest personal costs.",
                 "examples": [
                   {
                     "type": "vn",
@@ -594,8 +594,8 @@ window.TOPIC_DATA = {
             "label": "Advantages of robots replacing human workers",
             "ideas": [
               {
-                "title": "Robots solve labour shortages in ageing societies",
-                "flow": "Ageing populations → fewer working-age people → critical labour shortages → robots fill these gaps, sustaining output without mass immigration.",
+                "title": "Robots can reduce labour shortages in tasks that are suitable for automation",
+                "flow": "Ageing populations reduce the supply of working-age labour → some routine, repetitive, or physically demanding tasks become difficult to staff → robots automate part of this work → scarce human workers can be concentrated in tasks that still require judgment and interpersonal skills.",
                 "examples": [
                   {
                     "type": "vn",
@@ -608,8 +608,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Automation drives down costs, raising living standards broadly",
-                "flow": "Automation reduces production costs → goods become cheaper → real purchasing power rises even if wages are flat → previously unaffordable goods become accessible to lower-income households → net welfare improvement that benefits consumers across all income levels, with proportionally larger gains for the poor.",
+                "title": "Automation can lower consumer prices when productivity gains are passed through by competitive markets",
+                "flow": "Automation reduces the labour and production cost of some goods → competing firms have incentives to lower prices or improve quality → consumers gain greater purchasing power → lower-income households can benefit especially when savings occur on widely purchased essentials.",
                 "examples": [
                   {
                     "type": "vn",
@@ -622,8 +622,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Freed from drudgery, humans focus on creative and interpersonal work",
-                "flow": "Robots handle physically demanding and cognitively routine tasks → humans redirect effort toward education, healthcare, art, and innovation → society becomes richer in the things only humans can provide → the long-run result is not mass unemployment but human effort concentrated in its highest-value and most distinctly human applications.",
+                "title": "Automation can shift human work toward tasks that depend more on creativity and interpersonal judgment",
+                "flow": "Robots take over some repetitive and physically demanding tasks → demand remains for work requiring empathy, creativity, judgment, and complex interaction → education and retraining help workers move into these roles → automation can change the composition of work rather than simply reducing the amount of human work.",
                 "examples": [
                   {
                     "type": "vn",
@@ -670,7 +670,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Robot ownership concentrates wealth, deepening inequality",
-                "flow": "Robots owned by capital → productivity gains accrue to investors, not workers → labour's GDP share declines → wealth concentrates, undermining the social contract.",
+                "flow": "Robots are owned by capital holders → productivity gains accrue to investors, not workers → workers receive a smaller share of national income → wealth concentrates, undermining social trust and economic security.",
                 "examples": [
                   {
                     "type": "vn",
@@ -692,8 +692,8 @@ window.TOPIC_DATA = {
             "label": "Robots will cause mass, permanent job displacement",
             "ideas": [
               {
-                "title": "AI now threatens cognitive as well as physical work — no safe harbour remains",
-                "flow": "Previous automation replaced physical labour → humans shifted to cognitive roles as a refuge. AI now performs data analysis, writing, legal research, and diagnosis → cognitive jobs no longer safe → the range of automation-vulnerable roles has expanded dramatically → the historical escape route into knowledge work no longer provides the same protection.",
+                "title": "AI expands automation risk into cognitive work that was previously more protected",
+                "flow": "Earlier automation mainly replaced routine physical and clerical tasks → workers often moved toward knowledge-based roles → AI can now perform parts of writing, analysis, research, and diagnosis → a wider range of occupations is exposed to automation even when whole jobs are not replaced.",
                 "examples": [
                   {
                     "type": "vn",
@@ -706,8 +706,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "New jobs created by technology require higher skills than the jobs they destroy",
-                "flow": "Technology creates high-skill roles → displaced workers lack qualifications to transition → structural mismatch → fewer benefit from new jobs than are harmed by lost ones.",
+                "title": "New technology jobs often require skills that displaced workers do not yet have",
+                "flow": "Technology eliminates some routine roles while creating more specialised ones → displaced workers may lack the qualifications required for the new positions → retraining takes time and may not be equally accessible → unemployment can persist even while employers report shortages in new occupations.",
                 "examples": [
                   {
                     "type": "vn",
@@ -720,8 +720,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The pace of automation is accelerating beyond any historical precedent",
-                "flow": "Previous technological transitions occurred over generations → workers and institutions adapted gradually. AI advances exponentially → roles can be automated in years, not decades → retraining and education systems designed for slower change cannot keep pace → the speed of disruption, not merely its scale, is the defining new risk.",
+                "title": "Rapid AI adoption can outpace retraining and education systems",
+                "flow": "AI capabilities can spread quickly through software and digital infrastructure → firms can reorganise tasks faster than formal education systems redesign courses → workers need new skills before training capacity catches up → the speed of adoption can create serious short-term adjustment problems.",
                 "examples": [
                   {
                     "type": "vn",
@@ -767,8 +767,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Automation raises the value of distinctly human skills",
-                "flow": "Machines handle routine tasks → relative value of creativity, empathy, and judgment rises → these cannot be automated → labour market rewards distinctly human qualities more as automation advances.",
+                "title": "Automation can raise the value of human-centred skills that remain harder to automate",
+                "flow": "Machines take over more routine and predictable tasks → work that depends on trust, contextual judgment, creativity, and interpersonal understanding becomes relatively more important → workers with these strengths complement automated systems → labour demand shifts toward skills that technology reproduces less easily.",
                 "examples": [
                   {
                     "type": "vn",
@@ -851,8 +851,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Over-reliance on robots causes skill atrophy and dangerous dependency",
-                "flow": "Robots perform tasks → humans stop practising → expertise fades → when systems fail, the capability to intervene no longer exists.",
+                "title": "Over-reliance on robots causes skill loss and dangerous dependency",
+                "flow": "Robots perform tasks → humans stop practising them → expertise declines → when systems fail, the capability to intervene no longer exists.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1076,7 +1076,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social media concentrates dangerous power in unaccountable private corporations",
+                "title": "Social media concentrates significant power in private corporations with limited public accountability",
                 "flow": "A handful of companies control information environments of billions → determine what is seen or suppressed → pursue profit over social cohesion → unprecedented power concentrated without democratic oversight.",
                 "examples": [
                   {
@@ -1123,8 +1123,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social media accelerates the spread of knowledge and educational opportunity",
-                "flow": "Educational content gatekept behind paywalls and geography → platforms distribute it freely → learners in developing countries access elite-equivalent knowledge → innovation accelerates as ideas cross borders.",
+                "title": "Social media makes educational resources and expert knowledge easier to discover and share",
+                "flow": "Teachers, experts, and institutions publish educational material on widely used platforms → learners encounter explanations and resources beyond what is available locally → useful content can spread rapidly through sharing → access to informal learning opportunities expands across geographic boundaries.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1174,8 +1174,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social media allows people to invest in relationships of genuine quality",
-                "flow": "Face-to-face social life is constrained by geography → forced proximity to neighbours and acquaintances regardless of genuine affinity → social media allows choice → people invest time in relationships that genuinely share values, interests, and connection → the quality of social life improves when it is chosen rather than circumstantially assigned.",
+                "title": "Social media allows people to choose relationships based on genuine shared interests",
+                "flow": "Face-to-face social life is constrained by geography → people are often limited to neighbours and acquaintances regardless of deeper compatibility → social media expands choice → people invest time in relationships based on shared values, interests, and connection → social life improves when relationships are chosen rather than determined mainly by proximity.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1273,7 +1273,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Social media supports professional development and global knowledge exchange",
-                "flow": "Professional knowledge siloed within organisations and geographies → platforms distribute it freely → workers in developing countries access elite-equivalent expertise → innovation accelerates as ideas cross previously separated domains.",
+                "flow": "Professional knowledge is confined within organisations and locations → platforms distribute it widely → workers in developing countries access high-level expertise → innovation accelerates as ideas cross previously separated fields.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1291,8 +1291,8 @@ window.TOPIC_DATA = {
             "label": "Social media has harmed communication and society",
             "ideas": [
               {
-                "title": "Social media replaces nuanced dialogue with performative, tribal signalling",
-                "flow": "Algorithms reward emotional, polarising content → nuance is punished → users perform for group approval rather than genuinely communicate → tribal signalling replaces dialogue.",
+                "title": "Social media replaces nuanced dialogue with public displays of group loyalty",
+                "flow": "Algorithms reward emotional, polarising content → nuance is discouraged → users communicate for group approval rather than genuine exchange → displays of group loyalty replace dialogue.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1319,8 +1319,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social media has driven a global mental health crisis, especially among the young",
-                "flow": "Social comparison, cyberbullying, sleep disruption, addiction by design → depression, anxiety, and self-harm rates have risen sharply among adolescents since social media adoption → the timing is not coincidental → longitudinal research links heavy use to worsening mental health outcomes → society is conducting an uncontrolled experiment on adolescent psychology with measurably harmful results.",
+                "title": "Heavy social media use can increase mental-health risks for some young people",
+                "flow": "Social comparison, cyberbullying, disrupted sleep, and compulsive use can create psychological stress → adolescents who are especially vulnerable may experience worsening anxiety or low mood → heavier problematic use is associated with poorer wellbeing → reducing harmful patterns of use can therefore be part of a broader mental-health response.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1512,8 +1512,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Health and medical data enables breakthroughs that save lives",
-                "flow": "Aggregate health data from millions of patients → researchers identify disease patterns invisible in small samples → faster diagnosis tools and drug development → treatments that would take decades emerge in years → lives saved at population scale.",
+                "title": "Large health datasets can improve medical research and diagnosis",
+                "flow": "Data from many patients reveals patterns that small samples may miss → researchers can identify risk factors and test diagnostic models more effectively → clinicians gain better tools for detecting disease and targeting treatment → medical decisions can improve when data quality and privacy safeguards are strong.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1545,8 +1545,8 @@ window.TOPIC_DATA = {
             "label": "Disadvantages outweigh — risks to individuals are severe and systemic",
             "ideas": [
               {
-                "title": "Data breaches expose millions to financial harm and identity theft",
-                "flow": "Centralised personal data creates high-value targets for hackers → large-scale breaches become inevitable → names, financial records, and passwords exposed → identity fraud, financial loss, and psychological harm at mass scale → individuals bear the cost of corporate and government negligence.",
+                "title": "Centralised personal data increases the potential damage from successful breaches",
+                "flow": "Large databases contain valuable personal and financial information → attackers have strong incentives to target them → a successful breach can expose many people at once → identity theft, fraud, and loss of trust can occur on a much larger scale than with dispersed records.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1595,8 +1595,8 @@ window.TOPIC_DATA = {
             "label": "Online monitoring is necessary for security",
             "ideas": [
               {
-                "title": "Surveillance is essential for detecting and preventing terrorism",
-                "flow": "Terrorist networks organise online → traditional intelligence insufficient → metadata analysis and monitoring reveal networks → plots disrupted before execution → lives saved at scale impossible without digital surveillance.",
+                "title": "Targeted digital surveillance can help identify terrorist networks and disrupt planned attacks",
+                "flow": "Terrorist networks may use digital communications to coordinate → lawful, targeted monitoring can reveal links between suspects and suspicious activity → investigators combine digital evidence with other intelligence → some plots can be disrupted before they are carried out.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1671,7 +1671,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Corporate data surveillance exploits users without meaningful consent",
-                "flow": "Platforms present opaque terms of service → users click accept without reading → companies legally collect vast behavioural data → consent nominal, not informed → private lives monetised without real choice.",
+                "flow": "Platforms present unclear terms of service → users accept them without fully understanding the implications → companies legally collect vast amounts of behavioural data → consent is formal rather than genuinely informed → private lives are monetised without meaningful choice.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1849,7 +1849,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Misinformation spreads faster and farther than corrections",
-                "flow": "False content is emotionally engaging and algorithmically amplified → spreads faster than fact-checks → corrections reach a smaller audience than the original lie → reputational and public health damage done before truth catches up → structural asymmetry between falsehood and correction.",
+                "flow": "False content is emotionally engaging and algorithmically amplified → spreads faster than fact-checks → corrections reach a smaller audience than the original lie → reputational and public health damage occurs before the truth catches up → false information therefore has a built-in advantage over later corrections.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1979,7 +1979,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Disinformation campaigns threaten democracy and public health",
-                "flow": "Bad actors spread coordinated lies targeting elections and public health → influence large populations without accountability → democratic decisions made on false premises → trust in institutions collapses → harm at civilisational scale.",
+                "flow": "Bad actors spread coordinated lies targeting elections and public health → influence large populations without accountability → democratic decisions are made on false premises → trust in institutions collapses → harm occurs on a society-wide scale.",
                 "examples": [
                   {
                     "type": "vn",
@@ -1992,8 +1992,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Extremist content radicalises vulnerable individuals at scale",
-                "flow": "Extreme ideologies previously confined to physical networks now freely available online → algorithms recommend increasingly radical content → isolated and vulnerable individuals drawn into extremist communities → real-world violence follows → terrorism and hate crimes with online radicalisation roots increase.",
+                "title": "Online platforms can accelerate extremist recruitment among vulnerable individuals",
+                "flow": "Extremist material becomes easy to discover online → recommendation systems and online communities can repeatedly expose vulnerable users to increasingly extreme narratives → social reinforcement deepens commitment to the group → the risk of radicalisation and eventual harmful action increases.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2006,8 +2006,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Free information enables fraud, exploitation, and criminal harm",
-                "flow": "Criminals use freely shared personal and financial data → sophisticated fraud targeting vulnerable individuals → online scam networks operate globally with impunity → victims suffer financial and psychological harm → free information flow creates the infrastructure for industrial-scale crime.",
+                "title": "Open digital networks also make fraud techniques and stolen data easier to distribute",
+                "flow": "Criminal groups share scam methods and stolen data through global digital networks → fraud can be coordinated across borders at low cost → vulnerable victims are targeted at scale → law enforcement faces greater difficulty when offenders and victims are located in different jurisdictions.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2028,8 +2028,8 @@ window.TOPIC_DATA = {
             "label": "Advantages of unlimited information access",
             "ideas": [
               {
-                "title": "Self-directed learning transforms individual potential",
-                "flow": "Anyone with internet access can learn any skill → formal education no longer the only path to competence → individuals from disadvantaged backgrounds develop marketable expertise → economic mobility through knowledge acquisition → human potential no longer limited by birth circumstances.",
+                "title": "Internet access broadens routes to skill development beyond formal education",
+                "flow": "Online courses and tutorials make many learning resources available outside schools and universities → motivated learners can build useful skills at lower cost → people with limited local educational options gain additional routes to competence → access to knowledge can improve economic mobility without eliminating other barriers.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2432,8 +2432,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Early device use establishes addictive patterns that undermine future learning",
-                "flow": "Young children's brains are highly sensitive to reward stimuli → fast-paced apps overstimulate dopamine systems → real-world activities seem slow and unrewarding by comparison → attention span and tolerance for effort reduce → when formal learning begins, children conditioned to instant gratification struggle with the patience required.",
+                "title": "Highly stimulating device use can make sustained, slower activities harder for some young children",
+                "flow": "Fast-paced apps provide frequent and immediate rewards → children become accustomed to rapid changes in stimulation → slower activities that require patience may feel less engaging → excessive use can therefore make it harder to sustain attention during reading, play, or classroom learning.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2604,7 +2604,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Price competition and access to wider markets make online shopping cheaper",
-                "flow": "Online platforms aggregate thousands of sellers → price competition drives costs down → consumers access global markets from local devices → products unavailable locally available instantly → cost and choice advantages over physical retail are structural, not temporary.",
+                "flow": "Online platforms bring together thousands of sellers → price competition drives costs down → consumers access global markets from local devices → products unavailable locally become easily accessible → cost and choice advantages are built into the online retail model rather than being temporary.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2637,7 +2637,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Physical retail closures eliminate community employment and social infrastructure",
-                "flow": "Online spending redirects from high streets → physical stores close → local employment in retail and hospitality lost → community commercial spaces emptied → social and economic fabric of communities simultaneously weakened.",
+                "flow": "Online spending shifts away from local shopping districts → physical stores close → local retail and hospitality jobs are lost → commercial spaces in the community become empty → social and economic life in the area weakens.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2658,8 +2658,8 @@ window.TOPIC_DATA = {
             "label": "Agree — online shopping will eventually replace physical retail",
             "ideas": [
               {
-                "title": "Technological improvements will eliminate the remaining advantages of physical retail",
-                "flow": "AR enables virtual try-ons → same-day delivery becomes standard → AI replicates personalised service → every physical retail advantage replicated digitally → no remaining reason to shop in person.",
+                "title": "Technology will continue to reduce the range of purchases that require physical stores",
+                "flow": "Virtual product tools improve online evaluation → delivery becomes faster and more reliable → AI improves remote customer service → more routine purchases can be completed online without visiting a store → physical retail becomes more concentrated in products and experiences where in-person contact still adds value.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2691,7 +2691,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Local and community retail fulfils social equity and access needs",
+                "title": "Local and community retail supports equal access for people with limited digital options",
                 "flow": "Elderly and low-income consumers disproportionately lack digital access and delivery infrastructure → physical retail remains essential for these populations → entire communities in areas without reliable delivery would lose access to basic goods → replacing all physical retail with e-commerce creates structural exclusion.",
                 "examples": [
                   {
@@ -2848,8 +2848,8 @@ window.TOPIC_DATA = {
             "label": "Benefits outweigh — technological development is a net positive",
             "ideas": [
               {
-                "title": "Medical technology saves millions of lives that would otherwise be lost",
-                "flow": "Vaccines, diagnostics, and surgical technologies developed through scientific progress → diseases that killed millions now preventable or treatable → life expectancy doubles in two centuries → quality of life vastly improved → benefit to human survival is unprecedented in scale.",
+                "title": "Medical technology has substantially reduced deaths and disability from many diseases",
+                "flow": "Vaccines, diagnostics, medicines, and surgical techniques prevent or treat conditions that were once far more dangerous → earlier detection and more effective treatment improve survival → many people live longer with conditions that would previously have been fatal or disabling → medical technology has made a major contribution to modern health gains.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2862,8 +2862,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology drives economic growth and reduces poverty at scale",
-                "flow": "Automation and digital platforms increase productivity → economic output grows → wealth distributed through employment → billions lifted from poverty over decades → living standards improved at historic scale.",
+                "title": "Productivity-enhancing technology can support economic growth and poverty reduction",
+                "flow": "Technology enables firms and workers to produce more with the same resources → higher productivity can lower costs and expand economic output → new businesses and better-paid work can raise household incomes → poverty falls when productivity gains are broadly shared through employment, lower prices, and public policy.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2876,8 +2876,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Communication technology connects humanity and enables unprecedented cooperation",
-                "flow": "Global communication infrastructure → scientists, governments, and organisations coordinate in real time → responses to pandemics, climate change, and humanitarian crises faster and better resourced → knowledge shared instantly across borders → problems requiring global solutions become tractable for the first time.",
+                "title": "Communication technology improves coordination on problems that require international cooperation",
+                "flow": "Global communication networks allow scientists, governments, and organisations to exchange information rapidly → shared data and real-time coordination reduce delays → responses to pandemics, disasters, and environmental problems can be organised across borders more efficiently → technology strengthens cooperation even when political and resource constraints remain.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2910,7 +2910,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Industrial technology is driving climate change that threatens civilisation",
-                "flow": "Fossil fuel technologies power industrial growth → CO₂ accumulates → global temperature rises → extreme weather, sea level rise, and biodiversity collapse follow → civilisational harm from the very technology that created modern prosperity.",
+                "flow": "Fossil fuel technologies power industrial growth → CO₂ accumulates → global temperature rises → extreme weather, sea level rise, and biodiversity collapse follow → large-scale social and economic harm results from the same technologies that created modern prosperity.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2923,8 +2923,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Automation displaces workers faster than economies can create new roles",
-                "flow": "AI and robotics automate routine tasks → jobs lost faster than new categories emerge → structural unemployment concentrated among low-skill workers → inequality deepens → social contract based on employment breaks down.",
+                "title": "Automation can cause serious transitional unemployment when job destruction outpaces adaptation",
+                "flow": "AI and robotics automate tasks in established occupations → some workers lose jobs before new opportunities appear or before they can retrain → unemployment becomes concentrated among workers with less transferable skills → inequality can rise unless labour-market and education policies support the transition.",
                 "examples": [
                   {
                     "type": "vn",
@@ -2992,8 +2992,8 @@ window.TOPIC_DATA = {
             "label": "Negative — automation creates unemployment and deepens inequality",
             "ideas": [
               {
-                "title": "Mass unemployment from automation will destabilise societies",
-                "flow": "AI and robots replace workers faster than new industries absorb them → structural unemployment rises → middle-class livelihoods disappear → social cohesion breaks down → political instability follows.",
+                "title": "Large-scale automation could destabilise communities if displacement is concentrated and support is weak",
+                "flow": "Automation can eliminate many similar jobs in the same industries or regions → household incomes and local spending fall before replacement work arrives → prolonged unemployment weakens economic security and trust → social and political tension can rise when communities perceive that the gains from technology are distributed unfairly.",
                 "examples": [
                   {
                     "type": "vn",
@@ -3020,8 +3020,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "AI systems can perpetuate bias, make opaque decisions, and evade accountability",
-                "flow": "AI trained on biased data reproduces and amplifies discrimination → decisions on employment, credit, and justice made by opaque systems → individuals harmed without recourse → accountability diffuse → systematic injustice encoded at scale with no human to challenge.",
+                "title": "Opaque AI systems can make discrimination harder to detect and challenge",
+                "flow": "AI systems learn from historical data that may contain bias → automated decisions can reproduce unequal patterns across many cases → complex models make it difficult for affected people to understand why a decision was made → clear human review, audit, and appeal mechanisms are needed to preserve accountability.",
                 "examples": [
                   {
                     "type": "vn",

@@ -112,8 +112,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Salary is concrete; job satisfaction is subjective and unstable",
-                "flow": "satisfaction varies by person → can change with management or tasks → unreliable basis for career decisions → salary offers measurable, enforceable stability",
+                "title": "Salary is measurable; job satisfaction is subjective and changeable",
+                "flow": "satisfaction varies by person → can change with management or tasks → unreliable basis for career decisions → salary provides measurable financial stability",
                 "examples": [
                   {
                     "type": "vn",
@@ -279,7 +279,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Career changes waste accumulated expertise",
-                "flow": "years of investment in skills → career change → expertise abandoned → slow build-up in new field → lower overall lifetime productivity",
+                "flow": "years of investment in skills → career change → expertise abandoned → time needed to build expertise in a new field → lower overall lifetime productivity",
                 "examples": [
                   {
                     "type": "vn",
@@ -307,7 +307,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Employers lose trust in candidates with multiple career changes",
-                "flow": "fragmented CV → perceived as unreliable → employers prefer stable candidates → career changers face hiring discrimination → harder to re-enter competitive fields",
+                "flow": "frequent career changes on a CV → perceived as unreliable → employers prefer stable candidates → career changers face hiring discrimination → harder to re-enter competitive fields",
                 "examples": [
                   {
                     "type": "vn",
@@ -452,8 +452,8 @@ window.TOPIC_DATA = {
             "label": "Causes of working longer hours",
             "ideas": [
               {
-                "title": "Digital technology has erased the boundary between work and personal time",
-                "flow": "smartphones and email → employees reachable 24/7 → expectation of availability outside hours → boundary erosion → chronic overwork",
+                "title": "Digital technology can blur the boundary between work and personal time",
+                "flow": "smartphones and email keep employees reachable after hours → some workplaces develop expectations of rapid responses → work intrudes into personal time → recovery becomes harder → chronic stress risk rises",
                 "examples": [
                   {
                     "type": "vn",
@@ -466,7 +466,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Competitive job markets pressure individuals to overperform",
+                "title": "Competitive job markets encourage excessive working hours",
                 "flow": "fear of redundancy → employees work extra hours → unpaid overtime normalised → overwork becomes industry standard → entire sectors adopt excessive hours as baseline",
                 "examples": [
                   {
@@ -527,7 +527,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Productive output does not scale with hours worked",
+                "title": "Productivity does not rise in proportion to hours worked",
                 "flow": "beyond ~50 hours per week → cognitive performance declines → error rates rise → workers less effective per hour → long hours create illusion of productivity",
                 "examples": [
                   {
@@ -563,8 +563,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Reduced hours increase overall economic productivity",
-                "flow": "legal limits → workers better rested → higher focus per hour → error reduction → long-term productivity gains outweigh short-term output reduction",
+                "title": "Reducing excessive working hours can improve productivity per hour",
+                "flow": "very long hours cause fatigue → concentration and accuracy decline → shorter or better-managed schedules improve recovery → productivity per hour can rise even if total hours fall",
                 "examples": [
                   {
                     "type": "vn",
@@ -596,8 +596,8 @@ window.TOPIC_DATA = {
             "label": "Legal limits on working hours are counterproductive",
             "ideas": [
               {
-                "title": "Work-hour limits reduce national economic competitiveness",
-                "flow": "legal caps → higher labour costs per unit of output → businesses shift operations to less regulated countries → local job losses → economic disadvantage",
+                "title": "Rigid work-hour limits can raise costs in sectors that depend on flexible scheduling",
+                "flow": "some industries face seasonal or deadline-driven demand → strict caps require extra staffing or delay work → labour costs or delivery times increase → firms in highly competitive sectors may lose some cost advantage",
                 "examples": [
                   {
                     "type": "vn",
@@ -610,8 +610,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Fixed schedules harm professionals whose work cannot be segmented",
-                "flow": "legal caps → inflexible constraints → surgeons, programmers, lawyers cannot finish time-sensitive tasks → work quality compromised → harmful outcomes in critical fields",
+                "title": "Poorly designed work-hour rules can reduce flexibility in time-sensitive professions",
+                "flow": "some professions face emergencies or project deadlines → inflexible rules may prevent temporary extra hours when genuinely necessary → service quality or continuity can suffer → flexible averaging and emergency exemptions can preserve protection without rigid scheduling",
                 "examples": [
                   {
                     "type": "vn",
@@ -646,8 +646,8 @@ window.TOPIC_DATA = {
             "label": "Why work-life balance is so difficult to achieve",
             "ideas": [
               {
-                "title": "Always-on digital culture eliminates recovery time",
-                "flow": "messaging apps → work follows employees home → no clear end to the working day → psychological decompression impossible → chronic stress accumulates",
+                "title": "Always-on digital culture can reduce recovery time",
+                "flow": "work messages continue after normal hours → employees feel pressure to monitor them → personal time is repeatedly interrupted → psychological recovery weakens → chronic stress can accumulate",
                 "examples": [
                   {
                     "type": "vn",
@@ -693,7 +693,7 @@ window.TOPIC_DATA = {
             "label": "What individuals and governments can do",
             "ideas": [
               {
-                "title": "Governments should enforce right-to-disconnect legislation",
+                "title": "Governments should establish a legal right to disconnect",
                 "flow": "legal right to ignore after-hours communications → employers cannot demand availability → clear boundary restored → rest and recovery protected → healthier workforce",
                 "examples": [
                   {
@@ -867,8 +867,8 @@ window.TOPIC_DATA = {
             "label": "The advantages of automation outweigh the disadvantages",
             "ideas": [
               {
-                "title": "Automation eliminates dangerous and demeaning work",
-                "flow": "robots take over hazardous and repetitive tasks → workers freed from physical risk and monotony → redirected to creative and interpersonal roles → higher job quality overall",
+                "title": "Automation can remove workers from dangerous and repetitive tasks",
+                "flow": "robots take over selected hazardous or repetitive tasks → direct exposure to injury falls → some workers move to safer monitoring or maintenance roles → overall job quality can improve when transitions are managed",
                 "examples": [
                   {
                     "type": "vn",
@@ -881,8 +881,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Automation creates new industries and higher-quality jobs",
-                "flow": "automation of low-skill roles → demand for engineers, trainers, data analysts → new industries emerge → net job creation in higher-value sectors → economic expansion",
+                "title": "Automation creates new occupations alongside the jobs it displaces",
+                "flow": "automation expands → demand grows for engineers, technicians, trainers, and data specialists → new roles appear around automated systems → whether total employment improves depends on how many jobs are created and who can transition",
                 "examples": [
                   {
                     "type": "vn",
@@ -895,8 +895,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Productivity gains from automation raise living standards broadly",
-                "flow": "automation → higher output per worker → cheaper goods → greater purchasing power for all → net societal gain",
+                "title": "Automation can raise living standards when productivity gains are widely shared",
+                "flow": "automation raises output per worker → production costs can fall → lower prices and higher incomes can increase purchasing power → broad gains depend on competition and how productivity benefits are distributed",
                 "examples": [
                   {
                     "type": "vn",
@@ -915,7 +915,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Automation causes rapid job displacement that workers cannot absorb quickly",
-                "flow": "automation → sudden unemployment in affected sectors → workers lack skills for new roles → structural unemployment and social dislocation → poverty if retraining is inadequate",
+                "flow": "automation → sudden unemployment in affected sectors → workers lack skills for new roles → structural unemployment and social disruption → poverty if retraining is inadequate",
                 "examples": [
                   {
                     "type": "vn",
@@ -928,8 +928,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Economic gains from automation concentrate among capital owners, not workers",
-                "flow": "automation → profits flow to technology owners → workers displaced without equivalent compensation → wealth inequality deepens → social tension and political instability",
+                "title": "Automation can widen inequality when ownership gains are not shared with workers",
+                "flow": "productivity gains accrue mainly to owners → displaced workers lose wage income → unequal distribution widens wealth gaps → wage growth, taxation, or shared ownership can reduce the effect",
                 "examples": [
                   {
                     "type": "vn",
@@ -998,7 +998,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Governments must invest in large-scale retraining and lifelong learning",
-                "flow": "funded reskilling programmes → workers acquire digital and interpersonal skills → redeployment in growth sectors → structural unemployment reduced → workforce adaptability built",
+                "flow": "funded reskilling programmes → workers acquire digital and interpersonal skills → redeployment in growth sectors → structural unemployment reduced → a more adaptable workforce",
                 "examples": [
                   {
                     "type": "vn",
@@ -1026,7 +1026,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Education systems must be redesigned around adaptability",
-                "flow": "future-proof curriculum → critical thinking, digital literacy, interpersonal skills → graduates adaptable across roles → less vulnerable to any single automation wave → resilient workforce",
+                "flow": "curriculum focused on adaptability → critical thinking, digital literacy, interpersonal skills → graduates adaptable across roles → less vulnerable to any single automation wave → resilient workforce",
                 "examples": [
                   {
                     "type": "vn",
@@ -1061,8 +1061,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Human skills that complement automation become more valuable",
-                "flow": "automation of routine tasks → premium on creativity, empathy, and judgment → these roles expand and improve → workers with complementary skills earn more and work in better conditions",
+                "title": "Automation can increase the value of human skills that are harder to replicate",
+                "flow": "routine tasks are automated → relative demand for judgment, empathy, and creativity may rise → workers who combine these skills with technology gain an advantage → pay and job quality can improve for those workers",
                 "examples": [
                   {
                     "type": "vn",
@@ -1122,8 +1122,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Demographic and geographic disparities make mass unemployment unavoidable for some",
-                "flow": "automation concentrated in certain sectors → vulnerable workers cannot relocate or retrain → unemployment becomes permanent for these groups → creates a permanent underclass",
+                "title": "Some groups face a high risk of persistent unemployment if transition support is weak",
+                "flow": "automation is concentrated in certain sectors → some workers face mobility or training barriers → job matching becomes difficult → targeted retraining and regional support are needed to prevent long-term exclusion",
                 "examples": [
                   {
                     "type": "vn",
@@ -1283,7 +1283,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Financial support allows workers to find better-matched jobs",
-                "flow": "unemployment benefit → financial breathing space → job seekers can be selective → better job match → higher long-term productivity",
+                "flow": "unemployment benefit → temporary financial security → job seekers can be selective → better job match → higher long-term productivity",
                 "examples": [
                   {
                     "type": "vn",
@@ -1343,8 +1343,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Welfare dependency traps individuals in long-term unemployment",
-                "flow": "extended benefits → skills decay and confidence erodes → re-entry becomes harder → longer unemployment spells → permanent detachment from labour market",
+                "title": "Poorly designed long-term benefits can weaken incentives to re-enter work",
+                "flow": "benefits are withdrawn sharply when employment begins and job-search support is weak → the financial gain from low-paid work may be small → job search can weaken → longer unemployment then increases the risk of skill loss and reduced confidence",
                 "examples": [
                   {
                     "type": "vn",
@@ -1426,8 +1426,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Income instability makes financial planning impossible",
-                "flow": "unpredictable income → inability to plan savings or mortgage repayments → financial stress → mental health impact → harder to build long-term stability than in salaried work",
+                "title": "Income instability makes long-term financial planning more difficult",
+                "flow": "unpredictable income → savings and debt payments are harder to plan → financial stress rises → long-term goals are harder to manage than with stable salaried income",
                 "examples": [
                   {
                     "type": "vn",
@@ -1448,8 +1448,8 @@ window.TOPIC_DATA = {
             "label": "Causes of youth unemployment",
             "ideas": [
               {
-                "title": "Education-labour market mismatch leaves graduates unprepared for available roles",
-                "flow": "universities produce graduates in oversupplied fields → employers seek skills curricula do not develop → graduates structurally unemployable → unemployment despite qualifications",
+                "title": "Education-labour market mismatch can leave graduates without the skills employers demand",
+                "flow": "universities produce graduates in oversupplied fields → employers seek different skills → graduates face longer job searches or underemployment → qualifications alone do not guarantee suitable employment",
                 "examples": [
                   {
                     "type": "vn",
@@ -1509,8 +1509,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Governments should create subsidised work experience and apprenticeship programmes",
-                "flow": "government subsidy → employers reduce risk of hiring inexperienced workers → more entry-level positions offered → young people gain experience → permanent employment follows",
+                "title": "Subsidised work experience can help young people overcome the experience barrier",
+                "flow": "government subsidy lowers the cost and risk of hiring inexperienced workers → more placements are offered → young people gain references and practical skills → employability improves and some placements convert to permanent jobs",
                 "examples": [
                   {
                     "type": "vn",
@@ -1524,7 +1524,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Young people must develop entrepreneurial and digital skills early",
-                "flow": "entrepreneurship education → tolerance for risk → self-employment as a viable option → reduced dependency on formal job market → youth create their own opportunities",
+                "flow": "entrepreneurship education → tolerance for risk → self-employment as a viable option → reduced dependence on formal job market → youth create their own opportunities",
                 "examples": [
                   {
                     "type": "vn",
@@ -1677,7 +1677,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Globalisation allows wealth to flow to where it is taxed least",
+                "title": "Globalisation makes it easier for profits to shift to low-tax jurisdictions",
                 "flow": "multinational corporations → shift profits to low-tax jurisdictions → national tax base eroded → less revenue for redistribution → inequality between global capital owners and local workers grows",
                 "examples": [
                   {
@@ -1691,7 +1691,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Unequal access to quality education perpetuates inter-generational inequality",
+                "title": "Unequal access to quality education perpetuates intergenerational inequality",
                 "flow": "wealthy families → access to elite schools and tutoring → children enter top universities and high-earning careers → wealth multiplied → poverty also inherited across generations",
                 "examples": [
                   {
@@ -1711,7 +1711,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Progressive taxation redistributes wealth to fund public services",
-                "flow": "higher taxes on high incomes → government revenue increased → investment in education, healthcare, housing → living standards for lower-income groups rise → inequality reduced over time",
+                "flow": "higher taxes on high incomes → government revenue rises → investment in education, healthcare, housing → living standards for lower-income groups rise → inequality reduced over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -1774,8 +1774,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The wealthy benefit most from public infrastructure and should contribute accordingly",
-                "flow": "roads, legal systems, educated workforce → foundations of business success → built and maintained by public spending → those who profit most should contribute most → progressive tax is fair reciprocity",
+                "title": "Higher earners can reasonably contribute more because public institutions support wealth creation",
+                "flow": "legal systems, infrastructure, and an educated workforce support business and investment → higher earners can capture large private returns within this system → progressive taxation asks those with greater ability to pay to contribute a larger share → revenue sustains the shared institutions that enable economic activity",
                 "examples": [
                   {
                     "type": "vn",
@@ -1843,8 +1843,8 @@ window.TOPIC_DATA = {
             "label": "Economic growth is the most effective way to reduce poverty",
             "ideas": [
               {
-                "title": "Growth creates jobs and raises incomes across the distribution",
-                "flow": "economic growth → more businesses and higher labour demand → wages rise across all levels → poverty reduced through employment → more effective than redistribution from a smaller pool",
+                "title": "Economic growth can reduce poverty when it creates broad-based employment",
+                "flow": "an expanding economy increases labour demand → more workers gain employment and earnings → household incomes rise → poverty falls most when growth is labour-intensive and accessible to lower-skilled workers",
                 "examples": [
                   {
                     "type": "vn",
@@ -2037,7 +2037,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Free trade gives developing countries access to global markets and investment",
-                "flow": "open trade borders → developing countries export competitively → foreign investment flows in → jobs created and incomes rise → economic development accelerates",
+                "flow": "lower trade barriers → developing countries export competitively → foreign investment flows in → jobs created and incomes rise → economic development accelerates",
                 "examples": [
                   {
                     "type": "vn",
@@ -2050,8 +2050,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Free trade lowers prices and expands consumer choice everywhere",
-                "flow": "competitive global markets → goods produced where most efficient → lower consumer prices globally → higher purchasing power → material living standards rise in all nations",
+                "title": "Free trade can lower prices and expand consumer choice where competition is effective",
+                "flow": "access to efficient global producers → import competition lowers prices for many goods → consumers gain more choice and purchasing power → benefits vary across sectors and countries because some producers lose from competition",
                 "examples": [
                   {
                     "type": "vn",
@@ -2065,7 +2065,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Trade integration creates interdependence that reduces the risk of conflict",
-                "flow": "strong trade relationships → mutual economic dependency → conflict is costly for both sides → diplomatic solutions preferred → trade as a peacemaking mechanism",
+                "flow": "strong trade relationships → mutual economic dependency → conflict is costly for both sides → diplomatic solutions preferred → trade can support peaceful relations",
                 "examples": [
                   {
                     "type": "vn",
@@ -2111,8 +2111,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Intellectual property rules in trade agreements favour developed economies",
-                "flow": "free trade agreements include IP protections → pharmaceutical patents and software licences → developing countries forced to buy at rich-country prices → technology transfer blocked → development slowed",
+                "title": "Strong intellectual-property rules can raise technology and medicine costs for poorer countries",
+                "flow": "trade agreements extend or enforce patents → generic or local alternatives may be delayed → licensing costs remain high → access and technology diffusion can slow unless agreements include appropriate flexibilities",
                 "examples": [
                   {
                     "type": "vn",
@@ -2161,8 +2161,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Multinationals threaten relocation to prevent stronger regulation",
-                "flow": "government considers stricter labour or environmental standards → multinational threatens to relocate → government backs down → regulatory race to the bottom → standards never improve",
+                "title": "Mobile multinationals can weaken governments' bargaining power over regulation",
+                "flow": "firms can relocate investment across borders → governments fear losing jobs or capital → regulators may soften labour or environmental requirements → competition for investment can create downward pressure on standards",
                 "examples": [
                   {
                     "type": "vn",
@@ -2195,7 +2195,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Developing country governments must build capacity to negotiate fair terms",
-                "flow": "stronger regulatory capacity → governments audit transfer pricing → negotiate genuine benefits from FDI → enforce labour standards → multinationals cannot extract without contributing",
+                "flow": "stronger regulatory capacity → governments audit transfer pricing → negotiate genuine benefits from foreign direct investment → enforce labour standards → multinationals cannot extract without contributing",
                 "examples": [
                   {
                     "type": "vn",
@@ -2230,8 +2230,8 @@ window.TOPIC_DATA = {
             "label": "The benefits of globalisation outweigh its drawbacks",
             "ideas": [
               {
-                "title": "Globalisation has delivered the greatest poverty reduction in human history",
-                "flow": "global trade integration → developing countries gain market access → jobs created and incomes rise → billions lifted from poverty → net human benefit is unprecedented",
+                "title": "Trade integration has contributed to major poverty reduction in many developing economies",
+                "flow": "access to export markets and foreign investment → industrial and employment growth → household incomes rise in successful integrating economies → trade can support poverty reduction when complemented by effective domestic institutions and social policy",
                 "examples": [
                   {
                     "type": "vn",
@@ -2245,7 +2245,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Globalisation enables the global diffusion of technology and knowledge",
-                "flow": "trade and investment links → technology transferred from developed to developing economies → productivity rises → developing countries leapfrog stages of development → global knowledge improves",
+                "flow": "trade and investment links → technology transferred from developed to developing economies → productivity rises → developing countries leapfrog stages of development → global knowledge spreads",
                 "examples": [
                   {
                     "type": "vn",
@@ -2263,7 +2263,7 @@ window.TOPIC_DATA = {
             "label": "The drawbacks of globalisation are serious and cannot be dismissed",
             "ideas": [
               {
-                "title": "Globalisation transmits economic crises across borders with devastating speed",
+                "title": "Globalisation can transmit economic crises rapidly across borders",
                 "flow": "deep trade and financial integration → shocks in one country spread rapidly → financial contagion → recessions exported → nations with no role in causing a crisis suffer its consequences",
                 "examples": [
                   {
@@ -2448,8 +2448,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Entrepreneurs drive innovation that governments and large corporations cannot",
-                "flow": "small firms → face competitive pressure to innovate → move faster than bureaucratic organisations → develop disruptive solutions → broader economy benefits",
+                "title": "Entrepreneurs can innovate quickly where large organisations move slowly",
+                "flow": "small firms have fewer layers of approval → they can test new products and business models rapidly → successful ideas pressure incumbents to respond → entrepreneurial experimentation adds to economy-wide innovation",
                 "examples": [
                   {
                     "type": "vn",
@@ -2467,8 +2467,8 @@ window.TOPIC_DATA = {
             "label": "Governments should not actively push people into entrepreneurship",
             "ideas": [
               {
-                "title": "Most new businesses fail, and government support misallocates public resources",
-                "flow": "high failure rates for new businesses → subsidies support ventures that would not survive the market → public money wasted → opportunity cost in education or infrastructure",
+                "title": "Poorly targeted business subsidies can waste public resources",
+                "flow": "governments cannot perfectly identify viable startups → some grants or loans go to weak ventures → failed projects create fiscal losses → transparent selection, co-investment, and time-limited support reduce the risk",
                 "examples": [
                   {
                     "type": "vn",
@@ -2495,8 +2495,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Markets are better than governments at identifying which entrepreneurs to support",
-                "flow": "government programmes → bureaucratic selection criteria → political factors influence funding → less promising ideas funded → venture capital is profit-driven and better at identifying viable businesses",
+                "title": "Private investors often have stronger incentives to test commercial viability than public agencies",
+                "flow": "investors risk their own capital → they scrutinise demand and business models → weak ventures struggle to attract continued funding → government can focus on market failures rather than trying to pick commercial winners directly",
                 "examples": [
                   {
                     "type": "vn",
@@ -2545,8 +2545,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "AI can replicate practical skills but not genuine creativity",
-                "flow": "AI automates routine analytical and technical tasks → practical skills lose relative value → creative judgment and novel synthesis remain irreplaceable → creative workers command a premium",
+                "title": "As AI automates more routine work, human creative judgment may become more valuable",
+                "flow": "AI handles more routine analytical and technical tasks → human workers focus more on problem framing, taste, context, and novel combinations → these skills complement AI → creative judgment can command a premium even as tools improve",
                 "examples": [
                   {
                     "type": "vn",
@@ -2564,7 +2564,7 @@ window.TOPIC_DATA = {
             "label": "Practical skills and experience matter more than creativity",
             "ideas": [
               {
-                "title": "Most businesses run on execution, not innovation",
+                "title": "Most businesses depend on execution, not constant innovation",
                 "flow": "most commercial success → reliable delivery → operational excellence → consistent customer service → execution, not innovation, drives daily results",
                 "examples": [
                   {
@@ -2843,8 +2843,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Targeted digital advertising exploits psychological vulnerabilities to drive impulse spending",
-                "flow": "algorithmic targeting → ads appear when emotional vulnerability is highest → impulse purchases made → pattern repeated → debt accumulates",
+                "title": "Highly targeted digital advertising can increase impulse spending",
+                "flow": "platforms infer interests and behavioural patterns → personalised ads reach users when they are likely to be receptive → repeated persuasive exposure can trigger unplanned purchases → frequent impulse spending can contribute to debt for financially vulnerable users",
                 "examples": [
                   {
                     "type": "vn",
@@ -2877,7 +2877,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Consumer freedom should be respected — adults can make their own spending choices",
-                "flow": "paternalistic restrictions on advertising → limits individual freedom → assumes consumers are irrational → undermines personal responsibility → education is a better solution than censorship",
+                "flow": "paternalistic advertising restrictions → limits individual freedom → assumes consumers are irrational → undermines personal responsibility → education is a better solution than censorship",
                 "examples": [
                   {
                     "type": "vn",
@@ -2898,7 +2898,7 @@ window.TOPIC_DATA = {
             "label": "People are increasingly judged by their possessions rather than their character",
             "ideas": [
               {
-                "title": "Consumer culture has made material possessions a proxy for social worth",
+                "title": "Consumer culture has made material possessions a signal of social status",
                 "flow": "advertising and media → link between products and identity normalised → individuals judged by visible consumption → status determined by possessions → intrinsic character traits devalued",
                 "examples": [
                   {
@@ -2912,7 +2912,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social media has intensified the performance of material success",
+                "title": "Social media has intensified the display of material success",
                 "flow": "social media platforms → incentivise display of consumption → likes and validation tied to visible spending → audiences judge users by lifestyle and possessions → worth tied to external display",
                 "examples": [
                   {
@@ -2926,8 +2926,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The labour market itself rewards visible signals of consumer status",
-                "flow": "employers infer character from appearance and consumer choices → well-dressed candidates perceived as more capable → material presentation influences hiring → consumption and social worth explicitly linked",
+                "title": "Appearance can affect hiring impressions even when it is unrelated to competence",
+                "flow": "employers form rapid judgments from presentation → clothing and grooming influence perceived professionalism → candidates with resources for expected presentation may gain an advantage → visible consumption can affect opportunity at the margin without determining overall success",
                 "examples": [
                   {
                     "type": "vn",

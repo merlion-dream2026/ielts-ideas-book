@@ -115,8 +115,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social isolation and community breakdown are paradoxes of dense urban living",
-                "flow": "urban anonymity severs the social bonds of village community → neighbours are strangers → competitive individualism replaces mutual support → loneliness and mental health problems intensify despite physical proximity to millions",
+                "title": "Weak neighbourhood ties can increase loneliness in some urban settings",
+                "flow": "high residential turnover and long working hours reduce repeated contact with neighbours → local familiarity and informal support develop more slowly → some residents experience social isolation despite living near many people → community spaces and regular group activities can rebuild local connection",
                 "examples": [
                   {
                     "type": "vn",
@@ -166,7 +166,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Global manufacturing and services concentrate in cities, creating employment clusters",
-                "flow": "export-oriented manufacturing locates in cities with port access and labour supply → service industries cluster around educated urban workforces → agglomeration effects make cities more productive per worker → employment gravity pulls people from rural areas at scale",
+                "flow": "export-oriented manufacturing locates in cities with port access and labour supply → service industries cluster around educated urban workforces → clustering makes cities more productive per worker → concentrated employment opportunities pull people from rural areas at scale",
                 "examples": [
                   {
                     "type": "vn",
@@ -331,8 +331,8 @@ window.TOPIC_DATA = {
             "label": "Rapid urban population growth is a positive development",
             "ideas": [
               {
-                "title": "Cities are the engines of economic growth, innovation, and productivity",
-                "flow": "population density creates knowledge spillovers and business networks → proximity enables collaboration and specialisation → cities generate disproportionate shares of GDP, patents, and entrepreneurial activity → urban population growth is growth in humanity's productive capacity",
+                "title": "Urban density can raise productivity through stronger labour and business networks",
+                "flow": "firms and workers locate close together → knowledge sharing, specialisation, and job matching become easier → businesses gain access to larger markets and talent pools → productivity can rise when infrastructure and institutions keep pace",
                 "examples": [
                   {
                     "type": "vn",
@@ -359,8 +359,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Growing cities drive cultural diversity, social progress, and human development",
-                "flow": "diverse urban populations generate cultural exchange and tolerance → social movements for equality and rights originate in cities → universities and research institutions cluster in growing urban centres → human development in education, health, and rights advances fastest in dense, diverse cities",
+                "title": "Cities can expand access to institutions that support human development",
+                "flow": "dense populations can sustain universities, specialist services, and cultural institutions → diverse groups exchange ideas and build networks → residents gain wider access to education, healthcare, and civic opportunities → well-managed urban growth can expand human-development opportunities",
                 "examples": [
                   {
                     "type": "vn",
@@ -379,7 +379,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Infrastructure and housing cannot keep pace with rapid population growth",
-                "flow": "construction and planning cycles take years to years → population grows month by month → the gap between supply and demand for housing, transport, and services widens continuously → quality of life falls as population outstrips capacity",
+                "flow": "construction and planning cycles take years → population grows month by month → the gap between supply and demand for housing, transport, and services widens continuously → quality of life falls as population outstrips capacity",
                 "examples": [
                   {
                     "type": "vn",
@@ -618,7 +618,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Smart urban planning and mixed-use zoning increases effective urban capacity",
+                "title": "Smart urban planning and mixed-use zoning increase effective urban capacity",
                 "flow": "compact mixed-use development accommodates more residents per hectare efficiently → well-designed density reduces infrastructure cost per resident → planning regulations that enable vertical and transit-oriented development expand capacity without expanding the urban footprint",
                 "examples": [
                   {
@@ -640,8 +640,8 @@ window.TOPIC_DATA = {
             "label": "Urban overpopulation does cause serious social and environmental problems",
             "ideas": [
               {
-                "title": "Social inequality intensifies in overpopulated cities, producing crime and social conflict",
-                "flow": "extreme density without adequate housing or services → visible inequality in close proximity → social resentment grows → crime rates rise in overcrowded poor districts → social tensions between different migrant communities emerge",
+                "title": "Overcrowding and unequal access to services can increase social tension",
+                "flow": "housing and public services become scarce in deprived districts → residents compete for limited opportunities and perceive unfairness → trust in institutions and between groups weakens → social tension rises unless services and inclusion improve",
                 "examples": [
                   {
                     "type": "vn",
@@ -687,8 +687,8 @@ window.TOPIC_DATA = {
             "label": "Well-planned dense cities can manage population without serious problems",
             "ideas": [
               {
-                "title": "Population density itself is not the problem — poor planning and governance are",
-                "flow": "Singapore and Hong Kong are among the world's densest cities yet have high quality of life → their success demonstrates that density with good planning is manageable → the problems attributed to overpopulation are actually the result of inadequate investment and governance",
+                "title": "High density can be compatible with good quality of life when infrastructure keeps pace",
+                "flow": "dense populations create high demand for housing, transport, and services → effective planning and sustained investment expand capacity → reliable systems prevent many common problems of overcrowding → outcomes depend on both population pressure and how well it is managed",
                 "examples": [
                   {
                     "type": "vn",
@@ -715,8 +715,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Investment in urban systems can resolve what appears to be overpopulation",
-                "flow": "what looks like overpopulation is often under-investment → cities that invest in metro systems, social housing, and waste management can accommodate much larger populations well → the problem is fiscal and political, not demographic",
+                "title": "Investment can substantially increase the population a city can support",
+                "flow": "metro systems, social housing, water networks, and waste services expand urban capacity → service pressure falls as supply catches up with demand → larger populations can be accommodated more successfully → investment reduces the harms of population growth even though demographic pressure still matters",
                 "examples": [
                   {
                     "type": "vn",
@@ -798,8 +798,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Road pricing and congestion charging manage demand at the source",
-                "flow": "charging drivers for peak-hour road use → price mechanism reduces discretionary journeys → road space is allocated to those who value it most → revenue funds public transport → demand management is faster to implement than supply expansion",
+                "title": "Congestion pricing can reduce discretionary peak-hour car trips",
+                "flow": "drivers face a charge for scarce road space at the busiest times → flexible or lower-priority trips shift in time, route, or mode → peak traffic volumes fall → road journeys become more reliable, while exemptions or rebates can protect essential low-income users",
                 "examples": [
                   {
                     "type": "vn",
@@ -834,8 +834,8 @@ window.TOPIC_DATA = {
             "label": "Larger cities are increasingly difficult to manage effectively",
             "ideas": [
               {
-                "title": "Coordination complexity grows exponentially with population and area",
-                "flow": "each additional million residents adds not only numbers but interactions, dependencies, and failure points → the systems that manage utilities, transport, and public safety become harder to optimise simultaneously → large cities approach the limits of what centralised governance can effectively coordinate",
+                "title": "Very large cities require more decentralised and data-supported governance",
+                "flow": "more residents and infrastructure networks create more coordination tasks → highly centralised decision-making becomes slower and less responsive → local districts and real-time management tools handle many issues closer to where they occur → city-wide institutions can focus on problems that genuinely require metropolitan coordination",
                 "examples": [
                   {
                     "type": "vn",
@@ -862,8 +862,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social fragmentation makes democratic governance of megacities increasingly incoherent",
-                "flow": "very large cities contain enormously diverse communities with conflicting interests → no single political coalition can represent all adequately → special interest capture of local government increases → democratic accountability weakens as cities become ungovernable through normal political processes",
+                "title": "Fragmented metropolitan governance can weaken accountability in very large cities",
+                "flow": "multiple districts, agencies, and jurisdictions share responsibility for urban services → overlapping authority makes coordination harder → residents may struggle to identify who is responsible for failures → clearer metropolitan institutions can improve accountability as cities grow",
                 "examples": [
                   {
                     "type": "vn",
@@ -895,8 +895,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Technology enables management of urban complexity that was previously impossible",
-                "flow": "smart city systems, real-time data analytics, and AI decision support → complex urban systems can be monitored and managed at scales impossible before digital technology → the governance challenge of megacities has grown, but so have the management tools available",
+                "title": "Technology enables management of urban complexity at scales previously impossible",
+                "flow": "smart city systems, real-time data analytics, and AI decision support → complex urban systems can be monitored and managed at scales previously impossible without digital technology → the governance challenge of megacities has grown, but so have the management tools available",
                 "examples": [
                   {
                     "type": "vn",
@@ -1077,8 +1077,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Restrictive planning and zoning inflate costs by artificially limiting supply",
-                "flow": "strict height limits, low-density zoning, and lengthy approval processes → developers cannot build enough housing to meet demand → the permitted supply is far below what the market needs → planning restrictions function as a government-imposed mechanism for inflating housing costs",
+                "title": "Restrictive planning and zoning raise costs by limiting housing supply",
+                "flow": "strict height limits, low-density zoning, and lengthy approval processes → developers cannot build enough housing to meet demand → the permitted supply is far below what the market needs → planning restrictions directly raise housing costs",
                 "examples": [
                   {
                     "type": "vn",
@@ -1193,8 +1193,8 @@ window.TOPIC_DATA = {
             "label": "How housing shortages can be addressed",
             "ideas": [
               {
-                "title": "Large-scale public investment in social housing is the only solution for lowest-income households",
-                "flow": "private markets cannot profitably serve very low incomes → only government subsidy or public construction can bridge the gap → large-scale social housing programmes provide the permanent affordable supply that markets cannot create → the state must act as builder and landlord of last resort",
+                "title": "Very low-income households often require direct housing support beyond normal market supply",
+                "flow": "market rents remain above what the poorest households can afford → planning reform alone does not close the affordability gap → social housing, rent assistance, or subsidised non-profit provision can bridge it → public support creates a stable housing option for households the market does not serve",
                 "examples": [
                   {
                     "type": "vn",
@@ -1243,8 +1243,8 @@ window.TOPIC_DATA = {
             "label": "Governments should provide affordable housing for all citizens",
             "ideas": [
               {
-                "title": "Adequate housing is a fundamental human right that markets cannot reliably deliver",
-                "flow": "the right to adequate housing is enshrined in international human rights law → private markets systematically fail to serve the lowest income groups → government provision is therefore not merely desirable but a legal and moral obligation → states that leave housing to markets alone fail their citizens",
+                "title": "Treating housing as a basic right justifies a government role in ensuring minimum access",
+                "flow": "low-income households can be priced out of adequate shelter → insecure or unsafe housing limits health and participation in society → governments can use social housing, subsidies, regulation, or land policy to close the gap → public responsibility is to ensure access, not necessarily to provide every home directly",
                 "examples": [
                   {
                     "type": "vn",
@@ -1304,8 +1304,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Mixed-tenure and subsidy-based approaches are more effective than pure public provision",
-                "flow": "rather than building and managing housing directly → governments provide subsidies for private construction → mixed-income developments avoid concentration of poverty → market providers bring efficiency and innovation → government funding leverages private capital more effectively",
+                "title": "Mixed-tenure housing can reduce the concentration of disadvantage",
+                "flow": "subsidised homes are integrated with market-rate housing → residents share neighbourhood services and public space → poverty is less geographically concentrated → public affordability goals can be pursued without creating isolated low-income estates",
                 "examples": [
                   {
                     "type": "vn",
@@ -1318,8 +1318,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Governments should remove the barriers to private supply rather than replacing it",
-                "flow": "the most effective government role is to enable private construction → reform planning, release land, and remove barriers to supply → the private sector builds more and affordability improves through competition → this approach is more sustainable than government directly funding and managing housing",
+                "title": "Planning reform can expand private supply while targeted public support protects low-income households",
+                "flow": "planning barriers limit the number and type of homes that can be built → reform allows more private construction → increased supply eases pressure in market segments developers can serve → public funds can then focus on households that remain unable to afford market housing",
                 "examples": [
                   {
                     "type": "vn",
@@ -1369,7 +1369,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Construction cost increases reduce the supply of new affordable homes",
-                "flow": "rising material costs, labour shortages, and regulatory compliance expenses → minimum viable construction cost per unit rises → the gap between what can profitably be built and what low-income households can afford widens → the market naturally shifts to luxury housing where margins exist",
+                "flow": "rising material costs, labour shortages, and regulatory compliance expenses → the minimum construction cost needed for a profitable project rises → the gap between what can profitably be built and what low-income households can afford widens → the market naturally shifts to higher-priced housing where margins exist",
                 "examples": [
                   {
                     "type": "vn",
@@ -1401,7 +1401,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Tax reform targeting investment housing reduces speculative demand",
+                "title": "Tax reform targeting investment properties reduces speculative demand",
                 "flow": "tax investment properties at higher rates than owner-occupied homes → penalise empty or speculative holdings → reduce the financial advantage of property as an investment → investment demand falls → prices ease as market is left to serve residential need rather than investor returns",
                 "examples": [
                   {
@@ -1437,8 +1437,8 @@ window.TOPIC_DATA = {
             "label": "Private companies are best placed to build housing",
             "ideas": [
               {
-                "title": "Private developers respond efficiently to market demand signals",
-                "flow": "price signals indicate where housing demand exceeds supply → private developers compete to fill the gap → market competition drives efficiency and innovation in construction → housing is delivered faster and at lower cost than government programmes typically achieve",
+                "title": "Private competition can respond quickly where housing demand is commercially viable",
+                "flow": "high prices signal strong demand → multiple developers seek profitable projects → competition can encourage faster construction and cost control → private supply can expand efficiently in market segments where buyers or tenants can pay",
                 "examples": [
                   {
                     "type": "vn",
@@ -1512,8 +1512,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Singapore and Vienna demonstrate that government-led housing can outperform pure private markets",
-                "flow": "Singapore's HDB and Vienna's Gemeindebau demonstrate that government-led housing → 80–90% of residents in affordable, quality accommodation → consistent satisfaction and rent stability → outcomes private markets have failed to deliver in comparable cities",
+                "title": "Long-running public housing systems show that government-led provision can work at scale",
+                "flow": "sustained public land, finance, and planning support create large stocks of affordable housing → households gain stable long-term access to homes → successful systems demonstrate that public provision can be high quality when institutions are strong → these cases establish feasibility rather than universal superiority",
                 "examples": [
                   {
                     "type": "vn",
@@ -1663,8 +1663,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Inadequate infrastructure costs more in lost productivity than investment would",
-                "flow": "congestion and unreliable services impose daily time and cost losses on households and businesses → these losses accumulate to billions annually → the long-run economic cost of underinvestment far exceeds the capital cost of building adequate infrastructure",
+                "title": "Chronic infrastructure failures can impose recurring economic costs that justify targeted investment",
+                "flow": "congestion and unreliable utilities delay workers and businesses every day → time and operating losses accumulate repeatedly → well-chosen upgrades reduce those losses → investment is economically justified when the avoided long-term costs exceed the project's lifecycle cost",
                 "examples": [
                   {
                     "type": "vn",
@@ -1696,8 +1696,8 @@ window.TOPIC_DATA = {
             "label": "Limits and risks of city-focused infrastructure spending",
             "ideas": [
               {
-                "title": "Urban infrastructure investment without rural development worsens regional imbalances",
-                "flow": "concentrating infrastructure budgets on major cities deepens rural underdevelopment → rural-urban migration accelerates → cities become more congested despite the investment → the congestion relief the investment was designed to deliver is partially cancelled by induced migration",
+                "title": "Urban-only investment can reinforce migration incentives if rural areas fall further behind",
+                "flow": "major cities receive better services and infrastructure while rural areas do not → the opportunity gap between locations widens → some additional migration is encouraged → part of the new urban capacity is absorbed by further population growth → more balanced territorial investment can reduce this effect",
                 "examples": [
                   {
                     "type": "vn",
@@ -1724,8 +1724,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital infrastructure may deliver higher economic returns per dollar than physical investment",
-                "flow": "digital connectivity enables remote work and e-commerce → reduces the need for physical commute infrastructure → creates economic value comparable to roads and rail → investment returns per dollar may be higher in digital than physical infrastructure in the current economic context",
+                "title": "Digital infrastructure can substitute for some physical travel and expand access at low marginal cost",
+                "flow": "reliable connectivity enables remote work, e-commerce, and online services → some trips and location barriers are reduced → one network can serve many users and activities → digital investment can complement or reduce the need for selected physical infrastructure projects",
                 "examples": [
                   {
                     "type": "vn",
@@ -1774,7 +1774,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Transport-oriented planning reduces car dependence, emissions, and mobility inequality simultaneously",
+                "title": "Transit-oriented planning reduces car dependence, emissions, and mobility inequality simultaneously",
                 "flow": "density clustered around transit nodes creates walkable neighbourhoods → car ownership becomes optional rather than essential → low-income residents gain mobility without vehicle costs → pollution falls as transit replaces private cars",
                 "examples": [
                   {
@@ -1821,8 +1821,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Poor countries lack the institutional capacity to plan and enforce effectively",
-                "flow": "effective planning requires capable institutions, technical expertise, and enforcement capacity → many developing municipalities lack all three → plans are drafted but remain unimplemented → informality overwhelms formal planning → planning quality does not translate into quality of outcomes",
+                "title": "Limited municipal capacity can prevent good urban plans from being implemented",
+                "flow": "effective planning requires trained staff, reliable data, and enforcement capacity → under-resourced municipalities struggle to provide all three → informal development can outpace official plans → capacity-building is therefore essential alongside better planning rules",
                 "examples": [
                   {
                     "type": "vn",
@@ -1843,8 +1843,8 @@ window.TOPIC_DATA = {
             "label": "Limiting city size is justified for governance, equity, and environment",
             "ideas": [
               {
-                "title": "Mega-cities beyond a certain scale become increasingly ungovernable and inefficient",
-                "flow": "coordination costs grow exponentially beyond 10–20 million residents → infrastructure cannot keep pace with demand → governance fragments across overlapping jurisdictions → productivity benefits of scale are offset by congestion and public service breakdown",
+                "title": "Very large cities face rising coordination costs when institutions are fragmented",
+                "flow": "more residents, jurisdictions, and infrastructure networks must operate together → coordination across agencies becomes harder → if metropolitan institutions do not adapt, delays and service failures increase → the benefits of scale can be eroded by governance fragmentation",
                 "examples": [
                   {
                     "type": "vn",
@@ -1857,8 +1857,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Capping mega-city growth allows secondary cities and rural areas to develop",
-                "flow": "redirecting growth from primary cities creates economic demand in secondary cities → secondary cities develop their own productive economies and service networks → the national urban system becomes more balanced → rural depopulation slows and regional inequality narrows",
+                "title": "Investing in secondary cities can redirect some future growth away from megacities",
+                "flow": "secondary cities receive better transport, services, universities, and employment investment → firms and households gain credible alternatives to the primary city → some future migration and business growth shifts toward these centres → the national urban system becomes more balanced over time",
                 "examples": [
                   {
                     "type": "vn",
@@ -1904,8 +1904,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Effective size limits require restricting migration rights, violating fundamental freedoms",
-                "flow": "capping city growth requires preventing people from moving freely → enforcement requires bureaucracies that target vulnerable migrants → a class of undocumented residents without service rights is created → rights violations are severe and the harms fall on those least able to bear them",
+                "title": "Direct population caps can create unfair barriers to urban opportunity",
+                "flow": "residency quotas or permit systems restrict who can settle in high-opportunity cities → excluded newcomers may remain informally or lose access to services → enforcement burdens vulnerable migrants most → indirect planning and regional-development policies can manage growth with fewer rights costs",
                 "examples": [
                   {
                     "type": "vn",
@@ -1918,8 +1918,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The problem is mismanagement, not size — well-governed large cities function excellently",
-                "flow": "Tokyo, Singapore, and Seoul demonstrate that very large cities can be clean, safe, and efficiently managed → governance quality is the key determinant of city performance → limiting size is a distraction from the institutional reforms that actually improve urban outcomes",
+                "title": "Good governance can mitigate many disadvantages of very large cities",
+                "flow": "large populations create intense demand for housing, transport, and services → coordinated planning and investment expand system capacity → reliable institutions manage growth more effectively → city size influences pressure, but governance strongly shapes whether that pressure becomes crisis",
                 "examples": [
                   {
                     "type": "vn",
@@ -1954,8 +1954,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Public transport reduces air pollution and its health costs across the urban population",
-                "flow": "private vehicle emissions are the largest source of urban air pollution → modal shift to clean public transit removes the most polluting vehicles from the most congested corridors → air quality improves directly → health outcomes improve and public healthcare costs fall",
+                "title": "Shifting trips from high-emission private vehicles to clean public transport can improve air quality",
+                "flow": "where road traffic is a major source of urban pollution, private vehicles emit pollutants in dense corridors → cleaner buses and rail carry more people with fewer emissions per passenger → traffic-related pollution falls as trips shift modes → health benefits follow from lower exposure",
                 "examples": [
                   {
                     "type": "vn",
@@ -1988,7 +1988,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Public transport systems require sustained funding that many developing cities cannot afford",
-                "flow": "metro and BRT systems cost $50M–$500M per km to build → operating costs require permanent government subsidy → developing cities lack the fiscal capacity to build and maintain quality systems → underfunded transit delivers poor service that fails to attract ridership away from private vehicles",
+                "flow": "metro and bus rapid transit systems cost $50M–$500M per km to build → operating costs require permanent government subsidy → developing cities lack the fiscal capacity to build and maintain quality systems → underfunded transit delivers poor service that fails to attract ridership away from private vehicles",
                 "examples": [
                   {
                     "type": "vn",
@@ -2015,8 +2015,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Demand management through pricing may reduce congestion more cost-effectively than supply expansion",
-                "flow": "new transit supply can induce new demand that partially offsets congestion benefits → congestion pricing directly reduces the number of vehicles on the road → pricing revenue funds transit improvements → a combined demand-and-supply approach outperforms supply expansion alone",
+                "title": "Congestion pricing can complement public transport by preventing freed road space from refilling",
+                "flow": "better transit gives some drivers a practical alternative → their shift to transit initially frees road space → lower congestion can attract other drivers back onto the road → congestion pricing discourages this rebound → combined demand and supply measures produce more durable congestion relief",
                 "examples": [
                   {
                     "type": "vn",
@@ -2134,8 +2134,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Formal waste separation, recycling infrastructure, and extended producer responsibility close material loops",
-                "flow": "separate collection of organics, recyclables, and residual waste → efficient material recovery → composting reduces landfill methane emissions → extended producer responsibility funding flows back into collection infrastructure → waste management becomes financially sustainable",
+                "title": "Producer responsibility can shift part of waste-management costs away from municipalities",
+                "flow": "producers pay fees linked to the packaging and products they place on the market → revenue supports collection and recycling → firms gain incentives to reduce difficult-to-process waste → municipal budgets face less pressure while recovery rates can improve",
                 "examples": [
                   {
                     "type": "vn",
@@ -2282,7 +2282,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "Urban heat islands intensify temperatures and drive escalating energy demand",
-                "flow": "building materials absorb and re-emit solar heat → tree removal eliminates evapotranspiration cooling → urban areas become 2–5°C hotter than surrounding countryside → cooling energy demand rises sharply → increased energy use generates further heat in a self-reinforcing feedback loop",
+                "flow": "building materials absorb and re-emit solar heat → tree removal eliminates natural cooling from vegetation → urban areas become 2–5°C hotter than surrounding countryside → cooling energy demand rises sharply → increased energy use generates further heat in a self-reinforcing feedback loop",
                 "examples": [
                   {
                     "type": "vn",
@@ -2328,8 +2328,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Circular economy infrastructure closes urban resource loops and eliminates waste as a category",
-                "flow": "separating organic waste for composting → converting residual waste to energy → recovering metals, plastics, and glass for reuse → cities become material processors rather than end-of-line consumers → resource demand and landfill emissions both fall significantly",
+                "title": "Circular-economy infrastructure can reduce waste and demand for virgin resources",
+                "flow": "organic waste is composted and recyclable materials are recovered → fewer useful materials are sent to landfill → recovered materials substitute for part of new resource extraction → cities reduce both disposal volumes and resource demand",
                 "examples": [
                   {
                     "type": "vn",
@@ -2365,7 +2365,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Green space reduces the urban heat island effect and improves air quality directly",
-                "flow": "vegetation shades surfaces and cools the air through evapotranspiration → tree canopies filter particulates and nitrogen oxides → green corridors channel cooler air into urban interiors → multiple environmental improvements delivered through a single integrated infrastructure type",
+                "flow": "vegetation shades surfaces and cools the air through natural water release → tree canopies filter particulates and nitrogen oxides → green corridors channel cooler air into urban interiors → multiple environmental improvements delivered through a single integrated infrastructure type",
                 "examples": [
                   {
                     "type": "vn",
@@ -2425,8 +2425,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Urban green spaces disproportionately benefit wealthier residents — the 'green gentrification' problem",
-                "flow": "new parks raise surrounding property values → wealthier residents are attracted to improved areas → existing lower-income residents are displaced by rising rents → environmental benefits accrue to the wealthy → the equity case for green space investment is more complicated than it first appears",
+                "title": "Green improvements can create displacement risks without housing protections",
+                "flow": "new parks make neighbourhoods more attractive → property values and rents may rise → lower-income tenants face greater displacement pressure → affordable-housing and tenant protections can preserve access to the environmental benefits",
                 "examples": [
                   {
                     "type": "vn",
@@ -2461,7 +2461,7 @@ window.TOPIC_DATA = {
             "label": "Sustainable urban development is genuinely essential",
             "ideas": [
               {
-                "title": "Climate change makes sustainable design an existential necessity for vulnerable cities",
+                "title": "Climate change makes sustainable design essential for vulnerable cities",
                 "flow": "sea level rise and extreme heat directly threaten coastal and tropical cities → infrastructure designed without climate resilience will require expensive retrofit or abandonment → sustainable design standards now prevent the far larger adaptation costs that climate-unprepared cities will face",
                 "examples": [
                   {
@@ -2475,8 +2475,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sustainable cities have lower long-run operating costs that justify higher upfront investment",
-                "flow": "energy-efficient buildings reduce ongoing utility costs → water recycling reduces supply costs → good public transit reduces road maintenance costs → sustainable design pays for itself over time through lower operating expenditure that compounds over decades",
+                "title": "Some sustainable-design investments justify higher upfront costs through lifecycle savings",
+                "flow": "efficient buildings and water systems reduce recurring utility costs → public transport can reduce some road and parking expenditure → savings accumulate over many years → lifecycle costing identifies projects whose long-term savings offset a meaningful share of their initial premium",
                 "examples": [
                   {
                     "type": "vn",
@@ -2489,8 +2489,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Green urban development creates new economic sectors and employment opportunities",
-                "flow": "sustainable construction, renewable energy installation, and green infrastructure maintenance require skilled local workforces → clean technology industries cluster in cities with sustainability ambitions → new employment in green sectors compensates for losses in carbon-intensive industries → sustainability and economic development become aligned",
+                "title": "Green urban investment creates employment and can support a transition from carbon-intensive sectors",
+                "flow": "retrofits, renewable energy, and green infrastructure create new local demand for labour → training programmes help workers acquire relevant skills → some displaced workers move into growing sectors → pairing climate investment with workforce policy reduces transition costs",
                 "examples": [
                   {
                     "type": "vn",
@@ -2536,7 +2536,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sustainability becomes marketing language that masks business-as-usual development",
+                "title": "Sustainability becomes marketing language that masks conventional development",
                 "flow": "green and sustainable become branding terms attached to conventional development with marginal improvements → public satisfaction with rhetoric reduces pressure for genuine change → the appearance of sustainability substitutes for transformative action → greenwashing is profitable and pervasive",
                 "examples": [
                   {
@@ -2572,8 +2572,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Cities are highly vulnerable to the climate disruptions their own emissions are causing",
-                "flow": "urban CO2 emissions contribute to global warming → warming intensifies storms, flooding, and heat extremes → cities are the densest concentration of people, infrastructure, and economic value → urban vulnerability amplifies the human and economic cost of every climate event → cities face the consequences of their own emissions most directly",
+                "title": "Cities both contribute to global emissions and concentrate climate risk",
+                "flow": "urban economies contribute substantially to global greenhouse-gas emissions → global warming intensifies heat, flooding, and extreme weather → cities concentrate people, infrastructure, and economic value → mitigation and adaptation are both important urban priorities",
                 "examples": [
                   {
                     "type": "vn",
@@ -2633,8 +2633,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "High-density urban living is the most resource-efficient human settlement pattern available",
-                "flow": "concentrated populations share infrastructure at minimal per capita cost → public transit is only viable at urban density → shared building walls minimise energy use → efficient food and goods distribution requires urban scale → the alternatives — suburbs and dispersed rural living — are demonstrably more resource-intensive",
+                "title": "Higher-density development can reduce per-capita land and infrastructure use",
+                "flow": "residents share utilities and building structures → trip distances can be shorter and public transport becomes more viable → less land is consumed per resident → when well planned, dense development can be more resource-efficient than urban sprawl",
                 "examples": [
                   {
                     "type": "vn",
@@ -2760,8 +2760,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Market-led city growth can be self-correcting when supply responses are allowed to function",
-                "flow": "high prices in desirable cities signal the need for more housing investment → supply responds to price signals over time → prices stabilise as supply catches up with demand → agglomeration benefits are preserved without heavy-handed restriction → enabling growth often outperforms managing it",
+                "title": "Allowing housing supply to respond to demand can reduce price pressure",
+                "flow": "high demand raises housing prices → if land, approvals, and construction capacity allow a supply response, developers add units → the shortage narrows → price growth moderates → targeted support is still needed for households whose incomes remain below market rents",
                 "examples": [
                   {
                     "type": "vn",
@@ -2810,8 +2810,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Digital infrastructure in rural areas enables economic development without requiring physical migration",
-                "flow": "high-speed internet in rural areas enables remote work, e-commerce, and digital financial services → rural residents can access urban-level wages without migrating → agricultural businesses reach urban markets directly → rural incomes rise without the social and environmental costs of urbanisation",
+                "title": "Digital connectivity can expand rural access to remote work and markets",
+                "flow": "reliable broadband enables remote jobs, e-commerce, and digital services → some residents earn income without relocating → rural businesses reach customers beyond local markets → local economic opportunity grows and migration pressure may ease at the margin",
                 "examples": [
                   {
                     "type": "vn",
@@ -2829,8 +2829,8 @@ window.TOPIC_DATA = {
             "label": "Rural investment cannot and should not try to stop urbanisation",
             "ideas": [
               {
-                "title": "Economic concentration in cities is efficient and government investment should follow this logic",
-                "flow": "agglomeration economies make large cities genuinely more productive per worker → dispersing investment across rural areas produces lower economic returns per dollar → governments have limited budgets → investing where returns are highest produces the fastest overall development progress",
+                "title": "Concentrating some investment in productive urban clusters can generate scale benefits",
+                "flow": "firms and workers cluster in large labour markets → shared infrastructure and business networks become more valuable → targeted investment can remove bottlenecks in already productive areas → high-return urban projects can support national growth while basic rural services remain necessary",
                 "examples": [
                   {
                     "type": "vn",
@@ -2843,8 +2843,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rural investment delays but cannot stop urbanisation driven by structural wage premiums",
-                "flow": "even well-invested rural areas cannot match urban wage levels in growing economies → aspirational migration continues regardless of rural improvements → rural investment improves conditions but does not reverse the economic logic of urbanisation → resources invested in retention may deliver lower returns than urban investment",
+                "title": "Rural investment may reduce migration pressure even when cities retain wage advantages",
+                "flow": "better rural jobs, services, and connectivity narrow the opportunity gap with cities → some households no longer need to migrate for basic advancement → urbanisation can continue while its pace slows → rural investment can therefore improve welfare without needing to reverse the entire urbanisation trend",
                 "examples": [
                   {
                     "type": "vn",
@@ -2893,7 +2893,7 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Distributed economic geography makes the national economy more resilient to localised shocks",
+                "title": "Distributing economic activity across regions makes the national economy more resilient to localised shocks",
                 "flow": "excessive concentration in one or two cities creates systemic risk → a flood, earthquake, or epidemic in a mega-city can paralyse national economic activity → distributed industrial and service capacity absorbs shocks better → decentralisation is a national economic resilience strategy, not only a spatial equity policy",
                 "examples": [
                   {
@@ -2954,8 +2954,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "The benefits of decentralisation tend to be captured by the mobile and educated rather than the poor",
-                "flow": "relocated offices and institutions attract professional and managerial workers to secondary cities → these workers raise land values and prices → low-income workers who could benefit from relocated employment cannot afford to move → the distributional case for decentralisation is weaker than it appears",
+                "title": "The benefits of decentralisation tend to be captured by mobile and educated groups rather than the poor",
+                "flow": "relocated offices and institutions attract professional and managerial workers to secondary cities → these workers raise land values and prices → low-income workers who could benefit from relocated employment cannot afford to move → the equity case for decentralisation is weaker than it appears",
                 "examples": [
                   {
                     "type": "vn",
@@ -3004,8 +3004,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Intensifying existing cities is substantially more environmentally responsible than building new ones",
-                "flow": "new cities on greenfield land destroy natural ecosystems and agricultural areas → new infrastructure has high embodied carbon → existing city improvement reuses established infrastructure → the environmental cost of greenfield new city construction is entirely avoidable when existing stock can be improved instead",
+                "title": "Upgrading and densifying existing urban areas can avoid some land and carbon costs of greenfield expansion",
+                "flow": "existing buildings and infrastructure are reused → less new agricultural or natural land is consumed → embodied carbon from entirely new networks is reduced → where capacity exists, retrofit and densification can be environmentally preferable to greenfield development",
                 "examples": [
                   {
                     "type": "vn",
@@ -3051,8 +3051,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Strategically located new cities can accelerate development in underserved regions",
-                "flow": "new cities placed in economically lagging regions attract investment and create employment → regional development gap narrows → natural resources and agricultural land near the new city are developed productively → balanced national development is achieved without waiting generations for organic growth",
+                "title": "Strategically located new cities can create new employment centres in underserved regions",
+                "flow": "public infrastructure and anchor institutions create an initial base of demand → firms may locate near new markets and services → residents gain access to jobs and public facilities → regional concentration can lessen if the city attracts sustained private activity",
                 "examples": [
                   {
                     "type": "vn",
@@ -3154,7 +3154,7 @@ window.TOPIC_DATA = {
             "ideas": [
               {
                 "title": "Cities provide economic opportunity, career development, and wages the countryside cannot replicate",
-                "flow": "formal employment across diverse industries concentrates in cities → wage premiums are persistent and large → career advancement requires urban professional networks → educational and healthcare quality is decisive better → the economic case for city living is the strongest single argument",
+                "flow": "formal employment across diverse industries concentrates in cities → wage premiums are persistent and large → career advancement requires urban professional networks → educational and healthcare quality is decisively better → the economic case for city living is the strongest single argument",
                 "examples": [
                   {
                     "type": "vn",
@@ -3300,8 +3300,8 @@ window.TOPIC_DATA = {
             "label": "Cities' advantages decisively outweigh their costs for most residents",
             "ideas": [
               {
-                "title": "Cities provide economic opportunities that simply do not exist in smaller or rural places",
-                "flow": "formal employment across diverse industries → higher wages and career progression → business networks and entrepreneurial ecosystems → economic opportunity is the primary foundation of wellbeing → cities provide what everything else requires",
+                "title": "Cities often offer wider labour markets that can improve economic security",
+                "flow": "diverse employers increase opportunities for job matching and career mobility → workers can move between sectors without relocating → earnings and employment stability may improve → stronger economic security can support housing, education, and other aspects of wellbeing",
                 "examples": [
                   {
                     "type": "vn",
@@ -3361,8 +3361,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Social isolation and loneliness are paradoxical but pervasive in dense urban environments",
-                "flow": "urban anonymity severs the community bonds that sustained wellbeing in smaller settings → competitive individualism replaces mutual support → neighbours remain strangers for years → loneliness and mental health problems intensify despite physical proximity to millions of others",
+                "title": "Urban anonymity can increase loneliness when residents lack stable social networks",
+                "flow": "high mobility and limited neighbourhood contact reduce automatic local support → people without strong family or friendship networks have fewer informal connections → loneliness risk rises for some residents → community organisations and shared spaces can reduce this vulnerability",
                 "examples": [
                   {
                     "type": "vn",
@@ -3411,8 +3411,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rural population supports cultural preservation that urban migration destroys",
-                "flow": "rural depopulation hollows out centuries-old communities → traditional practices, dialects, and ecological knowledge disappear with each generation that leaves → active communities are required to transmit living culture → government incentives to remain preserve irreplaceable cultural capital",
+                "title": "Keeping rural communities viable helps preserve traditions that depend on local practice",
+                "flow": "some traditions rely on active local communities and regular participation → depopulation reduces the number of practitioners and teachers → intergenerational transmission becomes harder → economic support for rural communities can help living cultural practices continue",
                 "examples": [
                   {
                     "type": "vn",
@@ -3425,8 +3425,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Working rural populations sustain food security and critical environmental management",
-                "flow": "active rural communities maintain agricultural productivity → food systems remain locally grounded and resilient → forests, watersheds, and wetlands are managed by people who depend on them → urban food security and environmental services require viable rural populations to function",
+                "title": "Viable rural economies support food production and stewardship where active management is needed",
+                "flow": "farmers, foresters, and water managers maintain productive land and local infrastructure → local knowledge supports soil, irrigation, and landscape management → a stable rural workforce helps sustain these activities → urban consumers benefit from reliable food and environmental services",
                 "examples": [
                   {
                     "type": "vn",
@@ -3444,8 +3444,8 @@ window.TOPIC_DATA = {
             "label": "Urbanisation is the path to prosperity and governments should enable it, not reverse it",
             "ideas": [
               {
-                "title": "Urbanisation is historically the most powerful mechanism for lifting populations out of poverty",
-                "flow": "cities provide economic opportunity and services that lift families from poverty → restricting migration traps people in lower-income environments → historical evidence consistently shows urbanisation drives national development → governments should improve cities rather than depopulate them",
+                "title": "Urbanisation can expand access to jobs and services that support poverty reduction",
+                "flow": "cities offer larger labour markets and denser public services → migrants may gain access to higher-paying work, education, and healthcare → household incomes and opportunities can improve → policy should preserve voluntary mobility while improving conditions in both cities and rural areas",
                 "examples": [
                   {
                     "type": "vn",
@@ -3458,8 +3458,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Freedom to choose where one lives is a fundamental right that governments should not override",
-                "flow": "restricting or financially manipulating migration interferes with individual life choices → people are better judges of their own wellbeing than governments → migration decisions reflect rational assessments of opportunity and quality of life → government attempts to reverse these decisions are paternalistic and typically counterproductive",
+                "title": "Rural policy should expand choices rather than coerce settlement decisions",
+                "flow": "people move according to opportunity, family, and personal preference → punitive migration controls restrict autonomy and can create informal residence → improving rural services creates a genuine voluntary alternative → governments can influence settlement patterns without forcing individuals to remain",
                 "examples": [
                   {
                     "type": "vn",
@@ -3473,7 +3473,7 @@ window.TOPIC_DATA = {
               },
               {
                 "title": "The goal should be improving rural quality of life, not keeping people in rural areas against their preferences",
-                "flow": "rural investment should make rural life genuinely better → improved services and connectivity allow individuals to choose freely → if rural areas improve, people will stay or return voluntarily → forced retention is neither necessary nor desirable when the quality-of-life gap is honestly closed",
+                "flow": "rural investment should make rural life genuinely better → improved services and connectivity allow individuals to choose freely → if rural areas improve, people will stay or return voluntarily → forced retention is neither necessary nor desirable when the quality-of-life gap is genuinely closed",
                 "examples": [
                   {
                     "type": "vn",
@@ -3494,8 +3494,8 @@ window.TOPIC_DATA = {
             "label": "The widening urban-rural gap creates serious and compounding problems",
             "ideas": [
               {
-                "title": "Growing urban-rural inequality creates social tension and political instability",
-                "flow": "urban-rural income gaps widen visibly → rural residents experience themselves as structurally left behind → resentment toward urban elites and remote governments grows → political support for populist and anti-establishment movements rises → social cohesion and democratic stability are threatened",
+                "title": "Persistent urban-rural gaps can weaken trust in national institutions",
+                "flow": "rural residents see jobs, services, and public investment lag behind urban areas → perceptions of neglect and unfairness grow → trust in central institutions declines → political tension can increase unless development is more balanced",
                 "examples": [
                   {
                     "type": "vn",
@@ -3508,8 +3508,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Rural depopulation destroys communities and the ecological management functions they perform",
-                "flow": "young workers leave → communities age rapidly → schools and businesses close → agricultural land is abandoned → the ecological functions of rural landscapes — water management, carbon storage, biodiversity — are lost when communities no longer actively manage the land they inhabit",
+                "title": "Rapid rural depopulation can weaken management of working landscapes and local services",
+                "flow": "fewer working-age residents remain → farms, irrigation systems, fire prevention, and local services become harder to maintain → unmanaged land can create context-specific environmental and safety risks → targeted stewardship helps preserve functions that require active management",
                 "examples": [
                   {
                     "type": "vn",
@@ -3555,8 +3555,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Developing regional secondary cities creates intermediate growth poles that buffer the gap",
-                "flow": "investing in regional cities creates economic attractiveness between mega-cities and villages → rural residents migrate to nearby regional centres rather than distant mega-cities → regional cities develop productive economies → the binary urban-rural divide is replaced by a functional multi-tier urban hierarchy",
+                "title": "Developing regional secondary cities creates intermediate growth hubs that buffer the gap",
+                "flow": "investing in regional cities creates economic attractiveness between mega-cities and villages → rural residents migrate to nearby regional centres rather than distant mega-cities → regional cities develop productive economies → the binary urban-rural divide is replaced by a functional network of cities and towns",
                 "examples": [
                   {
                     "type": "vn",
@@ -3621,8 +3621,8 @@ window.TOPIC_DATA = {
             "label": "Urban environments generate chronic and measurable stress",
             "ideas": [
               {
-                "title": "Urban sensory overload keeps stress hormones chronically elevated",
-                "flow": "constant noise, visual density, and crowding → stress hormones remain persistently elevated → sleep quality is disrupted → physical and mental health deteriorate → urban-specific conditions — anxiety, hypertension, cardiovascular disease — are significantly more prevalent than in rural populations",
+                "title": "Noise, crowding, and poor sleep can increase stress in dense urban environments",
+                "flow": "persistent noise and crowding make relaxation more difficult → sleep can be disrupted → repeated stress and poor recovery reduce wellbeing → reducing noise, improving housing, and protecting quiet spaces can lower this burden",
                 "examples": [
                   {
                     "type": "vn",
@@ -3668,8 +3668,8 @@ window.TOPIC_DATA = {
             "label": "Urban stress is manageable, and rural life has its own severe pressures",
             "ideas": [
               {
-                "title": "Cities offer superior stress-management resources that rural areas cannot provide",
-                "flow": "gyms, parks, therapists, social venues, and cultural activities concentrate in cities → residents with access to these resources manage stress effectively → the city is demanding but simultaneously provides better tools for recovery than rural isolation → stress is manageable when resources are accessible",
+                "title": "Cities can offer a wider range of formal resources for managing stress",
+                "flow": "larger populations support more mental-health services, parks, recreation, and social venues → residents with affordable access have more coping options → these resources can support recovery from urban stress → availability helps, but access and use determine the actual benefit",
                 "examples": [
                   {
                     "type": "vn",
@@ -3732,8 +3732,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Sedentary urban lifestyles are driving a non-communicable disease epidemic",
-                "flow": "office-based work replaces physical labour → vehicle commuting replaces walking → physical activity falls below health thresholds → obesity, diabetes, and cardiovascular disease rates rise → the activity patterns of urban life generate a disease burden that more physically engaged rural lifestyles do not impose",
+                "title": "Car-dependent and sedentary urban design can increase chronic-disease risk",
+                "flow": "desk-based work and vehicle commuting reduce daily movement → limited walking and cycling options make inactivity more likely → low physical activity contributes to obesity, diabetes, and cardiovascular disease → active urban design can reduce this risk",
                 "examples": [
                   {
                     "type": "vn",
@@ -3746,8 +3746,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Mental health disorders are substantially more prevalent in urban populations",
-                "flow": "social isolation despite density → competitive and comparative social environments → financial insecurity → loss of community belonging → depression, anxiety, and psychosis are measurably higher in urban than rural populations across most cultural and geographic contexts",
+                "title": "Some urban conditions can increase mental-health risk",
+                "flow": "housing insecurity, noise, social isolation, and competitive pressure can create chronic stress → vulnerable residents have fewer opportunities for recovery → the risk of some mental-health problems rises → supportive housing, community networks, and accessible care can reduce these risks",
                 "examples": [
                   {
                     "type": "vn",
@@ -3843,8 +3843,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Environmental quality — air, noise, and green space — is deteriorating in most growing cities",
-                "flow": "continued urban expansion → more impervious surfaces replace green areas → vehicle and construction emissions accumulate → noise levels increase with density → environmental quality measured across all dimensions is declining in most large and rapidly growing cities",
+                "title": "Rapid urban growth can degrade environmental quality when infrastructure and regulation lag",
+                "flow": "expansion can replace green land with hard surfaces → traffic and construction add pollution and noise → environmental services fail to keep pace with population growth → air quality, heat, and access to green space can worsen without strong planning",
                 "examples": [
                   {
                     "type": "vn",
@@ -3876,8 +3876,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Safety and governance have improved in most major cities over recent decades",
-                "flow": "violent crime rates have fallen in most major cities globally → urban governance has professionalised → public safety technology and policing have improved → rule of law and institutional quality are better than a generation ago → cities are objectively safer for the majority of their residents than they were",
+                "title": "Some cities have improved quality of life through better public safety and digital governance",
+                "flow": "better emergency response and administrative systems reduce some everyday risks and delays → digital services make government interactions easier → targeted public-safety reforms improve security in some neighbourhoods → quality of urban life can improve even while housing and congestion problems persist",
                 "examples": [
                   {
                     "type": "vn",
@@ -3912,8 +3912,8 @@ window.TOPIC_DATA = {
             "label": "Urban lifestyles are systematically weakening the quality of social bonds",
             "ideas": [
               {
-                "title": "Urban anonymity dissolves the community bonds that naturally sustained social connection in smaller settings",
-                "flow": "neighbours remain strangers despite years of proximity → communal life is replaced by parallel private existences → mutual aid networks do not form organically → social isolation becomes the urban default → people live among millions but maintain meaningful connection with almost no one beyond immediate colleagues and family",
+                "title": "Urban anonymity can weaken spontaneous neighbourhood support unless community institutions compensate",
+                "flow": "frequent turnover and limited repeated contact reduce familiarity between neighbours → informal mutual support develops less automatically → some residents feel isolated despite living near many people → community spaces, local groups, and repeated activities can rebuild stronger ties",
                 "examples": [
                   {
                     "type": "vn",
@@ -3959,8 +3959,8 @@ window.TOPIC_DATA = {
             "label": "Urban lifestyles enable richer and more diverse social connections",
             "ideas": [
               {
-                "title": "Cities provide access to specialised communities and interest groups that smaller places cannot offer",
-                "flow": "large populations support many specialised clubs, communities, and interest groups → individuals find their authentic social niche among people who genuinely share their values → minority identity groups find community impossible to access in smaller homogeneous places → social matching quality improves even if community scale reduces",
+                "title": "Large cities can support specialised communities that require a large population base",
+                "flow": "larger populations contain more people with niche interests and minority identities → specialised groups are easier to sustain → individuals have a wider choice of communities that fit their values and interests → social belonging can improve for people poorly served by their immediate neighbourhood",
                 "examples": [
                   {
                     "type": "vn",
@@ -3987,8 +3987,8 @@ window.TOPIC_DATA = {
                 ]
               },
               {
-                "title": "Urban diversity produces broader, more cosmopolitan, and more enriching social relationships",
-                "flow": "exposure to people from different backgrounds broadens social horizons → tolerance and empathy deepen through genuine cross-cultural contact → relationships span ethnic, class, and cultural boundaries that rural homogeneity maintains → urban social relationships may be fewer in number but are more intellectually and emotionally enriching",
+                "title": "Urban diversity can broaden social networks across cultural boundaries",
+                "flow": "residents encounter people from different backgrounds more frequently → repeated interaction creates opportunities to understand unfamiliar experiences → friendships and professional networks can cross ethnic and class lines → social horizons broaden beyond a single local culture",
                 "examples": [
                   {
                     "type": "vn",

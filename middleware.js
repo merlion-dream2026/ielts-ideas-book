@@ -69,7 +69,7 @@ function gateHtml(wrong) {
   .card {
     background: #ffffff;
     width: 100%;
-    max-width: 380px;
+    max-width: 440px;
     border-radius: 20px;
     padding: 36px 32px 32px;
     box-shadow: 0 24px 64px rgba(0,0,0,0.45);
@@ -81,8 +81,8 @@ function gateHtml(wrong) {
     to   { opacity: 1; transform: translateY(0); }
   }
   .logo {
-    width: 190px;
-    max-width: 80%;
+    width: 380px;
+    max-width: 100%;
     margin: 0 auto 6px;
     display: block;
   }

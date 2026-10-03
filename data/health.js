@@ -1198,7 +1198,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Implementing lifestyle-based health charges in Vietnam would require monitoring mechanisms — tracking diet, exercise, and habits — that create surveillance infrastructure with implications for privacy and civil liberty far beyond their health policy justification."
+                    "text": "Vietnamese health and fitness apps already collect sensitive data on exercise, sleep, and other habits; any attempt to charge people more for 'unhealthy' lifestyles would require much broader access to such private records, creating a serious privacy trade-off."
                   },
                   {
                     "type": "support",
@@ -1909,7 +1909,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's COVID-19 experience showed the value of international health cooperation: the country used WHO guidance and global scientific information while also sharing disease data with international partners."
+                    "text": "Vietnam received millions of COVID-19 vaccine doses through the COVAX mechanism, illustrating how cross-border health cooperation can protect individual countries while also reducing the wider risk posed by infectious disease."
                   },
                   {
                     "type": "support",

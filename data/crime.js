@@ -1637,7 +1637,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's expanding digital surveillance infrastructure — including internet monitoring, social media tracking, and facial recognition — raises civil liberties concerns about whether crime prevention technology can also serve as political surveillance."
+                    "text": "Vietnam's rollout of facial-recognition check-in at major airports and AI camera systems in large cities shows how everyday infrastructure can collect identifiable movement data, raising privacy questions about storage, access, and secondary use even when the original purpose is convenience or traffic management."
                   },
                   {
                     "type": "support",
@@ -1875,7 +1875,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The expansion of surveillance infrastructure in Vietnam raises civil liberties concerns beyond crime prevention — the same systems used to monitor criminal activity can equally monitor political activity, with few legal safeguards distinguishing between the two purposes."
+                    "text": "Hanoi's expanding network of AI traffic cameras can identify vehicles and monitor busy junctions continuously, illustrating how blanket monitoring of ordinary public movement may change behaviour even when most people being recorded are not suspected of wrongdoing."
                   },
                   {
                     "type": "support",
@@ -1911,7 +1911,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's security services have used targeted digital surveillance to dismantle drug trafficking networks operating across provincial borders — surveillance enabling preventive arrests rather than reactive responses to completed crimes."
+                    "text": "Vietnamese banks now use fraud-risk systems to flag suspicious beneficiary accounts and warn or block risky transfers before money is sent, illustrating how targeted monitoring can disrupt criminal activity before additional victims lose money."
                   },
                   {
                     "type": "support",
@@ -1925,7 +1925,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's legal framework for criminal surveillance requires prosecutorial authorisation for intrusive monitoring — reflecting the principle that targeted, legally supervised surveillance is legitimate in ways that mass warrantless surveillance is not."
+                    "text": "Vietnam's current personal-data protection framework requires organisations to define processing purposes, protect sensitive information, and follow safeguards when handling data such as biometrics, illustrating how monitoring can be limited by clear rules rather than applied indiscriminately."
                   },
                   {
                     "type": "support",
@@ -1957,10 +1957,6 @@ window.TOPIC_DATA = {
                 "flow": "awareness of pervasive monitoring → citizens self-censor political views and associations → civil society and protest are weakened → the mechanisms of democratic accountability are undermined from within",
                 "examples": [
                   {
-                    "type": "vn",
-                    "text": "Research on Vietnamese journalists has found that feeling watched online can increase fear of punishment and self-censorship, showing that surveillance may affect lawful expression as well as criminal behaviour."
-                  },
-                  {
                     "type": "support",
                     "text": "+ Research after the 2013 Snowden disclosures found measurable changes in online behaviour and greater interest in privacy-protecting tools, showing that awareness of surveillance can influence ordinary users as well as suspected offenders."
                   }
@@ -1986,7 +1982,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's 2013 Constitution and 2015 Civil Code protect private life, personal and family secrets, and the confidentiality of communications, providing a legal basis for limiting unjustified surveillance."
+                    "text": "Vietnam's expanding use of facial recognition for airport check-in and biometric verification in digital services has made sensitive identity data part of everyday life; even without proven misuse, this shows why privacy matters as a basic interest in autonomy and control over one's identity."
                   },
                   {
                     "type": "support",
@@ -3245,7 +3241,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam has international human-rights obligations concerning prison conditions, while the UN Nelson Mandela Rules set non-binding minimum standards that stress dignity and preparing prisoners to return to society."
+                    "text": "Vietnamese prisons provide education and vocational training, while post-release programmes offer job and reintegration support, reflecting the principle that imprisonment should prepare offenders to return to society rather than merely impose suffering."
                   },
                   {
                     "type": "support",
@@ -3698,7 +3694,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Cybersecurity Law and Decree 13/2023 place cybersecurity and personal-data duties on organisations, strengthening the country's formal rules for digital security and data handling."
+                    "text": "Vietnam's personal-data protection framework requires organisations handling personal information to conduct impact assessments and report certain breaches within strict deadlines, turning cybersecurity and data protection from optional spending into a compliance requirement."
                   },
                   {
                     "type": "support",
@@ -4535,7 +4531,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Constitution affirms that human rights are inherent — a principle extended to prisoners through the Law on Execution of Criminal Judgments, which establishes minimum rights to health care, education, and family contact even for those serving sentences."
+                    "text": "Vietnam's criminal-judgment rules preserve prisoners' access to medical care, learning, vocational training, and family contact, illustrating the principle that people retain basic rights and human dignity even after being convicted of serious offences."
                   },
                   {
                     "type": "support",
@@ -5048,7 +5044,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam has expanded legal rules around cybersecurity, data, and environmental protection as technology and economic activity have changed, bringing new forms of conduct under regulatory or criminal scrutiny."
+                    "text": "Vietnam's rapid growth of online banking, e-commerce, and digital platforms has produced newer offences such as phishing, account takeovers, and online investment fraud, showing how technological development continually creates forms of crime that were far less significant in the past."
                   },
                   {
                     "type": "support",

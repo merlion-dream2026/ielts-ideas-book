@@ -1241,7 +1241,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's modernising legal framework has expanded rights for women, ethnic minorities, and workers — bringing Vietnamese society closer to internationally recognised human rights standards than traditional law provided."
+                    "text": "High female participation in Vietnamese education and the continued expansion of programmes promoting girls' access to STEAM illustrate a broader shift from restrictive traditional gender roles toward modern values of equality, dignity, and individual opportunity."
                   },
                   {
                     "type": "support",

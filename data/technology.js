@@ -1100,7 +1100,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese environmental activists, labour rights advocates, and community organisers use Facebook to mobilise public attention to issues that state-controlled media would not cover → social media has provided a platform for civil society voices that traditional media systematically excluded."
+                    "text": "Vietnamese people with disabilities, rare-disease families, and other small communities use Facebook groups and TikTok to share experiences, organise support, and reach wider audiences that traditional mass media rarely serves, giving previously marginal voices a direct public platform."
                   },
                   {
                     "type": "support",
@@ -1249,7 +1249,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese citizen journalists, independent commentators, and community organisers now reach audiences of millions through Facebook and YouTube, covering topics that state-controlled media systematically omit — the plurality of the national conversation has expanded significantly."
+                    "text": "Vietnamese farmers, shop owners, teachers, and hobbyists can build large audiences through Facebook, YouTube, and TikTok without needing access to a newspaper or television station, dramatically widening who can participate in public conversation."
                   },
                   {
                     "type": "support",
@@ -1577,10 +1577,6 @@ window.TOPIC_DATA = {
                 "flow": "Governments with access to citizens' data can monitor dissent → political opponents, journalists, and activists identified and silenced → chilling effect on free expression → civil society weakened → once established, surveillance infrastructure is rarely dismantled.",
                 "examples": [
                   {
-                    "type": "vn",
-                    "text": "Vietnam's cybersecurity framework allows authorities to require certain data to be stored in Vietnam and provides legal mechanisms for requesting electronic data in investigations, creating both security benefits and civil-liberties concerns about online monitoring."
-                  },
-                  {
                     "type": "support",
                     "text": "+ China's Social Credit System aggregates financial, legal, and behavioural data to assign citizens scores that determine access to travel, education, and jobs — illustrating how mass data collection can become a tool of state coercion."
                   }
@@ -1646,10 +1642,6 @@ window.TOPIC_DATA = {
                 "flow": "People know communications are monitored → self-censor speech and associations → journalists and dissidents lose freedom to operate → democracy weakened → freedom lost without a single prosecution.",
                 "examples": [
                   {
-                    "type": "vn",
-                    "text": "Vietnamese bloggers and journalists report self-censoring political commentary since the Cybersecurity Law introduced mandatory data retention — the law's surveillance potential alone changes what people are willing to say online."
-                  },
-                  {
                     "type": "support",
                     "text": "Research after the Snowden disclosures found evidence that awareness of surveillance can change some people's online behaviour, including reduced interest in certain sensitive topics."
                   }
@@ -1659,10 +1651,6 @@ window.TOPIC_DATA = {
                 "title": "Surveillance infrastructure is routinely abused by those in power",
                 "flow": "Security tools designed to be powerful → political leaders repurpose them for partisan ends → journalists and critics targeted → abuse normalised → power consolidates around those who control the data.",
                 "examples": [
-                  {
-                    "type": "vn",
-                    "text": "Human-rights organisations have reported cases in Vietnam in which digital communications or online activity were used as evidence in prosecutions of activists and journalists, raising debate about the balance between security law and freedom of expression."
-                  },
                   {
                     "type": "support",
                     "text": "+ The Pegasus spyware scandal revealed that governments in Hungary, India, Mexico, and elsewhere used commercial surveillance tools to target journalists, opposition leaders, and human rights lawyers — systematic abuse by those with access."

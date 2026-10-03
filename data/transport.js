@@ -1846,7 +1846,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's expanding CCTV and traffic monitoring infrastructure raises legitimate questions about the boundary between transport management and broader state surveillance — a tension that democratic societies have struggled to resolve and that requires robust legal frameworks before technology deployment rather than after."
+                    "text": "Hanoi's AI traffic-camera network records vehicles across major roads and junctions to detect violations and manage congestion; because such systems create detailed movement records, they also raise legitimate questions about data retention, access, and secondary use."
                   },
                   {
                     "type": "support",

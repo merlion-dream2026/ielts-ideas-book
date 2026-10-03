@@ -195,7 +195,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese social media users exposed the Formosa steel plant environmental disaster — a story mainstream state media could not fully report — spreading information that sustained public pressure for accountability."
+                    "text": "Vietnamese consumers use Facebook, TikTok, and online communities to publicise unsafe products, misleading advertising, and poor service, allowing ordinary users to pressure companies to respond without relying entirely on traditional media coverage."
                   },
                   {
                     "type": "support",
@@ -245,7 +245,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Cybersecurity Law requires platforms to remove certain prohibited content quickly, showing how regulation can compel action that voluntary cooperation may not achieve."
+                    "text": "Online scams in Vietnam include fake investment, shopping, and impersonation content on social media; their persistence despite platform rules shows why external consumer-protection and enforcement mechanisms may be needed when voluntary moderation is insufficient."
                   },
                   {
                     "type": "support",
@@ -273,7 +273,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Before and after Vietnam's Cybersecurity Law, cooperation between authorities and major platforms has varied, showing the practical limits of relying only on voluntary content removal."
+                    "text": "Meta reported removing millions of pieces of scam-related Facebook content in Vietnam in 2025, yet impersonation and investment fraud remained widespread, illustrating that platform rules alone do not eliminate harmful content when abuse is profitable and adaptive."
                   },
                   {
                     "type": "support",
@@ -290,10 +290,6 @@ window.TOPIC_DATA = {
                 "title": "Regulation easily becomes censorship of legitimate political dissent",
                 "flow": "governments define 'harmful content' broadly → political opposition, criticism, and minority viewpoints suppressed under vague rules → free speech erodes → authoritarianism enabled",
                 "examples": [
-                  {
-                    "type": "vn",
-                    "text": "Human-rights organisations have criticised Vietnam's Cybersecurity Law and related rules for enabling restrictions on peaceful online criticism as well as genuinely harmful content."
-                  },
                   {
                     "type": "contrast",
                     "text": "✗ Press-freedom organisations have raised concerns that broad platform-control powers can also be used to restrict legitimate journalism and political speech."
@@ -536,7 +532,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese citizens sometimes use social media to publicise environmental problems, alleged misconduct, and local grievances that may receive limited attention in traditional outlets."
+                    "text": "Vietnamese consumers can post evidence of unsafe products, misleading sales claims, or serious service failures directly on social media, bypassing brand advertising and sponsored coverage and forcing companies to respond to criticism they might otherwise control through public relations."
                   },
                   {
                     "type": "support",
@@ -1552,7 +1548,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese state media's selection of which stories to cover and which to omit reflects editorial — and political — judgements, regardless of claims to objectivity, making the neutrality claim dishonest rather than reassuring."
+                    "text": "Vietnamese business outlets can describe the same rise in apartment prices as evidence of strong market demand or as a housing-affordability problem, showing that story selection, framing, and choice of sources inevitably involve editorial judgement."
                   },
                   {
                     "type": "support",
@@ -1566,7 +1562,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "The few Vietnamese investigative journalists willing to take strong positions — despite significant personal risk — have exposed corruption and environmental violations that objective state media could not or would not pursue."
+                    "text": "Vietnamese investigative reporting on food safety, counterfeit goods, and corporate pollution often adopts a clear public-interest stance rather than treating every side as equally credible, showing why strong editorial judgement can sometimes reveal harms that formulaic 'balance' would blur."
                   },
                   {
                     "type": "support",
@@ -1630,7 +1626,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "International press-freedom organisations describe Vietnam's media environment as tightly controlled and report strong legal and political pressure on independent journalists and bloggers."
+                    "text": "Vietnamese consumer and lifestyle media rely substantially on commercial advertising, creating a risk that outlets soften criticism of important advertisers or sponsors; financial pressure alone can therefore produce self-censorship even without political interference."
                   },
                   {
                     "type": "support",
@@ -1746,7 +1742,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Cybersecurity Law fining individuals and platforms for spreading misinformation created real consequences that demonstrably slowed viral false health claims during COVID-19 — showing regulation can shift behaviour."
+                    "text": "Vietnam requires health-supplement advertisements to match approved product claims and clearly state that the product is not a medicine, giving advertisers and media outlets a legal incentive to avoid misleading health claims."
                   },
                   {
                     "type": "support",
@@ -2470,7 +2466,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's internet infrastructure is used for systematic surveillance of citizens' online activity — the same communication network enabling participation also enabling monitoring of political dissent and personal behaviour."
+                    "text": "Vietnamese e-commerce, ride-hailing, and social-media services can combine location, purchase, search, and interaction data to build detailed consumer profiles and personalise advertising, showing how the internet can concentrate informational power in large digital platforms."
                   },
                   {
                     "type": "support",
@@ -2832,7 +2828,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese state media's control over which issues reach public attention means entire categories — political corruption, ethnic minority rights, environmental damage — remain outside mainstream consciousness because they receive no coverage."
+                    "text": "After the 2023 Hanoi mini-apartment fire, intense media coverage pushed fire safety in dense urban housing to the centre of national public discussion, illustrating how coverage choices determine which risks receive sustained public attention."
                   },
                   {
                     "type": "support",
@@ -2860,7 +2856,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's traditional media operate under strong state and Party oversight, giving official institutions substantial influence over which perspectives receive broad mainstream coverage."
+                    "text": "In Vietnam, a small number of major digital platforms such as Facebook, YouTube, and TikTok mediate much of online content discovery, giving their recommendation systems disproportionate influence over which stories, products, and creators reach large audiences."
                   },
                   {
                     "type": "support",
@@ -2879,7 +2875,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese audiences can compare official media messages with personal experience and online information, so media influence should not be treated as automatic or total."
+                    "text": "Vietnamese consumers comparing a new smartphone rarely rely on one advertisement; they cross-check YouTube reviewers, TikTok clips, Facebook groups, e-commerce ratings, and friends' experiences, showing that audiences actively interpret and resist media messages."
                   },
                   {
                     "type": "support",
@@ -2893,7 +2889,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Despite state media's official dominance, Vietnamese citizens access BBC Vietnamese, RFA, and global social platforms — the internet fragmenting media influence in ways that make total opinion control structurally impossible."
+                    "text": "A Vietnamese smartphone buyer can consult newspapers, YouTube reviewers, TikTok creators, Facebook groups, retailer pages, and e-commerce reviews before purchasing, illustrating how digital media fragments influence across many competing sources."
                   },
                   {
                     "type": "support",
@@ -3151,7 +3147,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese public compliance with COVID-19 measures was demonstrably shaped by state media messaging — consistent, clear coverage producing social compliance rates among the highest in Asia, showing media's decisive power in crisis situations."
+                    "text": "During COVID-19, Vietnamese health campaigns used television, social media, messaging apps, and community outreach to reinforce mask, hygiene, and vaccination guidance, showing how clear crisis communication can directly shape protective behaviour."
                   },
                   {
                     "type": "support",
@@ -3170,7 +3166,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese audiences who distrust official media may seek alternative sources that fit existing beliefs, illustrating how prior attitudes shape media effects."
+                    "text": "Vietnamese retail investors often gather in Facebook, Zalo, and YouTube communities that reflect their existing bullish or bearish views, illustrating how people may select information that confirms prior beliefs rather than genuinely changing their minds."
                   },
                   {
                     "type": "support",
@@ -3184,7 +3180,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese citizens access state media, international broadcasters, social influencers, and online communities — a fragmented information environment in which no single source exercises the dominant opinion-shaping power traditional broadcast media once held."
+                    "text": "News about a major product launch in Vietnam can spread simultaneously through newspapers, YouTube reviewers, TikTok creators, Facebook groups, and retailer channels, showing how social media has fragmented attention across countless competing voices."
                   },
                   {
                     "type": "contrast",
@@ -3220,7 +3216,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese state media are used to promote civic messages, anti-corruption campaigns, and national solidarity, illustrating how media can support officially defined social goals."
+                    "text": "Vietnamese media campaigns on road safety, drunk driving, blood donation, and scam awareness show how repeated mass communication can influence social norms, creating a responsibility to use that reach carefully rather than merely chase attention."
                   },
                   {
                     "type": "support",
@@ -3281,7 +3277,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese state media promote moral and civic messages within the country's official political framework, showing that definitions of 'moral values' can reflect particular institutions and ideologies."
+                    "text": "Vietnamese media debates over family duty, marriage, career choices, and gender roles show that 'moral values' are not neutral or universally agreed; presenting one lifestyle as the only respectable choice can marginalise people with different but lawful values."
                   },
                   {
                     "type": "support",
@@ -3432,7 +3428,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's Cybersecurity Law gives authorities tools to require removal of prohibited online content; whether this produces better overall outcomes than platform self-regulation is harder to establish."
+                    "text": "Vietnamese users have faced fake investment, job, shopping, and impersonation scams on social media, with real financial losses reported; the scale and persistence of these harms show why platforms may need enforceable duties rather than purely voluntary policies."
                   },
                   {
                     "type": "support",
@@ -3478,10 +3474,6 @@ window.TOPIC_DATA = {
                 "flow": "government controls which political information reaches the public → criticism and competing viewpoints can be restricted → citizens receive a narrower account of public affairs → democratic scrutiny weakens when the institution being scrutinised also controls the information environment",
                 "examples": [
                   {
-                    "type": "vn",
-                    "text": "Human-rights groups report that Vietnam's online-speech laws have been used against peaceful critics, journalists, and activists as well as against content the government classifies as harmful."
-                  },
-                  {
                     "type": "contrast",
                     "text": "✗ Every authoritarian government in history has justified information control on public safety or social stability grounds — the justifications are always genuine-sounding, and they always become instruments of political repression."
                   }
@@ -3505,10 +3497,6 @@ window.TOPIC_DATA = {
                 "title": "Independent oversight — not government control — is the appropriate accountability mechanism",
                 "flow": "platform accountability requires independence from the governments whose power platforms might challenge → judicial oversight and civil society pressure provide accountability without government self-interest → this is the democratic solution",
                 "examples": [
-                  {
-                    "type": "vn",
-                    "text": "Independent Vietnamese civil society organisations and international human rights bodies provide more credible oversight of platform behaviour than government enforcement — their independence from political interest making their function more genuinely protective."
-                  },
                   {
                     "type": "support",
                     "text": "+ The EU's use of independent regulatory bodies (rather than government ministers) to enforce the Digital Services Act represents a more democratic model — authority exercised without government ability to direct it against political opponents."
@@ -3654,7 +3642,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese regulations against distributing non-consensual intimate images and graphic violence protect real victims from ongoing harm — censorship in this context is victim protection, not political control."
+                    "text": "Vietnamese school-violence cases are sometimes filmed and circulated on social media long after the incident, extending victims' humiliation beyond the original assault; rapid removal of such exploitative footage can protect victims without restricting legitimate debate."
                   },
                   {
                     "type": "support",
@@ -3672,10 +3660,6 @@ window.TOPIC_DATA = {
                 "flow": "authorities gain an initial power to restrict narrowly defined content → political pressure may encourage broader interpretation of that power → critics and inconvenient reporting become increasingly vulnerable → constitutional limits, independent courts, and transparent review are needed to prevent expansion",
                 "examples": [
                   {
-                    "type": "vn",
-                    "text": "Rights groups argue that Vietnam's speech controls extend beyond direct security threats to peaceful political and religious expression, but it is too absolute to claim censorship powers always expand without limit."
-                  },
-                  {
                     "type": "support",
                     "text": "+ Milton's Areopagitica is a classic argument against prior licensing and in favour of open debate, though its philosophical claims should not be presented as empirical proof about all censorship systems."
                   }
@@ -3687,7 +3671,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Information suppressed by Vietnamese state media — COVID-19 developments, corruption cases, environmental disasters — reliably spreads through Zalo and VPN-accessed foreign media, often in more distorted forms than if reported accurately domestically."
+                    "text": "When Vietnamese brands try to remove or discourage highly critical customer reviews, screenshots and reposts can spread through Facebook groups and TikTok, making the suppressed complaint seem more credible and harder to correct than if it had been answered openly."
                   },
                   {
                     "type": "support",
@@ -3701,7 +3685,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnam's periodic social eruptions around suppressed issues — land rights, environmental pollution, labour conditions — suggest that stability maintained by censorship is fundamentally fragile, masking conflicts that surface with greater force when they break through."
+                    "text": "In Vietnamese factories, unresolved disputes over wages, benefits, or working conditions have repeatedly led to strikes and work stoppages; suppressing complaints may create temporary calm, but it does not remove the underlying conflict."
                   },
                   {
                     "type": "support",
@@ -3751,7 +3735,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Major platforms have at times failed to remove fraud, incitement, or health misinformation quickly, showing limits to voluntary moderation without proving that self-regulation always fails."
+                    "text": "False medical remedies, fake supplement claims, and financial scams continue to circulate on Vietnamese social media despite reporting tools and platform rules, illustrating how voluntary self-regulation can struggle when sensational or profitable content keeps reappearing."
                   },
                   {
                     "type": "support",
@@ -3770,7 +3754,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Human-rights organisations argue that Vietnam's definition of prohibited online content can include peaceful political or rights-related expression, raising concerns about overly broad definitions of harm."
+                    "text": "Vietnamese platforms must distinguish dangerous health misinformation from legitimate discussion of traditional remedies, medical treatments, or personal experiences; these context-dependent boundaries show why defining 'harmful content' is inherently subjective and can catch lawful material as well."
                   },
                   {
                     "type": "support",
@@ -3784,7 +3768,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese social media self-censorship in response to platform restrictions has reduced the diversity of perspectives visible online — the chilling effect silencing voices well beyond the categories of content regulations explicitly target."
+                    "text": "Vietnamese content creators discussing health, relationships, or other sensitive topics may avoid borderline but legitimate material when platform rules are strict or opaque, because the risk of removal or account penalties encourages self-censorship beyond clearly prohibited content."
                   },
                   {
                     "type": "contrast",
@@ -3996,7 +3980,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese audiences navigating online information must filter health misinformation, political propaganda, and celebrity gossip — the curation function that traditional media provided now absent in an environment that values engagement over accuracy."
+                    "text": "Vietnamese users navigating Facebook, TikTok, YouTube, and Zalo must distinguish reliable health advice from miracle-cure claims, financial scams, and celebrity rumours, showing how the online environment removes much of the editorial filtering traditional media once provided."
                   },
                   {
                     "type": "support",
@@ -4204,7 +4188,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese audiences must evaluate thousands of online sources ranging from state media to anonymous accounts — the cognitive burden of reliability assessment replacing the simpler trust heuristics that established traditional media brands provided."
+                    "text": "Vietnamese audiences now encounter professional news outlets alongside anonymous Facebook pages, TikTok creators, Zalo forwards, and unverified livestreams, greatly increasing the amount of information they must judge for reliability themselves."
                   },
                   {
                     "type": "support",
@@ -4643,7 +4627,7 @@ window.TOPIC_DATA = {
                 "examples": [
                   {
                     "type": "vn",
-                    "text": "Vietnamese citizens exposed to conflicting information from state media, international sources, and social media on healthcare and environmental policy report greater confusion and passivity — not greater informed participation in public life."
+                    "text": "Vietnamese retail investors can face a flood of contradictory stock tips across Facebook, Zalo, YouTube, broker apps, and online forums; too much conflicting advice can make confident decision-making harder rather than easier."
                   },
                   {
                     "type": "support",
